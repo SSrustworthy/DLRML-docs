@@ -1,0 +1,21 @@
+site_name: Disneyland Resort Music Loops
+copyright: © 2022-2025 
+
+nav:
+  - Home: index.md
+  - Explore: explore.md
+  - What's New?: news.md
+  - Resources: resources.md
+  - Hometown Sounds: hometown_sounds.md
+  - Contribute: contribute.md
+  - Get in Touch: contact.md
+ 
+theme: 
+  name: material
+  language: en
+  favicon: img/HSIcon.png
+  logo: img/HSIcon.png
+  palette:
+    scheme: default
+    primary: custom
+    accent: grey
