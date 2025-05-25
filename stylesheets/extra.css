@@ -1,0 +1,237 @@
+#356C71
+
+/*------------------------------------------------------*/
+/* Content layout styles */
+
+.md-main {
+  width: 100% !important;
+}
+/* Sets main grid to take up full screen width */
+
+.md-main__inner { 
+  width: 80% !important;
+  max-width: 80% !important;
+}
+/* Sets main content grid to take of 80% of its parent (.md-main) */
+
+@media (max-width: 1600px) {
+  .md-main__inner {
+    width: 95% !important;
+    max-width: 95% !important;
+  }
+}
+/* For screens smaller than 1600px: Sets main content grid to take of 95% of its parent (.md-main) */
+
+/*------------------------------------------------------*/
+/* Base color schemes */
+
+:root {
+  /* --md-primary-fg-color:        #262626; */
+  --md-primary-fg-color:        #1e1e1e;
+  --md-primary-fg-color--light: #ec8f9c;
+  --md-primary-fg-color--dark:  #6d1220;
+  /* Main color scheme */
+
+  /* --md-primary-bg-color:        #ffffff;
+  --md-default-bg-color:        #ffffff;
+  --md-accent-fg-color:         #ffffff; */
+  /* Other color styles - saving just to remember their names */
+}
+
+/* :root {
+  --md-primary-fg-color:        #009688;
+  --md-primary-fg-color--light: #009688;
+  --md-primary-fg-color--dark:  #009688;
+} */
+/* Old color scheme */
+
+.md-typeset a {
+  color: #009688 !important;
+}
+/* Site-wide link color */
+
+.md-footer-meta.md-typeset a {
+  color: #ffffff !important;
+}
+/*------------------------------------------------------*/
+/* Home banner styles */
+
+.banner-content-col {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-content-row {
+  height: 100%;
+}
+
+.banner-content {
+  height: 75%;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  flex-direction: column;
+}
+
+.banner-title {
+  color: #eeeeee;
+}
+
+.home-tagline {
+  font-size: 2.5em !important;
+
+}
+
+.banner-buttons {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+}
+
+.banner-buttons .md-button {
+  margin-top: .5rem;
+  margin-right: .5rem;
+  color: #EF5552;
+  border-color: #ffffff !important;
+  background-color: #ffffff;
+  border-radius: 5px;
+  transition: .2s ease-in-out;
+  /* width: 100%; */
+  
+}
+
+/* .banner-buttons .md-button--primary {
+  background-color: #ffffff;
+  color: hsla(280deg, 37%, 48%, 1);
+  border-color: #ffffff;
+  color: #EF5552 !important;
+} */
+
+.banner-buttons .md-button:focus,
+.banner-buttons .md-button:hover {
+  background-color: #EF5552 !important;
+  color: #ffffff !important;
+  border-color: #EF5552 !important;
+  border-radius: 10px;
+}
+
+.banner-buttons .btn-margin {
+  max-width: 20px;
+}
+
+.banner-button {
+  width: 100%;
+  max-width: 190px;
+}
+
+.banner-button .md-button {
+  width: 100%;
+  max-width: 175px;
+  text-align: center;
+  padding: 0.25rem 0 !important;
+}
+
+.banner-img-container {
+  height: 75%;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.banner-img {
+  height: 100%;
+  max-height: 300px;
+  width: auto;
+}
+
+@media (max-width: 959px) {
+
+  .banner-content-col .margin {
+    display: none;
+    width: 0;
+  }
+
+  .banner-content {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .banner-buttons {
+    flex-direction: column;
+    max-width: 100%;
+  }
+  .banner-button {
+    width: 50%;
+    max-width: unset;
+  }
+  .banner-button .md-button {
+    width: 100%;
+    max-width: unset;
+    text-align: center;
+  }
+  .banner-img-container {
+    display: none;
+  }
+}
+
+@media (max-width: 650px) {
+  .banner-button {
+    width: 75%;
+  }
+/* Responsive styles */
+
+/*------------------------------------------------------*/
+/* Navigation and sidebar styles */
+
+.md-sidebar--secondary {
+  order: 0;
+}
+/* Moves the Table of contents sidebar to the left */
+
+@media (max-width: 1220px) {
+  .md-tabs {
+    display: block !important;
+  }
+  /* Shows the links at the top of the page */
+
+  .md-header__button.md-logo {
+    display: inline-block !important;
+  }
+  /* Shows the logo in the header */
+
+  .md-header__button.md-icon[for="__drawer"] {
+    display: none !important;
+  }
+  /* Hides the mobile navigation menu in the header */
+}
+/* By default, Material switches to the mobile navigation at 1220px.
+/* This keeps the regular nav tabs and logo on the header for screens smaller than 1220px */
+
+@media (max-width: 959px) {
+  .md-sidebar--primary {
+    display: block;
+  }
+  /* Enables the navigation sidebar so the mobile nav menu works as expected */
+
+  .md-tabs {
+    display: none !important;
+  }
+  /* Hides the links at the top of the page */
+
+  .md-header__button.md-logo {
+    display: none !important;
+  }
+  /* Hides the logo in the header */
+
+  .md-header__button.md-icon[for="__drawer"] {
+    display: inline-block !important;
+  }
+  /* Shows the mobile navigation menu in the header */
+}
+/* This reverts to the mobile navigation at 959px */ 
+/*------------------------------------------------------*/
