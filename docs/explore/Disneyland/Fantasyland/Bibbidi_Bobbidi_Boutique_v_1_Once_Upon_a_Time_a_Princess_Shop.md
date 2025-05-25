@@ -12,68 +12,90 @@ Karalora ID’d this loop when it was “Once Upon a Time…” and determined i
 
 ## Tracklist
 
-1. Snow White Overture – Snow White OST
+1\. Snow White Overture – Snow White OST
 
 
-2. I'm Wishing/One Song – Snow White OST
+
+2\. I'm Wishing/One Song – Snow White OST
 
 
-3. Main Title / Cinderella – Cinderella OST
+
+3\. Main Title / Cinderella – Cinderella OST
+
 - Track Notes: This is the song only, with score omitted.
 
-4. Hail to the Princess Aurora – Sleeping Beauty OST
+4\. Hail to the Princess Aurora – Sleeping Beauty OST
 
 
-5. Part of Your World – The Little Mermaid OST
+
+5\. Part of Your World – The Little Mermaid OST
 
 
-6. Belle – Beauty and the Beast OST
+
+6\. Belle – Beauty and the Beast OST
+
 - Track Notes: Intro is omitted
 
-7. A Whole New World – Aladdin OST
+7\. A Whole New World – Aladdin OST
 
 
-8. With a Smile and a Song – Snow White OST
+
+8\. With a Smile and a Song – Snow White OST
 
 
-9. A Dream Is a Wish Your Heart Makes – Cinderella OST
+
+9\. A Dream Is a Wish Your Heart Makes – Cinderella OST
+
 - Track Notes: Intro is omitted, 1st verse only
 
-10. Once Upon a Dream – Sleeping Beauty OST
+10\. Once Upon a Dream – Sleeping Beauty OST
 
 
-11. Kiss the Girl – The Little Mermaid OST
+
+11\. Kiss the Girl – The Little Mermaid OST
 
 
-12. Beauty and the Beast – Beauty and the Beast OST
+
+12\. Beauty and the Beast – Beauty and the Beast OST
 
 
-13. Whistle While You Work – Snow White OST
+
+13\. Whistle While You Work – Snow White OST
 
 
-14. Part of Your World (Reprise) – The Little Mermaid OST
+
+14\. Part of Your World (Reprise) – The Little Mermaid OST
 
 
-15. Be Our Guest – Beauty and the Beast OST
+
+15\. Be Our Guest – Beauty and the Beast OST
 
 
-16. Someday My Prince Will Come – Snow White OST
+
+16\. Someday My Prince Will Come – Snow White OST
 
 
-17. Bibbidi Bobbidi Boo – Cinderella OST
+
+17\. Bibbidi Bobbidi Boo – Cinderella OST
+
 - Track Notes: 1st verse only
 
-18. Finale – Sleeping Beauty OST
+18\. Finale – Sleeping Beauty OST
 
 
-19. Tour of the Kingdom – The Little Mermaid OST
+
+19\. Tour of the Kingdom – The Little Mermaid OST
 
 
-20. Something There – Beauty and the Beast OST
+
+20\. Something There – Beauty and the Beast OST
 
 
-21. So This Is Love – Cinderella OST
+
+21\. So This Is Love – Cinderella OST
+
 - Track Notes: Instrumental introduction
 
-22. Under the Sea – The Little Mermaid OST
+22\. Under the Sea – The Little Mermaid OST
+
 

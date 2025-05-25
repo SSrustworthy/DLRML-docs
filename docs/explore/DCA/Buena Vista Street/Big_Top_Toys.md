@@ -13,5 +13,6 @@ The Big Top Toys loop is identical to the WDW Magic Kingdom’s Storybook Circus
 
 ## Tracklist
 
-1. Circus Music (custom-arranged by WDI) – Stephen James Taylor (Arranger)
+1\. Circus Music (custom-arranged by WDI) – Stephen James Taylor (Arranger)
+
 

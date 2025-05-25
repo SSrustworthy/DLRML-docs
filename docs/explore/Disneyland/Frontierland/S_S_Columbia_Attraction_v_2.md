@@ -12,25 +12,32 @@ This music was played onboard the S.S. Columbia interspersed with the show narra
 
 ## Tracklist
 
-1. Away Rio – David Coffin, Kevin Fallon, Otis Read – The Wind in the Rigging
+1\. Away Rio – David Coffin, Kevin Fallon, Otis Read – The Wind in the Rigging
+
 - Track Notes: Only heard at load/unload
 - Album Label: North Star Records
 
-2. Clear The Track – Norman Luboff Choir – Songs of the Sea
+2\. Clear The Track – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-3. The Boston Come All Ye – Norman Luboff Choir – Songs of the Sea
+3\. The Boston Come All Ye – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-4. One More Day – Norman Luboff Choir – Songs of the Sea
+4\. One More Day – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-5. Away Rio – Norman Luboff Choir – Songs of the Sea
+5\. Away Rio – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-6. Rollin’ Home – Norman Luboff Choir – Songs of the Sea
+6\. Rollin’ Home – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-7. Blow The Man Down – Norman Luboff Choir – Songs of the Sea
+7\. Blow The Man Down – Norman Luboff Choir – Songs of the Sea
+
 - Track Notes: Only heard at load/unload
 - Album Label: Columbia Records

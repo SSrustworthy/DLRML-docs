@@ -10,46 +10,60 @@ This loop plays throughout the “Through the Ears” and outdoor extended MMRR 
 
 ## Tracklist
 
-1. Flower Blooming In My Heart (from “A Flower for Minnie”) / O Sole Minnie (from “Amore Motore”) – Christopher Willis – Unreleased
+1\. Flower Blooming In My Heart (from “A Flower for Minnie”) / O Sole Minnie (from “Amore Motore”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:51.723
 
-2. My, What a Happy Day (from “Fun and Fancy Free”) – Christopher Willis – Unreleased
+2\. My, What a Happy Day (from “Fun and Fancy Free”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:01:48.640
 
-3. Hot Dog! (from “Mickey Mouse Clubhouse”) – Christopher Willis – Unreleased
+3\. Hot Dog! (from “Mickey Mouse Clubhouse”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:01:57.051
 
-4. Mickey Shorts Theme (”The Adorable Couple”) – Christopher Willis – Unreleased
+4\. Mickey Shorts Theme (”The Adorable Couple”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:55.291
 
-5. Mickey Mouse March (From “The Mickey Mouse Club”) – Christopher Willis – Unreleased
+5\. Mickey Mouse March (From “The Mickey Mouse Club”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:25.144
 
-6. Minnie's Yoo-Hoo – Christopher Willis – Unreleased
+6\. Minnie's Yoo-Hoo – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:01:56.407
 
-7. Game Night / The Brave Little Squire – Christopher Willis – Unreleased
+7\. Game Night / The Brave Little Squire – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:37.879
 
-8. Mickey Mouse Clubhouse Theme – Christopher Willis – Unreleased
+8\. Mickey Mouse Clubhouse Theme – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:35.311
 
-9. Hats Enough – Christopher Willis – Unreleased
+9\. Hats Enough – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:26.792
 
-10. Steamboat Silly – Christopher Willis – Unreleased
+10\. Steamboat Silly – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:23.527
 - Track Notes: See [https://youtu.be/s0z0AV3ABGQ?feature=shared](https://youtu.be/s0z0AV3ABGQ?feature=shared)
 
-11. Happy Birthday, Mickey Mouse / Mickey Mouse’s Birthday Party – Christopher Willis – Unreleased
+11\. Happy Birthday, Mickey Mouse / Mickey Mouse’s Birthday Party – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:16.460
 - Track Notes: See the LP “Songs from Walt Disney’s Magic Kingdom” [https://www.youtube.com/watch?v=RVNrFyzZkE4](https://www.youtube.com/watch?v=RVNrFyzZkE4)
 
-12. The Sorcerer's Apprentice – Christopher Willis, Paul Dukas – Unreleased
+12\. The Sorcerer's Apprentice – Christopher Willis, Paul Dukas – Unreleased
+
 - Loop Track Length: 00:02:23.878
 
-13. As Long As I’m With You (from ”Duet for Two”) – Christopher Willis – Unreleased
+13\. As Long As I’m With You (from ”Duet for Two”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:31.045
 
-14. Steamboat Bill (from “Steamboat Willie”) – Christopher Willis – Unreleased
+14\. Steamboat Bill (from “Steamboat Willie”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:56.903

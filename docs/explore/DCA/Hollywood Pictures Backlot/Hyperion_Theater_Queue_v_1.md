@@ -12,64 +12,84 @@ This loop played in the Hyperion Theater outdoor queue. See Magic Music, [https:
 
 ## Tracklist
 
-1. Somewhere Over the Rainbow – John Williams & the Boston Pops – Aisle Seat
+1\. Somewhere Over the Rainbow – John Williams & the Boston Pops – Aisle Seat
+
 - Album Label: Philips (1989)
 
-2. The Music Man Main Title – The Music Man [1962 Film Soundtrack]
+2\. The Music Man Main Title – The Music Man [1962 Film Soundtrack]
+
 - Track Notes: Edited to include 00:06 - 01:58
 
-3. Oklahoma Overture (LP Version) – Oklahoma! [1955 Film Soundtrack]
+3\. Oklahoma Overture (LP Version) – Oklahoma! [1955 Film Soundtrack]
+
 - Album Label: Angel Records (2001)
 
-4. My Fair Lady Overture – My Fair Lady [1964 Film Soundtrack]
+4\. My Fair Lady Overture – My Fair Lady [1964 Film Soundtrack]
+
 - Album Label: Sony, 1994
 
-5. The Trolley Song – John Williams & the Boston Pops – Aisle Seat
+5\. The Trolley Song – John Williams & the Boston Pops – Aisle Seat
+
 - Album Label: Philips, 1989
 
-6. South Pacific Overture – South Pacific [1958 Film Soundtrack]
+6\. South Pacific Overture – South Pacific [1958 Film Soundtrack]
+
 - Album Label: RCA, 1958
 
-7. New York, New York – John Williams & the Boston Pops – Aisle Seat
+7\. New York, New York – John Williams & the Boston Pops – Aisle Seat
+
 - Album Label: Philips, 1989
 
-8. Mary Poppins Overture – Mary Poppins [Original Soundtrack]
+8\. Mary Poppins Overture – Mary Poppins [Original Soundtrack]
+
 - Album Label: Walt Disney Records, 1997
 
-9. West Side Story End Credits – West Side Story [Original Soundtrack Recording]
+9\. West Side Story End Credits – West Side Story [Original Soundtrack Recording]
+
 - Album Label: Sony, 2001
 
-10. Oliver! Overture – Oliver! An Original Soundtrack Recording
+10\. Oliver! Overture – Oliver! An Original Soundtrack Recording
+
 - Album Label: Sony, 1989
 
-11. Victor / Victoria Main Title – Victor / Victoria [1982 Film Soundtrack]
+11\. Victor / Victoria Main Title – Victor / Victoria [1982 Film Soundtrack]
+
 - Album Label: Rhino, 2002
 
-12. Fightin' Irish: Strike Action – Newsies: The Musical
+12\. Fightin' Irish: Strike Action – Newsies: The Musical
+
 - Album Label: Walt Disney Records, 1992
 
-13. Rooftop – Newsies: The Musical
+13\. Rooftop – Newsies: The Musical
+
 - Album Label: Walt Disney Records, 1992
 
-14. Love is a Many Splendored Thing – Grease [Original 1978 Motion Picture Soundtrack]
+14\. Love is a Many Splendored Thing – Grease [Original 1978 Motion Picture Soundtrack]
+
 - Album Label: Polydor, 1978
 
-15. Crapshooters' Dance – Guys and Dolls [1992 Broadway Revival Cast]
+15\. Crapshooters' Dance – Guys and Dolls [1992 Broadway Revival Cast]
+
 - Track Notes: Edited to include 00.06 - End
 - Album Label: RCA Victor Broadway, 1992
 
-16. Dr. Doolittle Overture – Dr. Doolittle: Original Motion Picture Soundtrack [1967]
+16\. Dr. Doolittle Overture – Dr. Doolittle: Original Motion Picture Soundtrack [1967]
+
 - Album Label: Phillips, 1997
 
-17. Chitty Chitty Bang Bang – Chitty Chitty Bang Bang: Original MGM Motion Picture Soundtrack
+17\. Chitty Chitty Bang Bang – Chitty Chitty Bang Bang: Original MGM Motion Picture Soundtrack
+
 - Album Label: Rykodisc, 1997
 
-18. The Sound of Music Overture – The Sound of Music [35th Annivesary Collector's Edition]
+18\. The Sound of Music Overture – The Sound of Music [35th Annivesary Collector's Edition]
+
 - Track Notes: Edited to include 00.00 - 2.40
 - Album Label: RCA, 2000
 
-19. Gigi Main Title – Gigi: Original Motion Picture Soundtrack
+19\. Gigi Main Title – Gigi: Original Motion Picture Soundtrack
+
 - Album Label: Rhino, 1996
 
-20. Damn Yankees Overture – Damn Yankees: An Original Soundtrack Recording [1958]
+20\. Damn Yankees Overture – Damn Yankees: An Original Soundtrack Recording [1958]
+
 - Album Label: RCA, 1989

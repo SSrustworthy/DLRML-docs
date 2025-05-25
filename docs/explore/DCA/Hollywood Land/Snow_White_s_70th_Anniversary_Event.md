@@ -12,20 +12,26 @@ This loop played inside the Animation Building alongside a series of clips from 
 
 ## Tracklist
 
-1. Overture/Introduction – Snow White (1932)
+1\. Overture/Introduction – Snow White (1932)
+
 - Track Notes: Marked as beginning of loop as it seems to be the cleanest break.
 
-2. Why Grumpy, You Do Care – Snow White (1932)
+2\. Why Grumpy, You Do Care – Snow White (1932)
 
 
-3. Making Pies – Snow White (1932)
+
+3\. Making Pies – Snow White (1932)
 
 
-4. With a Smile and a Song – Snow White (1932)
+
+4\. With a Smile and a Song – Snow White (1932)
+
 - Track Notes: Underscore
 
-5. Some Day My Prince Will Come – Snow White (1932)
+5\. Some Day My Prince Will Come – Snow White (1932)
+
 - Track Notes: Underscore only
 
-6. Pleasant Dreams – Snow White (1932)
+6\. Pleasant Dreams – Snow White (1932)
+
 

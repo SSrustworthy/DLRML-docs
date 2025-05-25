@@ -10,51 +10,67 @@ This ragtime loop played in the interior of the Disneyland Emporium. The loop pl
 
 ## Tracklist
 
-1. Original Rags – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+1\. Original Rags – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 - Track Notes: Preceded by ~1 second of silence
 
-2. Elite Syncopations – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+2\. Elite Syncopations – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-3. Magnetic Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+3\. Magnetic Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-4. Wall Street Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+4\. Wall Street Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-5. Bethena — A Concert Waltz – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+5\. Bethena — A Concert Waltz – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-6. Palm Leaf Rag — A Slow Drag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+6\. Palm Leaf Rag — A Slow Drag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-7. The Easy Winners – The New England Conservatory Ragtime Ensemble – The Red Back Book
+7\. The Easy Winners – The New England Conservatory Ragtime Ensemble – The Red Back Book
 
 
-8. The Cascades – The New England Conservatory Ragtime Ensemble – The Red Back Book
+
+8\. The Cascades – The New England Conservatory Ragtime Ensemble – The Red Back Book
 
 
-9. Maple Leaf Rag – The New England Conservatory Ragtime Ensemble – The Red Back Book
+
+9\. Maple Leaf Rag – The New England Conservatory Ragtime Ensemble – The Red Back Book
 
 
-10. Euphonic Sounds — A Syncopated Novelty – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
+10\. Euphonic Sounds — A Syncopated Novelty – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-11. Scott Joplin's New Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+11\. Scott Joplin's New Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-12. Sugar Cane – The New England Conservatory Ragtime Ensemble – The Red Back Book
+12\. Sugar Cane – The New England Conservatory Ragtime Ensemble – The Red Back Book
 
 
-13. Peacherine Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
+13\. Peacherine Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-14. Sun Flower Slow Drag – The New England Conservatory Ragtime Ensemble – The Red Back Book
+14\. Sun Flower Slow Drag – The New England Conservatory Ragtime Ensemble – The Red Back Book
 
 
-15. Pine Apple Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
+15\. Pine Apple Rag – Gunther Schuller & New England Ragtime Ensemble – The Art of Scott Joplin
+
 - Loop Track Length: 0.9992x album speed using the digital release.
 
-16. The Rag Time Dance – The New England Conservatory Ragtime Ensemble – The Red Back Book
+16\. The Rag Time Dance – The New England Conservatory Ragtime Ensemble – The Red Back Book
+
 

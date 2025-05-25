@@ -12,8 +12,10 @@ Two pieces of music played in this exhibit. At the entrance, “A Whale of A Tal
 
 ## Tracklist
 
-1. A Whale of a Tale – Kirk Douglas
+1\. A Whale of a Tale – Kirk Douglas
 
 
-2. Toccata and Fugue in D
+
+2\. Toccata and Fugue in D
+
 

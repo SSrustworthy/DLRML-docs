@@ -10,62 +10,82 @@ Little is known concretely about when this loop played, although it is thought t
 
 ## Tracklist
 
-1. Unknown A – The Royal Street Bachelors – Unreleased
+1\. Unknown A – The Royal Street Bachelors – Unreleased
 
 
-2. Stranger on the Shore – The Royal Street Bachelors – Unreleased
+
+2\. Stranger on the Shore – The Royal Street Bachelors – Unreleased
 
 
-3. Do You Know What It Means To Miss New Orleans – The Royal Street Bachelors – Unreleased
+
+3\. Do You Know What It Means To Miss New Orleans – The Royal Street Bachelors – Unreleased
 
 
-4. Frankie and Johnny – The Royal Street Bachelors – Unreleased
+
+4\. Frankie and Johnny – The Royal Street Bachelors – Unreleased
 
 
-5. Battle Hymn of the Republic (Glory Glory Hallelujah) – The Royal Street Bachelors – Unreleased
+
+5\. Battle Hymn of the Republic (Glory Glory Hallelujah) – The Royal Street Bachelors – Unreleased
 
 
-6. Unknown B – The Royal Street Bachelors – Unreleased
+
+6\. Unknown B – The Royal Street Bachelors – Unreleased
 
 
-7. Bourbon Street Parade – The Royal Street Bachelors – Unreleased
+
+7\. Bourbon Street Parade – The Royal Street Bachelors – Unreleased
 
 
-8. Struttin' With Some Barbecue – The Royal Street Bachelors – Unreleased
+
+8\. Struttin' With Some Barbecue – The Royal Street Bachelors – Unreleased
 
 
-9. Little Liza Jane – The Royal Street Bachelors – Unreleased
+
+9\. Little Liza Jane – The Royal Street Bachelors – Unreleased
 
 
-10. Zip-a-Dee-Doo-Dah – The Royal Street Bachelors – Unreleased
+
+10\. Zip-a-Dee-Doo-Dah – The Royal Street Bachelors – Unreleased
 
 
-11. Do You Know What It Means To Miss New Orleans – The Royal Street Bachelors – Unreleased
+
+11\. Do You Know What It Means To Miss New Orleans – The Royal Street Bachelors – Unreleased
+
 - Track Notes: Repeat of earlier track
 
-12. Just a Closer Walk With Thee – The Royal Street Bachelors – Unreleased
+12\. Just a Closer Walk With Thee – The Royal Street Bachelors – Unreleased
 
 
-13. Dixie – The Royal Street Bachelors – Unreleased
+
+13\. Dixie – The Royal Street Bachelors – Unreleased
 
 
-14. Sweet Georgia Brown – The Royal Street Bachelors – Unreleased
+
+14\. Sweet Georgia Brown – The Royal Street Bachelors – Unreleased
 
 
-15. Petite Fleur – The Royal Street Bachelors – Unreleased
+
+15\. Petite Fleur – The Royal Street Bachelors – Unreleased
 
 
-16. Stranger on the Shore – The Royal Street Bachelors – Unreleased
+
+16\. Stranger on the Shore – The Royal Street Bachelors – Unreleased
 
 
-17. New Orleans (Hoagy Carmichael) – The Royal Street Bachelors – Unreleased
+
+17\. New Orleans (Hoagy Carmichael) – The Royal Street Bachelors – Unreleased
 
 
-18. Old Man River – The Royal Street Bachelors – Unreleased
+
+18\. Old Man River – The Royal Street Bachelors – Unreleased
 
 
-19. Swanee River (Old Folks at Home) – The Royal Street Bachelors – Unreleased
+
+19\. Swanee River (Old Folks at Home) – The Royal Street Bachelors – Unreleased
 
 
-20. Jambalaya (On the Bayou) – The Royal Street Bachelors – Unreleased
+
+20\. Jambalaya (On the Bayou) – The Royal Street Bachelors – Unreleased
+
 

@@ -10,23 +10,30 @@ Verified on MouseBits by Pixelated as playing both upstairs and downstairs using
 
 ## Tracklist
 
-1. Bang! Goes Old Betsy – Walt Disney World's Country Bear Jamboree LP
+1\. Bang! Goes Old Betsy – Walt Disney World's Country Bear Jamboree LP
 
 
-2. Red River Valley – Walt Disney World's Country Bear Jamboree LP
+
+2\. Red River Valley – Walt Disney World's Country Bear Jamboree LP
 
 
-3. Polly Wolly Doodle – Walt Disney World's Country Bear Jamboree LP
+
+3\. Polly Wolly Doodle – Walt Disney World's Country Bear Jamboree LP
 
 
-4. Home on the Range – Unreleased
+
+4\. Home on the Range – Unreleased
+
 - Track Notes: Featured in the DLRP Big Thunder Mountain RR queue
 
-5. Bile 'Em Cabbage Down – Walt Disney World's Country Bear Jamboree LP
+5\. Bile 'Em Cabbage Down – Walt Disney World's Country Bear Jamboree LP
 
 
-6. Bearless Love – Walt Disney World's Country Bear Jamboree LP
+
+6\. Bearless Love – Walt Disney World's Country Bear Jamboree LP
 
 
-7. Wabash Cannonball – Walt Disney World's Country Bear Jamboree LP
+
+7\. Wabash Cannonball – Walt Disney World's Country Bear Jamboree LP
+
 

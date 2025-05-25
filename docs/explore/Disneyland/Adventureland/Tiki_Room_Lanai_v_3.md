@@ -12,32 +12,38 @@ The third, and current, installment of the Lanai loop was installed during the 2
 
 ## Tracklist
 
-1. Kiamana Hila – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+1\. Kiamana Hila – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+
 - Album Track Number: 6
 - Album Disc Number: 1
 - Album Label: The Mountain Apple Company
 
-2. Lovely Hula Hands – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+2\. Lovely Hula Hands – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+
 - Album Track Number: 3
 - Album Disc Number: 1
 - Album Label: The Mountain Apple Company
 
-3. Pearly Shells – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+3\. Pearly Shells – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+
 - Album Track Number: 2
 - Album Disc Number: 1
 - Album Label: The Mountain Apple Company
 
-4. Mekakani Kaupo – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+4\. Mekakani Kaupo – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+
 - Album Track Number: 10
 - Album Disc Number: 1
 - Album Label: The Mountain Apple Company
 
-5. Maui Chimes – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+5\. Maui Chimes – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+
 - Album Track Number: 4
 - Album Disc Number: 1
 - Album Label: The Mountain Apple Company
 
-6. Sophisticated Hula – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+6\. Sophisticated Hula – Jack de Mello – Steel Guitar Magic - Hawaiian Style
+
 - Album Track Number: 14
 - Album Disc Number: 1
 - Album Label: The Mountain Apple Company

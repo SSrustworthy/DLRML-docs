@@ -12,32 +12,42 @@ This loop was introduced with the Pirate’s Lair retheming of Tom Sawyer’s is
 
 ## Tracklist
 
-1. All for Me Grog – The Jolly Rogers – All for Me Grog
+1\. All for Me Grog – The Jolly Rogers – All for Me Grog
 
 
-2. Liverpool Judies – Stuart M. Frank – Classic Maritime Music (Smithsonian Folkways)
+
+2\. Liverpool Judies – Stuart M. Frank – Classic Maritime Music (Smithsonian Folkways)
 
 
-3. Roll Me Hearties – The Jolly Rogers – Roll Me Hearties
+
+3\. Roll Me Hearties – The Jolly Rogers – Roll Me Hearties
 
 
-4. Ten Penny Bit (Swallow Tail Jig) (Instrumental) – Ellen Cohn – Classic Maritime Music (Smithsonian Folkways)
+
+4\. Ten Penny Bit (Swallow Tail Jig) (Instrumental) – Ellen Cohn – Classic Maritime Music (Smithsonian Folkways)
 
 
-5. The Quilty Hornpipe – Skip Henderson – Billy Bones and Other Ditties
+
+5\. The Quilty Hornpipe – Skip Henderson – Billy Bones and Other Ditties
 
 
-6. We're All Bound to Go – Skip Henderson – Billy Bones and Other Ditties
+
+6\. We're All Bound to Go – Skip Henderson – Billy Bones and Other Ditties
 
 
-7. Traditional Sword Dances / Bobby Shaftoe – The Revels – Blow Ye Winds in the Morning
+
+7\. Traditional Sword Dances / Bobby Shaftoe – The Revels – Blow Ye Winds in the Morning
 
 
-8. Westering Ho / Haul Away Joe – The Jolly Rogers – No Refunds
+
+8\. Westering Ho / Haul Away Joe – The Jolly Rogers – No Refunds
 
 
-9. Bully in the Alley – Morrigan – Classic Maritime Music (Smithsonian Folkways)
+
+9\. Bully in the Alley – Morrigan – Classic Maritime Music (Smithsonian Folkways)
 
 
-10. General Taylor – Skip Henderson – Billy Bones and Other Ditties
+
+10\. General Taylor – Skip Henderson – Billy Bones and Other Ditties
+
 

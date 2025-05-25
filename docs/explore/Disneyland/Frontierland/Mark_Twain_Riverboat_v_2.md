@@ -10,20 +10,26 @@ See MouseBits, [https://dlrmusicloops.com/The-Music-of-the-Mark-Twain-Riverboat-
 
 ## Tracklist
 
-1. Come Back Sweet Papa – Firehouse Five Plus Two
+1\. Come Back Sweet Papa – Firehouse Five Plus Two
+
 - Track Notes: Dock departure
 
-2. Home, Sweet Home (?) – Unreleased
+2\. Home, Sweet Home (?) – Unreleased
+
 - Track Notes: Attraction; This track plays in its entirety as part of the [https://youtu.be/r0eV5DVHL8U](https://youtu.be/r0eV5DVHL8U) (see 0:03). I’m unsure on the title.
 
-3. Western Saloon – Unreleased
+3\. Western Saloon – Unreleased
+
 - Track Notes: Attraction; This track plays in its entirety as part of the [https://youtu.be/r0eV5DVHL8U](https://youtu.be/r0eV5DVHL8U) (see 20:02).
 
-4. Goober Peas – Unreleased
+4\. Goober Peas – Unreleased
+
 - Track Notes: Attraction; This track plays in its entirety as part of the [https://youtu.be/r0eV5DVHL8U](https://youtu.be/r0eV5DVHL8U) (see 36:25).
 
-5. Cripple Creek – Unreleased
+5\. Cripple Creek – Unreleased
+
 - Track Notes: Attraction; This track plays in its entirety as part of the [https://youtu.be/r0eV5DVHL8U](https://youtu.be/r0eV5DVHL8U) (see 48:12).
 
-6. Milenburg Joys – Firehouse Five Plus Two
+6\. Milenburg Joys – Firehouse Five Plus Two
+
 - Track Notes: Dock arrival

@@ -10,5 +10,6 @@ All source tracks have a playback rate of 1.088530. There are no edits to any of
 
 ## Tracklist
 
-NA. See Loop Notes
+NA\. See Loop Notes
+
 

@@ -10,5 +10,6 @@ The exit to Hyperspace Mountain appears to play “The Throne Room / End Title�
 
 ## Tracklist
 
-1. The Throne Room / End Title – John Williams – Star Wars: A New Hope OST
+1\. The Throne Room / End Title – John Williams – Star Wars: A New Hope OST
+
 

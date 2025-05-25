@@ -11,60 +11,79 @@ This loop played in Hollywood and Dine at DCA, in the building marked as Stage 1
 
 ## Tracklist
 
-1. Moonlight Serenade – Glenn Miller – In the Digital Mood
+1\. Moonlight Serenade – Glenn Miller – In the Digital Mood
 
 
-2. Chloe (Song of the Swamp) – Benny Goodman & His Orchestra – The Harry James Years Vol 1
+
+2\. Chloe (Song of the Swamp) – Benny Goodman & His Orchestra – The Harry James Years Vol 1
 
 
-3. Who? – Benny Goodman & His Orchestra
+
+3\. Who? – Benny Goodman & His Orchestra
 
 
-4. The American Patrol – Glenn Miller – In the Digital Mood
+
+4\. The American Patrol – Glenn Miller – In the Digital Mood
+
 - Album Track Number: 3
 
-5. A String Of Pearls – Glenn Miller – In the Digital Mood
+5\. A String Of Pearls – Glenn Miller – In the Digital Mood
 
 
-6. Woodchopper's Ball – Woody Herman
+
+6\. Woodchopper's Ball – Woody Herman
 
 
-7. Yardbird Shuffle – Woody Herman
+
+7\. Yardbird Shuffle – Woody Herman
 
 
-8. Frenesi – Artie Shaw
+
+8\. Frenesi – Artie Shaw
+
 - Track Notes: This is the same version as in the soundtrack to the movie “Bird”.
 
-9. Body And Soul – Benny Goodman
+9\. Body And Soul – Benny Goodman
 
 
-10. April In Paris – Charlie Parker
+
+10\. April In Paris – Charlie Parker
 
 
-11. Make Believe – Benny Goodman
+
+11\. Make Believe – Benny Goodman
 
 
-12. Bach Goes To Town – Benny Goodman
+
+12\. Bach Goes To Town – Benny Goodman
 
 
-13. In The Mood – Glenn Miller – In the Digital Mood
+
+13\. In The Mood – Glenn Miller – In the Digital Mood
 
 
-14. Little Brown Jug – Glenn Miller – In the Digital Mood
+
+14\. Little Brown Jug – Glenn Miller – In the Digital Mood
 
 
-15. Tuxedo Junction – Glenn Miller – In the Digital Mood
+
+15\. Tuxedo Junction – Glenn Miller – In the Digital Mood
+
 - Track Notes: album track is around 1.74 secs. longer than the recording
 - Album Track Number: 7
 
-16. Handful Of Keys – Benny Goodman
+16\. Handful Of Keys – Benny Goodman
 
 
-17. I'm Gettin' Sentimental Over You – Tommy Dorsey
+
+17\. I'm Gettin' Sentimental Over You – Tommy Dorsey
 
 
-18. Take The 'A' Train – Duke Ellington & His Orchestra
+
+18\. Take The 'A' Train – Duke Ellington & His Orchestra
 
 
-19. Opus One – Tommy Dorsey
+
+19\. Opus One – Tommy Dorsey
+
 

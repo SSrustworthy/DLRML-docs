@@ -10,6 +10,7 @@ This loop played inside of the MIrabel Meet and Greet gazebo near Boardwalk Pizz
 
 ## Tracklist
 
-1. All of You - Instrumental – Lin-Manuel Miranda – Encanto OST
+1\. All of You - Instrumental – Lin-Manuel Miranda – Encanto OST
+
 
 - Loop Track Length: Unknown

@@ -14,11 +14,14 @@ This loop was installed with the Brother Bear overlay addition in October 2003. 
 
 ## Tracklist
 
-1. Welcome - From “Brother Bear”/Soundtrack Version – Phil Collins – Brother Bear OST, track 3
+1\. Welcome - From “Brother Bear”/Soundtrack Version – Phil Collins – Brother Bear OST, track 3
 
 
-2. Look Through My Eyes - From “Brother Bear”/Soundtrack Version – Phil Collins – Brother Bear OST, track 1
+
+2\. Look Through My Eyes - From “Brother Bear”/Soundtrack Version – Phil Collins – Brother Bear OST, track 1
 
 
-3. On My Way - From “Brother Bear”/Soundtrack Version – Phil Collins – Brother Bear OST, track 6
+
+3\. On My Way - From “Brother Bear”/Soundtrack Version – Phil Collins – Brother Bear OST, track 6
+
 

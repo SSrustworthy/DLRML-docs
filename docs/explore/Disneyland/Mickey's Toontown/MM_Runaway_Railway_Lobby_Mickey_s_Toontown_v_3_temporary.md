@@ -12,23 +12,30 @@ This loop plays in the lobby (before the “Through the Ears” exhibit) of the 
 
 ## Tracklist
 
-1. The Ruffled Ruffian (From "A Pete Scorned") – Christopher Willis – Unreleased
+1\. The Ruffled Ruffian (From "A Pete Scorned") – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:35.326
 
-2. Mickey's Song (Mickey Mouse End Credits) / Kinda Roll ‘Em / The Adorable Couple – Christopher Willis – Unreleased
+2\. Mickey's Song (Mickey Mouse End Credits) / Kinda Roll ‘Em / The Adorable Couple – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:18.730
 
-3. The Charmed Life (From "Easy Street") – Christopher Willis – Unreleased
+3\. The Charmed Life (From "Easy Street") – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:01:02.941
 
-4. The Golden City (From "Cable Car Chaos”) – Christopher Willis – Unreleased
+4\. The Golden City (From "Cable Car Chaos”) – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:02:41.323
 
-5. The Dapper Dandy (From "Bad Ear Day") – Christopher Willis – Unreleased
+5\. The Dapper Dandy (From "Bad Ear Day") – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:01:56.935
 
-6. The Hall of Science (From "Down the Hatch") – Christopher Willis – Unreleased
+6\. The Hall of Science (From "Down the Hatch") – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:03:00.029
 
-7. Give A Dog A (Trom)bone (Medley from "Doggone Biscuits" / "Coned") – Christopher Willis – Unreleased
+7\. Give A Dog A (Trom)bone (Medley from "Doggone Biscuits" / "Coned") – Christopher Willis – Unreleased
+
 - Loop Track Length: 00:01:26.830 / 00:01:43.754

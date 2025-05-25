@@ -17,5 +17,6 @@ The entrance track was released by WDI through Theme Park Productions. See Mouse
 
 ## Tracklist
 
-1. Avengers Campus: Welcome Recruits (From "Avengers Campus") – Avengers Campus Orchestra – Avengers Campus: Welcome Recruits (From "Avengers Campus")
+1\. Avengers Campus: Welcome Recruits (From "Avengers Campus") – Avengers Campus Orchestra – Avengers Campus: Welcome Recruits (From "Avengers Campus")
+
 - Loop Track Length: 11:55

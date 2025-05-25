@@ -12,8 +12,10 @@ This is a different loop than the "it's a bug's land" loop that is made up of re
 
 ## Tracklist
 
-1. Unreleased loop
+1\. Unreleased loop
 
 
-NA. A Bug's Life Suite (From A Bug’s Land) – Randy Newman – The Legacy Collection: Disneyland
+
+NA\. A Bug's Life Suite (From A Bug’s Land) – Randy Newman – The Legacy Collection: Disneyland
+
 - Track Notes: This track was released on various official albums and was taken directly from the loop without edits. Confirmed with an induction recording by pixelated.

@@ -10,59 +10,78 @@ Plays in the interior of Bibbidi Bobbidi Boutique. This loop probably changed to
 
 ## Tracklist
 
-1. Let It Go – Frozen OST
+1\. Let It Go – Frozen OST
 
 
-2. Be Our Guest – Beauty and the Beast OST
+
+2\. Be Our Guest – Beauty and the Beast OST
 
 
-3. Someday My Prince Will Come – Snow White and the Seven Dwarves OST
+
+3\. Someday My Prince Will Come – Snow White and the Seven Dwarves OST
 
 
-4. Bibbidi Bobbidi Boo – Cinderella OST
+
+4\. Bibbidi Bobbidi Boo – Cinderella OST
 
 
-5. Finale – Sleeping Beauty OST
+
+5\. Finale – Sleeping Beauty OST
 
 
-6. Tour of the Kingdom – The Little Mermaid OST
+
+6\. Tour of the Kingdom – The Little Mermaid OST
 
 
-7. Something There – Beauty and the Beast OST
+
+7\. Something There – Beauty and the Beast OST
 
 
-8. Down in New Orleans (Prologue) – The Princess and the Frog OST
+
+8\. Down in New Orleans (Prologue) – The Princess and the Frog OST
 
 
-9. Down in New Orleans (Finale) – The Princess and the Frog OST
+
+9\. Down in New Orleans (Finale) – The Princess and the Frog OST
 
 
-10. Reception at the Palace – Cinderella OST
+
+10\. Reception at the Palace – Cinderella OST
+
 - Track Notes: Edited
 
-11. Under the Sea – The Little Mermaid OST
+11\. Under the Sea – The Little Mermaid OST
 
 
-12. Overture – Snow White and the Seven Dwarves OST
+
+12\. Overture – Snow White and the Seven Dwarves OST
 
 
-13. For The First Time In Forever – Frozen OST
+
+13\. For The First Time In Forever – Frozen OST
 
 
-14. I’m Wishing / One Song – SNow White and the Seven Dwarves OST
+
+14\. I’m Wishing / One Song – SNow White and the Seven Dwarves OST
 
 
-15. Main Title – Cinderella OST
+
+15\. Main Title – Cinderella OST
+
 - Track Notes: Edited
 
-16. Touch The Sky – Brave OST
+16\. Touch The Sky – Brave OST
 
 
-17. Hail To The Princess Aurora – Sleeping Beauty OST
+
+17\. Hail To The Princess Aurora – Sleeping Beauty OST
 
 
-18. Part Of Your World – The Little Mermaid OST
+
+18\. Part Of Your World – The Little Mermaid OST
+
 - Track Notes: Edited
 
-19. Do You Want to Build a Snowman? – Frozen OST
+19\. Do You Want to Build a Snowman? – Frozen OST
+
 

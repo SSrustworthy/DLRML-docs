@@ -10,74 +10,98 @@ This is the same loop as the Disney Springs Marketplace. plays between shows See
 
 ## Tracklist
 
-1. A Whole New World – Michael Tavera
+1\. A Whole New World – Michael Tavera
 
 
-2. You Can Fly! – Michael Tavera
+
+2\. You Can Fly! – Michael Tavera
 
 
-3. Almost There – Michael Tavera
+
+3\. Almost There – Michael Tavera
 
 
-4. True Love's Kiss – Michael Tavera
+
+4\. True Love's Kiss – Michael Tavera
 
 
-5. Be Our Guest – Michael Tavera
+
+5\. Be Our Guest – Michael Tavera
 
 
-6. Theme from "Colette Shows Him Le Ropes"/"Special Order"/"End Creditouilles" – Michael Tavera
+
+6\. Theme from "Colette Shows Him Le Ropes"/"Special Order"/"End Creditouilles" – Michael Tavera
 
 
-7. Hakuna Matata – Michael Tavera
+
+7\. Hakuna Matata – Michael Tavera
 
 
-8. For The First Time in Forever / Let It Go Medley – Michael Tavera
+
+8\. For The First Time in Forever / Let It Go Medley – Michael Tavera
 
 
-9. If I Didn't Have You (Monsters Inc. Theme) – Michael Tavera
+
+9\. If I Didn't Have You (Monsters Inc. Theme) – Michael Tavera
 
 
-10. I See The Light – Michael Tavera
+
+10\. I See The Light – Michael Tavera
 
 
-11. Ev'rybody Wants To Be A Cat – Michael Tavera
+
+11\. Ev'rybody Wants To Be A Cat – Michael Tavera
 
 
-12. King of New York – Michael Tavera
+
+12\. King of New York – Michael Tavera
 
 
-13. Reflection – Michael Tavera
+
+13\. Reflection – Michael Tavera
 
 
-14. Can You Feel the Love Tonight – Michael Tavera
+
+14\. Can You Feel the Love Tonight – Michael Tavera
 
 
-15. The Incredibles Theme – Michael Tavera
+
+15\. The Incredibles Theme – Michael Tavera
 
 
-16. Colors of the Wind – Michael Tavera
+
+16\. Colors of the Wind – Michael Tavera
 
 
-17. Go The Distance – Michael Tavera
+
+17\. Go The Distance – Michael Tavera
 
 
-18. Friend Like Me – Michael Tavera
+
+18\. Friend Like Me – Michael Tavera
 
 
-19. When Will My Life Begin? – Michael Tavera
+
+19\. When Will My Life Begin? – Michael Tavera
 
 
-20. I Wanna Be Like You – Michael Tavera
+
+20\. I Wanna Be Like You – Michael Tavera
 
 
-21. You've Got A Friend In Me – Michael Tavera
+
+21\. You've Got A Friend In Me – Michael Tavera
 
 
-22. When Can I See You Again? – Michael Tavera
+
+22\. When Can I See You Again? – Michael Tavera
 
 
-23. Part Of Your World – Michael Tavera
+
+23\. Part Of Your World – Michael Tavera
 
 
-24. Winnie the Pooh – Michael Tavera
+
+24\. Winnie the Pooh – Michael Tavera
+
 

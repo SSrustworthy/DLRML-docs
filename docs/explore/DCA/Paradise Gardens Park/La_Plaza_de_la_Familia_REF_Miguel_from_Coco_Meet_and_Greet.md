@@ -14,26 +14,34 @@ The Plaza de la Familia in Paradise Gardens Park is a seasonal affair from Hallo
 
 ## Tracklist
 
-1. Baila de los Sombreros 1513/2 – Tim Devine – Latin - Mexico ANW 1513
+1\. Baila de los Sombreros 1513/2 – Tim Devine – Latin - Mexico ANW 1513
 
 
-2. El Mariachi Magnifico 1513/5 – Tim Devine – Latin - Mexico ANW 1513
+
+2\. El Mariachi Magnifico 1513/5 – Tim Devine – Latin - Mexico ANW 1513
 
 
-3. Mariachi Romantico 1513/7 – Tim Devine – Latin - Mexico ANW 1513
+
+3\. Mariachi Romantico 1513/7 – Tim Devine – Latin - Mexico ANW 1513
 
 
-4. Mariachi Alegre 2092/1 – Juan Carlos Rodriguez | Iker Gastaminza – Mexican Fiesta ANW 2092
+
+4\. Mariachi Alegre 2092/1 – Juan Carlos Rodriguez | Iker Gastaminza – Mexican Fiesta ANW 2092
 
 
-5. Mariachi Tipico 2092/5 – Juan Carlos Rodriguez | Iker Gastaminza – Mexican Fiesta ANW 2092
+
+5\. Mariachi Tipico 2092/5 – Juan Carlos Rodriguez | Iker Gastaminza – Mexican Fiesta ANW 2092
 
 
-6. Zacatecas (Marcha Zacatecas) – Mariachi Vargas de Tecalitlán – Serie 20 éxitos
+
+6\. Zacatecas (Marcha Zacatecas) – Mariachi Vargas de Tecalitlán – Serie 20 éxitos
+
 - Track Notes: 1.0004 playback speed of the source track
 
-7. Jarabe Michoacano – Mariachi Vargas de Tecalitlán – Serie 20 éxitos
+7\. Jarabe Michoacano – Mariachi Vargas de Tecalitlán – Serie 20 éxitos
+
 - Track Notes: 1.0004 playback speed of the source track
 
-8. El Zopilote Mojado – Mariachi Vargas de Tecalitlán – Serie 20 éxitos
+8\. El Zopilote Mojado – Mariachi Vargas de Tecalitlán – Serie 20 éxitos
+
 - Track Notes: 1.0004 playback speed of the source track

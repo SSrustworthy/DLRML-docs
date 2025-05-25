@@ -12,65 +12,86 @@ Appears to have been a custom-recorded (i.e., non-needledrop) loop from WDI. The
 
 ## Tracklist
 
-1. Streets of Laredo – Unreleased
+1\. Streets of Laredo – Unreleased
 
 
-2. (I've Got Spurs that) Jingle, Jangle, Jingle – Unreleased
+
+2\. (I've Got Spurs that) Jingle, Jangle, Jingle – Unreleased
 
 
-3. Tumblin' Tumbleweeds – Unreleased
+
+3\. Tumblin' Tumbleweeds – Unreleased
 
 
-4. Git' Along Little Doggies – Unreleased
+
+4\. Git' Along Little Doggies – Unreleased
 
 
-5. I'm an Old Cowhand – Unreleased
+
+5\. I'm an Old Cowhand – Unreleased
 
 
-6. On Top of Old Smokey – Unreleased
+
+6\. On Top of Old Smokey – Unreleased
 
 
-7. Davy Crockett – Unreleased
+
+7\. Davy Crockett – Unreleased
 
 
-8. Cowboy's Dream – Unreleased
+
+8\. Cowboy's Dream – Unreleased
 
 
-9. Cool Water – Unreleased
+
+9\. Cool Water – Unreleased
 
 
-10. Yellow Rose of Texas – Unreleased
+
+10\. Yellow Rose of Texas – Unreleased
 
 
-11. Take Me Back to My Boots and Saddle [?] – Unreleased
+
+11\. Take Me Back to My Boots and Saddle [?] – Unreleased
 
 
-12. Deep in the Heart of Texas – Unreleased
+
+12\. Deep in the Heart of Texas – Unreleased
 
 
-13. A Lonely Cowboy – Unreleased
+
+13\. A Lonely Cowboy – Unreleased
 
 
-14. Ghost Riders in the Sky – Unreleased
+
+14\. Ghost Riders in the Sky – Unreleased
 
 
-15. Home on the Range – Unreleased
+
+15\. Home on the Range – Unreleased
 
 
-16. Happy Trails – Unreleased
+
+16\. Happy Trails – Unreleased
 
 
-17. Red River Valley – Unreleased
+
+17\. Red River Valley – Unreleased
 
 
-18. Shenandoah – Unreleased
+
+18\. Shenandoah – Unreleased
 
 
-19. Back in the Saddle Again – Unreleased
+
+19\. Back in the Saddle Again – Unreleased
 
 
-20. Darlin' Clementine – Unreleased
+
+20\. Darlin' Clementine – Unreleased
 
 
-21. Old Chisholm Trail – Unreleased
+
+21\. Old Chisholm Trail – Unreleased
+
 

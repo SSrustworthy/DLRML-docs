@@ -10,23 +10,29 @@ This music was played onboard the S.S. Columbia interspersed with the show narra
 
 ## Tracklist
 
-1. Blow The Man Down – Norman Luboff Choir – Songs of the Sea
+1\. Blow The Man Down – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-2. Clear The Track (Let The Bulgine Run) – Norman Luboff Choir – Songs of the Sea
+2\. Clear The Track (Let The Bulgine Run) – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-3. The Boston Come All Ye – Norman Luboff Choir – Songs of the Sea
+3\. The Boston Come All Ye – Norman Luboff Choir – Songs of the Sea
+
 - Track Notes: This song is also known as “Blow Ye Winds Westerly” and “Song of the Fishes”
 - Album Label: Columbia Records
 
-4. One More Day – Norman Luboff Choir – Songs of the Sea
+4\. One More Day – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-5. Rollin’ Home – Norman Luboff Choir – Songs of the Sea
+5\. Rollin’ Home – Norman Luboff Choir – Songs of the Sea
+
 - Track Notes: Edited
 - Album Label: Columbia Records
 
-6. Homeward Bound – Norman Luboff Choir – Songs of the Sea
+6\. Homeward Bound – Norman Luboff Choir – Songs of the Sea
+
 - Track Notes: It is unknown whether The Boston Come All Ye played again, or if this is a different track.
 - Album Label: Columbia Records

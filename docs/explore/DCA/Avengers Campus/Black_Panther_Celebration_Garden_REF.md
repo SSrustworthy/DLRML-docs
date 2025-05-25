@@ -12,29 +12,38 @@ Tracklist compiled by pixelated based on his induction recording on Mousecord. T
 
 ## Tracklist
 
-1. Wake Up T'Challa – Ludwig Göransson – Black Panther OST
+1\. Wake Up T'Challa – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:06:02.174
 
-2. Is This Wakanda? – Ludwig Göransson – Black Panther OST
+2\. Is This Wakanda? – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:02:33.552
 
-3. Wakanda – Ludwig Göransson feat. Baaba Maal – Black Panther OST
+3\. Wakanda – Ludwig Göransson feat. Baaba Maal – Black Panther OST
+
 - Loop Track Length: 00:02:13.293
 
-4. Wakanda Origins – Ludwig Göransson – Black Panther OST
+4\. Wakanda Origins – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:01:36.460
 
-5. Loyal to the Throne – Ludwig Göransson – Black Panther OST
+5\. Loyal to the Throne – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:01:24.663
 
-6. A New Day – Ludwig Göransson – Black Panther OST
+6\. A New Day – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:01:36.401
 
-7. A King's Sunset – Ludwig Göransson – Black Panther OST
+7\. A King's Sunset – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:04:17.120
 
-8. Ancestral Plane – Ludwig Göransson – Black Panther OST
+8\. Ancestral Plane – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:03:52.183
 
-9. Phambili – Ludwig Göransson – Black Panther OST
+9\. Phambili – Ludwig Göransson – Black Panther OST
+
 - Loop Track Length: 00:02:22.750

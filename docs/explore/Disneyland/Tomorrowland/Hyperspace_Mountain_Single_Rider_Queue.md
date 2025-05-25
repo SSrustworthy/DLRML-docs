@@ -12,6 +12,7 @@ During the hyperspace mountain overlay, this loop can be heard in the hallway wh
 
 ## Tracklist
 
-1. Alliance Assembly – John Williams – Star Wars Episode VI: Return Of The Jedi
+1\. Alliance Assembly – John Williams – Star Wars Episode VI: Return Of The Jedi
+
 - Loop Track Length: 02:03.483
 - Track Notes: Single-track loop, start - 2:03.984 of track

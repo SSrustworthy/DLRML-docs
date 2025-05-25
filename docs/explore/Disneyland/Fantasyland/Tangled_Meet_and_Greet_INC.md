@@ -12,14 +12,18 @@ This is a partial loop of the Tangled Meet-and-Greet from Fantasyland from Octob
 
 ## Tracklist
 
-1. Kingdom Dance – Tangled OST
+1\. Kingdom Dance – Tangled OST
 
 
-NA. Kiss Interrupted – Tangled OST
+
+NA\. Kiss Interrupted – Tangled OST
 
 
-NA. The Tear Heals [Edited] – Tangled OST
+
+NA\. The Tear Heals [Edited] – Tangled OST
+
 - Track Notes: Edit; fade in around 5:04 of the soundtrack version
 
-NA. Waiting For the Lights – Tangled OST
+NA\. Waiting For the Lights – Tangled OST
+
 

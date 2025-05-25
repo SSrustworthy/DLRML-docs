@@ -10,35 +10,46 @@ A preliminary tracklist compiled by pixelated for Luigi’s Flying Tires exterio
 
 ## Tracklist
 
-1. Signorinella Mia – Angelo Petisi – 'Sunny Mandolins - Italia - Italy' OR Dinner In Italy
+1\. Signorinella Mia – Angelo Petisi – 'Sunny Mandolins - Italia - Italy' OR Dinner In Italy
 
 
-2. Canzone Per Loretta – Dick Hyman – Moonstruck OST
+
+2\. Canzone Per Loretta – Dick Hyman – Moonstruck OST
+
 - Album Track Number: 9
 
-3. Carnavale Veneziano – Angelo Petisi and his Neopolitan Mandolins – Serenades And Tarentellas OR Dinner In Italy
+3\. Carnavale Veneziano – Angelo Petisi and his Neopolitan Mandolins – Serenades And Tarentellas OR Dinner In Italy
 
 
-4. Guaglione – Carlo Savina and His Orchestra – Viva Italia! Festive Italian Classics
+
+4\. Guaglione – Carlo Savina and His Orchestra – Viva Italia! Festive Italian Classics
 
 
-5. Maria Graziella – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
+
+5\. Maria Graziella – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
 
 
-6. Ciribiribin – Angelo Petisi – 'Sunny Mandolins - Italia - Italy' OR Dinner In Italy
+
+6\. Ciribiribin – Angelo Petisi – 'Sunny Mandolins - Italia - Italy' OR Dinner In Italy
 
 
-7. Unknown A (starts with accordion, then joined by bass, clarinet and mandolin) – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
+
+7\. Unknown A (starts with accordion, then joined by bass, clarinet and mandolin) – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
 
 
-8. Old Man Mazurka – Dick Hyman & Dominic Cortese – Moonstruck OST
+
+8\. Old Man Mazurka – Dick Hyman & Dominic Cortese – Moonstruck OST
 
 
-9. La Mazurca di Vicenzina – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
+
+9\. La Mazurca di Vicenzina – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
 
 
-10. Mattinata – Romano Ledenzio and His Orchestra – Viva Italia! Festive Italian Classics
+
+10\. Mattinata – Romano Ledenzio and His Orchestra – Viva Italia! Festive Italian Classics
 
 
-11. Unknown tarantella – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
+
+11\. Unknown tarantella – (as of 2011) Tokyo DisneySea Porto Paradiso BGM
+
 

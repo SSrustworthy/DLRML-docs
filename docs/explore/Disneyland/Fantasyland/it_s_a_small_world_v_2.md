@@ -10,5 +10,6 @@ This was the IASW queue music when the ride score was composed by John Debney. S
 
 ## Tracklist
 
-NA. Disneyland Paris Variation I – Walt Disney and the 1964 World’s Fair
+NA\. Disneyland Paris Variation I – Walt Disney and the 1964 World’s Fair
+
 

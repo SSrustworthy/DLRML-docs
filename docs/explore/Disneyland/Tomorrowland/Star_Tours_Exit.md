@@ -12,6 +12,7 @@ This music played in the exit hall of the attraction. It is essentially the Star
 
 ## Tracklist
 
-1. Star Wars Theme – Treasures of Fantasy (1995 Box Set)
+1\. Star Wars Theme – Treasures of Fantasy (1995 Box Set)
+
 - Loop Track Length: 09:53
 - Track Notes: This track was looped twice, with a bridge between the iterations, to form the full loop.

@@ -10,80 +10,106 @@ Compiled by StarWarsGalaxysEdge (MouseBits; 2022). See [https://mousebits.com/sm
 
 ## Tracklist
 
-1.  Kentucky Slide – Jeremy Sherman – Country, USA
+1\.  Kentucky Slide – Jeremy Sherman – Country, USA
 
 
-2.  UNKNOWN A
+
+2\.  UNKNOWN A
 
 
-3.  Banjolin – Jeremy Sherman – US Country Old & New
+
+3\.  Banjolin – Jeremy Sherman – US Country Old & New
 
 
-4.  Country Banjo Funk – Mike Eaves – Plan B
+
+4\.  Country Banjo Funk – Mike Eaves – Plan B
 
 
-5.  Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
+
+5\.  Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
 
 
-6.  Stomping at the Barn – Dave James, Keith Beauvais – Stomping Country
+
+6\.  Stomping at the Barn – Dave James, Keith Beauvais – Stomping Country
 
 
-7.  Bare Necessities ("Jungle Book") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
+
+7\.  Bare Necessities ("Jungle Book") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
 
 
-8.  Everybody Loves Moonshine – Tim Reilly, Jeremy Sherman, Jason Pedder – Banjo & Beats
+
+8\.  Everybody Loves Moonshine – Tim Reilly, Jeremy Sherman, Jason Pedder – Banjo & Beats
 
 
-9.  Country Rag – Jeremy Sherman – Country, USA 2
+
+9\.  Country Rag – Jeremy Sherman – Country, USA 2
 
 
-10.  Old Kent Road – Jeremy Sherman – Old Timer Country
+
+10\.  Old Kent Road – Jeremy Sherman – Old Timer Country
 
 
-11.  Roan Mountain Dance – Leon Hunt, Josh Clark – Banjo
+
+11\.  Roan Mountain Dance – Leon Hunt, Josh Clark – Banjo
 
 
-12.  I Wanna Be Like You ("Jungle Book") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
+
+12\.  I Wanna Be Like You ("Jungle Book") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
 
 
-13.  UNKNOWN B
+
+13\.  UNKNOWN B
 
 
-14.  Rough Rider – Dave James, Keith Beauvais – Stomping Country
+
+14\.  Rough Rider – Dave James, Keith Beauvais – Stomping Country
 
 
-15.  Kentucky Slide – Jeremy Sherman – Country, USA
+
+15\.  Kentucky Slide – Jeremy Sherman – Country, USA
 
 
-16.  UNKNOWN A
+
+16\.  UNKNOWN A
 
 
-17.  Country Banjo Funk – Mike Eaves – Plan B
+
+17\.  Country Banjo Funk – Mike Eaves – Plan B
 
 
-18.  Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
+
+18\.  Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
 
 
-19.  Dust Kicker – Dave James, Keith Beauvais – Stomping Country
+
+19\.  Dust Kicker – Dave James, Keith Beauvais – Stomping Country
 
 
-20.  Bare Necessities ("Jungle Book") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
+
+20\.  Bare Necessities ("Jungle Book") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
 
 
-21.  Banjo Man – Lincoln Grounds, Michael Pearse – Banjo & Beats
+
+21\.  Banjo Man – Lincoln Grounds, Michael Pearse – Banjo & Beats
 
 
-22.  Heigh-Ho ("Snow White") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
+
+22\.  Heigh-Ho ("Snow White") – Pickin' On Series – Heigh Ho Banjo: Bluegrass Salutes Favorite Disney Songs
 
 
-23.  Sour Apples – Duncan Pittock, Ellie Kidd, Igor Dvorkin – Folk & Nu Folk
+
+23\.  Sour Apples – Duncan Pittock, Ellie Kidd, Igor Dvorkin – Folk & Nu Folk
 
 
-24.  Country Rag – Jeremy Sherman – Country, USA 2
+
+24\.  Country Rag – Jeremy Sherman – Country, USA 2
 
 
-25.  UNKNOWN B 
+
+25\.  UNKNOWN B 
 
 
-26.  Rough Rider – Dave James, Keith Beauvais – Stomping Country
+
+26\.  Rough Rider – Dave James, Keith Beauvais – Stomping Country
+
 

@@ -10,23 +10,30 @@ This loop was an augmented version of the EPCOT Center 1982 entrance loop. It pl
 
 ## Tracklist
 
-1. Energy, You Make the World Go Round – George Wilkins – Unreleased
+1\. Energy, You Make the World Go Round – George Wilkins – Unreleased
 
 
-2. Golden Dream – George Wilkins – Unreleased
+
+2\. Golden Dream – George Wilkins – Unreleased
 
 
-3. Fun to Be Free – George Wilkins – Unreleased
+
+3\. Fun to Be Free – George Wilkins – Unreleased
 
 
-4. Listen to the Land – George Wilkins – Unreleased
+
+4\. Listen to the Land – George Wilkins – Unreleased
 
 
-5. Imagination – George Wilkins – Unreleased
+
+5\. Imagination – George Wilkins – Unreleased
 
 
-6. Magic Journeys – George Wilkins – Unreleased
+
+6\. Magic Journeys – George Wilkins – Unreleased
 
 
-7. Feel the Flow (Universe of Energy) – George Wilkins – Unreleased
+
+7\. Feel the Flow (Universe of Energy) – George Wilkins – Unreleased
+
 

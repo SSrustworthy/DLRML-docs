@@ -14,7 +14,8 @@ This is the most recent iteration of the Haunted Mansion Holiday queue, with onl
 
 ## Tracklist
 
-1. Ghostly Music Box – The Haunted Mansion [2009]
+1\. Ghostly Music Box – The Haunted Mansion [2009]
+
 - Track Notes: Album track length 02:06.667; A good way to replicate the loop, with some wiggle room on recreating the looping bridge, is 
 to edit the track to remove 00:00.000 - 00:05.935; 01:55.950 - end; Repeat portion of track 00:59.447 - 01:02.336 at end of edited track to form loop. Slow down tempo of track by 7.2%.
 - Album Track Number: 2

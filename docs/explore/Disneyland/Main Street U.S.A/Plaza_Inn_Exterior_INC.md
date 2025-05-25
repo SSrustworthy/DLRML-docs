@@ -12,50 +12,66 @@ This loop played in the outdoor patio area outside the Plaza Inn dining rooms. T
 
 ## Tracklist
 
-1. In An Eighteenth Century Drawing Room
+1\. In An Eighteenth Century Drawing Room
 
 
-2. Boccherini Minuet
+
+2\. Boccherini Minuet
 
 
-3. Lullaby of the Leaves
+
+3\. Lullaby of the Leaves
 
 
-4. Dotted Swiss Polka
+
+4\. Dotted Swiss Polka
 
 
-5. Disney Medley (Feed the Birds / Let's Go Fly a Kite / Zip-a-Dee-Doo-Dah / When You Wish Upon a Star / Supercalifragilisticexpialidocious)
+
+5\. Disney Medley (Feed the Birds / Let's Go Fly a Kite / Zip-a-Dee-Doo-Dah / When You Wish Upon a Star / Supercalifragilisticexpialidocious)
 
 
-6. South Medley (Swanee River / Basin Street Blues / Do You Know What It Means to Miss New Orleans? / Unknown)
+
+6\. South Medley (Swanee River / Basin Street Blues / Do You Know What It Means to Miss New Orleans? / Unknown)
 
 
-7. Porgy & Bess Medley – Frank Chacksfield & His Orchestra
+
+7\. Porgy & Bess Medley – Frank Chacksfield & His Orchestra
 
 
-8. My Ship
+
+8\. My Ship
 
 
-9. Minuet in G (electric piano only)
+
+9\. Minuet in G (electric piano only)
 
 
-10. Scarlet Ribbons
+
+10\. Scarlet Ribbons
 
 
-11. French Medley
+
+11\. French Medley
 
 
-12. Love is Blue
+
+12\. Love is Blue
 
 
-13. Say It with Disney Music Medley (When You Wish Upon a Star / Unknown / Someday My Prince Will Come)
+
+13\. Say It with Disney Music Medley (When You Wish Upon a Star / Unknown / Someday My Prince Will Come)
 
 
-14. Medley From "Fiddler On The Roof”
+
+14\. Medley From "Fiddler On The Roof”
 
 
-15. Finian's Rainbow Medley
+
+15\. Finian's Rainbow Medley
 
 
-16. Dancing on the Ceiling (electric piano only)
+
+16\. Dancing on the Ceiling (electric piano only)
+
 

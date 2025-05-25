@@ -10,38 +10,50 @@ This is a loop of musical video clips that plays in the Pioneer Mercantile retai
 
 ## Tracklist
 
-1. Colors of the Wind (Pocahontas)
+1\. Colors of the Wind (Pocahontas)
 
 
-2. Pecos Bill (Melody Time; edited)
+
+2\. Pecos Bill (Melody Time; edited)
+
 - Track Notes: This was edited
 
-3. Woody's Round-Up (Video Version)
+3\. Woody's Round-Up (Video Version)
 
 
-4. Welcome (Brother Bear)
+
+4\. Welcome (Brother Bear)
 
 
-5. Yodel-Adle-Eedle-Idle-Oo (Home on the Range)
+
+5\. Yodel-Adle-Eedle-Idle-Oo (Home on the Range)
 
 
-6. Mine, Mine, Mine (Pocahontas)
+
+6\. Mine, Mine, Mine (Pocahontas)
 
 
-7. Best of Friends (Fox and the Hound)
+
+7\. Best of Friends (Fox and the Hound)
 
 
-8. Sheriff Callie's Wild West
+
+8\. Sheriff Callie's Wild West
+
 - Track Notes: This is the theme song from the Disney Junior show
 
-9. Little Patch of Heaven (Home on the Range)
+9\. Little Patch of Heaven (Home on the Range)
 
 
-10. Just Around the Riverbend (Pocahontas)
+
+10\. Just Around the Riverbend (Pocahontas)
 
 
-11. A Cowboy Needs a Horse
+
+11\. A Cowboy Needs a Horse
 
 
-12. On My Way (Brother Bear)
+
+12\. On My Way (Brother Bear)
+
 

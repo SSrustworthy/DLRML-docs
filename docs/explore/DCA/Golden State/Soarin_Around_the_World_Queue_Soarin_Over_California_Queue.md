@@ -14,35 +14,44 @@ This loop is audible inside the Soarin’ hangar prior to the entering the presh
 
 ## Tracklist
 
-1. Girls of Many Nations in DC/Soft Rebellion/Reprise of The Distinguished Gentleman & Finale – Randy Edelman – The Distinguished Gentleman (1992 Film)
+1\. Girls of Many Nations in DC/Soft Rebellion/Reprise of The Distinguished Gentleman & Finale – Randy Edelman – The Distinguished Gentleman (1992 Film)
+
 - Loop Track Length: 1:39/1:21/2:24
 
-2. Main Titles – Marc Shaiman – The American President: Original Score From The Motion Picture
+2\. Main Titles – Marc Shaiman – The American President: Original Score From The Motion Picture
+
 - Loop Track Length: 2:26
 
-3. Evening Tide – Dave Roylance & Bob Galvin – Battle of the Atlantic Suite
+3\. Evening Tide – Dave Roylance & Bob Galvin – Battle of the Atlantic Suite
+
 - Loop Track Length: ~2:19
 - Track Notes: Edited
 
-4. You're On – James Newton Howard – Dave: Original Soundtrack Album
+4\. You're On – James Newton Howard – Dave: Original Soundtrack Album
+
 - Loop Track Length: ~1:42
 - Track Notes: Edited
 
-5. Victory at Ed Parker's – Randy Edelman – Dragon: The Bruce Lee Story - Original Motion Picture Soundtrack
+5\. Victory at Ed Parker's – Randy Edelman – Dragon: The Bruce Lee Story - Original Motion Picture Soundtrack
+
 - Loop Track Length: ~0:53
 - Track Notes: Edited
 
-6. The Premiere of The Big Boss – Randy Edelman – Dragon: The Bruce Lee Story - Original Motion Picture Soundtrack
+6\. The Premiere of The Big Boss – Randy Edelman – Dragon: The Bruce Lee Story - Original Motion Picture Soundtrack
+
 - Loop Track Length: 1:44
 
-7. End Titles – Marc Shaiman – The American President: Original Score From The Motion Picture
+7\. End Titles – Marc Shaiman – The American President: Original Score From The Motion Picture
+
 - Loop Track Length: ~4:53
 - Track Notes: Edited
 
-8. Overture (From "The Blue Max") – Jerry Goldsmith & Philharmonia Orchestra – Goldsmith Conducts Goldsmith
+8\. Overture (From "The Blue Max") – Jerry Goldsmith & Philharmonia Orchestra – Goldsmith Conducts Goldsmith
+
 - Loop Track Length: ~1:48
 - Track Notes: Edited
 
-9. The Generals Suite (From "Macarthur & Patton") – Jerry Goldsmith & Philharmonia Orchestra – Goldsmith Conducts Goldsmith
+9\. The Generals Suite (From "Macarthur & Patton") – Jerry Goldsmith & Philharmonia Orchestra – Goldsmith Conducts Goldsmith
+
 - Loop Track Length: ~5:08
 - Track Notes: Edited

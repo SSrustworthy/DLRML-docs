@@ -10,5 +10,6 @@ This was a loop of a single song that played on a video screen in the Spirit of 
 
 ## Tracklist
 
-1. Colors of the Wind (Pocahontas)
+1\. Colors of the Wind (Pocahontas)
+
 - Track Notes: This was the full musical scene from the movie.

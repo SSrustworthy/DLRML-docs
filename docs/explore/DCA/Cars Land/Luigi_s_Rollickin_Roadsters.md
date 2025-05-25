@@ -10,17 +10,22 @@ A tracklist based on the Disneyland News press release: [https://web.archive.org
 
 ## Tracklist
 
-1. Rollicking Night and Day – Sung by Luigi (Tony Shalhoub)
+1\. Rollicking Night and Day – Sung by Luigi (Tony Shalhoub)
 
 
-2. Mambo Italiano – Sung by Cousin Rosetta
+
+2\. Mambo Italiano – Sung by Cousin Rosetta
 
 
-3. The Tire-antella – Call outs from Luigi (Tony Shalhoub)
+
+3\. The Tire-antella – Call outs from Luigi (Tony Shalhoub)
 
 
-4. Eh, Cumpari – Sung by Cousin Lou
+
+4\. Eh, Cumpari – Sung by Cousin Lou
 
 
-5. Funiculi Funicula – Call outs from Luigi (Tony Shalhoub)
+
+5\. Funiculi Funicula – Call outs from Luigi (Tony Shalhoub)
+
 

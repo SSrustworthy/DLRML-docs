@@ -10,5 +10,6 @@ This loop played in the vicinity of the Coca Cola Ice Cold Refreshment drive-in,
 
 ## Tracklist
 
-1. Too Much Monkey Business – Chuck Berry
+1\. Too Much Monkey Business – Chuck Berry
+
 - Track Notes: This is the only song in the loop. It could be heard between radio announcements about the gorilla on the loose (see MouseBits post for transcript).

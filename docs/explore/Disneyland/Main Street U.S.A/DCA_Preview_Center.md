@@ -10,17 +10,22 @@ No reference recording exists, but these tracks were remembered by MouseBits mem
 
 ## Tracklist
 
-1. Hooray for Hollywood – Dorris Day
+1\. Hooray for Hollywood – Dorris Day
 
 
-NA. City Of Angels – Red Hot Chili Peppers
+
+NA\. City Of Angels – Red Hot Chili Peppers
 
 
-NA. California Girls – The Beach Boys
+
+NA\. California Girls – The Beach Boys
 
 
-NA. Surfing USA – The Beach Boys
+
+NA\. Surfing USA – The Beach Boys
 
 
-NA. The Muppet Show Theme
+
+NA\. The Muppet Show Theme
+
 

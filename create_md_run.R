@@ -28,4 +28,4 @@ iterate_venues("Disneyland")
 iterate_venues("DCA")
 iterate_venues("Other")
 
-now -Sys.time()
+Sys.time() - now

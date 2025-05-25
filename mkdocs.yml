@@ -35,7 +35,7 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
-
+ 
 extra:
   social:
     - icon: material/email-outline

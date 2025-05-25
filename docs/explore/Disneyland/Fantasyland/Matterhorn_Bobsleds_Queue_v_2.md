@@ -10,50 +10,61 @@ This loop was introduced with the reopening of the Matterhorn Bobsleds on June 1
 
 ## Tracklist
 
-1. Im Chuchichaschtli – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+1\. Im Chuchichaschtli – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+
 - Loop Track Length: 02:36
 - Album Label: STAR
 
-2. Alpaufzug Luzarner Chilby – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+2\. Alpaufzug Luzarner Chilby – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+
 - Loop Track Length: 01:42
 - Track Notes: Edited to include ~00:42 - End.
 - Album Label: STAR
 
-3. Am Hinterrhein (At The Source Of The Rhine) – Bündner Ländlerquintett – A Visit to Switzerland (Capitol ST-10264)
+3\. Am Hinterrhein (At The Source Of The Rhine) – Bündner Ländlerquintett – A Visit to Switzerland (Capitol ST-10264)
+
 - Loop Track Length: 02:31
 - Album Label: Capitol
 
-4. Lusbübe-Ländler (Naughty Boy Ländler) – Ländlerkapelle Oberland – A Visit to Switzerland (Capitol ST-10264)
+4\. Lusbübe-Ländler (Naughty Boy Ländler) – Ländlerkapelle Oberland – A Visit to Switzerland (Capitol ST-10264)
+
 - Loop Track Length: 02:24
 - Track Notes: Edited to include ~00:04 - End.
 - Album Label: Capitol
 
-5. Obervazer-Schottisch – Bündner Ländlerquintett – A Visit to Switzerland (Capitol ST-10264)
+5\. Obervazer-Schottisch – Bündner Ländlerquintett – A Visit to Switzerland (Capitol ST-10264)
+
 - Loop Track Length: 02:44
 - Album Label: Capitol
 
-6. Am Trachtefescht – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+6\. Am Trachtefescht – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+
 - Loop Track Length: 02:34
 - Album Label: STAR
 
-7. Schi Scha Schatzeli – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+7\. Schi Scha Schatzeli – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+
 - Loop Track Length: 00:31
 - Track Notes: Edited to include ~01:51 - End.
 - Album Label: STAR
 
-8. Der Klarinettenmuckel (The Boy with the Clarinet) – Alfons Bauer And The Bavarian Entertainers – Music of the German Alps (Capitol ST-10211)
+8\. Der Klarinettenmuckel (The Boy with the Clarinet) – Alfons Bauer And The Bavarian Entertainers – Music of the German Alps (Capitol ST-10211)
+
 - Loop Track Length: 00:41
 - Album Label: Capitol
 
-9. Schneidig Voran (Marching Ahead) – Alfons Bauer And The Bavarian Entertainers – Music of the German Alps (Capitol ST-10211)
+9\. Schneidig Voran (Marching Ahead) – Alfons Bauer And The Bavarian Entertainers – Music of the German Alps (Capitol ST-10211)
+
 - Loop Track Length: 04:09
 - Album Label: Capitol
 
-10. Beim Augustfeuer (By The Bonfire) – Ländlerkapelle Bärner Mutze – A Visit to Switzerland (Capitol ST-10264)
+10\. Beim Augustfeuer (By The Bonfire) – Ländlerkapelle Bärner Mutze – A Visit to Switzerland (Capitol ST-10264)
+
 - Loop Track Length: 02:45
 - Album Label: Capitol
 
-11. Zwilchhose-Ländler (Long Underwear Ländler) – Ländlerkapelle Bärner Mutze With Sepp Sutter – A Visit to Switzerland (Capitol ST-10264)
+11\. Zwilchhose-Ländler (Long Underwear Ländler) – Ländlerkapelle Bärner Mutze With Sepp Sutter – A Visit to Switzerland (Capitol ST-10264)
+
 - Loop Track Length: 02:42
 - Track Notes: New addition to the loop from v.1.
 - Album Label: Capitol

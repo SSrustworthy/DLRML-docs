@@ -10,17 +10,22 @@ This loop plays in the Disco Tribute area of the MMRR interior queue. The order 
 
 ## Tracklist
 
-1. Disco Mickey Mouse – Mickey Mouse Disco
+1\. Disco Mickey Mouse – Mickey Mouse Disco
 
 
-2. Ducks Dance, Too – Mousercise
+
+2\. Ducks Dance, Too – Mousercise
 
 
-3. Mousercise Medley – Mousercise
+
+3\. Mousercise Medley – Mousercise
 
 
-4. Macho Duck – Mickey Mouse Disco
+
+4\. Macho Duck – Mickey Mouse Disco
 
 
-5. Watch Out For Goofy! – Mickey Mouse Disco
+
+5\. Watch Out For Goofy! – Mickey Mouse Disco
+
 

@@ -12,11 +12,14 @@ This loop played on board the PeopleMover speedramp. See Magic Music, [https://c
 
 ## Tracklist
 
-1. Go, Go Goodyear (march version)
+1\. Go, Go Goodyear (march version)
 
 
-2. Go, Go Goodyear (cha-cha version)
+
+2\. Go, Go Goodyear (cha-cha version)
 
 
-3. Go, Go Goodyear (jazz version)
+
+3\. Go, Go Goodyear (jazz version)
+
 

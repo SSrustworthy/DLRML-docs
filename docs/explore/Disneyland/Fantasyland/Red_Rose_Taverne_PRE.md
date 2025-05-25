@@ -12,36 +12,47 @@ The Red Rose Taverne took over Pinocchio’s Village Haus on February  24, 2017.
 
 ## Tracklist
 
-1. Gaston
+1\. Gaston
 
 
-2. Be Our Guest – Beauty and the Beast: Original Motion Picture Soundtrack
+
+2\. Be Our Guest – Beauty and the Beast: Original Motion Picture Soundtrack
+
 
 - Track Notes: Soundtrack version, including vocals
 
-3. Me
+3\. Me
 
 
-4. Human Again
+
+4\. Human Again
 
 
-5. To the Fair
+
+5\. To the Fair
 
 
-6. Beauty and the Beast
+
+6\. Beauty and the Beast
 
 
-7. Gaston
+
+7\. Gaston
 
 
-8. Be Our Guest
+
+8\. Be Our Guest
 
 
-9. Maison de Lunes
+
+9\. Maison de Lunes
 
 
-10. Something There
+
+10\. Something There
 
 
-11. Belle
+
+11\. Belle
+
 

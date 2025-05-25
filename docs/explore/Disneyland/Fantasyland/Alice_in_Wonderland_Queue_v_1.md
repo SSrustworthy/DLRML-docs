@@ -12,5 +12,6 @@ The main title was the queue music for the original, pre-1984 attraction. See Ma
 
 ## Tracklist
 
-1. Main Title (Alice in Wonderland) – Alice in Wonderland OST
+1\. Main Title (Alice in Wonderland) – Alice in Wonderland OST
+
 

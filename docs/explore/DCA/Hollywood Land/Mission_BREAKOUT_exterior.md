@@ -12,53 +12,70 @@ A preliminary tracklist for the Guardians of the Galaxy – Mission: BREAKOUT!' 
 
 ## Tracklist
 
-1.   Mr. Blue Sky – ELO
+1\.   Mr. Blue Sky – ELO
+
 - Loop Track Length: Preceded by a ~0.38-0.66 secs silent gap
 
-2.   Best of My Love – The Emotions
+2\.   Best of My Love – The Emotions
 
 
-3.   Hooked on a Feeling – Blue Suede
+
+3\.   Hooked on a Feeling – Blue Suede
 
 
-4.   Magic – Pilot
+
+4\.   Magic – Pilot
 
 
-5.   Walk Away – James Gang
+
+5\.   Walk Away – James Gang
 
 
-6.   Don't Stop Me Now – Queen
+
+6\.   Don't Stop Me Now – Queen
 
 
-7.   Lake Shore Drive – Aliotta Haynes Jeremiah
+
+7\.   Lake Shore Drive – Aliotta Haynes Jeremiah
 
 
-8.   Southern Nights – Glen Campbell
+
+8\.   Southern Nights – Glen Campbell
 
 
-9.   My Sweet Lord – George Harrison – All Things Must Pass
+
+9\.   My Sweet Lord – George Harrison – All Things Must Pass
 
 
-10.   Brandy (You're a Fine Girl) – Looking Glass
+
+10\.   Brandy (You're a Fine Girl) – Looking Glass
 
 
-11.   Surrender – Cheap Trick
+
+11\.   Surrender – Cheap Trick
 
 
-12.   Spirit in the Sky – Norman Greenbaum
+
+12\.   Spirit in the Sky – Norman Greenbaum
 
 
-13.   Boys are Back in Town – Thin Lizzy
+
+13\.   Boys are Back in Town – Thin Lizzy
 
 
-14.   Living Thing – ELO
+
+14\.   Living Thing – ELO
 
 
-15.   O-o-h Child – The Five Stairsteps
+
+15\.   O-o-h Child – The Five Stairsteps
 
 
-16.   Still the One – Orleans
+
+16\.   Still the One – Orleans
 
 
-17.   Rock and Roll All Nite – KISS
+
+17\.   Rock and Roll All Nite – KISS
+
 

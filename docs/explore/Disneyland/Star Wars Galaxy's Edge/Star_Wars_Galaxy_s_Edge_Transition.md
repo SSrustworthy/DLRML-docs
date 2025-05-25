@@ -12,5 +12,6 @@ This plays at all three entrance points to SW:GE at Frontierland, Critter Countr
 
 ## Tracklist
 
-1. Star Wars Galaxy’s Edge Entrance Theme – Randy Kerber – Unreleased (on [https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme](https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme))
+1\. Star Wars Galaxy’s Edge Entrance Theme – Randy Kerber – Unreleased (on [https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme](https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme))
+
 - Loop Track Length: 00:04:54.306

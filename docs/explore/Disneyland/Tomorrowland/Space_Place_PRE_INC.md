@@ -12,14 +12,18 @@ About 15 minutes of an identified loop from a Jack Wagner tape [https://waltsmus
 
 ## Tracklist
 
-1. My Place in Space – Jimmy Smith – Sit On It!
+1\. My Place in Space – Jimmy Smith – Sit On It!
 
 
-2. Shadows – The Mysterious Flying Orchestra – The Mysterious Flying Orchestra
+
+2\. Shadows – The Mysterious Flying Orchestra – The Mysterious Flying Orchestra
 
 
-3. Affirmation – George Benson – Breezin’
+
+3\. Affirmation – George Benson – Breezin’
 
 
-4. Crystal Mellow – The Memphis Horn – High on Music
+
+4\. Crystal Mellow – The Memphis Horn – High on Music
+
 

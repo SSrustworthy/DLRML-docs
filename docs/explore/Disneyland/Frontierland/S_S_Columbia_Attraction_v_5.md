@@ -12,38 +12,49 @@ This music was played onboard the S.S. Columbia interspersed with the show narra
 
 ## Tracklist
 
-1. Clear The Track – Norman Luboff Choir – Songs of the Sea
+1\. Clear The Track – Norman Luboff Choir – Songs of the Sea
 
 
-2. One More Day – Norman Luboff Choir – Songs of the Sea
+
+2\. One More Day – Norman Luboff Choir – Songs of the Sea
+
 - Album Label: Columbia Records
 
-3. Away Rio – David Coffin, Kevin Fallon, Otis Read – The Wind in the Rigging
+3\. Away Rio – David Coffin, Kevin Fallon, Otis Read – The Wind in the Rigging
+
 - Album Label: Columbia Records
 
-4. The Old-Rigged Ship – Toucan Pirates – Sea Changes of the Toucan Pirates
+4\. The Old-Rigged Ship – Toucan Pirates – Sea Changes of the Toucan Pirates
+
 - Album Track Number: 2
 - Album Label: North Star Records
 
-5. The Staines Morris – Toucan Pirates – Battle Songs of the Toucan Pirates
+5\. The Staines Morris – Toucan Pirates – Battle Songs of the Toucan Pirates
 
 
-6. Fare Ye Well 2202/9 – Richard Lacy, David Bird, Terry Maskill – Maritime ANW 2202
+
+6\. Fare Ye Well 2202/9 – Richard Lacy, David Bird, Terry Maskill – Maritime ANW 2202
 
 
-7. The Reconciliation – Toucan Pirates – Battle Songs of the Toucan Pirates
+
+7\. The Reconciliation – Toucan Pirates – Battle Songs of the Toucan Pirates
+
 - Track Notes: Edited; starts at 1:11 of the ANW track
 - Album Label: Audio Network
 
-8. Whiskey Before Breakfast – Toucan Pirates – Sea Changes of the Toucan Pirates
+8\. Whiskey Before Breakfast – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
-9. The Jib Polka – Toucan Pirates – Sea Changes of the Toucan Pirates
+
+9\. The Jib Polka – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
-10. Blow The Man Down – Norman Luboff Choir – Songs of the Sea
+
+10\. Blow The Man Down – Norman Luboff Choir – Songs of the Sea
+
 - Track Notes: Load/Unload
 - Album Label: Columbia Records
 
-11. Turpin Hero – Toucan Pirates – Sea Changes of the Toucan Pirates
+11\. Turpin Hero – Toucan Pirates – Sea Changes of the Toucan Pirates
+
 - Track Notes: Load/Unload

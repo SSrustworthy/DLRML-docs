@@ -14,5 +14,6 @@ These tracks played in the Toy Story Midway Mania! queue prior to the usage of t
 
 ## Tracklist
 
-NA. See loop notes
+NA\. See loop notes
+
 

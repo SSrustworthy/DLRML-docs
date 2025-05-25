@@ -12,38 +12,50 @@ This exact loop is unverified, but is here as a placeholder for 1971-1976. This 
 
 ## Tracklist
 
-1. Strolling Through the Park — Mary – The Gaslight Orchestra – Gay Nineties Waltzes
+1\. Strolling Through the Park — Mary – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-2. Bicycle Built For Two – The Gaslight Orchestra – Gay Nineties Waltzes
+2\. Bicycle Built For Two – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-3. Annie Rooney – The Gaslight Orchestra – Gay Nineties Waltzes
+3\. Annie Rooney – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-4. In the Good Old Summer Time – The Gaslight Orchestra – Gay Nineties Waltzes
+4\. In the Good Old Summer Time – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-5. Tammany Picnic – The Gaslight Orchestra – Gay Nineties Waltzes
+5\. Tammany Picnic – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-6. After the Ball – The Gaslight Orchestra – Gay Nineties Waltzes
+6\. After the Ball – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-7. Sidewalks of New York – The Gaslight Orchestra – Gay Nineties Waltzes
+7\. Sidewalks of New York – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-8. And the Band Played On – The Gaslight Orchestra – Gay Nineties Waltzes
+8\. And the Band Played On – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-9. Horse Cars – The Gaslight Orchestra – Gay Nineties Waltzes
+9\. Horse Cars – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-10. Sweet Rosie O’Grady – The Gaslight Orchestra – Gay Nineties Waltzes
+10\. Sweet Rosie O’Grady – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-11. School Days – The Gaslight Orchestra – Gay Nineties Waltzes
+11\. School Days – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset
 
-12. Man on the Flying Trapeze – The Gaslight Orchestra – Gay Nineties Waltzes
+12\. Man on the Flying Trapeze – The Gaslight Orchestra – Gay Nineties Waltzes
+
 - Album Label: Somerset

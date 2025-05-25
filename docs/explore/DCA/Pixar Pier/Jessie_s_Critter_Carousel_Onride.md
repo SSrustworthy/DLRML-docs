@@ -14,20 +14,26 @@ This is an attraction loop that plays onboard Jessie’s Critter Carousel. The t
 
 ## Tracklist
 
-1. Hey Howdy Hey – Unreleased
+1\. Hey Howdy Hey – Unreleased
 
 
-2. Jessie Saves the Day – Unreleased
+
+2\. Jessie Saves the Day – Unreleased
 
 
-3. Prospector Pete – Unreleased
+
+3\. Prospector Pete – Unreleased
 
 
-4. The Ballad of Bullseye – Unreleased
+
+4\. The Ballad of Bullseye – Unreleased
 
 
-5. Jessie, The Yodeling Cowgirl – Unreleased
+
+5\. Jessie, The Yodeling Cowgirl – Unreleased
 
 
-6. Woody’s Roundup – Unreleased
+
+6\. Woody’s Roundup – Unreleased
+
 

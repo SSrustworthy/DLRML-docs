@@ -10,32 +10,42 @@ This loop was originally posted on Kristen’s Disney Music Loops site: [https:/
 
 ## Tracklist
 
-1. A Spoonful of Sugar
+1\. A Spoonful of Sugar
 
 
-2. Good Manners Announcement, "Good Morning”
+
+2\. Good Manners Announcement, "Good Morning”
 
 
-3. Once Upon a Dream
+
+3\. Once Upon a Dream
 
 
-4. Bibbidi-Bobbidi-Boo
+
+4\. Bibbidi-Bobbidi-Boo
 
 
-5. Saddle Back
+
+5\. Saddle Back
+
 - Track Notes: This may have been played while a character skit was ongoing.
 
-6. A Whole New World
+6\. A Whole New World
 
 
-7. Whistle While You Work
+
+7\. Whistle While You Work
 
 
-8. Unknown
+
+8\. Unknown
 
 
-9. Chim Chim Cheree
+
+9\. Chim Chim Cheree
 
 
-10. Beauty and the Beast
+
+10\. Beauty and the Beast
+
 

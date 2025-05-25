@@ -14,66 +14,87 @@ This loop plays inside of Rushin’ River Outfitters and originated with the par
 
 ## Tracklist
 
-1. Big Bug Shuffle – Douglas, Barenberg, and Meyer – Skip Hop & Wobble (Sugarhill)
+1\. Big Bug Shuffle – Douglas, Barenberg, and Meyer – Skip Hop & Wobble (Sugarhill)
+
 - Loop Track Length: 00:03:39.540
 
-2. Something That We Do – Clint Black – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+2\. Something That We Do – Clint Black – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+
 - Loop Track Length: 00:02:44.245
 
-3. Opportunity – T.J. Baden – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+3\. Opportunity – T.J. Baden – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+
 - Loop Track Length: 00:03:42.925
 
-4. Open Arms – Russ Barenberg – Moving Pictures (Rounder Select)
+4\. Open Arms – Russ Barenberg – Moving Pictures (Rounder Select)
+
 - Loop Track Length: 00:03:22.681
 
-5. Battle in the Valley of Elah – Doyle Dykes – H.E.A.T. (Step One Records)
+5\. Battle in the Valley of Elah – Doyle Dykes – H.E.A.T. (Step One Records)
+
 - Loop Track Length: 00:03:40.092
 
-6. Our Time – Russ Barenberg – Moving Pictures (Rounder Select)
+6\. Our Time – Russ Barenberg – Moving Pictures (Rounder Select)
+
 - Loop Track Length: 00:04:32.799
 
-7. The Claw – Clint Black – Sounds of Wood and Steel (Windham HIll)
+7\. The Claw – Clint Black – Sounds of Wood and Steel (Windham HIll)
+
 - Loop Track Length: 00:01:56.273
 
-8. Jazz in the Box – Doyle Dykes – Fingerstyle Guitar (Step One Records)
+8\. Jazz in the Box – Doyle Dykes – Fingerstyle Guitar (Step One Records)
+
 - Loop Track Length: 00:03:26.916
 
-9. Year Down in New Orleans – Nanci Griffith – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+9\. Year Down in New Orleans – Nanci Griffith – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+
 - Loop Track Length: 00:01:57.626
 
-10. This Land is Your Land – Woody Guthrie and Arlo Guthrie – This Land Is Your Land (Rounder)
+10\. This Land is Your Land – Woody Guthrie and Arlo Guthrie – This Land Is Your Land (Rounder)
+
 - Loop Track Length: 00:03:42.481
 
-11. Over the Pass – Chris Proctor – Guitarist: Composer Sampler (Kicking Mule)
+11\. Over the Pass – Chris Proctor – Guitarist: Composer Sampler (Kicking Mule)
+
 - Loop Track Length: 00:04:31.087
 - Track Notes: Commercially available albums produce different track speed
 
-12. "Bubba" Gad – Doyle Dykes – H.E.A.T. (Step One Records)
+12\. "Bubba" Gad – Doyle Dykes – H.E.A.T. (Step One Records)
+
 - Loop Track Length: 00:04:21.139
 
-13. Through the Gates – Russ Barenberg – Moving Pictures (Rounder Select)
+13\. Through the Gates – Russ Barenberg – Moving Pictures (Rounder Select)
+
 - Loop Track Length: 00:04:21.685
 
-14. Taylor Willobee – Rodney Crowell – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+14\. Taylor Willobee – Rodney Crowell – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+
 - Loop Track Length: 00:04:15.377
 
-15. Caleb's Report – Doyle Dykes – Fingerstyle Guitar (Step One Records)
+15\. Caleb's Report – Doyle Dykes – Fingerstyle Guitar (Step One Records)
+
 - Loop Track Length: 00:03:06.097
 
-16. Here on Earth – Douglas, Berenberg, and Meyer – Skip Hop & Wobble (Sugarhill)
+16\. Here on Earth – Douglas, Berenberg, and Meyer – Skip Hop & Wobble (Sugarhill)
+
 - Loop Track Length: 00:02:29.834
 
-17. Rusticity – Dan Crary – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+17\. Rusticity – Dan Crary – Sounds of Wood and Steel, Vol. 2 (Sbme Special Mkts)
+
 - Loop Track Length: 00:03:50.670
 
-18. Big Sciota – Douglas, Barenberg and Meyer – Skip Hop & Wobble (Sugarhill)
+18\. Big Sciota – Douglas, Barenberg and Meyer – Skip Hop & Wobble (Sugarhill)
+
 - Loop Track Length: 00:03:22.788
 
-19. Doerita Forever – Doyle Dykes – Fingerstyle Guitar (Step One Records)
+19\. Doerita Forever – Doyle Dykes – Fingerstyle Guitar (Step One Records)
+
 - Loop Track Length: 00:02:29.935
 
-20. The First Ride – Don Ross – Guitar Fingerstyle, Vol. 1 (Narada)
+20\. The First Ride – Don Ross – Guitar Fingerstyle, Vol. 1 (Narada)
+
 - Loop Track Length: 00:03:32.080
 
-21. Celtic Cowboy – Doyle Dykes – H.E.A.T. (Step One Records)
+21\. Celtic Cowboy – Doyle Dykes – H.E.A.T. (Step One Records)
+
 - Loop Track Length: 00:03:22.552

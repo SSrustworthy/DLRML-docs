@@ -13,26 +13,34 @@ Individual Tuck and Roll Fanfare is the "Snare Drum and Chord" from end of "Dogs
 
 ## Tracklist
 
-1. Opening: Entry of the Gladiators – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+1\. Opening: Entry of the Gladiators – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
 
 
-2. Acrobats: The Cantonians March – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
+2\. Acrobats: The Cantonians March – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
 
 
-3. Bare Back Riding: Olympia Hippodrome March – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
+3\. Bare Back Riding: Olympia Hippodrome March – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
 
 
-4. Grand Finale: Barnum & Bailey's Favorite (March) – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
+4\. Grand Finale: Barnum & Bailey's Favorite (March) – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
 
 
-5. Dogs and Ponies: Honey Boys on Parade (March); Snare Drum and Chord – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
+5\. Dogs and Ponies: Honey Boys on Parade (March); Snare Drum and Chord – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
 
 
-6. High Sway Pole: The Circus King (March) – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
+6\. High Sway Pole: The Circus King (March) – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
 
 
-7. Jugglers: Stop It! (One Step); Snare Drum & Chord – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
+7\. Jugglers: Stop It! (One Step); Snare Drum & Chord – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
 
 
-8. Teeter Board: Folies Bergere (March and Two-Step) – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
+8\. Teeter Board: Folies Bergere (March and Two-Step) – The Great American Main Street Band – Under the Bigtop: 100 Years of Circus Music
+
 

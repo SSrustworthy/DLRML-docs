@@ -10,38 +10,50 @@ This is a loop of music edited directly from the movie soundtrack with some inse
 
 ## Tracklist
 
-1. Atta – Randy Newman – A Bug’s Life OST
+1\. Atta – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Preceded by a few seconds of silence. Cuts to next track with a chime flourish.
 
-2. Seed to Tree – Randy Newman – A Bug’s Life OST
+2\. Seed to Tree – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Crossfade into next track
 
-3. Flik Leaves – Randy Newman – A Bug’s Life OST
+3\. Flik Leaves – Randy Newman – A Bug’s Life OST
 
 
-4. Loser – Randy Newman – A Bug’s Life OST
+
+4\. Loser – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Edited
 
-5. Flik’s Return – Randy Newman – A Bug’s Life OST
+5\. Flik’s Return – Randy Newman – A Bug’s Life OST
+
 - Track Notes: A small snippet of intense music is edited out. Track is follwed by insect chirping SFX.
 
-6. A Bug’s Life Suite – Randy Newman – A Bug’s Life OST
+6\. A Bug’s Life Suite – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Almost in full, minus a dramatic portion in the middle. Followed by insect chirps.
 
-7. Atta – Randy Newman – A Bug’s Life OST
+7\. Atta – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Preceded by a few seconds of silence. Cuts to next track with a chime flourish.
 
-8. Seed to Tree – Randy Newman – A Bug’s Life OST
+8\. Seed to Tree – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Crossfade into next track
 
-9. Flik Leaves – Randy Newman – A Bug’s Life OST
+9\. Flik Leaves – Randy Newman – A Bug’s Life OST
 
 
-10. Loser – Randy Newman – A Bug’s Life OST
+
+10\. Loser – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Edited
 
-11. Flik’s Return – Randy Newman – A Bug’s Life OST
+11\. Flik’s Return – Randy Newman – A Bug’s Life OST
+
 - Track Notes: A small snippet of intense music is edited out. Track is follwed by insect chirping SFX.
 
-12. A Bug’s Life Suite – Randy Newman – A Bug’s Life OST
+12\. A Bug’s Life Suite – Randy Newman – A Bug’s Life OST
+
 - Track Notes: Almost in full, minus a dramatic portion in the middle. Followed by insect chirps.

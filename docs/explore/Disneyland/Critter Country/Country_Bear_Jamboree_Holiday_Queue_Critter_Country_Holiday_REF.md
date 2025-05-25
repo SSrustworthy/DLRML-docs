@@ -13,14 +13,17 @@ Based on a reference recording or reel transfer of unknown vintage, this loop wa
 
 ## Tracklist
 
-1. Jingling Brass – Danny Davis and the Nashville Brass – Christmas with Danny Davis and the Nashville Brass
+1\. Jingling Brass – Danny Davis and the Nashville Brass – Christmas with Danny Davis and the Nashville Brass
+
 - Track Notes: Removed from loop at some point before 2008. Note, this track was released on CD several years ago, and digitally by the same name. The CD has substantial noise reduction that degrades the track’s listening quality, but the digital release avoids this. Loop playback rate was 1.010x the digital source track.
 - Album Label: RCA Victor
 
-2. Christmas Cheer – Charlie McCoy – Christmas
+2\. Christmas Cheer – Charlie McCoy – Christmas
+
 - Track Notes: Removed from loop at some point before 2008. Note, this track was released digitally by the same name. Track fades at 01:54.466 and ends abruptly at 01:55.928 in loop, after two bars of “Carol of the Bells”. Loop playback rate was 0.990x the digital source track. Digital track timing deviates slightly from vinyl but returns to normal by end of track.
 - Album Label: Sony Special Product
 
-3. Jolly Old St. Nicholas – Chet Atkins – Christmas with Chet Atkins
+3\. Jolly Old St. Nicholas – Chet Atkins – Christmas with Chet Atkins
+
 - Track Notes: Removed from loop at some point before 2008. Note, this track was released digitally as Jolly Old St. Nicholas (1976 Version), which has the non-guitar instruments mixed down significantly compared to the alternative modern release. Loop playback was 1.012x the digital source track. Vocal portion removed from 0:49.152-1:14.039.
 - Album Label: Del Ray

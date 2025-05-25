@@ -12,68 +12,90 @@ An incomplete, preliminary tracklist for the downstairs Carthay Circle Lounge ba
 
 ## Tracklist
 
-1. Ev’rybody Wants to Be a Cat – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+1\. Ev’rybody Wants to Be a Cat – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 11
 
-2. Be Our Guest – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+2\. Be Our Guest – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 11
 
-3. If I Didn't Have You – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+3\. If I Didn't Have You – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 12
 
-4. Some Day My Prince Will Come – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+4\. Some Day My Prince Will Come – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 9
 
-5. Let's Go Fly a Kite – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+5\. Let's Go Fly a Kite – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 6
 
-6. Cruella De Vil – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+6\. Cruella De Vil – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 3
 
-7. Almost There – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+7\. Almost There – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 13
 
-8. True Love's Kiss – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+8\. True Love's Kiss – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 2
 
-9. A Dream is a Wish Your Heart Makes – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+9\. A Dream is a Wish Your Heart Makes – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 10
 
-10. A Whole New World – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+10\. A Whole New World – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 5
 
-11. Winnie the Pooh – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+11\. Winnie the Pooh – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 8
 
-12. I See the Light – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+12\. I See the Light – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 3
 
-13. You Can Fly! You Can Fly! You Can Fly! – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+13\. You Can Fly! You Can Fly! You Can Fly! – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 4
 
-14. Married Life – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+14\. Married Life – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 7
 
-15. King of New York – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+15\. King of New York – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 5
 
-16. Alice in Wonderland – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+16\. Alice in Wonderland – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 10
 
-17. Who's Afraid of the Big Bad Wolf? – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+17\. Who's Afraid of the Big Bad Wolf? – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 1
 
-18. Baby Mine – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+18\. Baby Mine – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 6
 
-19. I Wan’na Be Like You – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+19\. I Wan’na Be Like You – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 12
 
-20. Little April Shower – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+20\. Little April Shower – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 7
 
-21. You've Got a Friend in Me – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+21\. You've Got a Friend in Me – Bill Cantos – The Circle Sessions: Piano Performances from Carthay Circle - Vol. 2
+
 - Album Track Number: 2
 
-22. Once Upon a Dream – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+22\. Once Upon a Dream – Bill Cantos – The Circle Sessions (Piano Performances from Carthay Circle)
+
 - Album Track Number: 4

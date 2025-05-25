@@ -12,16 +12,15 @@ suppressPackageStartupMessages({
 # Functions ----
 make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
   # Replace any non-alphanumeric character with underscore
-  safe_name <- str_replace_all(name, "[^A-Za-z0-9]+", "_")
+  safe_name <- str_replace_all(name, "[^A-Za-z0-9]+", "_") |>
   # Replace multiple underscores with a single underscore
-  safe_name <- str_replace_all(safe_name, "_+", "_")
+    str_replace_all("_+", "_") |>
   # Remove leading or trailing underscores
-  safe_name <- str_replace_all(safe_name, "^_|_$", "")
-  # Optionally convert to lowercase
-  if (to_lower) {
-    safe_name <- tolower(safe_name)
-  }
-  # Add extension if provided (with a dot if missing)
+    str_replace_all("^_|_$", "") |>
+  # Remove commas
+    stringr::str_remove_all(",")
+  
+  if (to_lower) safe_name <- tolower(safe_name)
   if (!is.null(extension)) {
     if (!startsWith(extension, ".")) {
       extension <- paste0(".", extension)
@@ -46,15 +45,8 @@ sanitize_folder_name <- function(x) {
     str_trim()
 }
 
-create_md <- function(loop_name, loop_db, out_loc) {
-  loop_df <- loop_db |> 
-    filter(Loop == loop_name) |>
-    mutate(across(everything(), url_to_md))
-  
-  # Extract metadata
+create_description <- function(loop_df) {
   loop_meta <- loop_df[1, ]
-  loop_name <- unique(loop_df$Loop)
-  
   # Dynamically collect location fields
   location_parts <- c()
   if ("Land" %in% names(loop_df)) {
@@ -89,19 +81,10 @@ create_md <- function(loop_name, loop_db, out_loc) {
   )
   
   loop_description <- paste(description_lines, collapse = "\n\n")
-  
-  # Markdown header with loop metadata
-  md <- glue::glue("
-# {loop_name}
+  return(list(loop_description, split_folders))
+}
 
-## Description
-
-{loop_description}
-
-## Tracklist
-")
-  
-  # Track list with labeled bullet points and no empty lines
+create_tracklist <- function(loop_df) {
   track_lines <- loop_df %>%
     rowwise() %>%
     mutate(
@@ -110,7 +93,7 @@ create_md <- function(loop_name, loop_db, out_loc) {
       track_info = if (!is.na(Track)) {
         artist_part <- if (!is.na(`Track Artist`) && `Track Artist` != "") paste0(" – ", `Track Artist`) else ""
         album_part <- if (!is.na(Album) && Album != "") paste0(" – ", Album) else ""
-        paste0(`Track No.`, ". ", Track, artist_part, album_part)
+        paste0(`Track No.`, "\\. ", Track, artist_part, album_part)
       } else "",
       
       track_details = list({
@@ -124,24 +107,48 @@ create_md <- function(loop_name, loop_db, out_loc) {
       })
     ) %>%
     ungroup() %>%
-    mutate(entry = ifelse(track_info != "",
-                          paste0(track_info, "\n", track_details),
-                          track_details)) %>%
+    mutate(
+      entry = ifelse(
+        track_info != "",
+        paste0(track_info, "\n\n", track_details),  # <-- here: two newlines to get a blank line
+        track_details
+      )
+    ) %>%
     pull(entry)
   
-  # Final markdown output
+  return(track_lines)
+}
+
+
+create_md <- function(loop_name, loop_db, out_loc) {
+  loop_df <- loop_db |> 
+    filter(Loop == loop_name) |>
+    mutate(across(everything(), url_to_md))
+  
+  loop_des <- create_description(loop_df)
+  loop_description <- loop_des[[1]]
+  split_folders <- loop_des[[2]]
+  track_lines <- create_tracklist(loop_df)
+  
+  md <- glue::glue("
+# {loop_name}
+
+## Description
+
+{loop_description}
+
+## Tracklist
+")
   md_full <- paste(md, paste(track_lines, collapse = "\n\n"), sep = "\n\n")
   
   # Write to Markdown file, nested in land/area folders...
   file_out <- paste0(make_safe_filename(loop_name), ".md")
-  
   write_out_file <- function(this_folder) {
     path_out <- file.path(out_loc, sanitize_folder_name(this_folder))
     if(!dir.exists(path_out)) dir.create(path_out)
     writeLines(md_full, file.path(path_out, file_out))
   }
-  
   if (all(is.na(split_folders))) {
     writeLines(md_full, file.path(path_out, file_out))
-  } else plyr::a_ply(split_folders, 1, write_out_file)
+  } else sapply(split_folders, write_out_file)
 }

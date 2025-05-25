@@ -12,5 +12,6 @@ The length of this loop (including sound effects and the music) is 00:01:24.553.
 
 ## Tracklist
 
-1. The Flik Machine – Randy Newman – a bug’s life OST
+1\. The Flik Machine – Randy Newman – a bug’s life OST
+
 - Track Notes: Edited (see loop notes)

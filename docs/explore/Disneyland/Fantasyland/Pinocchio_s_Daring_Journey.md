@@ -12,21 +12,26 @@ This loop plays in the covered queue and loading area for Pinocchio’s Daring J
 
 ## Tracklist
 
-1. Little Wooden Head – Pinocchio OST
+1\. Little Wooden Head – Pinocchio OST
+
 - Loop Track Length: 05:06.066
 - Track Notes: Using the legacy edition, Starts at 0:37.082 in source
 
-2. The Blue Fairy – Pinocchio OST
+2\. The Blue Fairy – Pinocchio OST
+
 - Loop Track Length: 00:30.949
 - Track Notes: Using the Legacy edition, starts at 2:50.896 in source
 
-3. Turn on the Old Music Box – Pinocchio OST
+3\. Turn on the Old Music Box – Pinocchio OST
+
 - Loop Track Length: 00:46.376
 
-4. Hi Diddle Dee Dee (An Actor’s Life For Me) Instrumental – Unreleased
+4\. Hi Diddle Dee Dee (An Actor’s Life For Me) Instrumental – Unreleased
+
 - Loop Track Length: 00:53.878
 - Track Notes: An instrumental version of “Hi Diddle Dee Dee”; this YT version works well: [https://www.youtube.com/watch?v=OnixrRGu5Hk](https://www.youtube.com/watch?v=OnixrRGu5Hk)
 
-5. Coach to Pleasure Island – Pinocchio OST
+5\. Coach to Pleasure Island – Pinocchio OST
+
 - Loop Track Length: 01:06.882
 - Track Notes: Edited to include 0:48.155 - 1:54.560. Uses the final note of Hi Diddle Dee Dee to give "Coach" a sharp ending.

@@ -10,41 +10,53 @@ The EPCOT Future World/Innoventions Plaza BGM Loop apparently has been played, o
 
 ## Tracklist
 
-1. Ascension – Russell Brower – Best of Both Worlds - The Second Audion Sampler
+1\. Ascension – Russell Brower – Best of Both Worlds - The Second Audion Sampler
+
 - Loop Track Length: 1:04
 - Track Notes: Edited; Some unreleased music included from 0:39 - 1:04
 
-2. Papillion – David Arkenstone – In the Wake of the Wind
+2\. Papillion – David Arkenstone – In the Wake of the Wind
+
 - Loop Track Length: 4:30
 - Track Notes: Edited
 
-3. Introduction
+3\. Introduction
+
 - Loop Track Length: 0:51
 
-4. Future World Theme
+4\. Future World Theme
+
 - Loop Track Length: 5:31
 
-5. Arcs – Walt Disney World Forever Project
+5\. Arcs – Walt Disney World Forever Project
+
 - Loop Track Length: 1:06
 
-6. Interlude IV
+6\. Interlude IV
+
 - Loop Track Length: 1:06
 
-7. 9' 35" for Six Weeks
+7\. 9' 35" for Six Weeks
+
 - Loop Track Length: 1:44
 
-8. Innoventions Adagio
+8\. Innoventions Adagio
+
 - Loop Track Length: 0:26
 
-9. Horizons
+9\. Horizons
+
 - Loop Track Length: 0:27
 
-10. Interlude C
+10\. Interlude C
+
 - Loop Track Length: 0:56
 
-11. Future World Theme (Reprise)
+11\. Future World Theme (Reprise)
+
 - Loop Track Length: 0:53
 
-12. Global Neighborhood – Walt Disney World Forever Project
+12\. Global Neighborhood – Walt Disney World Forever Project
+
 - Loop Track Length: 1:14
 - Track Notes: Edited, 2:31 to end

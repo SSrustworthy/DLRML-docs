@@ -14,7 +14,8 @@ This was the loop in 2001, the first year of the HMH’s operation. The crowd in
 
 ## Tracklist
 
-1. Ghostly Music Box – The Haunted Mansion [2009]
+1\. Ghostly Music Box – The Haunted Mansion [2009]
+
 - Track Notes: Likely edited to remove wind up sounds and click at end.
 - Album Track Number: 2
 - Album Disc Number: 1

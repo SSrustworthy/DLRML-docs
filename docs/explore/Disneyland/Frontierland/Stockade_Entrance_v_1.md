@@ -12,7 +12,8 @@ This “loop” was apparently a loop of only one track that played ca. 1975 to 
 
 ## Tracklist
 
-1. Western Saloon – Ib Glindemann – Capitol Hi-”Q” Reel X-75
+1\. Western Saloon – Ib Glindemann – Capitol Hi-”Q” Reel X-75
+
 - Loop Track Length: 1:02
 - Track Notes: This track was also claimed to have played on the Mark Twain between snippets of narration, but
 - Album Track Number: 3

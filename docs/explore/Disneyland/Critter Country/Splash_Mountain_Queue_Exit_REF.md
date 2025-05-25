@@ -12,41 +12,53 @@ Posted on [https://disneymusicloops.tripod.com/dlr/dlr-cc-cc.html](https://disne
 
 ## Tracklist
 
-1. Ev’rybody Has a Laughing Place #2 – Disneyland Forever
+1\. Ev’rybody Has a Laughing Place #2 – Disneyland Forever
+
 - Loop Track Length: 00:01:27.130
 
-2. Who Wants to Live Like That – Disneyland Forever
+2\. Who Wants to Live Like That – Disneyland Forever
+
 - Loop Track Length: 00:02:24.940
 
-3. Sooner or Later – Disneyland Forever
+3\. Sooner or Later – Disneyland Forever
+
 - Loop Track Length: 00:02:04.685
 
-4. Uncle Remus Said – Disneyland Forever
+4\. Uncle Remus Said – Disneyland Forever
+
 - Loop Track Length: 00:02:27.621
 
-5. Carriage Ride – Disneyland Forever
+5\. Carriage Ride – Disneyland Forever
+
 - Loop Track Length: 00:02:22.282
 - Track Notes: note: the track is faded out a few seconds early
 
-6. Let the Rain Pour Down – Disneyland Forever
+6\. Let the Rain Pour Down – Disneyland Forever
+
 - Loop Track Length: 00:02:49.786
 
-7. Zip-a-Dee-Doo-Dah #1 – Disneyland Forever
+7\. Zip-a-Dee-Doo-Dah #1 – Disneyland Forever
+
 - Loop Track Length: 00:03:58.369
 - Track Notes: Removed in 08/20
 
-8. Ev’rybody Has a Laughing Place #1 – Disneyland Forever
+8\. Ev’rybody Has a Laughing Place #1 – Disneyland Forever
+
 - Loop Track Length: 00:01:29.532
 
-9. Song of the South – Disneyland Forever
+9\. Song of the South – Disneyland Forever
+
 - Loop Track Length: 00:02:45.687
 
-10. How Do You Do – Disneyland Forever
+10\. How Do You Do – Disneyland Forever
+
 - Loop Track Length: 00:01:33.326
 
-11. All I Want – Disneyland Forever
+11\. All I Want – Disneyland Forever
+
 - Loop Track Length: 00:02:15.831
 
-12. Zip-a-Dee-Doo-Dah #2 – Unreleased
+12\. Zip-a-Dee-Doo-Dah #2 – Unreleased
+
 - Loop Track Length: 00:02:18.825
 - Track Notes: Unreleased; see MB post for track. Removed in 08/20.

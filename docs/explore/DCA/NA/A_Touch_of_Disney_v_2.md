@@ -15,176 +15,234 @@ This was the second version of the “A Touch of Disney” event loop, which had
 
 ## Tracklist
 
-1. Immortals – Fall Out Boy
+1\. Immortals – Fall Out Boy
 
 
-2. When She Loved Me – Bridgit Mendler
 
+2\. When She Loved Me – Bridgit Mendler
 
-3. Good to Be Bad – Dove Cameron, Sofia Carson, Booboo Stewart, Cameron Boyce, Jadah Marie & Anna Cathcart
 
 
-4. Reflection – Everlife
+3\. Good to Be Bad – Dove Cameron, Sofia Carson, Booboo Stewart, Cameron Boyce, Jadah Marie & Anna Cathcart
 
 
-5. Part of Your World – Jessica Simpson
 
+4\. Reflection – Everlife
 
-6. Kiss the Girl – DCappella
 
 
-7. In This Place – SVEA
+5\. Part of Your World – Jessica Simpson
 
 
-8. F¤rger I En Vind – Julia Adams
 
+6\. Kiss the Girl – DCappella
 
-9. Ever Ever After – Jordan Pruitt
 
 
-10. La vita a New Orleans – Sergio Cammariere
+7\. In This Place – SVEA
 
 
-11. Si Humano Fuera Ya – King Africa (Claudio Gustavo Duffy), Alex Ubago & Chila Lynn
 
+8\. F¤rger I En Vind – Julia Adams
 
-12. Go the Distance – Lucas Grabeel
 
 
-13. Be Our Guest – Mitchell Hope, Spencer Lee, Kala Balch & Marco Marinangeli
+9\. Ever Ever After – Jordan Pruitt
 
 
-14. Remember Me (feat. Natalia Lafourcade) [From "Coco"] (Steerner Remix) – Miguel
 
+10\. La vita a New Orleans – Sergio Cammariere
 
-15. The Second Star to the Right – T-Squad
 
 
-16. A Whole New World – Collin Raye
+11\. Si Humano Fuera Ya – King Africa (Claudio Gustavo Duffy), Alex Ubago & Chila Lynn
 
 
-17. Sl¥ Dig Fri – Kamferdrops
 
+12\. Go the Distance – Lucas Grabeel
 
-18. True to Your Heart – The Wailing Souls
 
 
-19. You've Got a Friend In Me – The Circle Session Players
+13\. Be Our Guest – Mitchell Hope, Spencer Lee, Kala Balch & Marco Marinangeli
 
 
-20. You Can Fly! You Can Fly! You Can Fly! – The Circle Session Players
 
+14\. Remember Me (feat. Natalia Lafourcade) [From "Coco"] (Steerner Remix) – Miguel
 
-21. Who's Afraid of the Big Bad Wolf – The Circle Session Players
 
 
-22. What We Got (Mickey's Birthday Song) [Alex Ghenea Remix] – Tony Ferrari
+15\. The Second Star to the Right – T-Squad
 
 
-23. Main Title Sequence / Winnie the Pooh – Zooey Deschanel & M. Ward
 
+16\. A Whole New World – Collin Raye
 
-24. Two Worlds (From "Tarzan") – Andreas Wijk
 
 
-25. So This Is Love – The Cheetah Girls
+17\. Sl¥ Dig Fri – Kamferdrops
 
 
-26. A Dream Is a Wish Your Heart Makes – Disney Channel Stars
 
+18\. True to Your Heart – The Wailing Souls
 
-27. Ev'rybody Wants to Be a Cat – Michael G & The Easy Star All-Stars
 
 
-28. Trust In Me – Selena Gomez
+19\. You've Got a Friend In Me – The Circle Session Players
 
 
-29. Heigh-Ho (The Dwarf's Marching Song) – Louis Armstrong
 
+20\. You Can Fly! You Can Fly! You Can Fly! – The Circle Session Players
 
-30. Try Everything (From "Zootropolis") – Shakira
 
 
-31. A Spoonful of Sugar (From "Mary Poppins") – Kacey Musgraves
+21\. Who's Afraid of the Big Bad Wolf – The Circle Session Players
 
 
-32. Under the Sea – Squirrel Nut Zippers
 
+22\. What We Got (Mickey's Birthday Song) [Alex Ghenea Remix] – Tony Ferrari
 
-33. Dig a Little Deeper – China Anne McClain
 
 
-34. Get'cha Head in the Game – DCappella
+23\. Main Title Sequence / Winnie the Pooh – Zooey Deschanel & M. Ward
 
 
-35. Grim Grinning Ghosts – Los Lobos
 
+24\. Two Worlds (From "Tarzan") – Andreas Wijk
 
-36. I'm Your Girl (From Descendants: Wicked World) – Dove Cameron & Sofia Carson
 
 
-37. Circle of Life (Remix) – Disney Channel Circle of Stars
+25\. So This Is Love – The Cheetah Girls
 
 
-38. The Tiki Tiki Tiki Room – Los Lobos
 
+26\. A Dream Is a Wish Your Heart Makes – Disney Channel Stars
 
-39. Todos Quieren Ser Un Gato Jazz – Esteman, Caloncho & Mon Laferte
 
 
-40. How Far I'll Go – DCappella
+27\. Ev'rybody Wants to Be a Cat – Michael G & The Easy Star All-Stars
 
 
-41. Heigh-Ho – Los Lobos
 
+28\. Trust In Me – Selena Gomez
 
-42. Friend Like Me (From "Aladdin") – Ne-Yo
 
 
-43. The Bare Necessities – Dr. John & The Nite Trippers
+29\. Heigh-Ho (The Dwarf's Marching Song) – Louis Armstrong
 
 
-44. I Wan'na Be Like You – Imagination Movers
 
+30\. Try Everything (From "Zootropolis") – Shakira
 
-45. Zero To Hero (From "Hercules") – Ariana Grande
 
 
-46. You've Got a Friend in Me – Jordan Fisher & Olivia Holt
+31\. A Spoonful of Sugar (From "Mary Poppins") – Kacey Musgraves
 
 
-47. I2I – DCappella
 
+32\. Under the Sea – Squirrel Nut Zippers
 
-48. When You Wish Upon a Star – Glenn Miller
 
 
-49. It's a Small World – We Love Disney Artists
+33\. Dig a Little Deeper – China Anne McClain
 
 
-50. A Dream Is a Wish (Reggae Version) – Shyam Moses
 
+34\. Get'cha Head in the Game – DCappella
 
-51. Supercalifragilisticoespialidoso – La Santa Cecilia
 
 
-52. Let It Go (From "Frozen") – Rascal Flatts & Lucy Hale
+35\. Grim Grinning Ghosts – Los Lobos
 
 
-53. I Wan'na Be Like You (The Monkey Song) – DCappella
 
+36\. I'm Your Girl (From Descendants: Wicked World) – Dove Cameron & Sofia Carson
 
-54. Bajo El Mar – Alejandro Sanz
 
 
-55. It's All Right (feat. Celeste) [From "Soul"/ Duet Version] – Jon Batiste
+37\. Circle of Life (Remix) – Disney Channel Circle of Stars
 
 
-56. Cruella de Vil – Los Lobos
 
+38\. The Tiki Tiki Tiki Room – Los Lobos
 
-57. There's a Great Big Beautiful Tomorrow – They Might Be Giants
 
 
-58. The Rainbow Connection (From "The Muppet Movie") – Gwen Stefani
+39\. Todos Quieren Ser Un Gato Jazz – Esteman, Caloncho & Mon Laferte
+
+
+
+40\. How Far I'll Go – DCappella
+
+
+
+41\. Heigh-Ho – Los Lobos
+
+
+
+42\. Friend Like Me (From "Aladdin") – Ne-Yo
+
+
+
+43\. The Bare Necessities – Dr. John & The Nite Trippers
+
+
+
+44\. I Wan'na Be Like You – Imagination Movers
+
+
+
+45\. Zero To Hero (From "Hercules") – Ariana Grande
+
+
+
+46\. You've Got a Friend in Me – Jordan Fisher & Olivia Holt
+
+
+
+47\. I2I – DCappella
+
+
+
+48\. When You Wish Upon a Star – Glenn Miller
+
+
+
+49\. It's a Small World – We Love Disney Artists
+
+
+
+50\. A Dream Is a Wish (Reggae Version) – Shyam Moses
+
+
+
+51\. Supercalifragilisticoespialidoso – La Santa Cecilia
+
+
+
+52\. Let It Go (From "Frozen") – Rascal Flatts & Lucy Hale
+
+
+
+53\. I Wan'na Be Like You (The Monkey Song) – DCappella
+
+
+
+54\. Bajo El Mar – Alejandro Sanz
+
+
+
+55\. It's All Right (feat. Celeste) [From "Soul"/ Duet Version] – Jon Batiste
+
+
+
+56\. Cruella de Vil – Los Lobos
+
+
+
+57\. There's a Great Big Beautiful Tomorrow – They Might Be Giants
+
+
+
+58\. The Rainbow Connection (From "The Muppet Movie") – Gwen Stefani
+
 

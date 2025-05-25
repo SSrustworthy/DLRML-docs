@@ -10,5 +10,6 @@ This loop played in the original Jungle Cruise queue. MightyTriton on Magic Musi
 
 ## Tracklist
 
-1. See loop notes
+1\. See loop notes
+
 

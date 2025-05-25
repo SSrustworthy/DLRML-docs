@@ -12,44 +12,57 @@ See MouseBits, [https://mousebits.com/smf/index.php?topic=8066.msg72961#msg72961
 
 ## Tracklist
 
-1. West of the Wide Missouri – Tokyo Disney Resort - Treasures of Fantasy Dreams & Adventures (2003)
+1\. West of the Wide Missouri – Tokyo Disney Resort - Treasures of Fantasy Dreams & Adventures (2003)
+
 - Album Track Number: 25
 - Album Disc Number: 3
 
-2. All Aboard the Mine Train – Disneyland Official Album 2001, Treasures of Fantasy Dreams & Adventures (2003) 
+2\. All Aboard the Mine Train – Disneyland Official Album 2001, Treasures of Fantasy Dreams & Adventures (2003) 
+
 - Album Track Number: 26
 - Album Disc Number: 3
 
-3. California Gold – Treasures of Fantasy Dreams & Adventures (2003) 
+3\. California Gold – Treasures of Fantasy Dreams & Adventures (2003) 
+
 - Album Track Number: 27
 - Album Disc Number: 3
 
-4. Big Rock Candy Mountain – Disneyland Forever
+4\. Big Rock Candy Mountain – Disneyland Forever
 
 
-5. Saloon Willy – Disneyland Forever
+
+5\. Saloon Willy – Disneyland Forever
 
 
-6. Old Yeller – Unreleased
+
+6\. Old Yeller – Unreleased
 
 
-7. Pecos Bill – Disneyland Forever
+
+7\. Pecos Bill – Disneyland Forever
 
 
-8. Bang! Goes Old Betsy – Disneyland Forever
+
+8\. Bang! Goes Old Betsy – Disneyland Forever
 
 
-9. There is a Tavern in the Town – Unreleased
+
+9\. There is a Tavern in the Town – Unreleased
 
 
-10. Roamin' the Lawless West – Disneyland Forever
+
+10\. Roamin' the Lawless West – Disneyland Forever
 
 
-11. Buffalo Gals – Disneyland Forever
+
+11\. Buffalo Gals – Disneyland Forever
 
 
-12. Big Rock Candy Mountain – Disneyland Forever
+
+12\. Big Rock Candy Mountain – Disneyland Forever
 
 
-13. Hand Me Down My Walking Cane – Unreleased
+
+13\. Hand Me Down My Walking Cane – Unreleased
+
 

@@ -12,26 +12,34 @@ This music was played onboard the S.S. Columbia interspersed with the show narra
 
 ## Tracklist
 
-1. Clear The Track – Norman Luboff Choir – Songs of the Sea
+1\. Clear The Track – Norman Luboff Choir – Songs of the Sea
 
 
-2. The Boston Come All Ye – Norman Luboff Choir – Songs of the Sea
+
+2\. The Boston Come All Ye – Norman Luboff Choir – Songs of the Sea
 
 
-3. One More Day – Norman Luboff Choir – Songs of the Sea
+
+3\. One More Day – Norman Luboff Choir – Songs of the Sea
 
 
-4. Turpin Hero – Toucan Pirates – Sea Changes of the Toucan Pirates
+
+4\. Turpin Hero – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
-5. Away Rio – David Coffin, Kevin Fallon, Otis Read – The Wind in the Rigging
+
+5\. Away Rio – David Coffin, Kevin Fallon, Otis Read – The Wind in the Rigging
+
 - Album Track Number: 2
 
-6. Whiskey Before Breakfast – Toucan Pirates – Sea Changes of the Toucan Pirates
+6\. Whiskey Before Breakfast – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
-7. The Jib Polka – Toucan Pirates – Sea Changes of the Toucan Pirates
+
+7\. The Jib Polka – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
-8. The Old-Rigged Ship – Toucan Pirates – Sea Changes of the Toucan Pirates
+
+8\. The Old-Rigged Ship – Toucan Pirates – Sea Changes of the Toucan Pirates
+
 

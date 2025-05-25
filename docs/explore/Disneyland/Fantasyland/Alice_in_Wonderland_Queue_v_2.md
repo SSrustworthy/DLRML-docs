@@ -12,49 +12,64 @@ This loop was installed when the attraction reopened as part of New Fantasyland 
 
 ## Tracklist
 
-1. Alice in Wonderland – Alice in Wonderland OST
+1\. Alice in Wonderland – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-2. In a World of My Own – Alice in Wonderland OST
+2\. In a World of My Own – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-3. I’m Late – Alice in Wonderland OST
+3\. I’m Late – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-4. How Do You Do? – Alice in Wonderland OST
+4\. How Do You Do? – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-5. All in the Golden Afternon – Disneyland Forever
+5\. All in the Golden Afternon – Disneyland Forever
 
 
-6. A-E-I-O-U – Alice in Wonderland OST
+
+6\. A-E-I-O-U – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-7. ‘Twas Brillig – Alice in Wonderland OST
+7\. ‘Twas Brillig – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-8. Painting the Roses Red – Alice in Wonderland OST
+8\. Painting the Roses Red – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-9. March of the Cards – Disneyland Forever
+9\. March of the Cards – Disneyland Forever
+
 - Track Notes: The Disneyland Forever version of track no. 9 includes a fade out, while the version in the loop does not.
 
-10. Painting the Roses Red – Alice in Wonderland OST
+10\. Painting the Roses Red – Alice in Wonderland OST
+
 - Track Notes: SFX can be heard
 - Album Label: Walt Disney Records
 
-11. Off With Her Head – Alice in Wonderland OST
+11\. Off With Her Head – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-12. Alice in Wonderland (Medley) – Camarata Chorus and Orchestra – Alice in Wonderland: Music from the Score (WDL-4015)
+12\. Alice in Wonderland (Medley) – Camarata Chorus and Orchestra – Alice in Wonderland: Music from the Score (WDL-4015)
+
 - Track Notes: This is a medley of two tracks on the Camarata album, both titled "Alice in Wonderland.”
 - Album Label: Disneyland Records
 
-13. <Caterpillar? then Painting the roses red, lead into Unbirthday Song> – Alice in Wonderland OST
+13\. <Caterpillar? then Painting the roses red, lead into Unbirthday Song> – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-14. Unbirthday Song – Alice in Wonderland OST
+14\. Unbirthday Song – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records
 
-15. Tulgey Wood – Alice in Wonderland OST
+15\. Tulgey Wood – Alice in Wonderland OST
+
 - Album Label: Walt Disney Records

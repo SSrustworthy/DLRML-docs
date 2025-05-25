@@ -10,5 +10,6 @@ The Merrily song has been used in the Mr. Toad’s Wild Ride queue since at leas
 
 ## Tracklist
 
-1. The Merrily Song – Unreleased
+1\. The Merrily Song – Unreleased
+
 - Loop Track Length: 00:04:25.914

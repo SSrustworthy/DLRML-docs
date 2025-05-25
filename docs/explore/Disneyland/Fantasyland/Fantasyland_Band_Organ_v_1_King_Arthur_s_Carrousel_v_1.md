@@ -12,26 +12,34 @@ This was the iteration of the Carrouselloop that played until 2005. It is presum
 
 ## Tracklist
 
-1. Dumbo Medley – Unreleased
+1\. Dumbo Medley – Unreleased
 
 
-2. Mickey & Friends Medley – Disneyland Forever
+
+2\. Mickey & Friends Medley – Disneyland Forever
 
 
-3. Silly Symphonies Medley – Unreleased
+
+3\. Silly Symphonies Medley – Unreleased
 
 
-4. Sleeping Beauty Medley – Disneyland Forever
+
+4\. Sleeping Beauty Medley – Disneyland Forever
 
 
-5. Pinocchio Medley – Unreleased
+
+5\. Pinocchio Medley – Unreleased
 
 
-6. Cinderella Medley – Unreleased
+
+6\. Cinderella Medley – Unreleased
 
 
-7. Mary Poppins Medley – Unreleased
+
+7\. Mary Poppins Medley – Unreleased
 
 
-8. Zip-a-Dee-Doo-Dah / Someday My Prince Will Come / You Can Fly! You Can Fly! Medley – Unreleased
+
+8\. Zip-a-Dee-Doo-Dah / Someday My Prince Will Come / You Can Fly! You Can Fly! Medley – Unreleased
+
 

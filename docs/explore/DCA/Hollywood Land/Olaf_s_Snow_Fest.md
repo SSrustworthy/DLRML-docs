@@ -14,29 +14,38 @@ This loop played in the Olaf’s Snow Fest area as part of DCA’s Frozen Fun. P
 
 ## Tracklist
 
-1.  Reinlender – Jon Faukstad, Hans W. Brimi, Mary Barthelemy – Norwegian Folk Music 
+1\.  Reinlender – Jon Faukstad, Hans W. Brimi, Mary Barthelemy – Norwegian Folk Music 
+
 - Loop Track Length:  00:03:07.337
 
-2.  Train Song – Knut Reiersrud & Paolo Vinaccia – The Sweet Sunny North: Henry Kaiser & David Lindley In Norway, Vol. 2 
+2\.  Train Song – Knut Reiersrud & Paolo Vinaccia – The Sweet Sunny North: Henry Kaiser & David Lindley In Norway, Vol. 2 
+
 - Loop Track Length:  00:01:52.204
 
-3. Slängpolska Efter Byss-Calle (Slangpolska After Byss-Calle) – JPP – String Tease 
+3\. Slängpolska Efter Byss-Calle (Slangpolska After Byss-Calle) – JPP – String Tease 
+
 - Loop Track Length:  00:03:00.426
 
-4. Mäster Åslund – Swåp – Du Da 
+4\. Mäster Åslund – Swåp – Du Da 
+
 - Loop Track Length:  00:03:18.801
 
-5.  Dalpilen – Swåp – Du Da 
+5\.  Dalpilen – Swåp – Du Da 
+
 - Loop Track Length:  00:02:37.261
 
-6.  Polka Raggioso – Harv – Polka Raggioso 
+6\.  Polka Raggioso – Harv – Polka Raggioso 
+
 - Loop Track Length:  00:02:07.536
 
-7.  Antin Mikko – JPP – String Tease 
+7\.  Antin Mikko – JPP – String Tease 
+
 - Loop Track Length:  00:03:26.366 ?
 
-8.  Grythyttehyl – Harv – Polka Raggioso 
+8\.  Grythyttehyl – Harv – Polka Raggioso 
+
 - Loop Track Length:  00:03:25.966 ?
 
-9.  Kronbron – Swåp – Du Da 
+9\.  Kronbron – Swåp – Du Da 
+
 - Loop Track Length:  00:02:50.200

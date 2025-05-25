@@ -12,78 +12,98 @@ Preliminary track list compiled on MouseBits: [https://mousebits.com/smf/index.p
 
 ## Tracklist
 
-1. Carol of the Bells – Haunted Mansion Holiday Seance Room [original Goodwin; Unreleased]
+1\. Carol of the Bells – Haunted Mansion Holiday Seance Room [original Goodwin; Unreleased]
+
 - Loop Track Length: 2:05.680
 
-2. Introduction (Titles) – Edward Scissorhands
+2\. Introduction (Titles) – Edward Scissorhands
+
 - Loop Track Length: 2:12.799
 
-3. Overture – Tim Burton's The Nightmare Before Christmas
+3\. Overture – Tim Burton's The Nightmare Before Christmas
+
 - Loop Track Length: 1:44.581
 - Album Track Number: 1
 
-4. Introduction – Sleepy Hollow
+4\. Introduction – Sleepy Hollow
+
 - Loop Track Length: 1:12.556
 - Track Notes: Cut short/edited [edit points unknown]
 - Album Track Number: 1
 
-5. Haunted Mansion Holiday Foyer Music [no vocals] – Haunted Mansion Holiday Foyer [original Goodwin; Unreleased]
+5\. Haunted Mansion Holiday Foyer Music [no vocals] – Haunted Mansion Holiday Foyer [original Goodwin; Unreleased]
+
 - Loop Track Length: 1:13.747
 
-6. Castle On The Hill – Edward Scissorhands
+6\. Castle On The Hill – Edward Scissorhands
+
 - Loop Track Length: 6:19.207
 - Album Track Number: 3
 
-7. Doctor Finklestein/In the Forest – Tim Burton's The Nightmare Before Christmas
+7\. Doctor Finklestein/In the Forest – Tim Burton's The Nightmare Before Christmas
+
 - Loop Track Length: 2:33.193
 - Album Track Number: 5
 
-8. Young Ichabod – Sleepy Hollow
+8\. Young Ichabod – Sleepy Hollow
+
 - Loop Track Length: 1:15.567
 - Album Track Number: 3
 
-9. Carol of the Bells – Haunted Mansion Holiday Ballroom [original Goodwin; Unreleased]
+9\. Carol of the Bells – Haunted Mansion Holiday Ballroom [original Goodwin; Unreleased]
+
 - Loop Track Length: 1:07.900
 
-10. Etiquette Lesson – Edward Scissorhands
+10\. Etiquette Lesson – Edward Scissorhands
+
 - Loop Track Length: 1:32.193
 - Album Track Number: 8
 
-11. Jack and Sally Montage – Tim Burton's The Nightmare Before Christmas
+11\. Jack and Sally Montage – Tim Burton's The Nightmare Before Christmas
+
 - Loop Track Length: 5:14.718
 - Album Track Number: 8
 
-12. End Credits – Sleepy Hollow
+12\. End Credits – Sleepy Hollow
+
 - Loop Track Length: 3:00.813
 - Album Track Number: 19
 
-13. We Wish You a Scary Christmas [intro vocal, solo cello w/reverb] – Haunted Mansion Holiday Unload Area [original Goodwin; Unreleased]
+13\. We Wish You a Scary Christmas [intro vocal, solo cello w/reverb] – Haunted Mansion Holiday Unload Area [original Goodwin; Unreleased]
+
 - Loop Track Length: 1:09.621
 
-14. The Final Confrontation – Edward Scissorhands
+14\. The Final Confrontation – Edward Scissorhands
+
 - Loop Track Length: 2:15.992
 - Album Track Number: 13
 
-15. Jenny's Theme – Big Fish
+15\. Jenny's Theme – Big Fish
+
 - Loop Track Length: 1:38.272
 - Album Track Number: 22
 
-16. Nabbed – Tim Burton's The Nightmare Before Christmas
+16\. Nabbed – Tim Burton's The Nightmare Before Christmas
+
 - Loop Track Length: 3:01.967
 - Album Track Number: 12
 
-17. To the Rescue – Tim Burton's The Nightmare Before Christmas
+17\. To the Rescue – Tim Burton's The Nightmare Before Christmas
+
 - Loop Track Length: 3:36.848
 - Album Track Number: 17
 
-18. Christmas Eve Montage – Tim Burton's The Nightmare Before Christmas
+18\. Christmas Eve Montage – Tim Burton's The Nightmare Before Christmas
+
 - Loop Track Length: 4:41.795
 - Album Track Number: 15
 
-19. The End – Edward Scissorhands
+19\. The End – Edward Scissorhands
+
 - Loop Track Length: 4:36.613
 - Album Track Number: 16
 
-20. End Title – Tim Burton's The Nightmare Before Christmas
+20\. End Title – Tim Burton's The Nightmare Before Christmas
+
 - Loop Track Length: 5:02.375
 - Album Track Number: 20

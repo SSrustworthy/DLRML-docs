@@ -12,5 +12,6 @@ The W.A.C.K.Y. Radio Loop plays out of the radios in both Mickey’s and Minnie�
 
 ## Tracklist
 
-1. See loop notes – Unreleased
+1\. See loop notes – Unreleased
+
 - Loop Track Length: 00:20:37.729

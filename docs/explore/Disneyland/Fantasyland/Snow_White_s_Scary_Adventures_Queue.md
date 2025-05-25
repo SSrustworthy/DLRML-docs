@@ -12,15 +12,19 @@ This loop played in the queue of Snow White’s Scary Adventures, starting in 19
 
 ## Tracklist
 
-1. Heigh-Ho – Snow White OST
+1\. Heigh-Ho – Snow White OST
+
 - Track Notes: No anvil bangs at the beginning.
 
-2. Whistle While You Work – Snow White OST
+2\. Whistle While You Work – Snow White OST
+
 - Track Notes: There is a section edited out of the loop version.
 
-3. With a Smile and a Song – Snow White OST
+3\. With a Smile and a Song – Snow White OST
+
 - Track Notes: No bird SFX.
 
-4. Someday My Prince Will Come
+4\. Someday My Prince Will Come
+
 - Loop Track Length: ~1:00
 - Track Notes: This is a much slower version than what is played in the overture. It’s possible that this is a faster mix not used in the movie. It’s very close to the reprise version, but a little longer.

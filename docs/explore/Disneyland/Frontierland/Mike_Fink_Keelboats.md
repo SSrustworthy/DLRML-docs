@@ -12,11 +12,14 @@ These songs played on the Keelboats while in motion on the Rivers of America. Se
 
 ## Tracklist
 
-1. Chicken Pickin’ Reel – The Banjo Kings
+1\. Chicken Pickin’ Reel – The Banjo Kings
+
 - Album Label: Good Time Jazz
 
-2. Down South – The Banjo Kings
+2\. Down South – The Banjo Kings
+
 - Album Label: Good Time Jazz
 
-3. Golden Slippers – The Banjo Kings
+3\. Golden Slippers – The Banjo Kings
+
 - Album Label: Good Time Jazz

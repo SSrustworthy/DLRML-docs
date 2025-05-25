@@ -10,20 +10,26 @@ Playlist based on a circulating track of unknown origin, likely a transfer from 
 
 ## Tracklist
 
-1. Papio – The Royal Tahitians – Soft Sounds From The South Seas
+1\. Papio – The Royal Tahitians – Soft Sounds From The South Seas
+
 - Album Label: Dot Records
 
-2. Vana Vana – The Royal Tahitians – Soft Sounds From The South Seas
+2\. Vana Vana – The Royal Tahitians – Soft Sounds From The South Seas
+
 - Album Label: Dot Records
 
-3. The Tears (Namida) – Ohta San – Ohta San And His Ukulele
+3\. The Tears (Namida) – Ohta San – Ohta San And His Ukulele
+
 - Album Label: Decca
 
-4. Awai Aulu Ke Aloha – Leo Addeo And His Orchestra – Songs Of Hawaii
+4\. Awai Aulu Ke Aloha – Leo Addeo And His Orchestra – Songs Of Hawaii
+
 - Album Label: RCA Camden
 
-5. Moon Over Manakoora – Frank Chacksfield And His Orchestra – Hawaii
+5\. Moon Over Manakoora – Frank Chacksfield And His Orchestra – Hawaii
+
 - Album Label: London Records
 
-6. Maori Farewell Song – Frank Chacksfield And His Orchestra – Hawaii
+6\. Maori Farewell Song – Frank Chacksfield And His Orchestra – Hawaii
+
 - Album Label: London Records

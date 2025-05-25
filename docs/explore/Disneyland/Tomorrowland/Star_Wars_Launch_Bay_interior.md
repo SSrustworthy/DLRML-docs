@@ -12,5 +12,6 @@ This loop plays inside the Star Wars Launch Bay at Disneyland. It is identical t
 
 ## Tracklist
 
-NA. See loop notes – John Williams, William Ross, the London Symphony Orchestra – Unreleased
+NA\. See loop notes – John Williams, William Ross, the London Symphony Orchestra – Unreleased
+
 
