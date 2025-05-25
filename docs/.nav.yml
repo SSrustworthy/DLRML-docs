@@ -1,0 +1,19 @@
+nav:
+  - Home: index.md
+  - Explore:
+    - Get Started: explore/welcome.md
+    - What's New?: explore/news.md
+    - Disneyland BGM Loops: explore/Disneyland/
+    - The Disney Gallery: explore/disney_gallery.md
+    - DCA BGM Loops: explore/DCA/
+    - Other Disneyland Resort BGM Loops: explore/Other/
+  - Resources:
+    - Helpful Sources: resources/helpful_sources.md
+    - MouseBits Post Archive: resources/mousebits_post_archive/
+    - Capitol Production Music: resources/capitol/capitol.md
+  - Contribute:
+    - How to Contribute: contribute/how_to_contribute.md
+    - DCA - Looking for These Loops: contribute/dca_looking_for.md
+    - DL - Looking for These Loops: contribute/dl_looking_for.md
+  - Hometown Sounds YouTube: hometown_sounds.md
+  - Get in Touch: contact.md

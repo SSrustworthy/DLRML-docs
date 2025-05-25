@@ -1,0 +1,58 @@
+site_name: Disneyland Resort Music Loops
+copyright: © 2022-2025 | Disneyland Resort Music Loops
+
+theme:
+  name: material
+  font:
+    text: Literata
+  language: en
+  favicon: img/icons/wand.png
+  logo: img/icons/wand.png
+  custom_dir: overrides
+  palette:
+    scheme: default
+    primary: custom
+    accent: grey
+ 
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.annotation
+    - content.code.copy
+  
+  palette:
+    scheme: default
+    primary: custom
+    accent: grey   
+ 
+plugins:
+  - search
+  - awesome-nav
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: material/email-outline
+      link: mailto:hometownmainst@gmail.com
+      name: Send us an email!
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@HometownSoundsMSUSA
+      name: Hometown Sounds of Main Street, U.S.A.
+    - icon: fontawesome/brands/github
+      link: https://github.com/SSrustworthy/DLRML-docs
+      name: DLRML-docs GitHub
+    - icon: material/forum
+      link: https://forums.mousebits.com/
+      name: MouseBits Community Forums
+  generator: false
+
+# Custom Homepage Elements
+home_cover_image: img/HSIcon.png # This path starts at your root mkdocs directory.
+home_tagline: The Disneyland Resort BGM Loops Database
+home_description: Background & Area Music Loops (BGM) of the Disneyland Resort
