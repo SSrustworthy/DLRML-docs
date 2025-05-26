@@ -1,6 +1,6 @@
 # Rushin’ River Outfitters
 
-*Posted by Aubrey on 6/14/24*
+*Posted by SSrustworthy on 6/14/24*
 
 If you thought that all of the original DCA loops were long gone with the retheming of Pacific Wharf, think again. Rushin’ River Outfitters is still playing the glorious Sounds of Wood and Steel, and remains well-stocked with old cabin and 80’s xtreme sports kitsch.
 

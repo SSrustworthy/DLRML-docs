@@ -1,6 +1,6 @@
 # The Many Loops of “it’s a bug’s land”
 
-*Posted by Aubrey on 10/02/2022*
+*Posted by SSrustworthy on 10/02/2022*
 
 I'm going to try and consolidate some info on the music of "it's a bug's land" (RIP 2002-2018).
 

@@ -52,7 +52,7 @@ Loop length 01:46:37.606
 
 ## Previous post
 
-*Posted by Aubrey on 10/13/2022*
+*Posted by SSrustworthy on 10/13/2022*
 
 This is a list of tracks that I have identified using Google Sound Search from YT videos of the new shop in NOS. A reference recording is still needed to properly ID tracks, but this is a pretty good start! These tracks I've listed below are not necessarily in order. I often heard the same track in multiple videos, but I only recorded one video per track as a reference.
 

@@ -1,6 +1,6 @@
 # The Tale of the Lion King Preshow
 
-*Posted by Aubrey on 1/29/2023*
+*Posted by SSrustworthy on 1/29/2023*
 
 This loop is from the preshow of The Tale of the Lion King, which was an outdoor musical production that ran on the Palisades Stage at DCA from June 7, 2019 to September 2, 2019. This loop was compiled on Discord by RocketRodsXPR based on a reference recording by pixelated.
 

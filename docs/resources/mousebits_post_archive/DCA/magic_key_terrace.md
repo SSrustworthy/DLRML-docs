@@ -66,7 +66,7 @@ Dance of the Nile - Arkadia All Stars - Magic Moments (or T.k. Blue)
 
 ---
 
-*Posted by Aubrey on 8/3/24*
+*Posted by SSrustworthy on 8/3/24*
 
 I don't have a reference recording for the Magic Key Terrace at DCA (in the Golden Vine Winery building), but I was looking around on various YT videos and ID'd the following tracks:
 
