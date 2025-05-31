@@ -2,9 +2,34 @@
 
 This is the log for all database updates.
 
-# Site Update 05/24/25
+## Site Update 05/30/25
 
-- Added Soarin’ Over… queue edits
+### DCA
+
+- Updated track names for ABC Soap Opera Central Restaurant based on imagineering CD demo; updated description and runtimes
+- Updated Downtown Radiator Springs albums based on work by Triple (MouseCord)
+- Updated Flo’s V8 Cafe albums based on work by Triple (MouseCord)
+- Updated Radiator Springs Racers start loop to “Heavy Traffic Ahead” based on work by Triple (MouseCord)
+- Updated The Carthay Circle Restuarant Lounge based on WDI demo CD album cover tracklist
+
+### DL
+
+- Added incomplete tracklist for Port Royal Jazz Club
+- Added Minnie and Friends Breakfast in the Park v.2 (based on 2025 reference recording)
+- Added Jungle Cruise v.1 queue BGM (dating back to Jack Wagner)
+- Started entry for Tiana’s Palace interior
+- Updated Red Rose Taverne
+
+### Other
+
+- Added Disneyland 70th Music Box Esplanade loop
+- Added Disneyland 70th Esplanade loop (i.e. daytime)
+- Added Disney Wonderful World of Sweets
+- Added Oogie Boogie Bash Esplanade / DTDD
+
+## Site Update 05/24/25
+
+- Added Soarin’ queue edits
 - Added Condor Flats  v.1 and v.2 edits
 - Added Storybook Store edits
 - Added EngineEAR Souvenirs loop tracklist
@@ -37,7 +62,7 @@ This is the log for all database updates.
 - Added entry and post for Plaza Point Holiday Shoppe interior loop.
 - Updated MM Runaway Railway loops and posts.
 
-# Site Update 08/25/24
+## Site Update 08/25/24
 
 - Updated the DCA Pacific Wharf tracklist times and post (found source of At Play)
 - Updated DCA Rushin’ Rivers Outfitters BGM track and loop times based on a live recording of the store from May 2024.
@@ -59,7 +84,7 @@ This is the log for all database updates.
 - Added Rogers: The Musical to DCA database with post
 - Updated Superstar Limo listing with edits, precise track lengths, and fixed a few track titles.
 
-# Site Update 04/29/23
+## Site Update 04/29/23
 
 - Completed loop descriptions and sources for all databases.
 - Updated archive of MouseBits posts.
@@ -67,7 +92,7 @@ This is the log for all database updates.
 - Updated all CSVs and posts in Github and created new release.
 - Specific updates will be added to site news from now on.
 
-# Pre-release 10/22
+## Pre-release 10/22
 
 - Created track listing databases for Disneyland, DCA, and Hotels/Esplanade/Main Gates.
 - Created reel image databases for the Capitol Hi-”Q” and Media Music series.

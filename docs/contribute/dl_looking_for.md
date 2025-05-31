@@ -6,6 +6,14 @@ There are several loops that I either have minimal to no information about, or a
 
 This loop is incomplete.
 
+## Fantasyland Band Organ (original)
+
+What music played here before the New Fantasyland renovation?
+
+## Captain Hook’s Galley / Skull Rock (closed 1982)
+
+I only have partial information about this loop (see database).
+
 ## Jingle Cruise v.2 (2015 and 2016 seasons)
 
 The Jingle Cruise apparently changed its queue track after the first year of opening. It is unknown how much it changed for those years. The Jingle Cruise has not returned since 2016.

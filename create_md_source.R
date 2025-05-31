@@ -11,14 +11,11 @@ suppressPackageStartupMessages({
 
 # Functions ----
 make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
-  # Replace any non-alphanumeric character with underscore
-  safe_name <- str_replace_all(name, "[^A-Za-z0-9]+", "_") |>
-  # Replace multiple underscores with a single underscore
-    str_replace_all("_+", "_") |>
-  # Remove leading or trailing underscores
-    str_replace_all("^_|_$", "") |>
-  # Remove commas
-    stringr::str_remove_all(",")
+  safe_name <- str_replace_all(name, "\\[[^\\]]*\\]", "") |>       # Remove text in brackets
+    str_replace_all("[^A-Za-z0-9]+", "_") |>                       # Replace non-alphanumeric characters with underscores
+    str_replace_all("_+", "_") |>                                  # Replace multiple underscores with a single underscore
+    str_replace_all("^_|_$", "") |>                                # Remove leading or trailing underscores
+    stringr::str_remove_all(",")                                   # Remove commas
   
   if (to_lower) safe_name <- tolower(safe_name)
   if (!is.null(extension)) {
