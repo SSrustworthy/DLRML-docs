@@ -4,9 +4,9 @@
 
 **Land(s)**: Main Street, U.S.A.
 
-**Loop Total Length**: 50:04.705
+**Loop Total Length**: 00:50:04.705
 
-This loop plays in the Plaza Inn seating area for Minnie and Friends Breakfast in the Park. Tracklist compiled by SSrustworthy based on a reference recording from 2025. This is likely a newer (2020) iteration of the previous loop that omits any references to “Zip-a-Dee-Doo-Dah”.
+This loop plays in the Plaza Inn seating area for Minnie and Friends Breakfast in the Park. Tracklist compiled by SSrustworthy based on a reference recording from 2025. This is likely a newer (2020) iteration of the previous loop that omits any references to “Zip-a-Dee-Doo-Dah”. See Mousebits, [https://forums.mousebits.com/threads/plaza-inn-minnie-and-friends-breakfast-in-the-park-v-2.11141/](https://forums.mousebits.com/threads/plaza-inn-minnie-and-friends-breakfast-in-the-park-v-2.11141/) (2025).
 
 ## Tracklist
 

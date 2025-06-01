@@ -1,20 +1,23 @@
-# Food and Wine Festival 2010 [REF]
+# Food and Wine Festival 2010
 
 ## Description
 
 **Land(s)**: Performance Corridor
 
+**Loop Total Length**: 57:00.161
+
 **Dates**: April 6, 2010 → May 31, 2010
 
 **Holiday/Special Event**: Food and Wine Festival
+
+A preliminary tracklist for the 2010 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated a based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/new-bgm-for-disneys-california-food-wine-festival.5312/post-40081.](https://forums.mousebits.com/threads/new-bgm-for-disneys-california-food-wine-festival.5312/post-40081.)
 
 ## Tracklist
 
 1\.  Santa Barbara – Benise – Nights of Fire!, track 1
 
 - Loop Track Length:  4:35.207
-- Track Notes: Loop length: 57:00.161
-Edited
+- Track Notes: Edited
 
 2\.  The Empress – Ancient Future – Music from the Tea Lands, track 9 
 

@@ -1,5 +1,31 @@
 # dlrmusicloops.com - A compilation of Disneyland Resort Tracklists
 
+*Updated by SSrustworthy on 5/30/25*
+
+I am excited to announce that [dlrmusicloops.com](https://dlrmusicloops.com) has had a significant interface update!  
+
+The site has changed over from Adobe Portfolio / Notion to a GitHub Pages deployment with [MkDocs](https://www.mkdocs.org/). You can access the base repository [here](https://github.com/SSrustworthy/DLRML-docs).  
+
+Improvements:  
+
+- No more filterable databases - the site is 
+  100% static. However, you can still access the database CSVs in the repo
+   if you are interested. The static loop pages are built from the table 
+  format every time the site is updated.
+- New look, including a nav bar and a site-wide search!
+- Static pages = static links to specific loop pages
+- Open source and low likelihood of Software obsolescence
+- Notion-specific issues with loading are GONE!
+
+Take a look and let me know what you think! I am always open to feedback.  
+
+I'll continue to post when I have a new tracklist. Many of these posts 
+will probably be copied straight from my site and will have consistent 
+formatting. I believe posting here on the forums is a great way to have a
+ place to chat about specific loops and keep folks apprised of updates.
+
+---
+
 *Posted by SSrustworthy on 11/10/24*
 
 A few months back marked the two-year anniversary of the current cornerstone of my hobbies - the creation of a comprehensive database of music loops played at the Disneyland Resort. I apparently never got around to posting about it on here even amidst the many track lists that I've posted in that timeframe.

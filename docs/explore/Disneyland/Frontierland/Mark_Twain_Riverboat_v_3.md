@@ -8,7 +8,7 @@
 
 **Dates**: October 1, 2010 → January 10, 2016
 
-This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This track was introduced on October 1, 2010, and was used until January 10, 2016. See MouseBits, [https://dlrmusicloops.com/The-Music-of-the-Mark-Twain-Riverboat-a2c5513502234a28ae5f0c0c23bd59b4](https://dlrmusicloops.com/The-Music-of-the-Mark-Twain-Riverboat-a2c5513502234a28ae5f0c0c23bd59b4) for an extensive discussion of this topic.
+This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This track was introduced on October 1, 2010, and was used until January 10, 2016. See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/) for an extensive discussion of this topic.
 
 ## Tracklist
 

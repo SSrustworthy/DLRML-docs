@@ -4,21 +4,21 @@
 
 **Land(s)**: Performance Corridor
 
+**Loop Total Length**: 52:50.796
+
 **Dates**: April 24, 2009 → June 7, 2009
 
 **Holiday/Special Event**: Food and Wine Festival
+
+A verified tracklist for the 2009 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated and C33 based on reference recordings. See MouseBits,  [https://forums.mousebits.com/threads/disneys-california-food-and-wine-festival-loop-playlist-2009.4884/.](https://forums.mousebits.com/threads/disneys-california-food-and-wine-festival-loop-playlist-2009.4884/.) C33 notes: "This loop played throughout Sunshine Plaza, Hollywood Pictures Backlot and Pacific Wharf, replacing those areas' normal loops during the festival run.
+Except for the few second pause between the last track and the first track when the loop restarts, each track almost always begins over the ending of the previous one, with no gaps in between. In many cases the track will start to fade out before the next track begins and some of the tracks are edited to be shorter in length (sometimes significantly so), as indicated. The transitions are in some cases fairly jarring. For purists, creating an accurate reconstruction of the loop will be pretty much impossible without a reference recording to go by.
 
 ## Tracklist
 
 1\. Santa Barbara – Benise – Nights of Fire!, track 1 
 
 - Loop Track Length:  4:45.802
-- Track Notes: Loop length: 52:50.796
-Playlist compiled by C33.  Additional information provided by pixelated 11/2009 on [http://www.mousebits.com/smf/index.php?topic=4884.msg35709#msg35709](http://www.mousebits.com/smf/index.php?topic=4884.msg35709#msg35709)
- discussion board.  C33 notes: "This loop played throughout Sunshine Plaza, Hollywood Pictures Backlot and Pacific Wharf, replacing those areas' normal loops during the festival run.
-Except for the few second pause between the last track and the first track when the loop restarts, each track almost always begins over the ending of the previous one, with no gaps in between. In many cases the track will start to fade out before the next track begins and some of the tracks are edited to be shorter in length (sometimes significantly so), as indicated. The transitions are in some cases fairly jarring. For purists, creating an accurate reconstruction of the loop will be pretty much impossible without a reference recording to go by.
-
-album track is around 0.103 secs. faster than the recording
+- Track Notes: album track is around 0.103 secs. faster than the recording
 
 2\. Miracle – Twelve Girls Band – Eastern Energy, track 1 
 

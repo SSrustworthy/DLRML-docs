@@ -4,17 +4,19 @@
 
 **Land(s)**: Performance Corridor
 
+**Loop Total Length**: 01:00:57.743
+
 **Dates**: April 1, 2016 → May 1, 2016
 
 **Holiday/Special Event**: Food and Wine Festival
+
+A preliminary tracklist for the 2016 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated based on his reference recording. See MouseBits,  [https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.](https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.)
 
 ## Tracklist
 
 1\.  Big Shot – 3rd Force – Global Force 
 
 - Loop Track Length:  00:04:19.285
-- Track Notes: Loop length: 01:00:57.743
-Loop transition edits info available at original post [https://mousebits.com/smf/index.php?topic=9257.msg87819#msg87819](https://mousebits.com/smf/index.php?topic=9257.msg87819#msg87819)
 
 2\.  All I See Is You – Dave Koz – Saxophonic 
 

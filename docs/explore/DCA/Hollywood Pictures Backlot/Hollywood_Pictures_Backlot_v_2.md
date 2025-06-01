@@ -24,7 +24,7 @@ The second area loop to play in the Hollywood Pictures Backlot. Played from June
 3\. The Hydra Battle (Score) – Alan Menken – Hercules OST
 
 - Loop Track Length: 00:00:48.816
-- Track Notes: Edited to include 2:35.393 - 3:24.252 (at which point, fade out as next track begind)
+- Track Notes: Edited to include 2:35.393 - 3:24.252 (at which point, fade out as next track begins)
 
 4\. Supercalifragilisticexpialidocious – Neverland Orchestra – Disney’s Orchestra Collection, Vol. 3
 

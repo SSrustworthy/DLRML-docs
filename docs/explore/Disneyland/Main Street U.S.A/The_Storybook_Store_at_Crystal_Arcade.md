@@ -1,4 +1,4 @@
-# The Storybook Store at Crystal Arcade
+# The Storybook Store at Crystal Arcade [REF]
 
 ## Description
 
@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 00:55:15.362
 
-This loop plays in the Main Street, U.S.A Crystal Arcade in the section titled “The Storybook Store”. Tracklist compiled by Karalora and wedroy1923 with notes from SSrustworthy based on a recording by pixelated. All tracks have vocals present. See MouseBits: [https://mousebits.com/smf/index.php?topic=8015.msg72172#msg72172](https://mousebits.com/smf/index.php?topic=8015.msg72172#msg72172) (2013) and [https://mousebits.com/smf/index.php?topic=7584.msg66612#msg66612](https://mousebits.com/smf/index.php?topic=7584.msg66612#msg66612) (2012). Also see Magic Music, [https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369](https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369) which suggests the loop’s installation as predating 2003.
+This loop plays in the Main Street, U.S.A Crystal Arcade in the section titled “The Storybook Store”. Tracklist compiled by Karalora and wedroy1923 with notes from SSrustworthy based on a recording by pixelated. All tracks have vocals present. See MouseBits: [https://mousebits.com/smf/index.php?topic=8015.msg72172#msg72172](https://mousebits.com/smf/index.php?topic=8015.msg72172#msg72172) (2013) and [https://mousebits.com/smf/index.php?topic=7584.msg66612#msg66612](https://mousebits.com/smf/index.php?topic=7584.msg66612#msg66612) (2012), and [https://forums.mousebits.com/threads/the-storybook-store-at-crystal-arcade.11140/.](https://forums.mousebits.com/threads/the-storybook-store-at-crystal-arcade.11140/.) Also see Magic Music, [https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369](https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369) which suggests the loop’s installation as predating 2003.
 
 ## Tracklist
 

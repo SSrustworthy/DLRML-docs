@@ -4,17 +4,20 @@
 
 **Land(s)**: Performance Corridor
 
+**Loop Total Length**: 00:58:09.271
+
 **Dates**: March 1, 2019 → April 23, 2019
 
 **Holiday/Special Event**: Food and Wine Festival
+
+A preliminary tracklist for the 2019 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated based on his reference induction recording. See MouseBits,  [https://forums.mousebits.com/threads/dca-food-and-wine-festival-loop-track-list-2019.10184/.](https://forums.mousebits.com/threads/dca-food-and-wine-festival-loop-track-list-2019.10184/.)
 
 ## Tracklist
 
 1\. Do You Know The Way To San Jose – Dionne Warwick & Celia Cruz – My Friends & Me
 
 - Loop Track Length: 04:02.3
-- Track Notes: Loop length: 00:58:09.271
-Edited 0:00-4:03
+- Track Notes: Edited 0:00-4:03
 
 2\. Where Would I Be? – Gwen Stefani – This Is What The Truth Feels Like
 

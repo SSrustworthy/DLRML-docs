@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 01:25:35.232
 
-Tiana’s Palace opened on September 7, 2023. This tracklist was compiled based on a reference recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/tianas-palace.11068/](https://forums.mousebits.com/threads/tianas-palace.11068/) (2024). No edit points were indicated.
+Tiana’s Palace opened on September 7, 2023. This tracklist was compiled by pixelated and sorker based on pixelated’s 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/tianas-palace.11068/](https://forums.mousebits.com/threads/tianas-palace.11068/) (2024). No edit points were indicated.
 
 ## Tracklist
 
@@ -30,9 +30,10 @@ Tiana’s Palace opened on September 7, 2023. This tracklist was compiled based 
 
 - Loop Track Length: 00:02:34.332358
 
-6\. Somebody Else is Taking My Place – Preservation Hall Jazz Band – Preservation Hall Jazz Band Live!
+6\. Somebody Else is Taking My Place – Preservation Hall Jazz Band – Songs of New Orleans
 
 - Loop Track Length: 00:07:47.044853
+- Track Notes: Not from the live album
 
 7\. Creole Nights – Dr. Michael White – Dancing in the Sky
 
@@ -42,7 +43,7 @@ Tiana’s Palace opened on September 7, 2023. This tracklist was compiled based 
 
 - Loop Track Length: 00:02:50.592313
 
-9\. Some of these Days – Dutch Swing College Band – Jazz at the Seaport
+9\. Some of these Days – Dutch Swing College Band – Dutch Swing College Band 1960
 
 - Loop Track Length: 00:04:02.664762
 
@@ -62,7 +63,7 @@ Tiana’s Palace opened on September 7, 2023. This tracklist was compiled based 
 
 - Loop Track Length: 00:03:33.250862
 
-14\. Basin Street Blues – Preservation Hall Jazz Band – Hot 4
+14\. Basin Street Blues – Preservation Hall Jazz Band – The Curious Case of Benjamin Button OST
 
 - Loop Track Length: 00:07:28.703900
 

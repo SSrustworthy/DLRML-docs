@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 00:40:57.941
 
-The loop starts playing when the Oogie Boogie Bash event starts at 6 PM in DCA and plays in both the Esplanade and the Downtown Disney District. It uses tracks from Audio Network and The Nightmare Before Christmas soundtrack. Compiled by pixelated based on a 2024 reference recording.
+The loop starts playing when the Oogie Boogie Bash event starts at 6 PM in DCA and plays in both the Esplanade and the Downtown Disney District. It uses tracks from Audio Network and The Nightmare Before Christmas soundtrack. Compiled by pixelated based on a 2024 reference recording. See Mousebits, [https://forums.mousebits.com/threads/oogie-boogie-bash.11144/](https://forums.mousebits.com/threads/oogie-boogie-bash.11144/) (2025).
 
 ## Tracklist
 

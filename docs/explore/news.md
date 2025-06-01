@@ -2,6 +2,41 @@
 
 This is the log for all database updates.
 
+## Site Update 06/1/25
+
+### DL
+
+- Added tracklist for Main Street, U.S.A. Emporium plush toy department
+- Added incomplete tracklist for DVC Star View Station Member Lounge
+- Added Holiday Fun with Santa and Friends!
+- Added Pioneer Mercantile Halloween
+- Updated album information for Tiana’s Palace exterior
+
+### DCA
+
+- Added incomplete Mission Tortilla Factory lobby loop
+- Added Hollywood Land Marvel Summer 2018
+- Added San Fransokyo Square
+- Added Smokejumpers Grill v.2
+- Updated unknown tracks for Tale of Lion King interstitial loop
+- Added Descendants: The Rise of Red tribute area loop
+- Added F&W Festival 2024
+- Added Moon Girl meet and greet loop
+
+### Other
+
+- Completed track sources for the Disneyland Hotel Porte-Cochere/Entrance loop
+- Added Disneyland Hotel 2022 updated holiday loop
+- Added World of Disney Halloween loop
+- Added Disneyland Hotel 2021 Halloween loop
+- Added Paradise Pier Hotel v.2 (Pixar Fest BGM v.1)
+- Added Esplanade Pixar Fest 2024
+- Added Pixar Place Hotel
+- Added DTDD Celebrate Soulfully
+- Added DTDD Hispanic and Latin American Heritage Month
+- Updated Colombian silletas (DTDD)
+- Discovery Tower - daytime exterior, nighttime exterior [INC] and interior
+
 ## Site Update 05/30/25
 
 ### DCA
