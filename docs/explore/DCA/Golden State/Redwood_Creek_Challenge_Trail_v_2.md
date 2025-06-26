@@ -2,7 +2,7 @@
 
 ## Description
 
-**Land(s)**: Golden State, Grizzly Peak, Golden State
+**Land(s)**: Golden State, Grizzly Peak
 
 **District/Neighborhood**: Grizzly Peak Recreation Area
 
@@ -12,74 +12,76 @@ This loop plays at the Redwood Creek Challenge Trail. It is a shortened version 
 
 ## Tracklist
 
-1\. Stealing – Leo Kottke – My Feet Are Smiling
+1\. Stealing – Leo Kottke – Mudlark
 
+- Album Label: Capitol Records
 
+2\. Faro's Rag – John Renbourne – The Hermit
 
-2\. Faro's Rag – John Renbourne – The Hermit (Castle Music)
+- Album Label: Castle Music
 
+3\. Whistlin' Rufus/Ragtime Annie – Dan Crary, Doc Watson – Jammed If I Do
 
+- Album Label: Sugarhill
 
-3\. Whistlin' Rufus/Ragtime Annie – Dan Crary, Doc Watson – Jammed If I Do (Sugarhill)
+4\. Silver Bell - Cheyenne – John Fahey – Return of the Repressed: The John Fahey Anthology
 
+- Album Label: Rhino
 
+5\. Goat Island – John Renbourne – The Hermit
 
-4\. Silver Bell - Cheyenne – John Fahey – Return of the Repressed: The John Fahey Anthology (Rhino)
+- Album Label: Castle Music
 
+6\. Falls – Al Petteway – The Waters and the Wild
 
+- Album Label: Maggie's Music
 
-5\. Goat Island – John Renbourne – The Hermit (Castle Music)
+7\. Daisy Goes a Dancing – Pat Kirtley – Guitar Fingerstyle, Vol. 1
 
+- Album Label: Narada
 
+8\. Dogue Creek – Al Petteway – The Waters and the Wild
 
-6\. Falls – Al Petteway – The Waters and the Wild (Maggie's Music)
+- Album Label: Maggie's Music
 
+9\. Zaccheus – Doyle Dykes – Fingerstyle Guitar
 
+- Album Label: Step One Records
 
-7\. Daisy Goes a Dancing – Pat Kirtley – Guitar Fingerstyle, Vol. 1. (Narada)
+10\. John's Tune – John Renbourne – The Hermit
 
+- Album Label: Castle Music
 
+11\. Uncle Herman's Hornpipe – Dan Crary – Jammed If I Do
 
-8\. Dogue Creek – Al Petteway – The Waters and the Wild (Maggie's Music)
+- Album Label: Sugarhill
 
+12\. River – Al Petteway – The Waters and the Wild
 
+- Album Label: Maggie’s Music
 
-9\. Zaccheus – Doyle Dykes – Fingerstyle Guitar (Step One Records)
+13\. Tell Her to Come Back Home – John Fahey – Return of the Repressed: The John Fahey Anthology
 
+- Album Label: Rhino
 
+14\. Blackberry Picking – Bob Hadley – Guitarist Composer Sampler
 
-10\. John's Tune – John Renbourne – The Hermit (Castle Music)
+- Track Notes: This track is no longer in print. It is not the same as the track on Bob Hadley’s solo album.
+- Album Label: Kicking Mule
 
+15\. Little Martha – Tim Farrell – Guitar Fingerstyle, Vol. 1
 
+- Album Label: Narada
 
-11\. Uncle Herman's Hornpipe – Dan Crary – Jammed If I Do (Sugarhill)
+16\. Festival Waltz – Al Petteway – Whispering Stones
 
+- Album Label: Maggie’s Music
 
+17\. Cattail Waltz – Al Petteway – The Waters and the Wild
 
-12\. River – Al Petteway – The Waters and the Wild (Maggie's Music)
+- Album Label: Maggie’s Music
 
-
-
-13\. Tell Her to Come Back Home – John Fahey – Return of the Repressed: The John Fahey Anthology (Rhino)
-
-
-
-14\. Blackberry Picking – Bob Hadley – Guitarist Composer Sampler (Kicking Mule)
-
-
-
-15\. Little Martha – Tim Farrell – Guitar Fingerstyle, Vol. 1. (Narada)
-
-
-
-16\. Festival Waltz – Al Petteway – Whispering Stones (Maggie's Music)
-
-
-
-17\. Cattail Waltz – Al Petteway – The Waters and the Wild (Maggie's Music)
-
-
-
-18\. Sunflower River Blues – John Fahey – Return of the Repressed: The John Fahey Anthology (Rhino)
+18\. Sunflower River Blues – John Fahey – Return of the Repressed: The John Fahey Anthology
 
 - Track Notes: edited to remove gap
+- Album Label: Rhino

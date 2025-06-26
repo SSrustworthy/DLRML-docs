@@ -10,9 +10,9 @@ You have three options:
 
 1. You can access static pages for each loop using the **dropdown sidebar** to your left, or the **search bar** on the top of this site.
 
-2. You can download a copy of all tracklists in markdown or CSV format by accessing the central [DLRML-docs](https://github.com/SSrustworthy/DLRML-docs) GitHub repository. All loops are concatenated into one giant table for each area (DL, DCA, or other resort properties).
+2. You can **download** a copy of all tracklists **in markdown or CSV format** by accessing the central [DLRML-docs](https://github.com/SSrustworthy/DLRML-docs) GitHub repository. All loops are concatenated into one giant table for each area (DL, DCA, or other resort properties).
 
-3. You can check out the databases as hosted on [Notion](https://dlrmusic.notion.site/Databases-in-development-1ff45e88f3f4803f9bb9d97aab76784b) (where the previous version of the site was hosted). These are the development versions of the databases and are presented as filterable, sortable tables.
+3. You can check out the databases as hosted on [Notion](https://dlrmusic.notion.site/Databases-in-development-1ff45e88f3f4803f9bb9d97aab76784b) (where the previous version of the site was hosted). These are the development versions of the databases and are presented as **filterable, sortable tables**.
 
 ## New Additions
 

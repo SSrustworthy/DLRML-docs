@@ -2,6 +2,21 @@
 
 This is the log for all database updates.
 
+## Site Update 06/26/25
+
+### DL
+
+- Updated Port Royal Jazz Club (incomplete)
+- Fixed Big Thunder Mountain queue tracklist notes
+
+### DCA
+
+- Added Hollywood Land - Animation Academy BGM
+
+### Other
+
+- Added track lengths - esplanade music box
+
 ## Site Update 06/1/25
 
 ### DL

@@ -114,6 +114,4 @@ This loop played throughout all areas of the ABC Soap Opera Bistro while in oper
 
 - Loop Track Length: 2:16.299
 
-24\. Funky Tension [All My Children] – Unreleased
-
 - Loop Track Length: 2:08.671
