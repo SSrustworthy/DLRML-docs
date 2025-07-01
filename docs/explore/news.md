@@ -2,6 +2,12 @@
 
 This is the log for all database updates.
 
+## Site Update 06/30/25
+
+### Newly added: Walt Disney World!
+
+- Thanks to the generosity of Triple and Deep Purple Toupee, we now have a folder of Walt Disney World loops! The first upload includes assorted loops from Animal Kingdom.
+
 ## Site Update 06/26/25
 
 ### DL
