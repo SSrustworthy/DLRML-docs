@@ -1,7 +1,5 @@
 # Black Panther Celebration Garden [REF]
 
-## Description
-
 **Land(s)**: Avengers Campus
 
 **Loop Total Length**: 00:25:58.597

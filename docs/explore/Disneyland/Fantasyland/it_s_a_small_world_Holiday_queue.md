@@ -1,7 +1,5 @@
 # it's a small world Holiday queue
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 00:01:30

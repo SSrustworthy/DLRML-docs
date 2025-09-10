@@ -1,12 +1,6 @@
 # The Twilight Zone Tower of Terror Queue
 
-## Description
-
 **Land(s)**: Hollywood Pictures Backlot
-
-**Loop Total Length**: 1:00:45.074
-
-This loop played in The Twilight Zone Tower of Terror queue. See Magic Music, [https://community.magicmusic.net/threads/guest-relations-listings.4511/post-32186](https://community.magicmusic.net/threads/guest-relations-listings.4511/post-32186) and [https://forums.mousebits.com/threads/the-twilight-zone-tower-of-terror-lobby-bgm.5466/post-54988.](https://forums.mousebits.com/threads/the-twilight-zone-tower-of-terror-lobby-bgm.5466/post-54988.) The latter post notes that this is the same loop as DHS.
 
 ## Tracklist
 

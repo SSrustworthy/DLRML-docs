@@ -1,14 +1,12 @@
 # Wreck-It Ralph Meet and Greet
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: 00:48:21.864
 
 **Dates**: October 28, 2012 → November 1, 2014
 
-Played at the Starcade Wreck-it Ralph Meet and Greet ca. 2012 to 2014. Compiled by Pixelated and others on MouseBits: [https://mousebits.com/smf/index.php?topic=7699.msg68678#msg68678](https://mousebits.com/smf/index.php?topic=7699.msg68678#msg68678) (2012).
+Played at the Starcade Wreck-it Ralph Meet and Greet ca. 2012 to 2014. Compiled by Pixelated and others on MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7699.msg68678#msg68678 (2012).
 
 ## Tracklist
 
@@ -46,7 +44,7 @@ Played at the Starcade Wreck-it Ralph Meet and Greet ca. 2012 to 2014. Compiled 
 
 9\. Goonies 'R' Good Enough (Nintendo 8bit version) (Remix)
 
-- Track Notes: Edited; [https://www.youtube.com/watch?v=phGS0VdpM0E](https://www.youtube.com/watch?v=phGS0VdpM0E)
+- Track Notes: Edited; [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=phGS0VdpM0E
 
 10\. Main Theme (Angry Birds) – London Philharmonic Orchestra – The Greatest Video Game Music
 

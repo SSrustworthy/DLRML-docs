@@ -1,14 +1,8 @@
 # Golden Vine Winery [REF]
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Golden Vine Winery
-
-**Loop Total Length**: 00:52:25.098
-
-This loop originated with park opening, as seen in 2001 home videos ([https://youtu.be/UjO75fQvMcw?feature=shared&t=4176](https://youtu.be/UjO75fQvMcw?feature=shared&t=4176) and [https://www.youtube.com/watch?v=hfKfpfH94r8](https://www.youtube.com/watch?v=hfKfpfH94r8)) where it could be heard around the district and in the Wine Country Market. As of 2024 it still plays in and around the restaurants of the Golden Vine Winery. See MouseBits, [https://mousebits.com/smf/index.php?topic=3594.msg36841#msg36841](https://mousebits.com/smf/index.php?topic=3594.msg36841#msg36841) (2010). Tracklist based on a 2008 reference recording.
 
 ## Tracklist
 

@@ -1,12 +1,10 @@
 # Pixar Pier Entrance Loop
 
-## Description
-
 **Land(s)**: Pixar Pier
 
 **Loop Total Length**: 01:27:01.910
 
-This is a preliminary tracklist for the Pixar Pier Entrance loop, compiled by pixelated. The loop plays on the ramp/bridge going up to the Lamplight Lounge, around the outside of the lounge & Adorable Snowman Frosted Treats, and up to the end of the billboards. See MouseBits, [https://mousebits.com/smf/index.php?topic=9820.msg92826#msg92826](https://mousebits.com/smf/index.php?topic=9820.msg92826#msg92826) (2018).
+This is a preliminary tracklist for the Pixar Pier Entrance loop, compiled by pixelated. The loop plays on the ramp/bridge going up to the Lamplight Lounge, around the outside of the lounge & Adorable Snowman Frosted Treats, and up to the end of the billboards. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9820.msg92826#msg92826 (2018).
 
 ## Tracklist
 
@@ -55,14 +53,14 @@ This is a preliminary tracklist for the Pixar Pier Entrance loop, compiled by pi
 
 - Loop Track Length:  00:00:42.199
 
+12\.  You've Got a Friend In Me – Randy Newman – Toy Story 
+
+- Loop Track Length:  00:02:00.346
+
 12\. I Can't Let You Throw Yourself Away – Randy Newman – Toy Story 4
 
 - Loop Track Length: 00:2:00.308
 - Track Notes: Track switched in for “Friend in Me” sometime between  Pixar Pier opened and Jan 2020
-
-12\.  You've Got a Friend In Me – Randy Newman – Toy Story 
-
-- Loop Track Length:  00:02:00.346
 
 13\.  Up with Titles – Michael Giacchino – Up 
 

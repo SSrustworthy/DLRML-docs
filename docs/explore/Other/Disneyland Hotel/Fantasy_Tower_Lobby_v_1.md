@@ -1,14 +1,8 @@
 # Fantasy Tower Lobby v.1
 
-## Description
-
 **Area**: Disneyland Hotel
 
-**Loop Total Length**: 01:16:17
-
 **Dates**: January 1, 2001 → January 1, 2011
-
-The starting track is based on CThaddeus' recording; there are large gaps between many of the songs (particularly the Just the Music tracks) which makes it difficult to tell where the loop starts and ends, although there's an argument for saying it would sort of make sense for Be Our Guest to be track 1. Many of the Orchestral Collection tracks are edited in a similar fashion to their appearances in other DLH loops. Loop removed in either 2010 or 2011. Based on a reference recording by CThaddeus from August 2010 and compiled by C33. See MouseBits, [https://mousebits.com/smf/index.php?topic=5700.msg60869#msg60869](https://mousebits.com/smf/index.php?topic=5700.msg60869#msg60869) (2012).
 
 ## Tracklist
 

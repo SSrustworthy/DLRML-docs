@@ -1,12 +1,10 @@
 # Castle Heraldry Shoppe [INC], Disney Villains Shop [INC]
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: Unknown
 
-Partial listing for the Disney Villains Shop and Castle Heraldry Shoppe in the Fantasyland Castle Courtyard. The loop remained through the theming change. This track list was obtained when it was the Castle Heraldry Shoppe. See MouseBits, [https://mousebits.com/smf/index.php?topic=7868.msg70557#msg70557](https://mousebits.com/smf/index.php?topic=7868.msg70557#msg70557) (2013). The shop opened in 1991, but this loop includes clips from later movies, so it was probably introduced later.
+Partial listing for the Disney Villains Shop and Castle Heraldry Shoppe in the Fantasyland Castle Courtyard. The loop remained through the theming change. This track list was obtained when it was the Castle Heraldry Shoppe. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7868.msg70557#msg70557 (2013). The shop opened in 1991, but this loop includes clips from later movies, so it was probably introduced later.
 
 ## Tracklist
 

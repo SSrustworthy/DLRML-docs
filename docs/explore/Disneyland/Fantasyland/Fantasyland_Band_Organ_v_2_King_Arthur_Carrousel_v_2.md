@@ -1,14 +1,12 @@
 # Fantasyland Band Organ v.2, King Arthur Carrousel v.2
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 00:48:29.421
 
 **Dates**: January 1, 2005
 
-This loop began playing at King Arthur’s Carrousel around 2005. See MouseBits, [https://mousebits.com/smf/index.php?topic=6421.msg51539#msg51539](https://mousebits.com/smf/index.php?topic=6421.msg51539#msg51539) (2011), [https://mousebits.com/smf/index.php?topic=8018.msg72396#msg72396](https://mousebits.com/smf/index.php?topic=8018.msg72396#msg72396) (2013) and [https://mousebits.com/smf/index.php?topic=6997.msg58880#msg58880](https://mousebits.com/smf/index.php?topic=6997.msg58880#msg58880) (2012).
+This loop began playing at King Arthur’s Carrousel around 2005. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6421.msg51539#msg51539 (2011), [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8018.msg72396#msg72396 (2013) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6997.msg58880#msg58880 (2012).
 
 ## Tracklist
 

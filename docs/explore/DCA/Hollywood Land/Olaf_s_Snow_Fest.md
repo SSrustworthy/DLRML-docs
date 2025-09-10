@@ -1,7 +1,5 @@
 # Olaf's Snow Fest
 
-## Description
-
 **Land(s)**: Hollywood Land
 
 **Loop Total Length**: 00:25:46.1
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Olaf's Snow Fest
 
-This loop played in the Olaf’s Snow Fest area as part of DCA’s Frozen Fun. Preliminary track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=8866.msg84733#msg84733](https://mousebits.com/smf/index.php?topic=8866.msg84733#msg84733) (2015).
+This loop played in the Olaf’s Snow Fest area as part of DCA’s Frozen Fun. Preliminary track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8866.msg84733#msg84733 (2015).
 
 ## Tracklist
 

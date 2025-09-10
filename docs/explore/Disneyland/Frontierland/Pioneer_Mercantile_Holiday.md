@@ -1,14 +1,12 @@
 # Pioneer Mercantile Holiday
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 00:40:29.304
 
 **Holiday/Special Event**: Christmas
 
-This loop played in the Pioneer Mercantile shop at the back of the shop during the 2022 holiday season. See MouseBits, [https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210](https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210) (2023).
+This loop played in the Pioneer Mercantile shop at the back of the shop during the 2022 holiday season. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9570.msg99210#msg99210 (2023).
 
 ## Tracklist
 
@@ -31,7 +29,7 @@ This loop played in the Pioneer Mercantile shop at the back of the shop during t
 5\. Clip from Mickey Mouse Clubhouse - Donald Duck directing "We Wish You A Merry Christmas"
 
 - Loop Track Length: 00:01:46.504
-- Track Notes: [https://youtu.be/1bV3qO1VCe4](https://youtu.be/1bV3qO1VCe4)
+- Track Notes: [https://youtu.be/1bV3qO1VCe4](https://youtu.be/1bV3qO1VCe4) 
 
 6\. Ring in the Season – Kristen Bell, Idina Menzel, Josh Gad – Olaf's Frozen Adventure OST
 

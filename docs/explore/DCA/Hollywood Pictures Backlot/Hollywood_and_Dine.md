@@ -1,33 +1,26 @@
 # Hollywood and Dine
 
-## Description
-
 **Land(s)**: Hollywood Pictures Backlot
-
-**Loop Total Length**: ~00:58:26 (Playback had glitch)
-
-This loop played in Hollywood and Dine at DCA, in the building marked as Stage 12. This is a preliminary tracklist. See MouseBits, 
-[https://mousebits.com/smf/index.php?topic=5376.msg42841#msg42841](https://mousebits.com/smf/index.php?topic=5376.msg42841#msg42841) and [https://mousebits.com/smf/index.php?topic=9294.msg87937#msg87937](https://mousebits.com/smf/index.php?topic=9294.msg87937#msg87937) and [https://mousebits.com/smf/index.php?topic=8750.msg83783#msg83783.](https://mousebits.com/smf/index.php?topic=8750.msg83783#msg83783.) It was very Similar to DHS’s The Brown Derby restaurant loop with some notable speed differences.
 
 ## Tracklist
 
-1\. Moonlight Serenade – Glenn Miller – In the Digital Mood
+1\. Moonlight Serenade – Glenn Miller Orchestra – In the Digital Mood [1983]
 
 
 
-2\. Chloe (Song of the Swamp) – Benny Goodman & His Orchestra – The Harry James Years Vol 1
+2\. Chloe (Song of the Swamp) – Benny Goodman & His Orchestra – Swing, Swing, Swing [1987]
 
 
 
-3\. Who? – Benny Goodman & His Orchestra
+3\. Who? – Benny Goodman & His Orchestra – Swing, Swing, Swing [1987]
 
 
 
-4\. The American Patrol – Glenn Miller – In the Digital Mood
+4\. The American Patrol – Glenn Miller Orchestra – In the Digital Mood [1983]
 
 - Album Track Number: 3
 
-5\. A String Of Pearls – Glenn Miller – In the Digital Mood
+5\. A String Of Pearls – Glenn Miller Orchestra – In the Digital Mood [1983]
 
 
 
@@ -39,51 +32,51 @@ This loop played in Hollywood and Dine at DCA, in the building marked as Stage 1
 
 
 
-8\. Frenesi – Artie Shaw
-
-- Track Notes: This is the same version as in the soundtrack to the movie “Bird”.
-
-9\. Body And Soul – Benny Goodman
+8\. Frenesi – Artie Shaw – Radio Days (Selections From The Original Soundtrack Of The Motion Picture) [1987]
 
 
 
-10\. April In Paris – Charlie Parker
+9\. Body And Soul – Benny Goodman – Radio Days (Selections From The Original Soundtrack Of The Motion Picture) [1987]
 
 
 
-11\. Make Believe – Benny Goodman
+10\. April In Paris – Charlie Parker – Bird (Original Motion Picture Soundtrack) [1988]
 
 
 
-12\. Bach Goes To Town – Benny Goodman
+11\. Make Believe – Benny Goodman – Swing, Swing, Swing [1987]
 
 
 
-13\. In The Mood – Glenn Miller – In the Digital Mood
+12\. Bach Goes To Town – Benny Goodman – Swing, Swing, Swing [1987]
 
 
 
-14\. Little Brown Jug – Glenn Miller – In the Digital Mood
+13\. In The Mood – Glenn Miller Orchestra – In the Digital Mood [1983]
 
 
 
-15\. Tuxedo Junction – Glenn Miller – In the Digital Mood
+14\. Little Brown Jug – Glenn Miller Orchestra – In the Digital Mood [1983]
+
+
+
+15\. Tuxedo Junction – Glenn Miller Orchestra – In the Digital Mood [1983]
 
 - Track Notes: album track is around 1.74 secs. longer than the recording
 - Album Track Number: 7
 
-16\. Handful Of Keys – Benny Goodman
+16\. Handful Of Keys – Benny Goodman – Swing, Swing, Swing [1987]
 
 
 
-17\. I'm Gettin' Sentimental Over You – Tommy Dorsey
+17\. I'm Gettin' Sentimental Over You – Tommy Dorsey – Radio Days (Selections From The Original Soundtrack Of The Motion Picture) [1987]
 
 
 
-18\. Take The 'A' Train – Duke Ellington & His Orchestra
+18\. Take The 'A' Train – Duke Ellington & His Orchestra – Radio Days (Selections From The Original Soundtrack Of The Motion Picture) [1987]
 
 
 
-19\. Opus One – Tommy Dorsey
+19\. Opus No. 1 – Tommy Dorsey – Radio Days (Selections From The Original Soundtrack Of The Motion Picture) [1987]
 
 

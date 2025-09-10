@@ -9,3 +9,5 @@ As a collaborative effort between myself (SSrustworthy) and fellow MouseBits mem
 Enjoy our ad-free reconstructions and playlists on our YouTube channel:
 
 [Hometown Sounds of Main Street, U.S.A.](https://www.youtube.com/@HometownSoundsMSUSA/featured)
+
+<img title="" src="img/assets/HSTitle.png" alt="" width="452" data-align="center">

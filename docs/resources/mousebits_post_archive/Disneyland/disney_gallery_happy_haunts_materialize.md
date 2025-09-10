@@ -2,9 +2,9 @@
 
 *Posted by SSrustworthy on 2/26/23*
 
-This exhibit opened for the 50th anniversary of the Haunted Mansion in July of 2015:
+This exhibit opened for the 50th anniversary of the Haunted Mansion in July of 2019:
 
-[https://disneyparks.disney.go.com/blog/2019/07/celebrate-50-years-of-the-haunted-mansion-with-a-new-exhibit-happy-haunts-materialize-at-disneyland-park/](https://disneyparks.disney.go.com/blog/2019/07/celebrate-50-years-of-the-haunted-mansion-with-a-new-exhibit-happy-haunts-materialize-at-disneyland-park/)
+https://attractionsmagazine.com/haunted-mansion-50-exhibit-disneyland/
 
 It closed in January 2023 to make way for the newest exhibit, The Disney Gallery Presents: Disney 100 Years of Wonder.
 

@@ -1,12 +1,10 @@
 # Bear Country [INC], Golden Bear Lodge [INC]
 
-## Description
-
 **Land(s)**: Bear Country
 
 **Loop Total Length**: Unknown (>30:00)
 
-This is a partial tracklist of the Bear Country loop. Many thanks to RocketRodsXPR for digging up an old live recording he had downloaded from the 1980s which captured about 30 minutes of the loop. See discussion on MouseBits: [https://mousebits.com/smf/index.php?topic=10827.msg98908#msg98908](https://mousebits.com/smf/index.php?topic=10827.msg98908#msg98908) and [https://mousebits.com/smf/index.php?topic=9192.msg87135#msg87135](https://mousebits.com/smf/index.php?topic=9192.msg87135#msg87135)
+This is a partial tracklist of the Bear Country loop. Many thanks to RocketRodsXPR for digging up an old live recording he had downloaded from the 1980s which captured about 30 minutes of the loop. See discussion on MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10827.msg98908#msg98908 and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9192.msg87135#msg87135
 
 ## Tracklist
 

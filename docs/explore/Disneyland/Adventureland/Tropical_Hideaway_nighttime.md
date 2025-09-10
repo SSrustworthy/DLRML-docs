@@ -1,14 +1,12 @@
 # Tropical Hideaway nighttime
 
-## Description
-
 **Land(s)**: Adventureland
 
 **Loop Total Length**: 01:23:27.631
 
 **Dates**: December 19, 2018
 
-This loop plays at the Tropical Hideaway counter-service restaurant at night. Track listing compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9972.msg93530#msg93530](https://mousebits.com/smf/index.php?topic=9972.msg93530#msg93530) (2018).
+This loop plays at the Tropical Hideaway counter-service restaurant at night. Track listing compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9972.msg93530#msg93530 (2018).
 
 ## Tracklist
 

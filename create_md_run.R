@@ -13,6 +13,10 @@ iterate_venues <- function(x) {
                           full.names = TRUE)
   loop_db <- read_csv(file_name, show_col_types = FALSE)
   
+  if (any(is.na(unique(loop_db$Loop)))) {
+    stop("Check for empty loop values in database")
+  }
+  
   out_loc <- file.path(stem, "docs", "explore", x)
   if(dir.exists(out_loc)) unlink(out_loc, recursive = TRUE, force = TRUE)
   dir.create(out_loc)
@@ -27,5 +31,6 @@ now <- Sys.time()
 iterate_venues("Disneyland")
 iterate_venues("DCA")
 iterate_venues("Other")
+iterate_venues("Disney Galleries")
 
 Sys.time() - now

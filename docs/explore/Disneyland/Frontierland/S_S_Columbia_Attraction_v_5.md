@@ -1,14 +1,12 @@
 # S.S. Columbia Attraction v.5
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: Unknown
 
 **Dates**: July 29, 2017
 
-This music was played onboard the S.S. Columbia interspersed with the show narration. See MouseBits, [https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153](https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153) (2022). v.5 premiered with the July 2017 reopening of the Rivers of America, and is used currently (as of January 2023).
+This music was played onboard the S.S. Columbia interspersed with the show narration. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10877.msg99153#msg99153 (2022). v.5 premiered with the July 2017 reopening of the Rivers of America, and is used currently (as of January 2023).
 
 ## Tracklist
 

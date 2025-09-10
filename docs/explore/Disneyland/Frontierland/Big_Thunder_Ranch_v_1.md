@@ -1,14 +1,12 @@
 # Big Thunder Ranch v.1
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 00:59:37
 
 **Dates**: January 1, 1986 → January 1, 2009
 
-Appears to have been a custom-recorded (i.e., non-needledrop) loop from WDI. The Big Thunder Ranch is believed to have shared a loop with Frontierland at the Magic Kingdom. This playlist is based on a recording of the Frontierland loop of unknown origin. See [https://disney-parks-music-compendium.blogspot.com/2022/11/big-thunder-ranch-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/big-thunder-ranch-bgm.html) Loop apparently returned in 2015: [https://mousebits.com/smf/index.php?topic=8937.msg85342#msg85342](https://mousebits.com/smf/index.php?topic=8937.msg85342#msg85342)
+Appears to have been a custom-recorded (i.e., non-needledrop) loop from WDI. The Big Thunder Ranch is believed to have shared a loop with Frontierland at the Magic Kingdom. This playlist is based on a recording of the Frontierland loop of unknown origin. See [https://disney-parks-music-compendium.blogspot.com/2022/11/big-thunder-ranch-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/big-thunder-ranch-bgm.html)  Loop apparently returned in 2015: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8937.msg85342#msg85342
 
 ## Tracklist
 

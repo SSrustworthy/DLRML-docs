@@ -1,14 +1,12 @@
 # F&W Jr. Chef Preshow 2019
 
-## Description
-
 **Land(s)**: Hollywood Land
 
 **Loop Total Length**: 00:56:20.223
 
 **Holiday/Special Event**: Food and Wine Festival
 
-A preliminary tracklist for the See MouseBits, Jr. Chef preshow at the Food & Wine festival compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=10186.msg94538#msg94538](https://mousebits.com/smf/index.php?topic=10186.msg94538#msg94538) (2019). There is only one silent gap in this loop and a fair number of tracks overlap.
+A preliminary tracklist for the See MouseBits, Jr. Chef preshow at the Food & Wine festival compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10186.msg94538#msg94538 (2019). There is only one silent gap in this loop and a fair number of tracks overlap.
 
 ## Tracklist
 

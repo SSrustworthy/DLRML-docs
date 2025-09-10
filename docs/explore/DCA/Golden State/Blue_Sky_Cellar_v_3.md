@@ -1,14 +1,8 @@
 # Blue Sky Cellar v.3 [REF]
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Golden Vine Winery
-
-**Loop Total Length**: 01:12:58.505
-
-A preliminary tracklist for the 3rd version of the Blue Sky Cellar BGM, which corresponded with the Paradise Park and Ariel’s Undersea Adventure exhibits. The loop was installed in June 2010. Compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796](https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796) and [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.)
 
 ## Tracklist
 

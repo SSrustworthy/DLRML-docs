@@ -1,7 +1,5 @@
 # World of Disney Holiday
 
-## Description
-
 **Area**: Downtown Disney District
 
 **Loop Total Length**: 01:03:57.630

@@ -1,7 +1,5 @@
 # ElecTRONica: Flynn's Arcade
 
-## Description
-
 **Land(s)**: Hollywood Pictures Backlot
 
 **Loop Total Length**: Unknown
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: ElecTRONica
 
-This loop played inside of Flynn’s Arcade during ElecTRONica. This is a preliminary track listing. See MouseBits, [https://mousebits.com/smf/index.php?topic=5949.msg51536#msg51536](https://mousebits.com/smf/index.php?topic=5949.msg51536#msg51536) (2011). The songs were interrupted by an ad for "TRON: Legacy" approximately every fifteen minutes, and not in the same places each time the loop plays.
+This loop played inside of Flynn’s Arcade during ElecTRONica. This is a preliminary track listing. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5949.msg51536#msg51536 (2011). The songs were interrupted by an ad for "TRON: Legacy" approximately every fifteen minutes, and not in the same places each time the loop plays.
 
 ## Tracklist
 

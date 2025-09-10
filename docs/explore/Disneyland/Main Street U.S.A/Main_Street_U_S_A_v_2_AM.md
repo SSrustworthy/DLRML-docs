@@ -1,14 +1,12 @@
 # Main Street U.S.A. v.2 "AM"
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: ~00:59:00
 
 **Dates**: January 1, 1976 → November 1, 1991
 
-This loop played on Main Street, U.S.A. from 1976-1991. The loop was created by Jack Wagner for both MK and DL, and is often known as the AM loop, although from observation of home videos it was not necessarily constrained to a time of day. See Magic Music, [https://community.magicmusic.net/threads/frontierland-loop-question.3677/#post-25773](https://community.magicmusic.net/threads/frontierland-loop-question.3677/#post-25773) (2008), Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/12/main-street-usa-bgm-1976-am.html](https://disney-parks-music-compendium.blogspot.com/2022/12/main-street-usa-bgm-1976-am.html) (2014), [http://passport2dreams.blogspot.com/2013/04/main-street-usa-1976-1991-morning.html](http://passport2dreams.blogspot.com/2013/04/main-street-usa-1976-1991-morning.html) (2013), and MouseBits [https://mousebits.com/smf/index.php?topic=7973.msg71919#msg71919](https://mousebits.com/smf/index.php?topic=7973.msg71919#msg71919) (2013).
+This loop played on Main Street, U.S.A. from 1976-1991. The loop was created by Jack Wagner for both MK and DL, and is often known as the AM loop, although from observation of home videos it was not necessarily constrained to a time of day. See Magic Music, [https://community.magicmusic.net/threads/frontierland-loop-question.3677/#post-25773](https://community.magicmusic.net/threads/frontierland-loop-question.3677/#post-25773)  (2008), Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/12/main-street-usa-bgm-1976-am.html](https://disney-parks-music-compendium.blogspot.com/2022/12/main-street-usa-bgm-1976-am.html)  (2014), [http://passport2dreams.blogspot.com/2013/04/main-street-usa-1976-1991-morning.html](http://passport2dreams.blogspot.com/2013/04/main-street-usa-1976-1991-morning.html)  (2013), and MouseBits [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7973.msg71919#msg71919 (2013).
 
 ## Tracklist
 

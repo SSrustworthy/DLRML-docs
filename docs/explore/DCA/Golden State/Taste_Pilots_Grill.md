@@ -1,14 +1,8 @@
 # Taste Pilots' Grill
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Condor Flats
-
-**Loop Total Length**: 01:09:57.497
-
-This loop played inside of the Taste Pilot’s Grill at Condor Flats park opening until its closure. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147) (2002) and Disney Music Loops, [https://disneymusicloops.tripod.com/dlr/dlr-gs-tpg.html.](https://disneymusicloops.tripod.com/dlr/dlr-gs-tpg.html.) Also see MouseBits for correct track order, [https://mousebits.com/smf/index.php?topic=6450.msg51874#msg51874](https://mousebits.com/smf/index.php?topic=6450.msg51874#msg51874) (2011). Apparently the loop used to be around a half-hour and was extended by mid-2002 - see Magic Music, [https://community.magicmusic.net/threads/sunshine-plaza.444/post-2981.](https://community.magicmusic.net/threads/sunshine-plaza.444/post-2981.) It is not known which tracks were added. Albums are not verified for this loop. This loop has several long silent gaps (~ 11 secs.) so it's difficult to say which track should be the first track, but pixelated picked Leaving on a Jet Plane.
 
 ## Tracklist
 

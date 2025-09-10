@@ -1,7 +1,5 @@
 # Food and Wine Festival 2016
 
-## Description
-
 **Land(s)**: Performance Corridor
 
 **Loop Total Length**: 01:00:57.743
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Food and Wine Festival
 
-A preliminary tracklist for the 2016 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated based on his reference recording. See MouseBits,  [https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.](https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.)
+A preliminary tracklist for the 2016 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated based on his reference recording. See MouseBits,  [https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.](https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.) 
 
 ## Tracklist
 

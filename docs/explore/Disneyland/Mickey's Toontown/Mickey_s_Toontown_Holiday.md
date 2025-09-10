@@ -1,14 +1,8 @@
 # Mickey's Toontown Holiday [REF]
 
-## Description
-
 **Land(s)**: Mickey's Toontown
 
-**Loop Total Length**: 34:49.037
-
 **Holiday/Special Event**: Christmas
-
-This listing was painstakingly compiled by Pixelated (MouseBits; [https://mousebits.com/smf/index.php?topic=4845.msg47976#msg47976](https://mousebits.com/smf/index.php?topic=4845.msg47976#msg47976)). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time.
 
 ## Tracklist
 

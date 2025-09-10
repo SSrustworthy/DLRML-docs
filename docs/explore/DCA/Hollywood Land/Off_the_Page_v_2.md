@@ -1,12 +1,10 @@
 # Off the Page v.2
 
-## Description
-
 **Land(s)**: Hollywood Land
 
 **Loop Total Length**: 01:02:52.489
 
-This loop was originally noted on the Magic Music forums by X-S Tech, Re: [https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830](https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830) (2004). A newer tracklist was posted by SSrustworthy on MouseBits, Re: [https://forums.mousebits.com/threads/dca-off-the-page.11049/](https://forums.mousebits.com/threads/dca-off-the-page.11049/) (2024). In the years since, it appears to have altered slightly. “Following the Leader” (Peter Pan) was replaced by “How Far I’ll Go” (Moana) at some point after 2016, presumably to remove the racist lyrics. Topsy Turvy may have also been added. The tracks are largely limited to their vocal portions, such that intro or outro instrumental portions on their OST releases are trimmed but there are otherwise no intra-track edits.
+This loop was originally noted on the Magic Music forums by X-S Tech, Re: [https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830](https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830)  (2004). A newer tracklist was posted by SSrustworthy on MouseBits, Re: [https://forums.mousebits.com/threads/dca-off-the-page.11049/](https://forums.mousebits.com/threads/dca-off-the-page.11049/)  (2024). In the years since, it appears to have altered slightly. “Following the Leader” (Peter Pan) was replaced by “How Far I’ll Go” (Moana) at some point after 2016, presumably to remove the racist lyrics. Topsy Turvy may have also been added. The tracks are largely limited to their vocal portions, such that intro or outro instrumental portions on their OST releases are trimmed but there are otherwise no intra-track edits.
 
 ## Tracklist
 

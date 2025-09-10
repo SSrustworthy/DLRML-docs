@@ -1,12 +1,10 @@
 # Hollywood Land Marvel Summer 2018
 
-## Description
-
 **Land(s)**: Hollywood Land
 
 **Loop Total Length**: 00:59:50.977
 
-This loop played in Hollywood Land in the summer of 2018. Tracklist compiled by pixelated based on his reference recording.
+This loop played in Hollywood Land in the summer of 2018. Tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/hollywood-land-marvel-summer-2018.11171/](https://forums.mousebits.com/threads/hollywood-land-marvel-summer-2018.11171/)  (2025).
 
 ## Tracklist
 

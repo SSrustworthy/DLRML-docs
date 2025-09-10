@@ -1,19 +1,17 @@
 # Chip and Dale Meet and Greet [PRE], Golden Horseshoe Saloon v.2
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 00:39:29.289
 
-This loop plays at the Golden Horseshoe Saloon between live performances as of 2024, and started playing sometime before 2022. It is nearly identical to the WDW Frontierland loop of 1975 based on available partial recordings. This loop also played at a Chip and Dale Meet and Greet in the central plaza near Rancho del Zocalo Restaurante in the mid/late 90s. Chip and Dale were dressed as a cop and a robber. See Magic Music, [https://community.magicmusic.net/threads/wdw-frontierland-bgm-history.3425/#post-22258](https://community.magicmusic.net/threads/wdw-frontierland-bgm-history.3425/#post-22258) and MouseBits, [https://mousebits.com/smf/index.php?topic=9736.msg91820#msg91820.](https://mousebits.com/smf/index.php?topic=9736.msg91820#msg91820.) Djali999 has a fantastic writeup on their [https://passport2dreams.blogspot.com/2024/07/the-lost-music-of-frontierland-1971-1990.html.](https://passport2dreams.blogspot.com/2024/07/the-lost-music-of-frontierland-1971-1990.html.)
+This loop plays at the Golden Horseshoe Saloon between live performances as of 2024, and started playing sometime before 2022. It is nearly identical to the WDW Frontierland loop of 1975 based on available partial recordings. This loop also played at a Chip and Dale Meet and Greet in the central plaza near Rancho del Zocalo Restaurante in the mid/late 90s. Chip and Dale were dressed as a cop and a robber. See Magic Music, [https://community.magicmusic.net/threads/wdw-frontierland-bgm-history.3425/#post-22258](https://community.magicmusic.net/threads/wdw-frontierland-bgm-history.3425/#post-22258)  and MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9736.msg91820#msg91820. Djali999 has a fantastic writeup on their [https://passport2dreams.blogspot.com/2024/07/the-lost-music-of-frontierland-1971-1990.html](https://passport2dreams.blogspot.com/2024/07/the-lost-music-of-frontierland-1971-1990.html)  .
 
 ## Tracklist
 
 1\. Farewell (from “Davy Crockett at the Alamo”) – The Stoneman Family – Unreleased
 
 - Loop Track Length: 00:02:51.559
-- Track Notes: This track was included on a recording of a Jack Wagner cartridge from the [http://waltsmusic.com](http://waltsmusic.com) collection for the Disneyland Mile Long Bar. The track starts at 7:18. See [https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4?highlight=WyJtaWxlIl0=%5B/URL%5D](https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4?highlight=WyJtaWxlIl0=%5B/URL%5D) with MP3 [https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef?pvs=21.](https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef?pvs=21.)
+- Track Notes: This track was included on a recording of a Jack Wagner cartridge from the [http://waltsmusic.com](http://waltsmusic.com)  collection for the Disneyland Mile Long Bar. The track starts at 7:18. See [https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4](https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4) ?highlight=WyJtaWxlIl0=%5B/URL%5D with MP3 [https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef](https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef) ?pvs=21.
 
 2\. Bearless Love – The Stoneman Family – Country Bear Jamboree (Original Soundtrack)
 

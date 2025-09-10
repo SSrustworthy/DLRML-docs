@@ -1,14 +1,12 @@
 # Main Street U.S.A. v.3
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: 01:00:14
 
 **Dates**: January 1, 1992 → January 8, 2012
 
-Based on a list provided by Guest Relations ca. 2001 or 2002 and posted to Magic Music, [https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743.](https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743.) According to The Disneyland Forever Project document assembled by sds910 and TheBeets, the Disneyland Forever and the non-commercially available tracks were recorded in 1991 for Disneyland Paris. Playlist compiled by wedroy1923 based on an induction recording by pixelated (MouseBits). See Re: [https://mousebits.com/smf/index.php?topic=6970.msg58610#msg58610](https://mousebits.com/smf/index.php?topic=6970.msg58610#msg58610) and Magic Music: [https://community.magicmusic.net/threads/disneyland-music-loops.17/.](https://community.magicmusic.net/threads/disneyland-music-loops.17/.)
+Based on a list provided by Guest Relations ca. 2001 or 2002 and posted to Magic Music, [https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743.](https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743https://community.magicmusic.net/threads/guest-relations-listings.4511/#post-32743.)  According to The Disneyland Forever Project document assembled by sds910 and TheBeets, the Disneyland Forever and the non-commercially available tracks were recorded in 1991 for Disneyland Paris. Playlist compiled by wedroy1923 based on an induction recording by pixelated (MouseBits). See Re: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6970.msg58610#msg58610 and Magic Music: [https://community.magicmusic.net/threads/disneyland-music-loops.17/.](https://community.magicmusic.net/threads/disneyland-music-loops.17/.) 
 
 ## Tracklist
 

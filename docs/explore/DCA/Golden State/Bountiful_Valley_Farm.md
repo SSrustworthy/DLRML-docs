@@ -1,14 +1,8 @@
 # Bountiful Valley Farm
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Bountiful Valley Farm
-
-**Loop Total Length**: Unknown
-
-The Bountiful Valley Farm / Bountiful Valley Farmers Market loop played throughout the Bountiful Valley Farm district, particularly near the Caterpillar and agricultural displays and the Sam Andreas Shakes and Bountiful Valley Farmers Market quick-service locations. After the opening of “a bug’s land”, it could only be heard near the Bountiful Valley Farmers Market until it went quiet by 2007/2008. The last traces of the Bountiful Valley Farm district disappeared in 2010 with the construction of Cars Land. See Magic Music user Progressland’s post [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-146](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-146) (Magic Music, 2002), and [https://disneymusicloops.tripod.com/dlr/dlr-abl-fm.html](https://disneymusicloops.tripod.com/dlr/dlr-abl-fm.html) (Kirsten's Disney Music Loops site). Also MouseBits, [https://mousebits.com/smf/index.php?topic=9001.msg85969#msg85969](https://mousebits.com/smf/index.php?topic=9001.msg85969#msg85969) and [https://mousebits.com/smf/index.php?topic=7316.msg98847#msg98847.](https://mousebits.com/smf/index.php?topic=7316.msg98847#msg98847.)
 
 ## Tracklist
 

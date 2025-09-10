@@ -1,14 +1,12 @@
 # Alice in Wonderland Queue v.2
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 00:26:11
 
 **Dates**: April 13, 1984
 
-This loop was installed when the attraction reopened as part of New Fantasyland and plays to the present day. See Magic Music: [https://community.magicmusic.net/threads/disneylands-alice-in-wonderland-dark-ride-queue-music-question.718/,](https://community.magicmusic.net/threads/disneylands-alice-in-wonderland-dark-ride-queue-music-question.718/,) [https://community.magicmusic.net/threads/dl-alice-area-music.1194/#post-8042,](https://community.magicmusic.net/threads/dl-alice-area-music.1194/#post-8042,) and MouseBits: [https://mousebits.com/smf/index.php?topic=5185.msg38775#msg38775.](https://mousebits.com/smf/index.php?topic=5185.msg38775#msg38775.) The full track listing was on Disney Parks Music Compendium: [https://disney-parks-music-compendium.blogspot.com/2022/11/alice-in-wonderland-queue-bgm-1984.html.](https://disney-parks-music-compendium.blogspot.com/2022/11/alice-in-wonderland-queue-bgm-1984.html.) Many of these are instrumental versions, i.e. the vocals have been removed.
+This loop was installed when the attraction reopened as part of New Fantasyland and plays to the present day. See Magic Music: [https://community.magicmusic.net/threads/disneylands-alice-in-wonderland-dark-ride-queue-music-question.718/](https://community.magicmusic.net/threads/disneylands-alice-in-wonderland-dark-ride-queue-music-question.718/) , [https://community.magicmusic.net/threads/dl-alice-area-music.1194/#post-8042](https://community.magicmusic.net/threads/dl-alice-area-music.1194/#post-8042) , and MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5185.msg38775#msg38775. The full track listing was on Disney Parks Music Compendium: [https://disney-parks-music-compendium.blogspot.com/2022/11/alice-in-wonderland-queue-bgm-1984.html](https://disney-parks-music-compendium.blogspot.com/2022/11/alice-in-wonderland-queue-bgm-1984.html)  . Many of these are instrumental versions, i.e. the vocals have been removed.
 
 ## Tracklist
 

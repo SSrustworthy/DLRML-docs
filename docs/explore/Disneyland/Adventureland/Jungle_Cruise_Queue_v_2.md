@@ -1,7 +1,5 @@
 # Jungle Cruise Queue v.2
 
-## Description
-
 **Land(s)**: Adventureland
 
 **Loop Total Length**: 00:58:12.115
@@ -10,7 +8,7 @@
 
 **Dates**: June 26, 1994
 
-This version of with the radio interference played from 1992 until 2020. In 2021, the music stayed the same, but the loop changed to include radio news from “Alberta Falls” (SEA member). See [https://community.magicmusic.net/threads/magic-kingdom-jungle-cruise-bgm.16/#post-70](https://community.magicmusic.net/threads/magic-kingdom-jungle-cruise-bgm.16/#post-70) (a misnomer) and MouseBits: [https://mousebits.com/smf/index.php?topic=9756.msg91954#msg91954.](https://mousebits.com/smf/index.php?topic=9756.msg91954#msg91954.) This playlist was compiled from a source recording. All of songs in the loop seemed to be EQed to reduce bass and treble significantly.
+This version of with the radio interference played from 1992 until 2020. In 2021, the music stayed the same, but the loop changed to include radio news from “Alberta Falls” (SEA member). See [https://community.magicmusic.net/threads/magic-kingdom-jungle-cruise-bgm.16/#post-70](https://community.magicmusic.net/threads/magic-kingdom-jungle-cruise-bgm.16/#post-70)  (a misnomer) and MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9756.msg91954#msg91954. This playlist was compiled from a source recording. All of songs in the loop seemed to be EQed to reduce bass and treble significantly.
 
 ## Tracklist
 

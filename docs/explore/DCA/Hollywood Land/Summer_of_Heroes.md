@@ -1,14 +1,12 @@
 # Summer of Heroes
 
-## Description
-
 **Land(s)**: Hollywood Land
 
 **Loop Total Length**: 00:54:26.901
 
 **Dates**: May 27, 2017 → September 10, 2017
 
-This loop played in Hollywood Land during DCA’s Summer of Heroes celebration. The loop also appears to have played at the SuperHero HQ in Tomorrowland (at the old Innoventions building). Preliminary tracklist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9565.msg90386#msg90386](https://mousebits.com/smf/index.php?topic=9565.msg90386#msg90386) (2017).
+This loop played in Hollywood Land during DCA’s Summer of Heroes celebration. The loop also appears to have played at the SuperHero HQ in Tomorrowland (at the old Innoventions building). Preliminary tracklist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9565.msg90386#msg90386 (2017).
 
 ## Tracklist
 

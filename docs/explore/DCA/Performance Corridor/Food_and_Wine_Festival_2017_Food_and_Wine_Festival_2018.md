@@ -1,7 +1,5 @@
 # Food and Wine Festival 2017, Food and Wine Festival 2018
 
-## Description
-
 **Land(s)**: Performance Corridor
 
 **Loop Total Length**: Unknown
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Food and Wine Festival
 
-A preliminary tracklist for the 2017 and presumably 2018 iteration of the Food and Wine Festival BGM. Tracklist compiled by Castmem928 based on a YouTube video. See MouseBits,  [https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.](https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.)
+A preliminary tracklist for the 2017 and presumably 2018 iteration of the Food and Wine Festival BGM. Tracklist compiled by Castmem928 based on a YouTube video. See MouseBits,  [https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.](https://forums.mousebits.com/threads/dca-food-and-wine-2017-complete-playlist.9515/.) 
 
 ## Tracklist
 

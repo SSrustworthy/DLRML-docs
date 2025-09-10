@@ -1,7 +1,5 @@
 # Mirabel from "Encanto" Meet and Greet
 
-## Description
-
 **Land(s)**: Paradise Gardens Park
 
 **Loop Total Length**: Unknown

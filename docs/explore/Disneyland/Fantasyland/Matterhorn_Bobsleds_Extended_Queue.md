@@ -1,14 +1,12 @@
 # Matterhorn Bobsleds Extended Queue
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 30:31.043
 
 **Dates**: November 16, 2018
 
-This loop plays in the extended queue/lightning lane queue for the Matterhorn. It started playing when the new queue opened in 2018. See MouseBits, [https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765.](https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765.)
+This loop plays in the extended queue/lightning lane queue for the Matterhorn. It started playing when the new queue opened in 2018. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10785.msg98765#msg98765.
 
 ## Tracklist
 

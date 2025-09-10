@@ -1,12 +1,10 @@
 # Fantasy Faire
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: ~1:00:00
 
-This loop was introduced in 2013 with the introduction of the Fantasy Faire area. These are all classic songs from Disney films composed in a renaissance style. See MouseBits, [https://mousebits.com/smf/index.php?topic=8018.msg72181#msg72181](https://mousebits.com/smf/index.php?topic=8018.msg72181#msg72181) (2013) and [https://mousebits.com/smf/index.php?topic=7993.msg72908#msg72908](https://mousebits.com/smf/index.php?topic=7993.msg72908#msg72908) (2013).
+This loop was introduced in 2013 with the introduction of the Fantasy Faire area. These are all classic songs from Disney films composed in a renaissance style. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8018.msg72181#msg72181 (2013) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7993.msg72908#msg72908 (2013).
 
 ## Tracklist
 

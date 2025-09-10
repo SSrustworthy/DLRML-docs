@@ -1,14 +1,12 @@
 # Blue Sky Cellar v.6
 
-## Description
-
 **Land(s)**: Pacific Wharf
 
 **Loop Total Length**: 02:40:32.958
 
 **Dates**: February 1, 2012
 
-Version 6 of the Blue Sky Cellar BGM. Preliminary tracklist compiled by pixelated. Many of the tracks could be from the Rhino Records "Hot Rods & Custom Classics" 4 CD box set. See MouseBits, [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946) and [https://mousebits.com/smf/index.php?topic=6732.msg60829#msg60829](https://mousebits.com/smf/index.php?topic=6732.msg60829#msg60829)
+Version 6 of the Blue Sky Cellar BGM. Preliminary tracklist compiled by pixelated. Many of the tracks could be from the Rhino Records "Hot Rods & Custom Classics" 4 CD box set. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7842.msg69946#msg69946 and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6732.msg60829#msg60829
 
 ## Tracklist
 

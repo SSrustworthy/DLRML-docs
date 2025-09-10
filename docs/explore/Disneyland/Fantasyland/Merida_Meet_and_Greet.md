@@ -1,14 +1,12 @@
 # Merida Meet-and-Greet [REF]
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 00:45:19.965
 
 **Dates**: May 21, 2012 → June 30, 2014
 
-A full tracklist for the Merida Meet-and-Greet at the Small World Mall. Based on some YouTube videos, the same loop is probably used at the Merida Meet-and-Greet at WDW's Magic Kingdom. All tracks except 2 have been compared to their source album tracks. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=7423.msg64442#msg64442](https://mousebits.com/smf/index.php?topic=7423.msg64442#msg64442) (2012).
+A full tracklist for the Merida Meet-and-Greet at the Small World Mall. Based on some YouTube videos, the same loop is probably used at the Merida Meet-and-Greet at WDW's Magic Kingdom. All tracks except 2 have been compared to their source album tracks. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7423.msg64442#msg64442 (2012).
 
 ## Tracklist
 

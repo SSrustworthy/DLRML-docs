@@ -1,14 +1,12 @@
 # Madame Leota's Somewhere Beyond [REF]
 
-## Description
-
 **Land(s)**: New Orleans Square
 
 **Loop Total Length**: 35:25.965
 
 **Dates**: December 23, 2024
 
-Madame Leota’s Somewhere Beyond opened as the exit gift shop for the Haunted Mansion on December 23, 2024. The loop plays from speakers high overhead. Several SFX (including snippets of HM on-ride music) emulating otherworldly interference are present in the loop alongside heavily edited musical tracks. See MouseBits, [https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/(2025](https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/(2025)).
+Madame Leota’s Somewhere Beyond opened as the exit gift shop for the Haunted Mansion on December 23, 2024. The loop plays from speakers high overhead. Several SFX (including snippets of HM on-ride music) emulating otherworldly interference are present in the loop alongside heavily edited musical tracks. See MouseBits, [https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/](https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/https://forums.mousebits.com/threads/madame-leotas-somewhere-beyond.11082/) (2025).
 
 ## Tracklist
 

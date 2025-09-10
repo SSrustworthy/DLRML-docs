@@ -1,12 +1,8 @@
 # Steakhouse 55 [REF]
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: 00:44:32.012
-
-This loop also seems to play around the Adventure Lawn activity/event area that is to the south of the Adventure Tower and east of the Frontier Tower, next to the Rose Court Garden. It was first documented as playing in the entryway to Steakhouse 55 in 2014. See MouseBits, [https://mousebits.com/smf/index.php?topic=8539.msg80731#msg80731.](https://mousebits.com/smf/index.php?topic=8539.msg80731#msg80731.) Tracklist compiled by pixelated based on his reference recording prior to the formal reopening as “The Lounge at the Disneyland Hotel.”
 
 ## Tracklist
 

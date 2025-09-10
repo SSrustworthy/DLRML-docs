@@ -1,7 +1,5 @@
 # Food and Wine Festival 2010
 
-## Description
-
 **Land(s)**: Performance Corridor
 
 **Loop Total Length**: 57:00.161
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Food and Wine Festival
 
-A preliminary tracklist for the 2010 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated a based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/new-bgm-for-disneys-california-food-wine-festival.5312/post-40081.](https://forums.mousebits.com/threads/new-bgm-for-disneys-california-food-wine-festival.5312/post-40081.)
+A preliminary tracklist for the 2010 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated a based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/new-bgm-for-disneys-california-food-wine-festival.5312/post-40081.](https://forums.mousebits.com/threads/new-bgm-for-disneys-california-food-wine-festival.5312/post-40081.) 
 
 ## Tracklist
 

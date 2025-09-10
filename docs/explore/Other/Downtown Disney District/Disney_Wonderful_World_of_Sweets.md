@@ -1,14 +1,12 @@
 # Disney Wonderful World of Sweets [REF]
 
-## Description
-
 **Area**: Downtown Disney District
 
 **Loop Total Length**: 42:44.257
 
 **Dates**: January 22, 2025
 
-Plays inside the Disney Wonderful World of Sweets shop, which opened in DTDD on January 22, 2025. Tracklist compiled by VJ based on a reference recording by pixelated. This appears to be closely related to the Minnie and Friends Breakfast in the Park and Goofy’s Kitchen character breakfast loops. See MouseBits, [https://forums.mousebits.com/threads/disney-wonderful-world-of-sweets.11139/](https://forums.mousebits.com/threads/disney-wonderful-world-of-sweets.11139/) (2025).
+Plays inside the Disney Wonderful World of Sweets shop, which opened in DTDD on January 22, 2025. Tracklist compiled by VJ based on a reference recording by pixelated. This appears to be closely related to the Minnie and Friends Breakfast in the Park and Goofy’s Kitchen character breakfast loops. See MouseBits, [https://forums.mousebits.com/threads/disney-wonderful-world-of-sweets.11139/](https://forums.mousebits.com/threads/disney-wonderful-world-of-sweets.11139/)  (2025).
 
 ## Tracklist
 

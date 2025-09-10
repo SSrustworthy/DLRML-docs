@@ -1,14 +1,12 @@
 # Buena Vista Street Holiday
 
-## Description
-
 **Land(s)**: Buena Vista Street
 
 **Loop Total Length**: 00:53:48.822
 
 **Holiday/Special Event**: Christmas
 
-This loop plays at Buena Vista Street during the holiday season, starting in 2012. Preliminary playlist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg68859#msg68859](https://mousebits.com/smf/index.php?topic=6912.msg68859#msg68859) (2012).
+This loop plays at Buena Vista Street during the holiday season, starting in 2012. Preliminary playlist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6912.msg68859#msg68859 (2012).
 
 ## Tracklist
 

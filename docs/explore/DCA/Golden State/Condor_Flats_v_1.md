@@ -1,7 +1,5 @@
 # Condor Flats v.1
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Condor Flats
@@ -10,7 +8,7 @@
 
 **Dates**: February 8, 2001 → August 1, 2011
 
-This loop played in Condor Flats from February 8, 2001 to August, 2011. It originated with the park opening. See MouseBits, [https://mousebits.com/smf/index.php?topic=5119.msg38127#msg38127](https://mousebits.com/smf/index.php?topic=5119.msg38127#msg38127) (2010) and Magic Music, [https://community.magicmusic.net/playlists/condor-flats.23/](https://community.magicmusic.net/playlists/condor-flats.23/) (2011). There are several edits among the tracks.
+This loop played in Condor Flats from February 8, 2001 to August, 2011. It originated with the park opening. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5119.msg38127#msg38127 (2010) and Magic Music, [https://community.magicmusic.net/playlists/condor-flats.23/](https://community.magicmusic.net/playlists/condor-flats.23/)  (2011). There are several edits among the tracks.
 
 ## Tracklist
 

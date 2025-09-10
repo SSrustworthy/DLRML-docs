@@ -4,7 +4,7 @@
 
 The newest exhibit opened on January 27, 2023.
 
-[https://disneyparks.disney.go.com/blog/2023/02/check-out-the-new-disneyland-exhibit-honoring-100-years-of-disney-movie-magic/](https://disneyparks.disney.go.com/blog/2023/02/check-out-the-new-disneyland-exhibit-honoring-100-years-of-disney-movie-magic/)
+[Check Out the New Disneyland Exhibit Honoring 100 Years of Disney Movie Magic | Disney Parks Blog](https://web.archive.org/web/20230209175419/https://disneyparks.disney.go.com/blog/2023/02/check-out-the-new-disneyland-exhibit-honoring-100-years-of-disney-movie-magic/)
 
 The current BGM for the exhibit is a single track.
 

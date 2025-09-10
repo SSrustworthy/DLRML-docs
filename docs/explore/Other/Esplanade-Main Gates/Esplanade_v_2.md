@@ -1,14 +1,8 @@
 # Esplanade v.2
 
-## Description
-
 **Area**: Esplanade-Main Gates
 
-**Loop Total Length**: 01:07:11.453
-
 **Dates**: April 1, 2004 → July 1, 2017
-
-This loop began its run in the Esplanade in 2004. See MouseBits, [https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959](https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959) (2010).
 
 ## Tracklist
 
@@ -53,7 +47,7 @@ Preceded by a 30 Second snippet of "Winnie the Pooh", which can be found in the 
 9\. California Girls
 
 - Loop Track Length: 3:05
-- Track Notes: This track comes from the [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.)
+- Track Notes: This track comes from the [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=3986.msg29245#msg29245.
 
 10\. The Tiki, Tiki, Tiki Room – Tokyo Disneyland – 15th Anniversary Music 4: Grand Finale
 

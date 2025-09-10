@@ -1,14 +1,8 @@
 # San Fransokyo Square
 
-## Description
-
 **Land(s)**: San Fransokyo Square
 
-**Loop Total Length**: 01:32:39.785
-
 **Dates**: August 31, 2023
-
-This loop plays in the general outdoor area of San Fransokyo Square. Tracklist compiled by pixelated based on his 2023 reference recording. The land opened August 31, 2023.
 
 ## Tracklist
 

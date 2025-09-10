@@ -1,7 +1,5 @@
 # Pirate Palooza [INC]
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: Unknown
@@ -9,7 +7,7 @@
 **Holiday/Special Event**: Halloween, Mickey's Halloween Party
 
 This is an incomplete listing. Tracks without a number do not have a known position in relation to the other identified tracks.
-The loop can be heard from Frontierland to the Haunted Mansion and gets turned down in front of the Haunted Mansion when the Cadaver Dans start their set on the river. See MouseBits, [https://mousebits.com/smf/index.php?topic=9034.msg86249#msg86249](https://mousebits.com/smf/index.php?topic=9034.msg86249#msg86249) (2015).
+The loop can be heard from Frontierland to the Haunted Mansion and gets turned down in front of the Haunted Mansion when the Cadaver Dans start their set on the river. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9034.msg86249#msg86249 (2015).
 
 ## Tracklist
 
@@ -49,6 +47,18 @@ The loop can be heard from Frontierland to the Haunted Mansion and gets turned d
 
 
 
+NA\. Lockjaw/Blackberry Blossom – Toucan Pirates – Sea Changes of the Toucan Pirates
+
+
+
+NA\. Give Us A Drink Of Water – Toucan Pirates – Sea Changes of the Toucan Pirates
+
+
+
+NA\. The Dingle Regatta – Toucan Pirates – Sea Changes of the Toucan Pirates
+
+
+
 NA\. The Jib Polka – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
@@ -62,17 +72,5 @@ NA\. The Reconciliation – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
 NA\. The Old Rigged Ship – Toucan Pirates – Sea Changes of the Toucan Pirates
-
-
-
-NA\. Lockjaw/Blackberry Blossom – Toucan Pirates – Sea Changes of the Toucan Pirates
-
-
-
-NA\. Give Us A Drink Of Water – Toucan Pirates – Sea Changes of the Toucan Pirates
-
-
-
-NA\. The Dingle Regatta – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 

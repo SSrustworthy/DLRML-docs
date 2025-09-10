@@ -1,14 +1,12 @@
 # Innoventions 'Ring Loop'
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: Unknown
 
 **Dates**: November 10, 1998 → January 1, 2012
 
-Music would play upon entering Innoventions, and Tom Morrow would sing a themed version of the main attraction theme. Song would change depending on what zone you were entering. These were bigger and bouncier than the exterior versions. See MouseBits: [https://mousebits.com/smf/index.php?topic=8802.msg84034#msg84034](https://mousebits.com/smf/index.php?topic=8802.msg84034#msg84034) and Magic Music: [https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714](https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714)
+Music would play upon entering Innoventions, and Tom Morrow would sing a themed version of the main attraction theme. Song would change depending on what zone you were entering. These were bigger and bouncier than the exterior versions. See MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8802.msg84034#msg84034 and Magic Music: [https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714](https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714) 
 
 ## Tracklist
 

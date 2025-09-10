@@ -1,12 +1,10 @@
 # Mark Twain Riverboat v.1
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 00:00:41.214
 
-This was a loop of a single short, instrumental track over and over again behind live or recorded narration. It was somewhat slow and sad sounding. See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/) for an extensive discussion of this topic. The track is unreleased, but still plays today under the Disneyland Paris riverboat narration.
+This was a loop of a single short, instrumental track over and over again behind live or recorded narration. It was somewhat slow and sad sounding. See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  for an extensive discussion of this topic. The track is unreleased, but still plays today under the Disneyland Paris riverboat narration.
 
 ## Tracklist
 

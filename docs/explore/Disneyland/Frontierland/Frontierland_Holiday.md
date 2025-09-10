@@ -1,14 +1,12 @@
 # Frontierland Holiday [REF]
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 00:36:19.515
 
 **Holiday/Special Event**: Christmas
 
-This is a verified track list for the general Frontierland holiday loop. See MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg47143#msg47143](https://mousebits.com/smf/index.php?topic=4845.msg47143#msg47143) (2010).
+This is a verified track list for the general Frontierland holiday loop. See MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg47143#msg47143 (2010).
 
 ## Tracklist
 

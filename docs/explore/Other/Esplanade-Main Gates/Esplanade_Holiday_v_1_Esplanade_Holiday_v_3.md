@@ -1,7 +1,5 @@
 # Esplanade Holiday v.1 [REF], Esplanade Holiday v.3 [REF]
 
-## Description
-
 **Area**: Esplanade-Main Gates
 
 **Loop Total Length**: 00:31:58
@@ -10,8 +8,8 @@
 
 **Holiday/Special Event**: Christmas
 
-Plays in the esplanade during the holiday season. First heard in 2005 ([https://community.magicmusic.net/threads/dl-christmas-esplenade-loop.2674/#post-17246](https://community.magicmusic.net/threads/dl-christmas-esplenade-loop.2674/#post-17246)), and heard nearly every season since. This loop did not play in 2012 (that year, the non-holiday loop played) or 2018 (see loop v.2). Tracks in the loop sometimes play over the ending of the previous track, and thus the exact times of the tracks as heard in the loop may be slightly different. See Magic Music: [https://community.magicmusic.net/threads/disneyland-esplanade-christmas-loop-2008.5245/](https://community.magicmusic.net/threads/disneyland-esplanade-christmas-loop-2008.5245/) and MouseBits: 
-[https://mousebits.com/smf/index.php?topic=3783.msg25536#msg25536,](https://mousebits.com/smf/index.php?topic=3783.msg25536#msg25536,) and [https://mousebits.com/smf/index.php?topic=3860.msg35358#msg35358.](https://mousebits.com/smf/index.php?topic=3860.msg35358#msg35358.) Edit samples are here: [https://mousebits.com/smf/index.php?topic=6912.msg58199#msg58199.](https://mousebits.com/smf/index.php?topic=6912.msg58199#msg58199.) Playlist compiled by C33 and CThaddeus, from reference recording by CThaddeus. The loop is still in use as of 2024.
+Plays in the esplanade during the holiday season. First heard in 2005 ([https://community.magicmusic.net/threads/dl-christmas-esplenade-loop.2674/#post-17246](https://community.magicmusic.net/threads/dl-christmas-esplenade-loop.2674/#post-17246) ), and heard nearly every season since. This loop did not play in 2012 (that year, the non-holiday loop played) or 2018 (see loop v.2). Tracks in the loop sometimes play over the ending of the previous track, and thus the exact times of the tracks as heard in the loop may be slightly different. See Magic Music: [https://community.magicmusic.net/threads/disneyland-esplanade-christmas-loop-2008.5245/](https://community.magicmusic.net/threads/disneyland-esplanade-christmas-loop-2008.5245/)  and MouseBits: 
+[https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=3783.msg25536#msg25536, and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=3860.msg35358#msg35358. Edit samples are here: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6912.msg58199#msg58199. Playlist compiled by C33 and CThaddeus, from reference recording by CThaddeus. The loop is still in use as of 2024.
 
 ## Tracklist
 

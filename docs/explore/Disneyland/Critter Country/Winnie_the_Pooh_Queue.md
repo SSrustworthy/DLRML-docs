@@ -1,14 +1,12 @@
 # Winnie the Pooh Queue
 
-## Description
-
 **Land(s)**: Critter Country
 
 **Loop Total Length**: 00:21:16
 
 **Dates**: April 11, 2003
 
-Custom, non-needledrop orchestrations of classic Winnie the Pooh songs. Listed on [https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html](https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html) and later on Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html](https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html) and then altered by myself. Loop length measured from an induction.
+Custom, non-needledrop orchestrations of classic Winnie the Pooh songs. Listed on [https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html](https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html)  and later on Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html](https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html)  and then altered by myself. Loop length measured from an induction.
 
 ## Tracklist
 

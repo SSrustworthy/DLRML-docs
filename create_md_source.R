@@ -29,7 +29,8 @@ make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
 
 url_to_md <- function(x) {
   if (!is.character(x)) return(x)  # Leave non-character columns unchanged
-  str_replace_all(x, "(https?://[^\\s)]+)", "[\\1](\\1)")
+  str_replace_all(x, "html\\.", "html .") |>
+  str_replace_all("(https?://[^\\s()<>\"',;!?]+)", "[\\1](\\1) ")
 }
 
 sanitize_folder_name <- function(x) {
@@ -62,6 +63,11 @@ create_description <- function(loop_df) {
     if (district != "NA") location_parts <- 
         c(location_parts, glue("**District/Neighborhood**: {district}"))
   }
+  if ("Disney Gallery Location" %in% names(loop_df)) {
+    location <- toString(unique(loop_df$`Disney Gallery Location`))
+    split_folders <- stringr::str_split(location, ", ")[[1]]
+    location_parts <- c(location_parts, glue("**Location**: {location}"))
+  }
   
   loop_length <- loop_meta$`Loop Total Length`
   dates <- unique(loop_df$Dates)
@@ -83,6 +89,7 @@ create_description <- function(loop_df) {
 
 create_tracklist <- function(loop_df) {
   track_lines <- loop_df %>%
+    arrange(`Track No.`) %>%
     rowwise() %>%
     mutate(
       `Track` = gsub("\n", "", `Track`),
@@ -129,8 +136,6 @@ create_md <- function(loop_name, loop_db, out_loc) {
   
   md <- glue::glue("
 # {loop_name}
-
-## Description
 
 {loop_description}
 

@@ -1,14 +1,12 @@
 # French Market Patio Holiday
 
-## Description
-
 **Land(s)**: New Orleans Square
 
 **Loop Total Length**: 00:55:56.653
 
 **Holiday/Special Event**: Christmas, Halloween
 
-Preliminary track list compiled on MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg47961#msg47961](https://mousebits.com/smf/index.php?topic=4845.msg47961#msg47961) (2011). The initial post also has edit points for all tracks. Track 13 was identified in this post: [https://mousebits.com/smf/index.php?topic=6912.msg60609#msg60609](https://mousebits.com/smf/index.php?topic=6912.msg60609#msg60609) (2012). All HMH tracks appear to be from the original Goodwin score.
+Preliminary track list compiled on MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg47961#msg47961 (2011). The initial post also has edit points for all tracks. Track 13 was identified in this post: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6912.msg60609#msg60609 (2012). All HMH tracks appear to be from the original Goodwin score.
 
 ## Tracklist
 

@@ -1,12 +1,10 @@
 # Big Thunder Ranch Barbecue
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: Unknown
 
-Likely incomplete, and controlled by Entertainment rather than WDI. Played from the Big Thunder Ranch Barbecue stage speakers between performances in 2014. See MouseBits [https://mousebits.com/smf/index.php?topic=7066.msg83905#msg83905](https://mousebits.com/smf/index.php?topic=7066.msg83905#msg83905)
+Likely incomplete, and controlled by Entertainment rather than WDI. Played from the Big Thunder Ranch Barbecue stage speakers between performances in 2014. See MouseBits [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7066.msg83905#msg83905
 
 ## Tracklist
 

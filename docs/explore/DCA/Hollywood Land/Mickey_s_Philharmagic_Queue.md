@@ -1,14 +1,8 @@
 # Mickey's Philharmagic Queue [PRE]
 
-## Description
-
 **Land(s)**: Hollywood Land
 
-**Loop Total Length**: 00:46:30
-
 **Dates**: April 26, 2019
-
-Loop plays inside the Sunset Theater in the waiting area for Philharmagic. See MouseBits, [https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882](https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882) (2010). Tracklist compiled by wedroy1923 and disneykw. Presumed to be the same as the WDW loop.
 
 ## Tracklist
 
@@ -72,7 +66,7 @@ Loop plays inside the Sunset Theater in the waiting area for Philharmagic. See M
 
 
 
-15\. Mickey's PhilharMagic Medley – [https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html](https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html)
+15\. Mickey's PhilharMagic Medley – [https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html](https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html) 
 
 
 

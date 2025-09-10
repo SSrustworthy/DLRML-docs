@@ -1,7 +1,5 @@
 # Esplanade Disneyland Resort 70th Anniversary [REF]
 
-## Description
-
 **Area**: Esplanade-Main Gates
 
 **Loop Total Length**: 02:08:45.214
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Disneyland Resort 70th Celebration
 
-This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a week-old Music Box loop, until 11 PM when it switched over to the Music Box loop until 1 AM. Tracklist compiled by VJ and SSrustworthy based on a reference recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/](https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/) (2025).
+This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a week-old Music Box loop, until 11 PM when it switched over to the Music Box loop until 1 AM. Tracklist compiled by VJ and SSrustworthy based on a reference recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/](https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/)  (2025).
 
 ## Tracklist
 
@@ -27,7 +25,7 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 - Loop Track Length: 00:01:15.219
 - Track Notes: Edited
 
-4\. Welcome to Radiator Springs – Joe Louis Walker – The Legacy Collection: Disneyland
+4\. Welcome to Radiator Springs – Joe Louis Walker – The Music of Cars Land
 
 - Loop Track Length: 00:02:43.336
 
@@ -70,15 +68,16 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 
 - Loop Track Length: 00:01:44.648
 
-14\. Live the Magic (Disneyland 60th Anniversary Celebration Theme, Demo Version) – Unreleased
+14\. Live the Magic (From “Disneyland Forever”) – Sheena Loza, Keith Longo – Disneyland Resort in California 70th Celebration Music Album
 
 - Loop Track Length: 00:03:27.803
+- Track Notes: Japan-exclusive release
 
 15\. Nation on Wheels - From Peoplemover – George Bruns – The Legacy Collection: Disneyland
 
+- Track Notes: Has some sort of movement SFX at beginning
 
-
-16\. The Avengers – Alan Silvestri – The Avengers (Original Motion Picture Soundtrack)
+16\. The Avengers (Score) – Alan Silvestri – The Avengers (Original Motion Picture Soundtrack)
 
 - Loop Track Length: 00:01:58.898
 
@@ -102,7 +101,7 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 
 - Loop Track Length: 00:01:41.183
 
-22\. Fortuosity - From Main Street, U.S.A. 2012 BGM – Dean Mora and his Orchestra – Unreleased
+22\. Fortuosity (Main Street, U.S.A. 2012 BGM) – Dean Mora and his Orchestra – Unreleased
 
 - Loop Track Length: 00:01:41.183
 
@@ -130,8 +129,9 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 28\. There's a Great Big Beautiful Tomorrow - From The Carousel of Progress – Rex Allen – The Legacy Collection: Disneyland
 
 - Loop Track Length: 00:02:11.890
+- Track Notes: Edited to instrumental prelude, and final chorus (with dog barks)
 
-29\. The Main Street Electrical Parade - From The Main Street Electrical Parade – The Legacy Collection: Disneyland
+29\. The Main Street Electrical Parade - From The Main Street Electrical Parade – Don Dorsey – The Legacy Collection: Disneyland
 
 - Loop Track Length: 00:02:12.623
 - Track Notes: Edited
@@ -152,6 +152,7 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 33\. Space Mountain - From “Space Mountain” – Dick Dale – The Legacy Collection: Disneyland
 
 - Loop Track Length: 00:01:35.213
+- Track Notes: Edited to begin at ignition
 
 34\. We Belong Together (From “Toy Story 3”) – Randy Newman – Disney Classics
 
@@ -162,7 +163,7 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 - Loop Track Length: 00:00:35.616
 - Track Notes: Edited to omit some of the beginning of the clock ticking
 
-36\. It’s a Small World - From “it’s a small world” – The Legacy Collection: Disneyland
+36\. It’s a Small World - From “it’s a small world” – Richard M. Sherman, Robert B. Sherman – The Legacy Collection: Disneyland
 
 - Loop Track Length: 00:00:48.819
 - Track Notes: Edited to include verses from finale room
@@ -174,6 +175,7 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 38\. You Can Fly! You Can Fly! You Can Fly! (From "Peter Pan") – Bobby Driscoll, Kathryn Beaumont, Paul Collins, The Jud Conlon Chorus, Tommy Luske – Disney Classics
 
 - Loop Track Length: 00:02:27.637
+- Track Notes: Edited
 
 39\. Incredicoaster (instrumental) – Michael Giacchino – Unreleased
 
@@ -183,19 +185,19 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 
 - Loop Track Length: 00:02:56.594
 
-41\. Loading The Train / Casey Junior / Stork on a Cloud / Straight from Heaven / Mother and Baby / Arrival at Night - From "Dumbo"/Soundtrack Version – Dumbo
+41\. Loading The Train / Casey Junior / Stork on a Cloud / Straight from Heaven / Mother and Baby / Arrival at Night - From "Dumbo" – Frank Churchill, Oliver Wallace – Dumbo
 
 - Loop Track Length: 00:01:10.375
-- Track Notes: Edited
+- Track Notes: Edited to include Casey Junior section
 
 42\. Strange Things – Randy Newman – Toy Story OST
 
 - Loop Track Length: 00:03:14.688
 
-43\. 999 Happy Haunts – Betty Taylor, Bill Lee, Paul Frees, The Melomen, Thurl Ravenscroft – The Haunted Mansion
+43\. Grim, Grinning Ghosts – Betty Taylor, Bill Lee, Paul Frees, The Melomen, Thurl Ravenscroft – Mickey’s Monster Bash
 
 - Loop Track Length: 00:03:51.214
-- Track Notes: Edited
+- Track Notes: Unique to this version is an echo effect added to final cackle
 
 44\. I See the Light (From "Tangled") – Mandy Moore, Zachary Levi – Disney Classics
 
@@ -208,6 +210,7 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 46\. All In The Golden Afternoon (From "Alice In Wonderland") – Disney Studio Chorus, Kathryn Beaumont – Disney Classics
 
 - Loop Track Length: 00:02:26.089
+- Track Notes: Edited to start at  “Ba bum…”
 
 47\. It’s Wondrous – Devan Garcia, Rudi – Wondrous Journeys
 
@@ -236,7 +239,7 @@ This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a wee
 53\. Welcome to Tomorrowland – Dan Foliart – Disneyland: Remember the Moments [2006]
 
 - Loop Track Length: 00:04:10.499
-- Track Notes: Poorly edited directly from the actual Tokyo loop and so it includes some “transition” SFX which bleed into next track
+- Track Notes: Edited directly from the actual Tokyo loop; includes some “transition” SFX at the end which bleed into next track
 
 54\. Great Rainbow – Scott Hoying – Music from Disneyland Resort 70th Celebration
 

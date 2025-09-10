@@ -1,7 +1,5 @@
 # Pirates of the Carribbean Queue
 
-## Description
-
 **Land(s)**: New Orleans Square
 
 **Loop Total Length**: 00:03:04.519

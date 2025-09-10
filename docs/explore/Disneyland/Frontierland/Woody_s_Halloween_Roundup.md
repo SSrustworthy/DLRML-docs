@@ -1,12 +1,10 @@
 # Woody's Halloween Roundup
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: Unknown
 
-This loop played during Halloween in the Big Thunder Ranch area in 2008. Songs were known to play at random. See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg67150#msg67150.](https://mousebits.com/smf/index.php?topic=7066.msg67150#msg67150.)
+This loop played during Halloween in the Big Thunder Ranch area in 2008. Songs were known to play at random. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7066.msg67150#msg67150.
 
 ## Tracklist
 
@@ -14,11 +12,19 @@ This loop played during Halloween in the Big Thunder Ranch area in 2008. Songs w
 
 
 
-NA\. Unknown
+NA\. Back in the Saddle – Gene Autry – The Essential Gene Autry
 
 
 
-NA\. Black Mountain Rag – Doc Watson – Foundation: The Doc Watson Guitar Instrumental Collection 1964-1998
+NA\. You've Got a Friend in Me (Instrumental) – Riders in the Sky – Woody’s Roundup
+
+- Track Notes: Instrumental
+
+NA\. Stone’s Rag – Doc Watson – Foundation: The Doc Watson Guitar Instrumental Collection 1964-1998
+
+
+
+NA\. Cool Water – Roy Rogers
 
 
 
@@ -30,18 +36,10 @@ NA\. June Apple – Doc Watson – Foundation: The Doc Watson Guitar Instrumenta
 
 
 
-NA\. Stone’s Rag – Doc Watson – Foundation: The Doc Watson Guitar Instrumental Collection 1964-1998
+NA\. Unknown
 
 
 
-NA\. Cool Water – Roy Rogers
-
-
-
-NA\. You've Got a Friend in Me (Instrumental) – Riders in the Sky – Woody’s Roundup
-
-- Track Notes: Instrumental
-
-NA\. Back in the Saddle – Gene Autry – The Essential Gene Autry
+NA\. Black Mountain Rag – Doc Watson – Foundation: The Doc Watson Guitar Instrumental Collection 1964-1998
 
 

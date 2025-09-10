@@ -1,12 +1,10 @@
 # Goofy's Kitchen v.2
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: Unknown
 
-Based on a visit by monorail91 on 1/22/18 and posted on Magic Music, Re: [https://community.magicmusic.net/threads/goofys-kitchen.5389/](https://community.magicmusic.net/threads/goofys-kitchen.5389/) (2018).
+Based on a visit by monorail91 on 1/22/18 and posted on Magic Music, Re: [https://community.magicmusic.net/threads/goofys-kitchen.5389/](https://community.magicmusic.net/threads/goofys-kitchen.5389/)  (2018).
 
 ## Tracklist
 

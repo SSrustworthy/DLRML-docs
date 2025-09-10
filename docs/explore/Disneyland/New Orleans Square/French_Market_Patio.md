@@ -1,12 +1,10 @@
 # French Market Patio
 
-## Description
-
 **Land(s)**: New Orleans Square
 
 **Loop Total Length**: 1:02:10.643
 
-This Zydeco loop previously played at the French Market patio when no live music is being played. It was replaced by Tiana’s Palace in 2023. See MouseBits: [https://mousebits.com/smf/index.php?topic=7140.msg60808#msg60808](https://mousebits.com/smf/index.php?topic=7140.msg60808#msg60808) (2012). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. The latest tracks in the loop date to 1996, which is the earliest the loop would have been installed.
+This Zydeco loop previously played at the French Market patio when no live music is being played. It was replaced by Tiana’s Palace in 2023. See MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7140.msg60808#msg60808 (2012). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. The latest tracks in the loop date to 1996, which is the earliest the loop would have been installed.
 
 ## Tracklist
 

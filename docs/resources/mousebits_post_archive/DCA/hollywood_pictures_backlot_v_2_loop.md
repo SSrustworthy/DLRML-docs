@@ -12,7 +12,7 @@ The below track list specifies edit points for the tracks identified by wedroy19
 
 This loop was installed around June or July of 2004 (Kirsten’s site lists June 2004, whereas the Magic Music post is dated to July), and the pages were removed by April of 2012. The new Big Band loop was introduced in [mid-May of 2012](https://forums.mousebits.com/threads/new-hollywood-land-bgm.7298/).
 
-My reconstruction is [here]([Hollywood Pictures Backlot: Hollywood Boulevard Area Music Loop 2004-2012 - YouTube](https://youtu.be/qcyd2ARtXkw?feature=shared)).
+My reconstruction is [here](https://youtu.be/qcyd2ARtXkw?feature=shared).
 
 # Hollywood Pictures Backlot v.2 loop
 

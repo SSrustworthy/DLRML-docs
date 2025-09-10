@@ -1,12 +1,10 @@
 # DTDD Hispanic and Latin American Heritage Month
 
-## Description
-
 **Area**: Downtown Disney District
 
 **Loop Total Length**: 01:00:49.205
 
-This is a preliminary track list for the loop that played in Downtown Disney District during Hispanic and Latin American Heritage Month in 2023. Tracklist compiled by pixelated based on his 2023 reference recording.
+This is a preliminary track list for the loop that played in Downtown Disney District during Hispanic and Latin American Heritage Month in 2023. Tracklist compiled by pixelated based on his 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/downtown-disney-seasonal-celebrations.11168/post-100449](https://forums.mousebits.com/threads/downtown-disney-seasonal-celebrations.11168/post-100449)  (2025).
 
 ## Tracklist
 

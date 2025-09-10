@@ -1,14 +1,8 @@
 # PCH Grill
 
-## Description
-
 **Area**: Disney's Paradise Pier Hotel
 
-**Loop Total Length**: 01:00:03.546
-
 **Dates**: December 15, 2000 → April 1, 2020
-
-This loop played during dinner at the PCH Grill restaurant at the Paradise Pier Hotel. Preliminary tracklist compiled by pixelated based on his 2012 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=7440.msg66306#msg66306](https://mousebits.com/smf/index.php?topic=7440.msg66306#msg66306) (2012).
 
 ## Tracklist
 

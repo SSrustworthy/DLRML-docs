@@ -1,20 +1,18 @@
 # Redwood Creek Challenge Trail v.1
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Grizzly Peak Recreation Area
 
-**Loop Total Length**: Unknown ([https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.htmlstates](https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.htmlstates) ~01:00:43, not sure where that came from)
+**Loop Total Length**: Unknown ([https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.html](https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.html)  states ~01:00:43, not sure where that came from)
 
 **Dates**: February 8, 2001 → April 1, 2011
 
-This loop played at the Redwood Creek Challenge Trail. See Magic Music, [https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108](https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108) (2002) and [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147) (2002). The loop originated with the park but was replaced with a shorter version sometime around April 2011; see MouseBits, [https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082.](https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082.)
+This loop played at the Redwood Creek Challenge Trail. See Magic Music, [https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108](https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108)  (2002) and [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147)  (2002). The loop originated with the park but was replaced with a shorter version sometime prior to April 2011; see MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6290.msg50082#msg50082.
 
 ## Tracklist
 
-1\. Stealing – Leo Kottke – My Feet Are Smiling
+1\. Stealing – Leo Kottke – Mudlark
 
 - Album Label: Capitol
 
@@ -74,8 +72,9 @@ This loop played at the Redwood Creek Challenge Trail. See Magic Music, [https:/
 
 - Album Label: Rhino
 
-16\. Blackberry Picking – Bob Hadley – Guitarist Composer Sampler
+16\. Blackberry Picking OR Day After Pay Day – Bob Hadley – Guitarist Composer Sampler OR The Raven
 
+- Track Notes: Guitar Composer Sampler is no longer in print. This track was re-released as “Day After Pay Day” on the later album “The Raven”
 - Album Label: Kicking Mule
 
 17\. Tight Arrangements, Loose Fingers, And A Warm Place To Practise – Dale Miller – Guitarist Composer Sampler

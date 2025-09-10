@@ -1,12 +1,10 @@
 # Ramone's House of Body Art (interior)
 
-## Description
-
 **Land(s)**: Cars Land
 
 **Loop Total Length**: 01:40:16.473
 
-A preliminary tracklist for Ramone's House of Body Art interior BGM compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592](https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592) (2012).
+A preliminary tracklist for Ramone's House of Body Art interior BGM compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7381.msg65592#msg65592 (2012).
 
 ## Tracklist
 

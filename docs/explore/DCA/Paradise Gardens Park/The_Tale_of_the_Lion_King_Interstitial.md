@@ -1,14 +1,12 @@
 # The Tale of the Lion King Interstitial
 
-## Description
-
 **Land(s)**: Paradise Gardens Park
 
 **Loop Total Length**: 00:33.23.7
 
 **Dates**: June 7, 2019 → September 2, 2019
 
-This loop played before and after showings of The Tale of the Lion King, an outdoor musical production that ran on the Palisades Stage from June 7, 2019 to September 2, 2019. This loop was compiled on Discord by RocketRodsXPR and pixelated based on a reference recording by pixelated. Version numbers of the Audio Network tracks have not been confirmed. See MouseBits, [https://mousebits.com/smf/index.php?topic=10882.msg99178#msg99178](https://mousebits.com/smf/index.php?topic=10882.msg99178#msg99178) (2023).
+This loop played before and after showings of The Tale of the Lion King, an outdoor musical production that ran on the Palisades Stage from June 7, 2019 to September 2, 2019. This loop was compiled on Discord by RocketRodsXPR and pixelated based on a reference recording by pixelated. Version numbers of the Audio Network tracks have not been confirmed. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10882.msg99178#msg99178 (2023).
 
 ## Tracklist
 

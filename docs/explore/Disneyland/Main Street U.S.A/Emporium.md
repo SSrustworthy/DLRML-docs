@@ -1,12 +1,10 @@
 # Emporium
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: 01:00:55
 
-This ragtime loop played in the interior of the Disneyland Emporium. The loop plays very quietly and is usually difficult to hear in the store. It is the same loop as that of the Liberty and Discovery Arcades at Disneyland Paris. See MouseBits, [https://mousebits.com/smf/index.php?topic=9144.msg89579#msg89579](https://mousebits.com/smf/index.php?topic=9144.msg89579#msg89579) and [https://mousebits.com/smf/index.php?topic=9607.msg91501#msg91501](https://mousebits.com/smf/index.php?topic=9607.msg91501#msg91501) (2017). Most tracks overlap by a few seconds towards the end to remove any silent gaps. “The Red Back Book” is out of print, but was re-released digitally as “The Art of Scott Joplin.” Also see Magic Music, [https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369](https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369) which suggests the loop’s installation as ca. 2003.
+This ragtime loop played in the interior of the Disneyland Emporium. The loop plays very quietly and is usually difficult to hear in the store. It is the same loop as that of the Liberty and Discovery Arcades at Disneyland Paris. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9144.msg89579#msg89579 and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9607.msg91501#msg91501 (2017). Most tracks overlap by a few seconds towards the end to remove any silent gaps. “The Red Back Book” is out of print, but was re-released digitally as “The Art of Scott Joplin.” Also see Magic Music, [https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369](https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369)  which suggests the loop’s installation as ca. 2003.
 
 ## Tracklist
 

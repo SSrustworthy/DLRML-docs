@@ -1,12 +1,8 @@
 # Pixar Place Hotel
 
-## Description
-
 **Area**: Pixar Place Hotel
 
 **Loop Total Length**: 00:33:45.9
-
-A preliminary tracklist for the Pixar Place Hotel lobby and exterior based on a 2024 recording by pixelated. The hotel opened January 30, 2024, replacing Disney’s Paradise Pier Hotel.
 
 ## Tracklist
 

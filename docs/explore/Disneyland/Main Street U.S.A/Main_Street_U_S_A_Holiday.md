@@ -1,7 +1,5 @@
 # Main Street U.S.A. Holiday
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: 00:58:49
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-See Playlist based on a reference recording by pixelated. The only tracks wedroy1923 was unable to compare side-by-side were the Lawrence Welk, Hollywood Bowl Symphony Orchestra, and Hollywood Pops Orchestra tracks.  It seems the tracks as they appear in the loop run faster than the album versions, so edit information should be treated as approximate. MiceAge provides a nice analysis of all of the tracks: [http://miceage.micechat.com/allutz/al120811a.htm](http://miceage.micechat.com/allutz/al120811a.htm) See MouseBits, [https://mousebits.com/smf/index.php?topic=8247.msg75897#msg75897](https://mousebits.com/smf/index.php?topic=8247.msg75897#msg75897) (2013). This loop has been known to play in the Storybook Canal Boats area and the Pinnochio’s Village Haus/Red Rose Taverne.
+See Playlist based on a reference recording by pixelated. The only tracks wedroy1923 was unable to compare side-by-side were the Lawrence Welk, Hollywood Bowl Symphony Orchestra, and Hollywood Pops Orchestra tracks.  It seems the tracks as they appear in the loop run faster than the album versions, so edit information should be treated as approximate. MiceAge provides a nice analysis of all of the tracks: [http://miceage.micechat.com/allutz/al120811a.htm](http://miceage.micechat.com/allutz/al120811a.htm)  See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8247.msg75897#msg75897 (2013). This loop has been known to play in the Storybook Canal Boats area and the Pinnochio’s Village Haus/Red Rose Taverne.
 
 ## Tracklist
 

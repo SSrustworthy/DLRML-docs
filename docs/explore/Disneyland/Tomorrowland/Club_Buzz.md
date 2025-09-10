@@ -1,14 +1,12 @@
 # Club Buzz [INC]
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: Unknown
 
 **Dates**: June 30, 2001 → September 1, 2006
 
-This is a needledrop loop that played at Club Buzz in Tomorrowland. More information is needed. See Magic Music, Re: [https://community.magicmusic.net/threads/noooooooo-horrible-area-music-for-dls-tomorrowland.1613/#post-10816.](https://community.magicmusic.net/threads/noooooooo-horrible-area-music-for-dls-tomorrowland.1613/#post-10816.)
+This is a needledrop loop that played at Club Buzz in Tomorrowland. More information is needed. See Magic Music, Re: [https://community.magicmusic.net/threads/noooooooo-horrible-area-music-for-dls-tomorrowland.1613/#post-10816.](https://community.magicmusic.net/threads/noooooooo-horrible-area-music-for-dls-tomorrowland.1613/#post-10816.) 
 
 ## Tracklist
 

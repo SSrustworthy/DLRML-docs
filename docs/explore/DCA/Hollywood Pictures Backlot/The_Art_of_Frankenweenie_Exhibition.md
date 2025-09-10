@@ -1,14 +1,12 @@
 # The Art of Frankenweenie Exhibition
 
-## Description
-
 **Land(s)**: Hollywood Pictures Backlot
 
 **Loop Total Length**: 00:15:00.865 (with trailer)
 
 **Dates**: September 14, 2012 → November 5, 2012
 
-This loop played in the Animation Building lobby in-between trailer showings while The Art of Frankenweenie exhibit was in residence. See MouseBits, [https://mousebits.com/smf/index.php?topic=7598.msg67579#msg67579](https://mousebits.com/smf/index.php?topic=7598.msg67579#msg67579) for a live recording and notes (2012).
+This loop played in the Animation Building lobby in-between trailer showings while The Art of Frankenweenie exhibit was in residence. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7598.msg67579#msg67579 for a live recording and notes (2012).
 
 ## Tracklist
 

@@ -1,12 +1,10 @@
 # King Triton’s Carousel of the Sea v.2
 
-## Description
-
 **Land(s)**: Paradise Pier
 
 **Loop Total Length**: 01:01:38.062
 
-This loop was introduced at King Triton’s Carousel of the Sea sometime before January 2012 (likely in 2010). See MouseBits, [https://mousebits.com/smf/index.php?topic=7047.msg59599#msg59599](https://mousebits.com/smf/index.php?topic=7047.msg59599#msg59599) (2012). Playlist compiled by pixelated and others.
+This loop was introduced at King Triton’s Carousel of the Sea sometime before January 2012 (likely in 2010). See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7047.msg59599#msg59599 (2012). Playlist compiled by pixelated and others.
 
 ## Tracklist
 

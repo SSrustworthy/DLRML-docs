@@ -1,7 +1,5 @@
 # Jingle Cruise Boathouse v.1 [REF]
 
-## Description
-
 **Land(s)**: Adventureland
 
 **Loop Total Length**: 1:27:37.492
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-A preliminary track list for the Disneyland 2013 Jingle Cruise Boathouse BGM. Every loop track has been compared against full-length album tracks and pixelated has noted where a loop track is not an exact match to an album track. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=8302.msg77972#msg77972](https://mousebits.com/smf/index.php?topic=8302.msg77972#msg77972) (2013).
+A preliminary track list for the Disneyland 2013 Jingle Cruise Boathouse BGM. Every loop track has been compared against full-length album tracks and pixelated has noted where a loop track is not an exact match to an album track. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8302.msg77972#msg77972 (2013).
 
 ## Tracklist
 

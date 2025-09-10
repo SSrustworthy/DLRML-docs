@@ -1,7 +1,5 @@
 # DTDD Nighttime Holiday v.2
 
-## Description
-
 **Area**: Downtown Disney District
 
 **Loop Total Length**: 01:30:31.207
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-Originally noted as the Hollywood Land Holiday BGM. This was also used as the DTD Nighttime Holiday loop starting in 2019. This loop plays from 8PM to 2AM. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg68816#msg68816](https://mousebits.com/smf/index.php?topic=6912.msg68816#msg68816) (2012).
+Originally noted as the Hollywood Land Holiday BGM. This was also used as the DTD Nighttime Holiday loop starting in 2019. This loop plays from 8PM to 2AM. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6912.msg68816#msg68816 (2012).
 
 ## Tracklist
 

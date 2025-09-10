@@ -1,14 +1,12 @@
 # Rivers of America v.2
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 00:55:29.660
 
 **Dates**: January 1, 2004
 
-A full track list for the riverfront compiled by pixelated and superhotlarry. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See [https://mousebits.com/smf/index.php?topic=5939.msg49947#msg49947](https://mousebits.com/smf/index.php?topic=5939.msg49947#msg49947) and [https://mousebits.com/smf/index.php?topic=9356.msg88437#msg88437](https://mousebits.com/smf/index.php?topic=9356.msg88437#msg88437) Based on the 1995 CD release dates of Swing Riot! and Ragtime, it is likely that this loop was not installed until 1995 or later.
+A full track list for the riverfront compiled by pixelated and superhotlarry. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5939.msg49947#msg49947 and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9356.msg88437#msg88437 Based on the 1995 CD release dates of Swing Riot! and Ragtime, it is likely that this loop was not installed until 1995 or later.
 
 ## Tracklist
 

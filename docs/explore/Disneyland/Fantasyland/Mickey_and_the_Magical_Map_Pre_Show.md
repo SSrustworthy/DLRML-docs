@@ -1,14 +1,8 @@
 # Mickey and the Magical Map Pre-Show
 
-## Description
-
 **Land(s)**: Fantasyland
 
-**Loop Total Length**: ~00:11:37
-
 **Dates**: May 25, 2013 → March 12, 2020
-
-This loop played as audiences were walking into the Fantasyland Theater for performances of Mickey and the Magical Map. See MouseBits, [https://mousebits.com/smf/index.php?topic=8888.msg85356#msg85356](https://mousebits.com/smf/index.php?topic=8888.msg85356#msg85356) (2015).
 
 ## Tracklist
 

@@ -1,14 +1,12 @@
 # World of Disney Halloween
 
-## Description
-
 **Area**: Downtown Disney District
 
 **Loop Total Length**: 00:59:49.4
 
 **Holiday/Special Event**: Halloween
 
-This loop played in the World of Disney store as of Halloween 2021. Tracklist compiled by pixelated based on his reference recording.
+This loop played in the World of Disney store as of Halloween 2021. Tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/world-of-disney-halloween.11164/](https://forums.mousebits.com/threads/world-of-disney-halloween.11164/)  (2025).
 
 ## Tracklist
 

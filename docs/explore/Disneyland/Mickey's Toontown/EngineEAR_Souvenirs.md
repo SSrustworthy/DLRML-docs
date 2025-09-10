@@ -1,12 +1,10 @@
 # EngineEAR Souvenirs [REF]
 
-## Description
-
 **Land(s)**: Mickey's Toontown
 
 **Loop Total Length**: 01:18:42.456
 
-This loop has played in the EngineEAR Souvenirs store since its opening on March 10th, 2023. It has significant overlap with the Buena Vista Street and original Mickey’s Toontown loops. Train SFX are interspersed between almost all tracks. Tracklist compiled by SSrustworthy. See MouseBits, Re: [https://forums.mousebits.com/threads/engineear-souvenirs.11096/(2025](https://forums.mousebits.com/threads/engineear-souvenirs.11096/(2025)).
+This loop has played in the EngineEAR Souvenirs store since its opening on March 10th, 2023. It has significant overlap with the Buena Vista Street and original Mickey’s Toontown loops. Train SFX are interspersed between almost all tracks. Tracklist compiled by SSrustworthy. See MouseBits, Re: [https://forums.mousebits.com/threads/engineear-souvenirs.11096/](https://forums.mousebits.com/threads/engineear-souvenirs.11096/) (2025).
 
 ## Tracklist
 

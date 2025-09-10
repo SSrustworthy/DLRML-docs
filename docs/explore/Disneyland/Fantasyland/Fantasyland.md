@@ -1,12 +1,10 @@
 # Fantasyland
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 48:29.421
 
-This loop plays an orchestral version of the Carrousel/Band Organ loop with some organ accents. It plays around the buildings in Fantasyland. See MouseBits, [https://mousebits.com/smf/index.php?topic=8018.msg72396#msg72396](https://mousebits.com/smf/index.php?topic=8018.msg72396#msg72396) (2013) and [https://mousebits.com/smf/index.php?topic=9656.msg91123#msg91123](https://mousebits.com/smf/index.php?topic=9656.msg91123#msg91123) (2017).
+This loop plays an orchestral version of the Carrousel/Band Organ loop with some organ accents. It plays around the buildings in Fantasyland. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8018.msg72396#msg72396 (2013) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9656.msg91123#msg91123 (2017).
 
 ## Tracklist
 

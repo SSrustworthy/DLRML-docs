@@ -1,14 +1,12 @@
 # Oga's Cantina / DJ R3X
 
-## Description
-
 **Land(s)**: Star Wars: Galaxy's Edge
 
 **Loop Total Length**: N/A
 
 **Dates**: January 17, 2020
 
-This is the show hosted by DJ R3X in Oga’s cantina. See my MouseBits post for an extensive post on this topic: [https://mousebits.com/smf/index.php?topic=10848.msg99013#msg99013](https://mousebits.com/smf/index.php?topic=10848.msg99013#msg99013) (2022). This loop repeats four times, with the interchangeable tracks changing each time. For convenience, I have only included one repetition of the loop here, with notes on the interchangeable tracks included in the Track Notes column.
+This is the show hosted by DJ R3X in Oga’s cantina. See my MouseBits post for an extensive post on this topic: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10848.msg99013#msg99013 (2022). This loop repeats four times, with the interchangeable tracks changing each time. For convenience, I have only included one repetition of the loop here, with notes on the interchangeable tracks included in the Track Notes column.
 
 ## Tracklist
 
@@ -30,7 +28,7 @@ This is the show hosted by DJ R3X in Oga’s cantina. See my MouseBits post for 
 
 5\. <Interchangeable Track> – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #2
 
-- Track Notes: Rotated between four tracks from playlist #2. Track A1 plays in the same subloop as A2, B1 as B2, C1 as C2, and D1 as D2. See [https://mousebits.com/smf/index.php?topic=10848.msg99013#msg99013](https://mousebits.com/smf/index.php?topic=10848.msg99013#msg99013) for more information.
+- Track Notes: Rotated between four tracks from playlist #2. Track A1 plays in the same subloop as A2, B1 as B2, C1 as C2, and D1 as D2. See [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10848.msg99013#msg99013 for more information.
 
 5.1\. Squip (Track A1) – Kai Vokals – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #2
 
@@ -55,12 +53,12 @@ This is the show hosted by DJ R3X in Oga’s cantina. See my MouseBits post for 
 7\. Overload – R3X – Unreleased
 
 - Track Notes: The track “Overload” was not officially released, but was composed by the Brewhouse Music team and can be listed to in full on their site (labeled “REX - Opening Track”):
-[https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan](https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan)
+[https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan](https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan) 
 It’s referred to as “Overload” because R3X’s introduction to the track either says that he finds a loose wire, or he says “Okay folks, here’s a jam I made up myself. I call it, Overload!!!” and then launches into a rehash of his lines from his Star Tours piloting days.
 
 8\. <Interchangeable Track> – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #2
 
-- Track Notes: Rotated between four tracks from playlist #2. Rotated between four tracks from playlist #2. Track A1 plays in the same subloop as A2, B1 as B2, C1 as C2, and D1 as D2. See [https://mousebits.com/smf/index.php?topic=10848.msg99013#msg99013](https://mousebits.com/smf/index.php?topic=10848.msg99013#msg99013) for more information. Yocola Ateema has been heard playing after this track, albeit very inconsistently.
+- Track Notes: Rotated between four tracks from playlist #2. Rotated between four tracks from playlist #2. Track A1 plays in the same subloop as A2, B1 as B2, C1 as C2, and D1 as D2. See [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10848.msg99013#msg99013 for more information. Yocola Ateema has been heard playing after this track, albeit very inconsistently.
 
 8.1\. Til the Spire (Track A2) – Tamir Muskat and Ori Kaplan AKA Mus Kat & Nalpak – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #2
 

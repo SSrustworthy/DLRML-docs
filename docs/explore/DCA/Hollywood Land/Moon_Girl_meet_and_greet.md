@@ -1,12 +1,10 @@
 # Moon Girl meet and greet
 
-## Description
-
 **Land(s)**: Hollywood Land
 
 **Loop Total Length**: 00:19:57.180
 
-This loop played at the Moon Girl meet and greet area in Hollywood Land. Preliminary tracklist compiled by pixelated based on his 2023 reference recording.
+This loop played at the Moon Girl meet and greet area in Hollywood Land. Preliminary tracklist compiled by pixelated based on his 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/dca-moon-girl-meet-and-greet.11169/](https://forums.mousebits.com/threads/dca-moon-girl-meet-and-greet.11169/)  (2025).
 
 ## Tracklist
 

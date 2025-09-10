@@ -1,10 +1,14 @@
 # Instant Concert: Just Add Water
 
-## Description
-
 **Land(s)**: Paradise Gardens Park
 
+This is not necessarily a loop, but a collection of songs from the Instant Concert series with Goofy at Paradise Pier.  Compiled by RocketRodsXPR. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7896.msg70476#msg70476 (2013).
+
 ## Tracklist
+
+NA\. Instant Concert – The Band of the Brigade of Gurkhas – 2010 Gurkha Festival of Music
+
+
 
 NA\. Baroque Hoedown – Cincinnati Pops Orchestra – A Disney Spectacular
 
@@ -17,7 +21,3 @@ NA\. Rhapsody from Hunger(y) – Spike Jones
 NA\. Holiday for Strings – Spike Jones
 
 - Track Notes: Edited
-
-NA\. Instant Concert – The Band of the Brigade of Gurkhas – 2010 Gurkha Festival of Music
-
-

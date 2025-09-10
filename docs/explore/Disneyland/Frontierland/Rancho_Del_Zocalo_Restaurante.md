@@ -1,12 +1,10 @@
 # Rancho Del Zocalo Restaurante [REF]
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 01:02:00
 
-See MouseBits, [https://mousebits.com/smf/index.php?topic=5419.msg55058#msg55058](https://mousebits.com/smf/index.php?topic=5419.msg55058#msg55058) (2010). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. It plays from a single speaker in the dining area and in the adjacent bathrooms. All songs are verified as coming from the same album. The album's runtime is listed at 63:51, which is almost 2 mins. longer than the loop. To bring down the album's runtime to match the loop's runtime, the gap between each track was shortened by several secs. Seems to no longer play as of ca. 2018.
+See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5419.msg55058#msg55058 (2010). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. It plays from a single speaker in the dining area and in the adjacent bathrooms. All songs are verified as coming from the same album. The album's runtime is listed at 63:51, which is almost 2 mins. longer than the loop. To bring down the album's runtime to match the loop's runtime, the gap between each track was shortened by several secs. Seems to no longer play as of ca. 2018.
 
 ## Tracklist
 

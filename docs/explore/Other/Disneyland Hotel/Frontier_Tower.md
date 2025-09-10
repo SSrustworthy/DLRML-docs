@@ -1,14 +1,12 @@
 # Frontier Tower [REF]
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: 00:48:06.734
 
 **Dates**: August 1, 2011
 
-This loop started playing in 2011 in the Disneyland Hotel Frontier Tower. See MouseBits, [https://mousebits.com/smf/index.php?topic=5700.msg56440#msg56440.](https://mousebits.com/smf/index.php?topic=5700.msg56440#msg56440.)
+This loop started playing in 2011 in the Disneyland Hotel Frontier Tower. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5700.msg56440#msg56440.
 
 ## Tracklist
 

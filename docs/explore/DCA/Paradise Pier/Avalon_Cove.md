@@ -1,12 +1,6 @@
 # Avalon Cove
 
-## Description
-
 **Land(s)**: Paradise Pier
-
-**Loop Total Length**: ~00:54:51
-
-This loop played at Wolfgang Puck’s Avalon Cove restaurant, later renamed to Avalon Cove. The loop was audible from from 02/2001 through ca. 2005. Loop posted by Progressland (without artists) on the Magic Music forum; see [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-146](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-146) (2002).
 
 ## Tracklist
 

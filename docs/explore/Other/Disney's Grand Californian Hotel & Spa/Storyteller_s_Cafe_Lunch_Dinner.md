@@ -1,12 +1,10 @@
 # Storyteller's Cafe Lunch/Dinner
 
-## Description
-
 **Area**: Disney's Grand Californian Hotel & Spa
 
 **Loop Total Length**: 00:49:53
 
-Playlist compiled by C33 and posted 09/2010 on Magic Music. See [https://community.magicmusic.net/threads/storytellers-cafe-background-music-dl.4290/#post-30961](https://community.magicmusic.net/threads/storytellers-cafe-background-music-dl.4290/#post-30961) (2009).
+Playlist compiled by C33 and posted 09/2010 on Magic Music. See [https://community.magicmusic.net/threads/storytellers-cafe-background-music-dl.4290/#post-30961](https://community.magicmusic.net/threads/storytellers-cafe-background-music-dl.4290/#post-30961)  (2009).
 
 ## Tracklist
 

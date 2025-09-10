@@ -1,7 +1,5 @@
 # Radiator Springs Racers [REF]
 
-## Description
-
 **Land(s)**: Cars Land
 
 ## Tracklist

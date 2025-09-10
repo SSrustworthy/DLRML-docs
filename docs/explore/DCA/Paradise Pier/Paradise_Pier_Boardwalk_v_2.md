@@ -1,12 +1,10 @@
 # Paradise Pier Boardwalk v.2 [REF]
 
-## Description
-
 **Land(s)**: Paradise Pier
 
 **Loop Total Length**: 01:23:52
 
-A preliminary tracklist for the Paradise Pier Boardwalk v.2 loop compiled by pixelated. It was introduced around July of 2010. See MouseBits, [https://mousebits.com/smf/index.php?topic=5625.msg43998#msg43998.](https://mousebits.com/smf/index.php?topic=5625.msg43998#msg43998.)
+A preliminary tracklist for the Paradise Pier Boardwalk v.2 loop compiled by pixelated. It was introduced around July of 2010. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5625.msg43998#msg43998.
 
 ## Tracklist
 

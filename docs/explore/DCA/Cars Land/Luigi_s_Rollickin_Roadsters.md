@@ -1,12 +1,10 @@
 # Luigi's Rollickin' Roadsters
 
-## Description
-
 **Land(s)**: Cars Land
 
 **Loop Total Length**: N/A
 
-A tracklist based on the Disneyland News press release: [https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/](https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/) The songs only play when the cars are in motion.
+A tracklist based on the Disneyland News press release: [https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/](https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/)  The songs only play when the cars are in motion.
 
 ## Tracklist
 

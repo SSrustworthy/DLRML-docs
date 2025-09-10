@@ -1,7 +1,5 @@
 # 20k Leagues Under the Sea Exhibit
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: N/A

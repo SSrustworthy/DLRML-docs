@@ -1,14 +1,12 @@
 # Tangaroa Terrace [REF]
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: 00:59:40
 
 **Dates**: May 25, 2011
 
-This music plays outside of Trader Sam’s and Tangaroa Terrace and in the vicinity of the Tangaroa Terrace. The Tokyo Disneyland Enchanted Tiki Room queue music shares tracks with this loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=6909.msg59114#msg59114](https://mousebits.com/smf/index.php?topic=6909.msg59114#msg59114) and Magic Music: [https://community.magicmusic.net/playlists/tangaroa-terrace.81/.](https://community.magicmusic.net/playlists/tangaroa-terrace.81/.)
+This music plays outside of Trader Sam’s and Tangaroa Terrace and in the vicinity of the Tangaroa Terrace. The Tokyo Disneyland Enchanted Tiki Room queue music shares tracks with this loop. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6909.msg59114#msg59114 and Magic Music: [https://community.magicmusic.net/playlists/tangaroa-terrace.81/.](https://community.magicmusic.net/playlists/tangaroa-terrace.81/.) 
 
 ## Tracklist
 

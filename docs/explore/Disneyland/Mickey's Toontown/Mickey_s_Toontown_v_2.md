@@ -1,14 +1,12 @@
 # Mickey's Toontown v.2
 
-## Description
-
 **Land(s)**: Mickey's Toontown
 
 **Loop Total Length**: 00:53:12.392
 
 **Dates**: April 1, 2013 → March 9, 2022
 
-This loop played in Mickey’s Toontown from April 2013 until March 9, 2022. See Disney’s Park BGM Lists, [http://tdrparkbgm.web.fc2.com/DisneylandToontown.html](http://tdrparkbgm.web.fc2.com/DisneylandToontown.html) and MouseBits, [https://mousebits.com/smf/index.php?topic=10919.msg99363#msg99363](https://mousebits.com/smf/index.php?topic=10919.msg99363#msg99363) (2023).
+This loop played in Mickey’s Toontown from April 2013 until March 9, 2022. See Disney’s Park BGM Lists, [http://tdrparkbgm.web.fc2.com/DisneylandToontown.html](http://tdrparkbgm.web.fc2.com/DisneylandToontown.html)  and MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10919.msg99363#msg99363 (2023).
 
 ## Tracklist
 

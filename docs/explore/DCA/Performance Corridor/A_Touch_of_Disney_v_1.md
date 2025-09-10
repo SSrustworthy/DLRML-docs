@@ -1,7 +1,5 @@
 # A Touch of Disney v.1
 
-## Description
-
 **Land(s)**: Performance Corridor
 
 **Loop Total Length**: ~1-1.5 hours

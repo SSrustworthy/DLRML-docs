@@ -1,14 +1,12 @@
 # Mickey's Toontown v.4
 
-## Description
-
 **Land(s)**: Mickey's Toontown
 
 **Loop Total Length**: 00:29:59.978
 
 **Dates**: March 18, 2023
 
-This loop plays around Mickey’s Toontown, and was installed with the grand reopening of the land on March 18th, 2023. The loop is a dynamic loop, with instrumentation changing between CenTOONial Park, the Fountain, Goofy’s How-to-Play Yard, and Popcorn Park. See MouseBits, [https://mousebits.com/smf/index.php?topic=10886.msg99327#msg99327](https://mousebits.com/smf/index.php?topic=10886.msg99327#msg99327) (2023) and my extended notes, [https://www.notion.so/f9426625634b43499f6621c520b352b7?pvs=21.](https://www.notion.so/f9426625634b43499f6621c520b352b7?pvs=21.)
+This loop plays around Mickey’s Toontown, and was installed with the grand reopening of the land on March 18th, 2023. The loop is a dynamic loop, with instrumentation changing between CenTOONial Park, the Fountain, Goofy’s How-to-Play Yard, and Popcorn Park. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10886.msg99327#msg99327 (2023) and my extended notes, [https://www.notion.so/f9426625634b43499f6621c520b352b7](https://www.notion.so/f9426625634b43499f6621c520b352b7) ?pvs=21.
 
 ## Tracklist
 

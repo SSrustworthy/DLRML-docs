@@ -1,14 +1,12 @@
 # Pioneer Mercantile Halloween
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: ~00:34:43
 
 **Holiday/Special Event**: Halloween
 
-This loop is from the video screen in Pioneer Mercantile. This is the Halloween variant, which has probably gone through a few iterations. Tracklist compiled by pixelated based on his 2024 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9163.msg87015#msg87015](https://mousebits.com/smf/index.php?topic=9163.msg87015#msg87015) (2016).
+This loop is from the video screen in Pioneer Mercantile. This is the Halloween variant, which has probably gone through a few iterations. Tracklist compiled by pixelated based on his 2024 reference recording. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9163.msg87015#msg87015 (2016).
 
 ## Tracklist
 
@@ -27,7 +25,7 @@ This loop is from the video screen in Pioneer Mercantile. This is the Halloween 
 4\. Trick or Treat for Halloween – The Mellomen – Trick or Treat (1952 Donald Duck short)
 
 - Loop Track Length: 00:00:49.395
-- Track Notes: [https://www.youtube.com/watch?v=aSkXw1bk_NE](https://www.youtube.com/watch?v=aSkXw1bk_NE)
+- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=aSkXw1bk_NE
 
 5\. Jack's Lament – Danny Elfman – The Nightmare Before Christmas
 
@@ -52,7 +50,7 @@ This loop is from the video screen in Pioneer Mercantile. This is the Halloween 
 10\. Spooky Scary Skeletons – Disney Sing Along Songs: Happy Haunting - Party at Disneyland!
 
 - Loop Track Length: 00:01:52.671
-- Track Notes: [https://www.youtube.com/watch?v=mB6k-5w9pOE](https://www.youtube.com/watch?v=mB6k-5w9pOE)
+- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=mB6k-5w9pOE
 
 11\. Vive la vie – Cast – Mickey's Halloween Celebration Parade, Disneyland Paris
 
@@ -65,9 +63,9 @@ This loop is from the video screen in Pioneer Mercantile. This is the Halloween 
 13\. Chicken Lips and Lizard Hips – Disney Sing Along Songs: Happy Haunting - Party at Disneyland!
 
 - Loop Track Length: 00:01:54.331
-- Track Notes: [https://www.youtube.com/watch?v=mB6k-5w9pOE](https://www.youtube.com/watch?v=mB6k-5w9pOE)
+- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=mB6k-5w9pOE
 
 14\. Takin' Over Midnight – Dipper, Grunkle Stan, and Mabel – Gravity Falls, episode "Scary-oke"
 
 - Loop Track Length: 00:01:44.417
-- Track Notes: [https://www.youtube.com/watch?v=FER0dgaewzM](https://www.youtube.com/watch?v=FER0dgaewzM)
+- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=FER0dgaewzM

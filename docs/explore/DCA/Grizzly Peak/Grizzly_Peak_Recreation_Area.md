@@ -1,14 +1,12 @@
 # Grizzly Peak Recreation Area [REF]
 
-## Description
-
 **Land(s)**: Grizzly Peak
 
 **District/Neighborhood**: Grizzly Peak Recreation Area
 
 **Loop Total Length**: 40:23.845
 
-This loop was first reported around October of 2011 and played outside the Grand Californian between Condor Flats and the DCA entrance to the Grand Californian. It was removed in 2015 when Condor Flats became Grizzly Peak Airfield, but the new Grizzly Peak Recreation Area and Airfield loop was based on this one, with several of the same tracks. See MouseBits, [https://mousebits.com/smf/index.php?topic=6806.msg84804#msg84804](https://mousebits.com/smf/index.php?topic=6806.msg84804#msg84804) (2015) and [https://mousebits.com/smf/index.php?topic=8915.msg85257#msg85257](https://mousebits.com/smf/index.php?topic=8915.msg85257#msg85257) (2015). Tracklist compiled by pixelated.
+This loop was first reported around October of 2011 and played outside the Grand Californian between Condor Flats and the DCA entrance to the Grand Californian. It was removed in 2015 when Condor Flats became Grizzly Peak Airfield, but the new Grizzly Peak Recreation Area and Airfield loop was based on this one, with several of the same tracks. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6806.msg84804#msg84804 (2015) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8915.msg85257#msg85257 (2015). Tracklist compiled by pixelated.
 
 ## Tracklist
 

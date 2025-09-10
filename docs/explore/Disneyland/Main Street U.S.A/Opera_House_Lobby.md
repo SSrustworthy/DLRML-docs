@@ -1,7 +1,5 @@
 # Opera House Lobby [INC]
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: Unknown

@@ -1,7 +1,5 @@
 # Pixar Fest
 
-## Description
-
 **Land(s)**: Paradise Gardens Park
 
 **Loop Total Length**: 01:04:27.374
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Pixar Fest
 
-Played in Pardise Gardens Park during Pixar Fest. Also played in the Esplanade with a slightly shorter/faster playback time (likely due to the different playback systems). Compiled by junglecskipper. Paradise Park loop length based on reference recording by Pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9747.msg91902#msg91902](https://mousebits.com/smf/index.php?topic=9747.msg91902#msg91902) and [https://mousebits.com/smf/index.php?topic=9820.msg92750#msg92750.](https://mousebits.com/smf/index.php?topic=9820.msg92750#msg92750.)
+Played in Pardise Gardens Park during Pixar Fest. Also played in the Esplanade with a slightly shorter/faster playback time (likely due to the different playback systems). Compiled by junglecskipper. Paradise Park loop length based on reference recording by Pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9747.msg91902#msg91902 and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9820.msg92750#msg92750.
 
 ## Tracklist
 

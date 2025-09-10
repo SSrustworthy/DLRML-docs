@@ -1,14 +1,12 @@
 # Maleficent Exclusive Sneak Peak
 
-## Description
-
 **Land(s)**: "a bug's land"
 
 **Loop Total Length**: 00:15:01 +/- 0.2 secs.
 
 **Dates**: April 18, 2014
 
-This loop played in the area adjacent to the “it’s tough to be a bug” theater. The loop probably is is in sync with the screenings. See MouseBits, [https://mousebits.com/smf/index.php?topic=8590.msg80986#msg80986](https://mousebits.com/smf/index.php?topic=8590.msg80986#msg80986) (2014). Tracklist compiled by pixelated.
+This loop played in the area adjacent to the “it’s tough to be a bug” theater. The loop probably is is in sync with the screenings. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8590.msg80986#msg80986 (2014). Tracklist compiled by pixelated.
 
 ## Tracklist
 

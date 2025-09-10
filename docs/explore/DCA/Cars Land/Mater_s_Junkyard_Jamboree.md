@@ -1,12 +1,10 @@
 # Mater's Junkyard Jamboree
 
-## Description
-
 **Land(s)**: Cars Land
 
 **Loop Total Length**: Unknown
 
-A preliminary tracklist for Mater’s Junkyard Jamboree. See MouseBits, [https://mousebits.com/smf/index.php?topic=7407.msg64195#msg64195](https://mousebits.com/smf/index.php?topic=7407.msg64195#msg64195) (2012).
+A preliminary tracklist for Mater’s Junkyard Jamboree. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7407.msg64195#msg64195 (2012).
 
 ## Tracklist
 

@@ -1,14 +1,12 @@
 # Submarine Voyage Queue
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: 00:12:27
 
 **Dates**: January 1, 1976 → September 7, 1998
 
-This loop played music interspersed with announcements from the Captain (voiced by Peter Renaday). Discussed on [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3) forums and MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10840.msg98962#msg98962.](https://mousebits.com/smf/index.php?topic=10840.msg98962#msg98962.)
+This loop played music interspersed with announcements from the Captain (voiced by Peter Renaday). Discussed on [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3)  forums and MouseBits, Re: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10840.msg98962#msg98962.
 
 ## Tracklist
 

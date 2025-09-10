@@ -1,14 +1,8 @@
 # Esplanade v.1
 
-## Description
-
 **Area**: Esplanade-Main Gates
 
-**Loop Total Length**: 01:01:32
-
 **Dates**: January 1, 2001 → April 1, 2004
-
-This loop played in the Esplanade from 2001 to 2004. Most of these tracks likely have the same sources as Esplanade v.2, but I have yet to find a detailed source list. Additional information is available on MouseBits, see [https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381](https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381) (2002).
 
 ## Tracklist
 
@@ -38,7 +32,7 @@ This loop played in the Esplanade from 2001 to 2004. Most of these tracks likely
 
 7\. California Girls
 
-- Track Notes: This track comes from the [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.)
+- Track Notes: This track comes from the [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=3986.msg29245#msg29245.
 
 8\. The Tiki, Tiki, Tiki Room
 

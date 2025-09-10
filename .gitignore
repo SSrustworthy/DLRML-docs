@@ -1,5 +1,52 @@
-.Rproj.user
-.Rproj
+# Folder
+site/
+
+# History files
 .Rhistory
+.Rapp.history
+
+# Session data files
 .RData
+
+# User-specific files
 .Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# renv dependency management
+renv/library/
+renv/python/
+renv/staging/
+renv.lock
+
+# Cache and logs
+*.log
+*.out
+*.aux
+*.toc
+*.nav
+*.snm
+*.fls
+*.fdb_latexmk
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*~
+
+# Shiny application logs
+rsconnect/
+
+# Quarto and knitr cache
+*_cache/
+*.knit.md
+*.utf8.md
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store

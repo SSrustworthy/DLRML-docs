@@ -1,12 +1,10 @@
 # Discovery Tower daytime exterior
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: 02:01:54.853
 
-This jazzy loop plays outside of the Discovery Tower of the Disneyland Hotel during the daytime hours, prior to 7 PM. It plays at the Palette Pool, Palm Breeze Bar and Steamboat Willie Splash Pad. The Discovery Tower opened on September 28, 2023. Preliminary tracklist compiled by pixelated based on his 2024 reference recording.
+This jazzy loop plays outside of the Discovery Tower of the Disneyland Hotel during the daytime hours, prior to 7 PM. It plays at the Palette Pool, Palm Breeze Bar and Steamboat Willie Splash Pad. The Discovery Tower opened on September 28, 2023. Preliminary tracklist compiled by pixelated based on his 2024 reference recording. See MouseBits, [https://forums.mousebits.com/threads/discovery-tower-loops.11167/post-100446](https://forums.mousebits.com/threads/discovery-tower-loops.11167/post-100446)  (2025).
 
 ## Tracklist
 

@@ -1,12 +1,6 @@
 # BSO 401.72 Radio
 
-## Description
-
 **Land(s)**: Star Wars: Galaxy's Edge
-
-**Loop Total Length**: ~02:39:50
-
-The BSO 401.72 radio show played in the bathrooms behind the blue & green milk stand, and in the garage and suspended walkway outside the marketplace. Coverage of droid battles, dejarik tournaments and outlawed podraces interspersed with radio tracks from DJ R3X.  See MouseBits, [https://forums.mousebits.com/threads/bso-401-72-radio-tracks.10849/](https://forums.mousebits.com/threads/bso-401-72-radio-tracks.10849/) and [https://forums.mousebits.com/threads/demystifying-dj-r3xs-setlist.10848/](https://forums.mousebits.com/threads/demystifying-dj-r3xs-setlist.10848/) (2022).
 
 ## Tracklist
 
@@ -17,7 +11,7 @@ The BSO 401.72 radio show played in the bathrooms behind the blue & green milk s
 2\. Gaya – Yossi Cohen & Avishay Goren; Brewhouse Music – Unreleased
 
 - Loop Track Length: 00:02:32.826
-- Track Notes: Unofficially released. [https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan](https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan)
+- Track Notes: Unofficially released. [https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan](https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan) 
 
 3\. Segment: 78th Batuu Holochess Tournament
 
@@ -38,7 +32,7 @@ The BSO 401.72 radio show played in the bathrooms behind the blue & green milk s
 7\. Galma – Guy Mayzig – Unreleased
 
 - Loop Track Length: 00:01:51.835
-- Track Notes: Star Wars Journey to Batuu Soundtrack (Sims expansion pack). [https://www.youtube.com/watch?v=pcAkbmooteY](https://www.youtube.com/watch?v=pcAkbmooteY)
+- Track Notes: Star Wars Journey to Batuu Soundtrack (Sims expansion pack). [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=pcAkbmooteY
 
 8\. Segment: The Rawani Cup Podracing Tournament
 
@@ -113,7 +107,7 @@ The BSO 401.72 radio show played in the bathrooms behind the blue & green milk s
 
 - Loop Track Length: 00:02:09.184
 - Track Notes: Star Wars Journey to Batuu Soundtrack (Sims expansion pack)
-[https://www.youtube.com/watch?v=zb3Wz6zXrss](https://www.youtube.com/watch?v=zb3Wz6zXrss)
+[https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=zb3Wz6zXrss
 
 26\. Aloogahoo – Vee Gooda, Ryco – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #1
 
@@ -146,7 +140,7 @@ The BSO 401.72 radio show played in the bathrooms behind the blue & green milk s
 33\. Doolstan – Brewhouse Music – Unreleased
 
 - Loop Track Length: 00:02:30.606
-- Track Notes: Unofficially released. [https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan](https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan)
+- Track Notes: Unofficially released. [https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan](https://www.brewhousemusic.com/disneystarwarsdjr3xinogascan) 
 
 34\. Squip – Kai Vokals – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #2
 
@@ -179,7 +173,7 @@ The BSO 401.72 radio show played in the bathrooms behind the blue & green milk s
 41\. Gaya Kaminu – Michael Kramer – Unreleased
 
 - Loop Track Length: 00:02:11.181
-- Track Notes: [https://www.michaelkramermusic.com/](https://www.michaelkramermusic.com/)
+- Track Notes: [https://www.michaelkramermusic.com/](https://www.michaelkramermusic.com/) 
 
 42\. U13 (BSO)
 

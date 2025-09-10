@@ -1,14 +1,12 @@
 # PeopleMover On-Board v.2
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: ~00:12:00
 
 **Dates**: January 1, 1975 → August 21, 1995
 
-This loop played onboard the PeopleMover starting around 1975 or 1976 until closing. Posted by Djaili999 on Mousebits (2018; Re: [https://mousebits.com/smf/index.php?topic=9916.msg93160#msg93160](https://mousebits.com/smf/index.php?topic=9916.msg93160#msg93160)). Discussed in [https://mousebits.com/smf/index.php?topic=10007.msg93706#msg93706](https://mousebits.com/smf/index.php?topic=10007.msg93706#msg93706)
+This loop played onboard the PeopleMover starting around 1975 or 1976 until closing. It is the second loop to have been used onboard, and the only loop based on the Capitol Media Music line. Tracklist compiled by Patrick T (YouTube) and posted by Djaili999 on Mousebits (2018; Re: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9916.msg93160#msg93160). Discussed in [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10007.msg93706#msg93706
 
 ## Tracklist
 

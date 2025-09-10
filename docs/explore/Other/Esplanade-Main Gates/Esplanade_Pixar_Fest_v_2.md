@@ -1,12 +1,8 @@
 # Esplanade Pixar Fest v.2
 
-## Description
-
 **Area**: Esplanade-Main Gates
 
 **Loop Total Length**: 01:13:48.697
-
-This loop played in the esplanade, bus loading zone, and DTDD for Pixar Fest. Most, if not all tracks, have edit points. This loop was updated in 2023 or 2024 compared to a 2022 recording of the Pixar Fest BGM being used in the Paradise Pier Hotel prior to its retheming to the Pixar Place Hotel. Preliminary tracklist compiled by pixelated based on his 2024 reference recording.
 
 ## Tracklist
 

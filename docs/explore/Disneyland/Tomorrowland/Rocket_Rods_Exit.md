@@ -1,7 +1,5 @@
 # Rocket Rods Exit
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: 00:12:01

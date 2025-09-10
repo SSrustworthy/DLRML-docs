@@ -1,14 +1,12 @@
 # Fantasy Tower Lobby v.2, Goofy's Kitchen
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: Unknown
 
 **Dates**: January 1, 2011 → November 1, 2011
 
-This loop played in the Fantasy Tower of the Disneyland Hotel for a brief time in 2011. It also played for some time in Goofy’s Kitchen. See MouseBits, [https://mousebits.com/smf/index.php?topic=5700.msg54050#msg54050](https://mousebits.com/smf/index.php?topic=5700.msg54050#msg54050) (2011).
+This loop played in the Fantasy Tower of the Disneyland Hotel for a brief time in 2011. It also played for some time in Goofy’s Kitchen. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5700.msg54050#msg54050 (2011).
 
 ## Tracklist
 
@@ -55,7 +53,7 @@ This loop played in the Fantasy Tower of the Disneyland Hotel for a brief time i
 
 10\. No Particular Place To Go/Minnie's Yoo-Hoo Medley – Magical Express
 
-- Track Notes: Tracks are from the WDW Magical Express, also found on the Channel 36 Resort TV audio: [http://www.mousebits.com/index.php?page=torrent-details&id=90f2b61e403a7ff7584f5e2cb0bb095b70958402](http://www.mousebits.com/index.php?page=torrent-details&id=90f2b61e403a7ff7584f5e2cb0bb095b70958402)
+- Track Notes: Tracks are from the WDW Magical Express, also found on the Channel 36 Resort TV audio: [http://www.mousebits.com/index.php](http://www.mousebits.com/index.php) ?page=torrent-details&id=90f2b61e403a7ff7584f5e2cb0bb095b70958402
 
 11\. Whistle While You Work – Magical Express
 

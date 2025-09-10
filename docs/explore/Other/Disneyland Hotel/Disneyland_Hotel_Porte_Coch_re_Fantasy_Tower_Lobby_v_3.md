@@ -1,14 +1,12 @@
 # Disneyland Hotel Porte-Cochère [REF], Fantasy Tower Lobby v.3 [REF]
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: 01:05:21.3
 
 **Dates**: November 1, 2011 → December 1, 2011
 
-This loop plays in the Disneyland Hotel entrance/porte-cochere. It also played in the Fantasy Tower (i.e., throughout the Fantasy Tower lobby, the convention center, and the pool area near to the Fantasy Tower and Convention Center) from November to December 2011. It may have stopped playing in Goofy’s Kitchen by November 2014. Tracklist compiled by C33 on MouseBits based on a reference recording by CThaddeus, [https://forums.mousebits.com/threads/disneyland-hotel-music-loop.5700/post-60880](https://forums.mousebits.com/threads/disneyland-hotel-music-loop.5700/post-60880) (2012). Additional IDs by pixelated and RocketRodsXPR.
+This loop plays in the Disneyland Hotel entrance/porte-cochere. It also played in the Fantasy Tower (i.e., throughout the Fantasy Tower lobby, the convention center, and the pool area near to the Fantasy Tower and Convention Center) from November to December 2011. It may have stopped playing in Goofy’s Kitchen by November 2014. Tracklist compiled by C33 on MouseBits based on a reference recording by CThaddeus, [https://forums.mousebits.com/threads/disneyland-hotel-music-loop.5700/post-60880](https://forums.mousebits.com/threads/disneyland-hotel-music-loop.5700/post-60880)  (2012). Additional IDs by pixelated and RocketRodsXPR.
 
 ## Tracklist
 

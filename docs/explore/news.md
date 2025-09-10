@@ -2,6 +2,55 @@
 
 This is the log for all database updates.
 
+## Site Update 09/09/25
+
+### Disney Gallery
+
+- Updated “Walt Disney A Magical Life” Opera House lobby loop
+
+### DL
+
+- Updated Hollywood & Dine albums
+
+### DCA
+
+- Added new Animation Building Lobby v.3
+
+### Other
+
+- Added High Key Club (Disneyland Hotel) loop
+
+## Site Update 08/07/25
+
+### Disney Gallery
+
+- Added incomplete entry for Walt Disney: A Magical Life Opera House Lobby
+
+### DL
+
+- Updated track notes and lengths for Mickey’s Toontown v.1
+
+### DCA
+
+- Updated track notes and lengths for Hollywood Land - Animation Academy
+- Updated track notes and lengths for Condor Flats 2.0 [2011]
+- Updated track notes and lengths for Grizzly Peak Airfield
+- Updated track notes and lengths for Redwood Creek Challenge Trail v.2
+
+## Site Update 07/19/25
+
+### Newly added: Disney Galleries and Disneyana
+
+- Tracklists for loops used in the various Disney Galleries at Disneyland are now available!
+
+### Hotels
+
+- Updated a few tracks from the Villas nighttime loop (thanks to Park Sensory!)
+
+### Mousebits Archive
+
+- Fixed a few broken links.
+
 ## Site Update 06/30/25
 
 ### Newly added: Walt Disney World!

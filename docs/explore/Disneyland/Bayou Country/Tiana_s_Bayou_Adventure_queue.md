@@ -1,12 +1,10 @@
 # Tiana's Bayou Adventure queue [REF]
 
-## Description
-
 **Land(s)**: Bayou Country
 
 **Loop Total Length**: 01:18:05.336
 
-This loop is audible throughout the exterior and interior queue of Tiana’s Bayou Adventure. The loop presented as a radio show hosted by an unseen announcer. The announcements reference local businesses featured in the queue and attraction. The announcer also transitions between fictional bands and songs on the "live" broadcast, featuring performances from the Blue Bayou Horn Blowers, Riverbank Royals, Blue Sky Social Club, Hot Sauce 7, and Claiborne Avenue Cats. In actuality, the music was arranged and/or played by many modern New Orleans-based musicians, including Charlie Gabriel, Leah Chase-Kamata, Preservation Hall Jazz Band, and Dirty Dozen Brass Band. Tracklist compiled by SSrustworthy based on a live ref recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/tianas-bayou-adventure-queue.11093/](https://forums.mousebits.com/threads/tianas-bayou-adventure-queue.11093/) (2025).
+This loop is audible throughout the exterior and interior queue of Tiana’s Bayou Adventure. The loop presented as a radio show hosted by an unseen announcer. The announcements reference local businesses featured in the queue and attraction. The announcer also transitions between fictional bands and songs on the "live" broadcast, featuring performances from the Blue Bayou Horn Blowers, Riverbank Royals, Blue Sky Social Club, Hot Sauce 7, and Claiborne Avenue Cats. In actuality, the music was arranged and/or played by many modern New Orleans-based musicians, including Charlie Gabriel, Leah Chase-Kamata, Preservation Hall Jazz Band, and Dirty Dozen Brass Band. Tracklist compiled by SSrustworthy based on a live ref recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/tianas-bayou-adventure-queue.11093/](https://forums.mousebits.com/threads/tianas-bayou-adventure-queue.11093/)  (2025).
 
 ## Tracklist
 

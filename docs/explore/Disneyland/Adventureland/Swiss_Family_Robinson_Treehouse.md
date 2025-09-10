@@ -1,7 +1,5 @@
 # Swiss Family Robinson Treehouse
 
-## Description
-
 **Land(s)**: Adventureland
 
 **Loop Total Length**: 00:01:52

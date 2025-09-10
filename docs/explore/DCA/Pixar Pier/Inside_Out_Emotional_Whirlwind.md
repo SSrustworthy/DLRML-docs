@@ -1,7 +1,5 @@
 # Inside Out Emotional Whirlwind [REF]
 
-## Description
-
 **Land(s)**: Pixar Pier
 
 **District/Neighborhood**: Inside Out Headquarters
@@ -10,7 +8,7 @@
 
 **Dates**: June 28, 2019
 
-This loop plays in the Inside Out Headquarters neighborhood of Pixar Pier in the area immediately surrounding the ‘Inside Out’ Emotional Whirlwind attraction. See MouseBits, [https://mousebits.com/smf/index.php?topic=10901.msg99259#msg99259](https://mousebits.com/smf/index.php?topic=10901.msg99259#msg99259) (2023). Playlist compiled by SSrustworthy based on pixelated’s induction recording.
+This loop plays in the Inside Out Headquarters neighborhood of Pixar Pier in the area immediately surrounding the ‘Inside Out’ Emotional Whirlwind attraction. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10901.msg99259#msg99259 (2023). Playlist compiled by SSrustworthy based on pixelated’s induction recording.
 
 ## Tracklist
 

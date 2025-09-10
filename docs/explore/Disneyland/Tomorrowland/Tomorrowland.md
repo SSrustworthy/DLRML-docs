@@ -1,14 +1,8 @@
 # Tomorrowland
 
-## Description
-
 **Land(s)**: Tomorrowland
 
-**Loop Total Length**: ~00:39:33
-
 **Dates**: January 1, 2005
-
-Custom compositions by Dan Foliart. First appeared in Disneyland around 2005. Track titles may not be accurate as they are merely the ASCAP registered titles. [https://community.magicmusic.net/threads/current-tomorrowland-area-music-dl-wdw.5429/](https://community.magicmusic.net/threads/current-tomorrowland-area-music-dl-wdw.5429/) with more discussion on MouseBits: [https://mousebits.com/smf/index.php?topic=8993.msg85931#msg85931](https://mousebits.com/smf/index.php?topic=8993.msg85931#msg85931) and [https://mousebits.com/smf/index.php?topic=7001.msg59281#msg59281](https://mousebits.com/smf/index.php?topic=7001.msg59281#msg59281) Note: there was no land-wide BGM before 2005.
 
 ## Tracklist
 

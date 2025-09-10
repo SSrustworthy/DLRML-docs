@@ -1,12 +1,10 @@
 # Downtown Radiator Springs
 
-## Description
-
 **Land(s)**: Cars Land
 
 **Loop Total Length**: 02:53:06.104
 
-A preliminary tracklist compiled by pixelated for the Cars Land Downtown Radiator Springs loop instroduced on June 13, 2012. The loop plays along the entirety of Route 66. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg64129#msg64129](https://mousebits.com/smf/index.php?topic=7381.msg64129#msg64129) (2012). Source albums identified by Triple (MouseCord, 2025).
+A preliminary tracklist compiled by pixelated for the Cars Land Downtown Radiator Springs loop instroduced on June 13, 2012. The loop plays along the entirety of Route 66. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7381.msg64129#msg64129 (2012). Source albums identified by Triple (MouseCord, 2025).
 
 ## Tracklist
 

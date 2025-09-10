@@ -1,14 +1,12 @@
 # Grand Californian (interior)
 
-## Description
-
 **Area**: Disney's Grand Californian Hotel & Spa
 
 **Loop Total Length**: 00:48:37.5
 
 **Dates**: January 2, 2001
 
-This loop plays in the interior of the Grand Californian Hotel. See Magic Music, [https://community.magicmusic.net/playlists/grand-californian-exterior.4/](https://community.magicmusic.net/playlists/grand-californian-exterior.4/) (2011) and MouseBits, Re: [https://mousebits.com/smf/index.php?topic=8490.msg79704#msg79704](https://mousebits.com/smf/index.php?topic=8490.msg79704#msg79704) (2014).
+This loop plays in the interior of the Grand Californian Hotel. See Magic Music, [https://community.magicmusic.net/playlists/grand-californian-exterior.4/](https://community.magicmusic.net/playlists/grand-californian-exterior.4/)  (2011) and MouseBits, Re: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8490.msg79704#msg79704 (2014).
 
 ## Tracklist
 

@@ -1,7 +1,5 @@
 # Soarin' Around the World Queue, Soarin' Over California Queue
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Condor Flats
@@ -10,7 +8,7 @@
 
 **Dates**: February 8, 2001
 
-This loop is audible inside the Soarin’ hangar prior to the entering the preshow area. Tracklist compiled by Progressland, thx99, and Dr. Know based on a reference recording of unknown authorship and date. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147) (2002) and [https://community.magicmusic.net/playlists/soarin-over-california-queue.13/](https://community.magicmusic.net/playlists/soarin-over-california-queue.13/) (2011).
+This loop is audible inside the Soarin’ hangar prior to the entering the preshow area. Tracklist compiled by Progressland, thx99, and Dr. Know based on a reference recording of unknown authorship and date. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147)  (2002) and [https://community.magicmusic.net/playlists/soarin-over-california-queue.13/](https://community.magicmusic.net/playlists/soarin-over-california-queue.13/)  (2011).
 
 ## Tracklist
 

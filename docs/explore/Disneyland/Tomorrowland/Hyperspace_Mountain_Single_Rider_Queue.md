@@ -1,7 +1,5 @@
 # Hyperspace Mountain Single Rider Queue
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: 02:03.483

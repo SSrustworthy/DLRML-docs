@@ -1,14 +1,8 @@
 # Animation Building Lobby v.2
 
-## Description
-
 **Land(s)**: Hollywood Land, Hollywood Pictures Backlot
 
-**Loop Total Length**: 00:30:53.906 (with Frozen tracks added)
-
 **Dates**: January 1, 2011
-
-This is the second version of the loop that plays in the Animation Building Lobby. It was introduced in 2011. See MouseBits, [https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834](https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834) (2015). The Frozen tracks were added during Frozen Fun in 2015. The 2015 loop is still in place as of December 2022.
 
 ## Tracklist
 

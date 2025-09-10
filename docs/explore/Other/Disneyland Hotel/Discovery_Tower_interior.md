@@ -1,12 +1,10 @@
 # Discovery Tower interior
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: ~01:36:23.722
 
-This loop plays inside the Discovery Tower lobby of the Disneyland Hotel. The Discovery Tower opened on September 28, 2023. Preliminary tracklist compiled by pixelated based on his 2023 reference recording.
+This loop plays inside the Discovery Tower lobby of the Disneyland Hotel. The Discovery Tower opened on September 28, 2023. Preliminary tracklist compiled by pixelated based on his 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/discovery-tower-loops.11167/](https://forums.mousebits.com/threads/discovery-tower-loops.11167/)  (2025).
 
 ## Tracklist
 

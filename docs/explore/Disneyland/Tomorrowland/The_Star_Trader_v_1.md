@@ -1,14 +1,12 @@
 # The Star Trader v.1 [REF]
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: 01:00:13
 
 **Dates**: January 1, 2003 → July 27, 2010
 
-Compiled by C33 on MouseBits: [https://mousebits.com/smf/index.php?topic=6872.msg67554#msg67554](https://mousebits.com/smf/index.php?topic=6872.msg67554#msg67554) and [https://community.magicmusic.net/playlists/the-star-trader-2003.50/.](https://community.magicmusic.net/playlists/the-star-trader-2003.50/.) All tracks from the three disc box set.
+Compiled by C33 on MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6872.msg67554#msg67554 and [https://community.magicmusic.net/playlists/the-star-trader-2003.50/.](https://community.magicmusic.net/playlists/the-star-trader-2003.50/.)  All tracks from the three disc box set.
 
 ## Tracklist
 

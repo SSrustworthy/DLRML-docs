@@ -1,14 +1,12 @@
 # ABC Soap Opera Bistro Central
 
-## Description
-
 **Land(s)**: Hollywood Pictures Backlot
 
 **Loop Total Length**: 00:52:34.495
 
 **Dates**: February 8, 2001 → November 3, 2002
 
-This loop played throughout all areas of the ABC Soap Opera Bistro while in operation. The loop included themes from the ABC Soap Operas Port Charles, All My Children, One Life to Live, and General Hospital. See [https://mousebits.com/smf/index.php?topic=7104.msg98932#msg98932](https://mousebits.com/smf/index.php?topic=7104.msg98932#msg98932) (MouseBits; 2012). Compiled by Greg Lhotka in 1999 according to a demo CD. No live reference recording is available; this tracklist was compiled based on a presumed source track in limited circulation.
+This loop played throughout all areas of the ABC Soap Opera Bistro while in operation. The loop included themes from the ABC Soap Operas Port Charles, All My Children, One Life to Live, and General Hospital. See [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7104.msg98932#msg98932 (MouseBits; 2012). Compiled by Greg Lhotka in 1999 according to a demo CD. No live reference recording is available; this tracklist was compiled based on a presumed source track in limited circulation.
 
 ## Tracklist
 

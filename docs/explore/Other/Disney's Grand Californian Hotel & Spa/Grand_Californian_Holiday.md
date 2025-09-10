@@ -1,14 +1,12 @@
 # Grand Californian Holiday
 
-## Description
-
 **Area**: Disney's Grand Californian Hotel & Spa
 
 **Loop Total Length**: 00:47:43.101
 
 **Holiday/Special Event**: Christmas
 
-This loop plays in the Grand Californian during the holiday season. See MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg36296#msg36296](https://mousebits.com/smf/index.php?topic=4845.msg36296#msg36296) (2009) and [https://mousebits.com/smf/index.php?topic=4845.msg47829#msg47829](https://mousebits.com/smf/index.php?topic=4845.msg47829#msg47829) (2010).
+This loop plays in the Grand Californian during the holiday season. See MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg36296#msg36296 (2009) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg47829#msg47829 (2010).
 
 ## Tracklist
 

@@ -1,14 +1,12 @@
 # Disneyland Hotel Holiday v.2
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: 00:39:43.72
 
 **Holiday/Special Event**: Christmas
 
-This loop plays in the Disneyland Hotel during the holiday season. Tracklist was updated to include the “it’s a small world holiday” track at some point before the 2022 holiday season. Compiled by pixelated based on his reference recording.
+This loop plays in the Disneyland Hotel during the holiday season. Tracklist was updated to include the “it’s a small world holiday” track at some point before the 2022 holiday season. Compiled by pixelated based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100441](https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100441)  (2025).
 
 ## Tracklist
 

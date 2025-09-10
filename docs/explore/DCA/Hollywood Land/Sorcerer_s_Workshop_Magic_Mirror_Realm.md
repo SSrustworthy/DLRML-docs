@@ -1,7 +1,5 @@
 # Sorcerer's Workshop: Magic Mirror Realm
 
-## Description
-
 **Land(s)**: Hollywood Land, Hollywood Pictures Backlot
 
 **Loop Total Length**: Unknown

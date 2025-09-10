@@ -12,21 +12,59 @@ Please see the Magical Soundtracks YouTube channel for an accurate reconstructio
 
 loop length ~01:20:30.8
 
-1. Moonglow - The Solomon Douglas Swingtet - Swingmatism (loop length 00:05:11.973560)
-2. West End Blues - Allen Toussaint - The Bright Mississippi (loop length 00:03:48.323583)
-3. Funky Blues - The Solomon Douglas Swingtet - Swingmatism (loop length 00:07:10.746825)
-4. Blues De La Tabla De Lavar - Pete Fountain - Mood Indigo (loop length 00:03:43.934717)
-5. The Viper - Bill Reynolds, Billy Novick, and Paul Lenart - Dixieland (New Orleans Jazz) (loop length 00:02:34.332358)
-6. Somebody Else is Taking My Place - Preservation Hall Jazz Band - Preservation Hall Jazz Band Live! (loop length 00:07:47.044853)
-7. Creole Nights - Dr. Michael White - Dancing in the Sky (loop length 00:05:58.744626)
-8. Tom Cat Blues - Norbert Susemihl - Night on Frenchmen Street (feat. Shaye Cohn, Kerry Lewis & Gregory Agid) (loop length 00:02:50.592313)
-9. Some of these Days - Dutch Swing College Band - Jazz at the Seaport (loop length 00:04:02.664762)
-10. Singin' the Blues - Allen Toussaint - The Bright Mississippi (loop length 00:05:36.264286)
-11. Canal Street Blues - Peoria Jazzband - Smiles (loop length 00:04:13.282948)
-12. Muskogee Blue - Jon-Erik Kellso - Pee Wee's Song (loop length 00:05:10.053741)
-13. New Orleans Bump - The Solomon Douglas Swingtet - Ain’t No School Like the Old School (loop length 00:03:33.250862)
-14. Basin Street Blues - Preservation Hall Jazz Band - Hot 4 (loop length 00:07:28.703900)
-15. Blues in the Air - The Solomon Douglas Swingtet - Ain’t No School Like the Old School (loop length 00:05:43.620975)
-16. Creole Love Call - Piccadilly Six - 20 Years Piccadilly Six (loop length 00:03:29.209206)
-17. Couleur de Créole - Don Vappie and Jazz Créole - The Blue Book of Storyville (loop length 00:03:06.262358)
-18. Wild Man Blues - Nicholas Payton - Gumbo Nouveau (loop length 00:03:55.855238)
+1. 8 Humoresques, Op. 101, B. 187: No. 7. Poco lento e grazioso in G 
+   flat major – Schwanen Salon Orchestra – Salon Orchestra Favourites, Vol.
+   3  
+- Loop Track Length: 00:02:26.027959
+2. III. Blumencorso – Schwanen Salon Orchestra – Salon Orchestra Favourites, Vol. 2  
+- Loop Track Length: 00:03:08.808141
+3. Fragrance – Anthony Godwin and The Palm Court Theatre Orchestra – Salon to Swing  
+- Loop Track Length: 00:03:59.635374
+4. Noce villageoise – I Salonisti – Serenata: I Salonisti Spielen Salonmusik OR "The Last Dance  
+- Loop Track Length: 00:03:10.222721
+5. In the Shadows – Ian Whitcomb – "Titanic: Music As Heard On The Fateful Voyage"  
+- Loop Track Length: 00:05:17.005578
+6. Joplin: Elite Syncopations – I Salonisti – And The Band Played On  
+- Loop Track Length: 00:03:21.586054
+7. Liebesfreud – Schwanen Salon Orchestra – Salon Orchestra Favourites, Vol. 3  
+- Loop Track Length: 00:03:11.922222
+8. Lily of Laguna – Ian Whitcomb – "Titanic: Music As Heard On The Fateful Voyage"  
+- Loop Track Length: 00:02:20.463832
+9. Lincke: Lysistrata (Arr. I Salonisti) – Glühwürmchen-Idyll – I Salonisti  
+- Loop Track Length: 00:02:15.148254
+10. The Merry Widow Waltz – Ian Whitcomb – "Titanic: Music As Heard On The Fateful Voyage"  
+- Loop Track Length: 00:03:25.347574
+11. The Mosquito's Parade – Ian Whitcomb – "Titanic: Music As Heard On The Fateful Voyage"  
+- Loop Track Length: 00:02:21.762540
+12. Ein Walzertraum , Act I: Non sai mia bella: Leise, ganz leise 
+    klingt's durch den Raum – Schwanen Salon Orchestra – Salon Orchestra 
+    Favourites, Vol. 3  
+- Loop Track Length: 00:04:29.938957
+13. Silver Heels – Ian Whitcomb – "Titanic: Music As Heard On The Fateful Voyage"  
+- Loop Track Length: 00:02:53.065669
+14. That Mesmerizing Mendelssohn Tune – Ian Whitcomb – "Titanic: Music As Heard On The Fateful Voyage"  
+- Loop Track Length: 00:01:51.125283
+15. Sousa: El Capitán – I Salonisti – And The Band Played On  
+- Loop Track Length: 00:02:15.244558
+16. IV. Tarantella – Schwanen Salon Orchestra – Salon Orchestra Favourites, Vol. 2  
+- Loop Track Length: 00:03:52.644807
+17. Comic Cake Walk – I Salonisti – And The Band Played On  
+- Loop Track Length: 00:03:19.210363
+18. Petite Marche Viennoise – I Salonisti – The Last Dance  
+- Loop Track Length: 00:03:22.590998
+19. Die Libelle – Schwanen Salon Orchestra – Salon Orchestra Favourites, Vol. 3  
+- Loop Track Length: 00:03:20.025556
+20. Gold und Silber, Op. 79: Waltz – Budapest Symphony Orchestra – Gold and Silver (Various)  
+- Loop Track Length: 00:04:39.334535
+
+- Track Notes: Potentially edited
+21. The Merry Widow: Vilja Song – "Es lebt' eine Vilja" – Budapest Philharmonic Orchestra  
+- Loop Track Length: 00:02:42.930272
+22. Heyken's Serenade No. 2 – David Java And His Orchestra – "The Golden Age of Light Music: Light Music While You Work  
+- Loop Track Length: 00:03:06.297279
+23. Belle of the Ball – Schwanen Salon Orchestra – Salon Orchestra Favourites, Vol. 2  
+- Loop Track Length: 00:02:51.615125
+24. Berlin: Everbody's Doing It Now – I Salonisti – And The Band Played On  
+- Loop Track Length: 00:01:48.505601
+25. Destiny – Ian Whitcomb feat. The White Star Orchestra – "Titanic: Music As Heard On The Fateful Voyage"  
+- Loop Track Length: 00:05:00.437302

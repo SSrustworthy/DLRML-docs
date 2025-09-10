@@ -1,7 +1,5 @@
 # Food and Wine Festival 2020, Food and Wine Festival 2022, Food and Wine Festival 2023
 
-## Description
-
 **Land(s)**: Performance Corridor
 
 **Loop Total Length**: 01:43:06.427
@@ -11,7 +9,7 @@
 **Holiday/Special Event**: Food and Wine Festival
 
 Tracklist compiled by Pixelated and junglecskipper based on a reference recording by pixelated.
-15 tracks were added to the end of the 2019 F&W Loop similar to what was done to the Festival of Holidays loop in 2017. Confirmed to also be the 2022 and 2023 loops. See Mousebits, [https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/.](https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/.)
+15 tracks were added to the end of the 2019 F&W Loop similar to what was done to the Festival of Holidays loop in 2017. Confirmed to also be the 2022 and 2023 loops. See Mousebits, [https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/.](https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/.) 
 
 ## Tracklist
 

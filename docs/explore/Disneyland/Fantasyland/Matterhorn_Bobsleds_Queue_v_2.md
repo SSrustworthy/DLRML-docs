@@ -1,12 +1,10 @@
 # Matterhorn Bobsleds Queue v.2
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 00:25:20
 
-This loop was introduced with the reopening of the Matterhorn Bobsleds on June 15 2012 after a lengthy refurbishment. Track times indicate the approximate time from the beginning of one track to the beginning of the next one in the loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=9006.msg85941#msg85941](https://mousebits.com/smf/index.php?topic=9006.msg85941#msg85941) (2015). This currently plays in the proper queue area. A separate loop plays in the lightning lane/extended queue.
+This loop was introduced with the reopening of the Matterhorn Bobsleds on June 15 2012 after a lengthy refurbishment. Track times indicate the approximate time from the beginning of one track to the beginning of the next one in the loop. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9006.msg85941#msg85941 (2015). This currently plays in the proper queue area. A separate loop plays in the lightning lane/extended queue.
 
 ## Tracklist
 

@@ -1,12 +1,10 @@
 # Smokejumpers Grill v.2
 
-## Description
-
 **Land(s)**: Grizzly Peak
 
 **Loop Total Length**: 01:27:40.454
 
-A preliminary track list for the second iteration of the Smokejumpers Grill restaurant interior loop compiled by pixelated based on a reference recording by StarWarsGalaxysEdge. It is unclear when it was replaced, but a change was first reported in August of 2023. Tracks were potentially replaced due to insensitive lyrical undertones. See MouseBits, [https://mousebits.com/smf/index.php?topic=8915.msg85184#msg85184](https://mousebits.com/smf/index.php?topic=8915.msg85184#msg85184) (2015).
+A preliminary track list for the second iteration of the Smokejumpers Grill restaurant interior loop compiled by pixelated based on a reference recording by StarWarsGalaxysEdge. It is unclear when it was replaced, but a change was first reported in August of 2023. Tracks were potentially replaced due to insensitive lyrical undertones. See MouseBits, [https://forums.mousebits.com/threads/grizzly-peak-airfield-and-smokejumpers-grill.8915/post-100455](https://forums.mousebits.com/threads/grizzly-peak-airfield-and-smokejumpers-grill.8915/post-100455)  (2025).
 
 ## Tracklist
 

@@ -1,14 +1,8 @@
 # Hollywood Pictures Backlot v.1
 
-## Description
-
 **Land(s)**: Hollywood Pictures Backlot
 
-**Loop Total Length**: ~57:30 (creating an approximate reconstruction)
-
 **Dates**: February 8, 2001 → June 1, 2004
-
-This loop played along Hollywood Boulevard of Hollywood Pictures Backlot from the park’s 2001 opening until June 2004 ([https://disneymusicloops.tripod.com/dlr/dlr-hpb-hpb.html](https://disneymusicloops.tripod.com/dlr/dlr-hpb-hpb.html)). The track list was first posted separately on Kirsten Wahlquist’s [https://disneymusicloops.tripod.com/dlr/dlr-hpb-hpb.html](https://disneymusicloops.tripod.com/dlr/dlr-hpb-hpb.html) and by user tongoroa on the [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-219.](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-219.) A [https://forums.mousebits.com/threads/hollywood-pictures-backlot-1-0.7108/](https://forums.mousebits.com/threads/hollywood-pictures-backlot-1-0.7108/) was created in 2012 by wedroy1923 and thx99, with some [https://forums.mousebits.com/threads/hollywood-pictures-backlot-loop.5991/](https://forums.mousebits.com/threads/hollywood-pictures-backlot-loop.5991/) in 2010. SSrustworthy created the most comprehensive tracklist in 2024, see  MouseBits, [https://forums.mousebits.com/threads/hollywood-pictures-backlot-1-0.7108/post-100128https://forums.mousebits.com/threads/hollywood-pictures-backlot-1-0.7108/post-100128.](https://forums.mousebits.com/threads/hollywood-pictures-backlot-1-0.7108/post-100128https://forums.mousebits.com/threads/hollywood-pictures-backlot-1-0.7108/post-100128.)
 
 ## Tracklist
 

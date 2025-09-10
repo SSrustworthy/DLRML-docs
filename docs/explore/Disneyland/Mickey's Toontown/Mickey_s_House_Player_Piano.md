@@ -1,7 +1,5 @@
 # Mickey's House Player Piano
 
-## Description
-
 **Land(s)**: Mickey's Toontown
 
 **Loop Total Length**: 00:02:55

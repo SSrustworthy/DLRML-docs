@@ -1,12 +1,8 @@
 # Descendants: The Rise of Red
 
-## Description
-
 **Land(s)**: Hollywood Land
 
 **Loop Total Length**: 00:10:42.062
-
-This loop played in the apartment facade area of Hollywood Land where several posters promoting Descendants: The Rise of Red were put up on walls and in the windows. Preliminary tracklist compiled by pixelated based on his 2024 recording.
 
 ## Tracklist
 

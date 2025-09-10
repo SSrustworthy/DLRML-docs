@@ -1,12 +1,10 @@
 # Holiday Fun with Santa & Friends! Fantasyland Theatre
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 01:04:48.756
 
-This loop played in the Fantasyland Theatre for the Holiday Fun with Santa & Friends! attraction based in the Fantasyland Theatre. Tracklist compiled by pixelated based on his 2024 reference recording.
+This loop played in the Fantasyland Theatre for the Holiday Fun with Santa & Friends! attraction based in the Fantasyland Theatre. Tracklist compiled by pixelated based on his 2024 reference recording. See MouseBits, [https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100457](https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100457) (2025).
 
 ## Tracklist
 

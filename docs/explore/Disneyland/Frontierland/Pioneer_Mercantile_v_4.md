@@ -1,12 +1,10 @@
 # Pioneer Mercantile v.4 [REF]
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: 00:40:57.385
 
-This version of the Pioneer Mercantile video loop was introduced ca. 2022 (see [https://dlnewstoday.com/2022/09/encanto-and-the-muppets-added-to-frontierland-shop-in-disneyland/](https://dlnewstoday.com/2022/09/encanto-and-the-muppets-added-to-frontierland-shop-in-disneyland/)). This tracklist was compiled based on a reference recording by SSrustworthy in April 2024. Tracks have not been verified against their source tracks. See MouseBits, Re: [https://forums.mousebits.com/threads/pioneer-mercantile-v-4.11050/](https://forums.mousebits.com/threads/pioneer-mercantile-v-4.11050/) (2024).
+This version of the Pioneer Mercantile video loop was introduced ca. 2022 (see [https://dlnewstoday.com/2022/09/encanto-and-the-muppets-added-to-frontierland-shop-in-disneyland/](https://dlnewstoday.com/2022/09/encanto-and-the-muppets-added-to-frontierland-shop-in-disneyland/) ). This tracklist was compiled based on a reference recording by SSrustworthy in April 2024. Tracks have not been verified against their source tracks. See MouseBits, Re: [https://forums.mousebits.com/threads/pioneer-mercantile-v-4.11050/](https://forums.mousebits.com/threads/pioneer-mercantile-v-4.11050/)  (2024).
 
 ## Tracklist
 

@@ -1,7 +1,5 @@
 # Circle-Vision: America the Beautiful Queue
 
-## Description
-
 **Land(s)**: Tomorrowland
 
 **Loop Total Length**: ~00:12:23

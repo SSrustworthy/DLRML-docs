@@ -1,16 +1,10 @@
 # Food and Wine Festival 2019
 
-## Description
-
 **Land(s)**: Performance Corridor
-
-**Loop Total Length**: 00:58:09.271
 
 **Dates**: March 1, 2019 → April 23, 2019
 
 **Holiday/Special Event**: Food and Wine Festival
-
-A preliminary tracklist for the 2019 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated based on his reference induction recording. See MouseBits,  [https://forums.mousebits.com/threads/dca-food-and-wine-festival-loop-track-list-2019.10184/.](https://forums.mousebits.com/threads/dca-food-and-wine-festival-loop-track-list-2019.10184/.)
 
 ## Tracklist
 

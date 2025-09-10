@@ -1,14 +1,8 @@
 # Port Royal Jazz Club [INC]
 
-## Description
-
 **Land(s)**: New Orleans Square
 
-**Loop Total Length**: > 3.5 hours
-
 **Dates**: May 2, 2025
-
-This loop plays inside the Port Royal Jazz Club, which serves as a seating area for the Royal Street Veranda. It replaced the Port Royal Curios and Curiosities Shop. The loop is incomplete. An initial tracklist was compiled by pixelated and RocketRodsXPR (MouseCord, 2025) based on live reference recordings by pixelated and Daps Magic.
 
 ## Tracklist
 

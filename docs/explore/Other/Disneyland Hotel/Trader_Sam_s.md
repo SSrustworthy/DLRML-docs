@@ -1,14 +1,8 @@
 # Trader Sam's [REF]
 
-## Description
-
 **Area**: Disneyland Hotel
 
-**Loop Total Length**: 01:58:49
-
 **Dates**: May 25, 2011
-
-This loop plays in Trader Sam’s. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=6909.msg58009#msg58009.](https://mousebits.com/smf/index.php?topic=6909.msg58009#msg58009.) Compiled by C33 (MouseBits; 2012 and MagicMusic; 2012).
 
 ## Tracklist
 

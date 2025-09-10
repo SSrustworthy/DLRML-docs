@@ -1,14 +1,12 @@
 # Fantasyland Skyway Station v.2, Matterhorn Way, Pinocchio Village Haus
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 00:59:23.601
 
 **Dates**: May 25, 1983
 
-This loop was compiled by Jack Wagner and introduced with the Pinocchio Village Haus as part of New Fantasyland in 1983. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=5296.msg91028#msg91028](https://mousebits.com/smf/index.php?topic=5296.msg91028#msg91028) (2017) and the [http://passport2dreams.blogspot.com/2018/02/that-infernal-swiss-music.html.](http://passport2dreams.blogspot.com/2018/02/that-infernal-swiss-music.html.) The same loop was used for the Skyway Chalet and the Village Haus in 1983, see Magic Music: [https://community.magicmusic.net/threads/questions-concerning-fantasyland-area-music-in-1970s-and-1980s.1971/#post-13221](https://community.magicmusic.net/threads/questions-concerning-fantasyland-area-music-in-1970s-and-1980s.1971/#post-13221) (2005). This loop started playing on Matterhorn Way as of 2022, see MouseBits, [https://forums.mousebits.com/threads/village-haus-music-playing-again.10618/#post-100038](https://forums.mousebits.com/threads/village-haus-music-playing-again.10618/#post-100038) (2024).
+This loop was compiled by Jack Wagner and introduced with the Pinocchio Village Haus as part of New Fantasyland in 1983. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5296.msg91028#msg91028 (2017) and the [http://passport2dreams.blogspot.com/2018/02/that-infernal-swiss-music.html](http://passport2dreams.blogspot.com/2018/02/that-infernal-swiss-music.html)  . The same loop was used for the Skyway Chalet and the Village Haus in 1983, see Magic Music: [https://community.magicmusic.net/threads/questions-concerning-fantasyland-area-music-in-1970s-and-1980s.1971/#post-13221](https://community.magicmusic.net/threads/questions-concerning-fantasyland-area-music-in-1970s-and-1980s.1971/#post-13221)  (2005). This loop started playing on Matterhorn Way as of 2022, see MouseBits, [https://forums.mousebits.com/threads/village-haus-music-playing-again.10618/#post-100038](https://forums.mousebits.com/threads/village-haus-music-playing-again.10618/#post-100038)  (2024).
 
 ## Tracklist
 

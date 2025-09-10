@@ -1,16 +1,10 @@
 # Santa's Holiday Visit [REF]
 
-## Description
-
 **Land(s)**: Grizzly Peak
 
 **District/Neighborhood**: Grizzly Peak Recreation Area
 
-**Loop Total Length**: 00:16:54.464
-
 **Holiday/Special Event**: Christmas
-
-This loop played at Redwood Creek Challenge Trail at least during the 2016 and 2017 holiday seasons for Santa Claus’s Holiday Visit at the Ahwahnee Camp Circle in the Redwood Creek Challenge Trail. Tracklist compiled by pixelated, junglecskipper, and IHeartGaming. See MouseBits, [https://mousebits.com/smf/index.php?topic=9438.msg92234#msg92234](https://mousebits.com/smf/index.php?topic=9438.msg92234#msg92234) (2017). Supplemented with information by SSrustworthy.
 
 ## Tracklist
 

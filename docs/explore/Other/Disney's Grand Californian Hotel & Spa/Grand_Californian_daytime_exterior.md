@@ -1,14 +1,8 @@
 # Grand Californian (daytime exterior)
 
-## Description
-
 **Area**: Disney's Grand Californian Hotel & Spa
 
-**Loop Total Length**: 01:02:36.604
-
 **Dates**: January 2, 2001
-
-This loop can be heard in the area outside of and around Hearthstone Lounge, Storytellers Cafe, Napa Rose, White Water Snacks, the Fountain and Redwood Pools, Brisa Courtyard, and the entrance to the hotel from Downtown Disney. It began playing with the opening of the Grand Californian in 2001. Tracklist identified by Club 33 on [https://community.magicmusic.net/playlists/grand-californian-exterior.4/.](https://community.magicmusic.net/playlists/grand-californian-exterior.4/.) Also see MouseBits, [https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731](https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731) (2011).
 
 ## Tracklist
 

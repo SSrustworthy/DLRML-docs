@@ -1,7 +1,5 @@
 # Food and Wine Festival 2009 [REF]
 
-## Description
-
 **Land(s)**: Performance Corridor
 
 **Loop Total Length**: 52:50.796
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Food and Wine Festival
 
-A verified tracklist for the 2009 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated and C33 based on reference recordings. See MouseBits,  [https://forums.mousebits.com/threads/disneys-california-food-and-wine-festival-loop-playlist-2009.4884/.](https://forums.mousebits.com/threads/disneys-california-food-and-wine-festival-loop-playlist-2009.4884/.) C33 notes: "This loop played throughout Sunshine Plaza, Hollywood Pictures Backlot and Pacific Wharf, replacing those areas' normal loops during the festival run.
+A verified tracklist for the 2009 iteration of the Food and Wine Festival BGM. Tracklist compiled by pixelated and C33 based on reference recordings. See MouseBits,  [https://forums.mousebits.com/threads/disneys-california-food-and-wine-festival-loop-playlist-2009.4884/.](https://forums.mousebits.com/threads/disneys-california-food-and-wine-festival-loop-playlist-2009.4884/.)  C33 notes: "This loop played throughout Sunshine Plaza, Hollywood Pictures Backlot and Pacific Wharf, replacing those areas' normal loops during the festival run.
 Except for the few second pause between the last track and the first track when the loop restarts, each track almost always begins over the ending of the previous one, with no gaps in between. In many cases the track will start to fade out before the next track begins and some of the tracks are edited to be shorter in length (sometimes significantly so), as indicated. The transitions are in some cases fairly jarring. For purists, creating an accurate reconstruction of the loop will be pretty much impossible without a reference recording to go by.
 
 ## Tracklist

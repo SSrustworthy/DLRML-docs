@@ -1,7 +1,5 @@
 # S.S. Columbia Attraction v.4
 
-## Description
-
 **Land(s)**: Frontierland
 
 **Loop Total Length**: Unknown

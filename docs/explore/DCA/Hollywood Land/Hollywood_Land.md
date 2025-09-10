@@ -1,12 +1,6 @@
 # Hollywood Land
 
-## Description
-
 **Land(s)**: Hollywood Land
-
-**Loop Total Length**: 01:06:36.089
-
-This loop plays in Hollywood Land along the main avenue and in the surrounding area. It was introduced in May 2012. The same loop (with one addition) plays in WDW’s DHS Trolley Car Cafe. Preliminary tracklist compiled by pixelated, RocketRodsXPR and eyore. Note, most all of the loop tracks run slower by a few to several tenths of a second. See MouseBits, [https://mousebits.com/smf/index.php?topic=7298.msg62937#msg62937](https://mousebits.com/smf/index.php?topic=7298.msg62937#msg62937) (2012) and [https://mousebits.com/smf/index.php?topic=9299.msg87975#msg87975](https://mousebits.com/smf/index.php?topic=9299.msg87975#msg87975) (2016).
 
 ## Tracklist
 

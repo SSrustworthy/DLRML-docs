@@ -1,12 +1,10 @@
 # Storybook Land Canal Boats Queue
 
-## Description
-
 **Land(s)**: Fantasyland
 
 **Loop Total Length**: 00:29:13
 
-This plays from 4 speakers in the landscaping next to the queue. See MouseBits, [https://mousebits.com/smf/index.php?topic=6237.msg50901#msg50901](https://mousebits.com/smf/index.php?topic=6237.msg50901#msg50901) (2011) and Disney Parks Music Compendium [https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html) (2014).
+This plays from 4 speakers in the landscaping next to the queue. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6237.msg50901#msg50901 (2011) and Disney Parks Music Compendium [https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html)  (2014).
 
 ## Tracklist
 

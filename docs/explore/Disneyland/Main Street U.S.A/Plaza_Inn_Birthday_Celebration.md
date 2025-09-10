@@ -1,12 +1,10 @@
 # Plaza Inn Birthday Celebration [INC]
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: Unknown
 
-This loop played at the Plaza Inn Birthday Celebration. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168.](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168.) (2002).
+This loop played at the Plaza Inn Birthday Celebration. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168.](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168.)  (2002).
 
 ## Tracklist
 

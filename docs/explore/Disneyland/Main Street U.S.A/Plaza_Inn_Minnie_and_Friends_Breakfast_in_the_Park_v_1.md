@@ -1,12 +1,10 @@
 # Plaza Inn Minnie and Friends Breakfast in the Park v.1 [INC]
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: Unknown
 
-This loop played at the Plaza Inn during Minnie and Friends Breakfast in the Park, likely until ~2020 when the “Zip-a-dee-doo-dah” tracks were removed from BGMs around the resort. See MouseBits, [https://mousebits.com/smf/index.php?topic=7994.msg71851#msg71851](https://mousebits.com/smf/index.php?topic=7994.msg71851#msg71851) (2013). Heard in videos dating to at least 2007.
+This loop played at the Plaza Inn during Minnie and Friends Breakfast in the Park, likely until ~2020 when the “Zip-a-dee-doo-dah” tracks were removed from BGMs around the resort. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7994.msg71851#msg71851 (2013). Heard in videos dating to at least 2007.
 
 ## Tracklist
 

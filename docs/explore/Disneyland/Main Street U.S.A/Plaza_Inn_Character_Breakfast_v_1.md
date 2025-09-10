@@ -1,12 +1,10 @@
 # Plaza Inn Character Breakfast v.1 [INC]
 
-## Description
-
 **Land(s)**: Main Street, U.S.A.
 
 **Loop Total Length**: Unknown
 
-This loop was originally posted on Kristen’s Disney Music Loops site: [https://disneymusicloops.tripod.com/dlr/dlr-mainst-plazabreak.html](https://disneymusicloops.tripod.com/dlr/dlr-mainst-plazabreak.html) (from before 2005) and MouseBits, [https://mousebits.com/smf/index.php?topic=7994.msg71812#msg71812](https://mousebits.com/smf/index.php?topic=7994.msg71812#msg71812) (2013).
+This loop was originally posted on Kristen’s Disney Music Loops site: [https://disneymusicloops.tripod.com/dlr/dlr-mainst-plazabreak.html](https://disneymusicloops.tripod.com/dlr/dlr-mainst-plazabreak.html)  (from before 2005) and MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7994.msg71812#msg71812 (2013).
 
 ## Tracklist
 

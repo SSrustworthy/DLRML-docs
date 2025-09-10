@@ -1,14 +1,12 @@
 # Fantasy Tower Lobby v.4
 
-## Description
-
 **Area**: Disneyland Hotel
 
 **Loop Total Length**: 00:56:09.288
 
 **Dates**: December 1, 2011
 
-Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023](https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023) (2012).
+Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5700.msg59023#msg59023 (2012).
 
 ## Tracklist
 

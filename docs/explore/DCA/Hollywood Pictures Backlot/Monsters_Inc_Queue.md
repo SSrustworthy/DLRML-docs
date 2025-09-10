@@ -1,12 +1,10 @@
 # Monsters Inc. Queue [REF]
 
-## Description
-
 **Land(s)**: Hollywood Land, Hollywood Pictures Backlot
 
 **Loop Total Length**: ~00:30:11
 
-This loop plays in the queue area for the attraction Monsters, Inc. Mike & Sulley to the Rescue!. See C33’s post on Magic Music, [https://community.magicmusic.net/threads/monsters-inc-queue-music-dca.3746/#post-26602](https://community.magicmusic.net/threads/monsters-inc-queue-music-dca.3746/#post-26602) (2008). The queue is likely the same as WDW’s [https://community.magicmusic.net/threads/monsters-inc-laugh-floor-queue-area-music.4921/post-34784.](https://community.magicmusic.net/threads/monsters-inc-laugh-floor-queue-area-music.4921/post-34784.) Also see [https://forums.mousebits.com/threads/new-esplanade-loop.9555/post-90302](https://forums.mousebits.com/threads/new-esplanade-loop.9555/post-90302)
+This loop plays in the queue area for the attraction Monsters, Inc. Mike & Sulley to the Rescue!. See C33’s post on Magic Music, [https://community.magicmusic.net/threads/monsters-inc-queue-music-dca.3746/#post-26602](https://community.magicmusic.net/threads/monsters-inc-queue-music-dca.3746/#post-26602)  (2008). The queue is likely the same as WDW’s [https://community.magicmusic.net/threads/monsters-inc-laugh-floor-queue-area-music.4921/post-34784.](https://community.magicmusic.net/threads/monsters-inc-laugh-floor-queue-area-music.4921/post-34784.)  Also see [https://forums.mousebits.com/threads/new-esplanade-loop.9555/post-90302](https://forums.mousebits.com/threads/new-esplanade-loop.9555/post-90302) 
 
 ## Tracklist
 

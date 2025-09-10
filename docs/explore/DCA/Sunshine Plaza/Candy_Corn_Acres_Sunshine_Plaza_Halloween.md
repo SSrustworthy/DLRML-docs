@@ -1,14 +1,12 @@
 # Candy Corn Acres [REF], Sunshine Plaza Halloween [REF]
 
-## Description
-
 **Land(s)**: Sunshine Plaza
 
 **Loop Total Length**: 00:29:28.971
 
 **Holiday/Special Event**: Halloween
 
-This loop played at Halloween Time in the Sunshine Plaza area in at least 2008 and 2009. See MouseBits, [https://mousebits.com/smf/index.php?topic=4803.msg35717#msg35717](https://mousebits.com/smf/index.php?topic=4803.msg35717#msg35717) (2009).
+This loop played at Halloween Time in the Sunshine Plaza area in at least 2008 and 2009. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4803.msg35717#msg35717 (2009).
 
 ## Tracklist
 

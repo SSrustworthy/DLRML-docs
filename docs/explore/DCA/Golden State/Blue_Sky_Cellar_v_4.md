@@ -1,7 +1,5 @@
 # Blue Sky Cellar v.4
 
-## Description
-
 **Land(s)**: Golden State
 
 **District/Neighborhood**: Golden Vine Winery
@@ -10,7 +8,7 @@
 
 **Dates**: May 18, 2011
 
-This loop was the 4th version of the Blue Sky Cellar BGM, installed on May 18, 2011. Playlist compiled by wedroy1923 based on a live recording provided by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.)
+This loop was the 4th version of the Blue Sky Cellar BGM, installed on May 18, 2011. Playlist compiled by wedroy1923 based on a live recording provided by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7842.msg69946#msg69946.
 
 ## Tracklist
 

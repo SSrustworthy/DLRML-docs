@@ -1,7 +1,5 @@
 # Tiana's Palace interior [INC]
 
-## Description
-
 **Land(s)**: New Orleans Square
 
 **Loop Total Length**: Unknown

@@ -1,14 +1,12 @@
 # Splash Mountain Queue/Exit [REF]
 
-## Description
-
 **Land(s)**: Critter Country
 
 **Loop Total Length**: 00:27:58.020
 
 **Dates**: July 17, 1989
 
-Posted on [https://disneymusicloops.tripod.com/dlr/dlr-cc-cc.html](https://disneymusicloops.tripod.com/dlr/dlr-cc-cc.html) and [https://disney-parks-music-compendium.blogspot.com/2022/11/splash-mountain-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/splash-mountain-queue-bgm.html) by wedroy1923 using a live recording by pixelated. In 08/2020, Zip-a-Dee-Doo-Dah was removed from the loop. The rest of the loop continued to play in the same order until the attraction's final day of operation on May 30, 2023. All tracks, with the exception of track no. 12, were available on Disneyland Forever as Critter Country Area Music and Walt Disney World Forever as Splash Mountain Area Music. Track lengths include silence until the next track. See MouseBits, Disneyland Splash Mountain Queue Tracklist
+Posted on [https://disneymusicloops.tripod.com/dlr/dlr-cc-cc.html](https://disneymusicloops.tripod.com/dlr/dlr-cc-cc.html)  and [https://disney-parks-music-compendium.blogspot.com/2022/11/splash-mountain-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/splash-mountain-queue-bgm.html)  by wedroy1923 using a live recording by pixelated. In 08/2020, Zip-a-Dee-Doo-Dah was removed from the loop. The rest of the loop continued to play in the same order until the attraction's final day of operation on May 30, 2023. All tracks, with the exception of track no. 12, were available on Disneyland Forever as Critter Country Area Music and Walt Disney World Forever as Splash Mountain Area Music. Track lengths include silence until the next track. See MouseBits, Disneyland Splash Mountain Queue Tracklist
 
 ## Tracklist
 

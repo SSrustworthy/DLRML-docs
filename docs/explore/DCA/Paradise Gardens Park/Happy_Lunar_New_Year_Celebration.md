@@ -1,7 +1,5 @@
 # Happy Lunar New Year Celebration
 
-## Description
-
 **Land(s)**: Paradise Gardens Park, Paradise Pier
 
 **Loop Total Length**: 00:43:32.517
@@ -10,7 +8,7 @@
 
 **Holiday/Special Event**: Lunar New Year
 
-A preliminary track list compiled by pixelated for the DCA Happy Lunar New Year Celebration area music loop. There are no totally silent gaps between tracks except between the first and last tracks. See MouseBits, [https://mousebits.com/smf/index.php?topic=8426.msg78931#msg78931.](https://mousebits.com/smf/index.php?topic=8426.msg78931#msg78931.) The same loop played in 2014 and 2015, although in 2015 the track “Picking Flowers” ran slower and was in sync with the album version, and the loop was in stereo.
+A preliminary track list compiled by pixelated for the DCA Happy Lunar New Year Celebration area music loop. There are no totally silent gaps between tracks except between the first and last tracks. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8426.msg78931#msg78931. The same loop played in 2014 and 2015, although in 2015 the track “Picking Flowers” ran slower and was in sync with the album version, and the loop was in stereo.
 
 ## Tracklist
 
