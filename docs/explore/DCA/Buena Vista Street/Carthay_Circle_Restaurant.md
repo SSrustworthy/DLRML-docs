@@ -6,7 +6,7 @@
 
 **Dates**: June 15, 2012
 
-This loop plays upstairs in the Carthay Circle Restaurant. Contrary to a post by the Disney Parks Blog, it is not quite synced with the downstairs jazz combo loop, but many of the songs are in the same order. Several songs in this loop are repeated to fill time gaps, and some unreleased alt takes are present. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8018.msg72181#msg72181 (2013) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10920.msg99364#msg99364 (2023). Track length recorded from start of track until next track, and includes silent gaps unless stated otherwise.
+This loop plays upstairs in the Carthay Circle Restaurant. Contrary to a post by the Disney Parks Blog, it is not quite synced with the downstairs jazz combo loop, but many of the songs are in the same order. Several songs in this loop are repeated to fill time gaps, and some unreleased alt takes are present. See MouseBits, [https://mousebits.com/smf/index.php?topic=8018.msg72181#msg72181](https://mousebits.com/smf/index.php?topic=8018.msg72181#msg72181)  (2013) and [https://mousebits.com/smf/index.php?topic=10920.msg99364#msg99364](https://mousebits.com/smf/index.php?topic=10920.msg99364#msg99364)  (2023). Track length recorded from start of track until next track, and includes silent gaps unless stated otherwise.
 
 ## Tracklist
 

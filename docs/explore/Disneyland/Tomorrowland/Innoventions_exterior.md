@@ -6,7 +6,7 @@
 
 **Dates**: November 10, 1998 → March 31, 2015
 
-Also a Buddy Baker-composed loop, this plays from the speakers on the non-moving portion of the building. It has more subdued versions of the interior cues.  [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8802.msg84034#msg84034 Also see the Magic Music thread [https://community.magicmusic.net/threads/innoventions-dl.4465/#post-31990](https://community.magicmusic.net/threads/innoventions-dl.4465/#post-31990)  and [https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714](https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714) 
+Also a Buddy Baker-composed loop, this plays from the speakers on the non-moving portion of the building. It has more subdued versions of the interior cues.  [https://mousebits.com/smf/index.php?topic=8802.msg84034#msg84034](https://mousebits.com/smf/index.php?topic=8802.msg84034#msg84034)  Also see the Magic Music thread [https://community.magicmusic.net/threads/innoventions-dl.4465/#post-31990](https://community.magicmusic.net/threads/innoventions-dl.4465/#post-31990)  and [https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714](https://community.magicmusic.net/threads/disneylands-innoventions-area-loop-question-about-track.3570/#post-23714) 
 
 ## Tracklist
 

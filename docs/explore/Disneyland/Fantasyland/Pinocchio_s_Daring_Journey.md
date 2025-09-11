@@ -27,7 +27,7 @@ This loop plays in the covered queue and loading area for Pinocchio’s Daring J
 4\. Hi Diddle Dee Dee (An Actor’s Life For Me) Instrumental – Unreleased
 
 - Loop Track Length: 00:53.878
-- Track Notes: An instrumental version of “Hi Diddle Dee Dee”; this YT version works well: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=OnixrRGu5Hk
+- Track Notes: An instrumental version of “Hi Diddle Dee Dee”; this YT version works well: [https://www.youtube.com/watch?v=OnixrRGu5Hk](https://www.youtube.com/watch?v=OnixrRGu5Hk) 
 
 5\. Coach to Pleasure Island – Pinocchio OST
 

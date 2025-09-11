@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~00:34:06
 
-This loop plays throughout the “Through the Ears” and outdoor extended MMRR queue. The loop is dynamic and the instrumentation changes between exhibits (Early Ears: early jazz, Golden Ears: modern jazz, and Modern Ears: orchestral). It does not play in the area immediately surrounding the Disco Mickey Mouse exhibit. It consists of rearrangements of themes associated with Mickey and Minnie Mouse. [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10886.msg99252#msg99252 (2023). Track names verified by Christopher Willis via Twitter.
+This loop plays throughout the “Through the Ears” and outdoor extended MMRR queue. The loop is dynamic and the instrumentation changes between exhibits (Early Ears: early jazz, Golden Ears: modern jazz, and Modern Ears: orchestral). It does not play in the area immediately surrounding the Disco Mickey Mouse exhibit. It consists of rearrangements of themes associated with Mickey and Minnie Mouse. [https://mousebits.com/smf/index.php?topic=10886.msg99252#msg99252](https://mousebits.com/smf/index.php?topic=10886.msg99252#msg99252)  (2023). Track names verified by Christopher Willis via Twitter.
 
 ## Tracklist
 
@@ -47,12 +47,12 @@ This loop plays throughout the “Through the Ears” and outdoor extended MMRR 
 10\. Steamboat Silly – Christopher Willis – Unreleased
 
 - Loop Track Length: 00:02:23.527
-- Track Notes: See [https://youtu.be/s0z0AV3ABGQ](https://youtu.be/s0z0AV3ABGQ) ?feature=shared
+- Track Notes: See [https://youtu.be/s0z0AV3ABGQ?feature=shared](https://youtu.be/s0z0AV3ABGQ?feature=shared) 
 
 11\. Happy Birthday, Mickey Mouse / Mickey Mouse’s Birthday Party – Christopher Willis – Unreleased
 
 - Loop Track Length: 00:02:16.460
-- Track Notes: See the LP “Songs from Walt Disney’s Magic Kingdom” [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=RVNrFyzZkE4
+- Track Notes: See the LP “Songs from Walt Disney’s Magic Kingdom” [https://www.youtube.com/watch?v=RVNrFyzZkE4](https://www.youtube.com/watch?v=RVNrFyzZkE4) 
 
 12\. The Sorcerer's Apprentice – Christopher Willis, Paul Dukas – Unreleased
 

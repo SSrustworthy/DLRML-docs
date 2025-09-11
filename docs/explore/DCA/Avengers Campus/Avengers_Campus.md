@@ -11,7 +11,7 @@ Avengers Campus plays a synced theme in several areas. Upon entering the land, m
 -PYM Test Kitchen Loop
 -Doctor Strange Ancient Sanctum Loop
 -Guardians of the Galaxy Outdoor Queue
-The entrance track was released by WDI through Theme Park Productions. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10661.msg98091#msg98091 (2022).
+The entrance track was released by WDI through Theme Park Productions. See MouseBits, [https://mousebits.com/smf/index.php?topic=10661.msg98091#msg98091](https://mousebits.com/smf/index.php?topic=10661.msg98091#msg98091)  (2022).
 
 ## Tracklist
 

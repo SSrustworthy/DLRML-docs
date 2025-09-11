@@ -6,7 +6,7 @@
 
 **Dates**: May 26, 1983
 
-This is a partial track listing for the Mad Hatter shop in Fantasyland. All of these are likely from the re-recordings of the soundtrack for new Fantasyland in 1983/84 and are currently used as part of Alice's Curious Labyrinth in Disneyland Paris. See MouseBits, Re: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9121.msg86697#msg86697 (2015).
+This is a partial track listing for the Mad Hatter shop in Fantasyland. All of these are likely from the re-recordings of the soundtrack for new Fantasyland in 1983/84 and are currently used as part of Alice's Curious Labyrinth in Disneyland Paris. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9121.msg86697#msg86697](https://mousebits.com/smf/index.php?topic=9121.msg86697#msg86697)  (2015).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: January 9, 2012
 
-This loop was installed in 2012 and plays throughout Frontierland, including both sides of the entrance stockade. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7016.msg59702#msg59702. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. Also see Magic Music: [https://community.magicmusic.net/playlists/frontierland-area-music-2012.48/](https://community.magicmusic.net/playlists/frontierland-area-music-2012.48/) 
+This loop was installed in 2012 and plays throughout Frontierland, including both sides of the entrance stockade. See MouseBits, [https://mousebits.com/smf/index.php?topic=7016.msg59702#msg59702.](https://mousebits.com/smf/index.php?topic=7016.msg59702#msg59702.)  Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. Also see Magic Music: [https://community.magicmusic.net/playlists/frontierland-area-music-2012.48/](https://community.magicmusic.net/playlists/frontierland-area-music-2012.48/) 
 
 ## Tracklist
 

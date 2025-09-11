@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop plays in the Disco Tribute area of the MMRR interior queue. The order may be slightly off, and some tracks may be missing.  See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10886.msg99252#msg99252 (2023).
+This loop plays in the Disco Tribute area of the MMRR interior queue. The order may be slightly off, and some tracks may be missing.  See MouseBits, [https://mousebits.com/smf/index.php?topic=10886.msg99252#msg99252](https://mousebits.com/smf/index.php?topic=10886.msg99252#msg99252)  (2023).
 
 ## Tracklist
 

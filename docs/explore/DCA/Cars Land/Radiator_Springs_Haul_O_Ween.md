@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Halloween
 
-A preliminary track list for the Cars Land Radiator Springs Haul-O-Ween BGM. Track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9645.msg91116#msg91116 (2017).
+A preliminary track list for the Cars Land Radiator Springs Haul-O-Ween BGM. Track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9645.msg91116#msg91116](https://mousebits.com/smf/index.php?topic=9645.msg91116#msg91116)  (2017).
 
 ## Tracklist
 

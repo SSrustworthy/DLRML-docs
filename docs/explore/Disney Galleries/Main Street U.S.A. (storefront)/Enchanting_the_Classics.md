@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop played in the Disney Gallery on Main Street, U.S.A. as the BGM for the exhibit ”Enchanting the Classics”, which was featured from 10/2009-05/2010. The loop was also featured in the Opera House lobby during the 50th anniversary celebration, and reappeared ca. 2013 as part of the Disneyland Story. It also appears to be identical to that of the Magic Kingdom and Tokyo Disneyland Main Entrance loops. Tracklist compiled by wedroy1923 and is partially confirmed by notes and recordings. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8193.msg75211#msg75211 (2013) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/)  (2013).
+This loop played in the Disney Gallery on Main Street, U.S.A. as the BGM for the exhibit ”Enchanting the Classics”, which was featured from 10/2009-05/2010. The loop was also featured in the Opera House lobby during the 50th anniversary celebration, and reappeared ca. 2013 as part of the Disneyland Story. It also appears to be identical to that of the Magic Kingdom and Tokyo Disneyland Main Entrance loops. Tracklist compiled by wedroy1923 and is partially confirmed by notes and recordings. See MouseBits, [https://mousebits.com/smf/index.php?topic=8193.msg75211#msg75211](https://mousebits.com/smf/index.php?topic=8193.msg75211#msg75211)  (2013) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/)  (2013).
 
 ## Tracklist
 

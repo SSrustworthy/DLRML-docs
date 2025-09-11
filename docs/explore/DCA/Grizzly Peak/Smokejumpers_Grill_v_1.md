@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 01:27:55.566
 
-A preliminary track list for the Smokejumpers Grill restaurant interior loop compiled by pixelated based on his reference recording.  The loop was introduced on May 15, 2015 with the opening of Grizzly Peak Airfield. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8915.msg85184#msg85184 (2015).
+A preliminary track list for the Smokejumpers Grill restaurant interior loop compiled by pixelated based on his reference recording.  The loop was introduced on May 15, 2015 with the opening of Grizzly Peak Airfield. See MouseBits, [https://mousebits.com/smf/index.php?topic=8915.msg85184#msg85184](https://mousebits.com/smf/index.php?topic=8915.msg85184#msg85184)  (2015).
 
 ## Tracklist
 

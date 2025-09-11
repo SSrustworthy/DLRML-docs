@@ -30,7 +30,7 @@ make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
 url_to_md <- function(x) {
   if (!is.character(x)) return(x)  # Leave non-character columns unchanged
   str_replace_all(x, "html\\.", "html .") |>
-  str_replace_all("(https?://[^\\s()<>\"',;!?]+)", "[\\1](\\1) ")
+  str_replace_all("(https?://[^\\s()<>\"',;]+)", "[\\1](\\1) ")
 }
 
 sanitize_folder_name <- function(x) {

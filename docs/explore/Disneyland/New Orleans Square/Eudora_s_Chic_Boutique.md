@@ -6,7 +6,7 @@
 
 **Dates**: September 20, 2022
 
-This loop plays in the interior of Eudora’s Chic Boutique featuring Tiana’s Gourmet Secrets, which opened on September 20, 2022. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10835.msg98943#msg98943 (2022). Tracklist compiled by pixelated based on his recording. See Magical Soundtracks’ [https://youtu.be/Zgd_zKj_b2s](https://youtu.be/Zgd_zKj_b2s)  here.
+This loop plays in the interior of Eudora’s Chic Boutique featuring Tiana’s Gourmet Secrets, which opened on September 20, 2022. See MouseBits, [https://mousebits.com/smf/index.php?topic=10835.msg98943#msg98943](https://mousebits.com/smf/index.php?topic=10835.msg98943#msg98943)  (2022). Tracklist compiled by pixelated based on his recording. See Magical Soundtracks’ [https://youtu.be/Zgd_zKj_b2s](https://youtu.be/Zgd_zKj_b2s)  here.
 
 ## Tracklist
 

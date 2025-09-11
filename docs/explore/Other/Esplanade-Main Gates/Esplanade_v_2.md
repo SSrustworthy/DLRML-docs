@@ -47,7 +47,7 @@ Preceded by a 30 Second snippet of "Winnie the Pooh", which can be found in the 
 9\. California Girls
 
 - Loop Track Length: 3:05
-- Track Notes: This track comes from the [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=3986.msg29245#msg29245.
+- Track Notes: This track comes from the [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.) 
 
 10\. The Tiki, Tiki, Tiki Room – Tokyo Disneyland – 15th Anniversary Music 4: Grand Finale
 

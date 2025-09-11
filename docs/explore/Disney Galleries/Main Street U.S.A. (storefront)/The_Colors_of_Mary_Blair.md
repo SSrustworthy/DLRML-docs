@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:51:02
 
-This loop played in the Disney Gallery on Main Street, U.S.A. for the exhibit “The Colors of Mary Blair”, on display from May -November 2011. Tracklist compiled by RocketRodsXPRm, wedroy1923 and pixelated based on a live recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6428.msg51990#msg51990 (2011) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938)  (2013).
+This loop played in the Disney Gallery on Main Street, U.S.A. for the exhibit “The Colors of Mary Blair”, on display from May -November 2011. Tracklist compiled by RocketRodsXPRm, wedroy1923 and pixelated based on a live recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=6428.msg51990#msg51990](https://mousebits.com/smf/index.php?topic=6428.msg51990#msg51990)  (2011) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938)  (2013).
 
 ## Tracklist
 

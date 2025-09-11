@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played at Santa’s Seaside Pavillion, located at Paradise Pier during the holiday season. It debuted in 2009 but has not played since then. See MouseBits for edit samples: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg36230#msg36230 and the original track listing: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg37205#msg37205 (same thread, different post).
+This loop played at Santa’s Seaside Pavillion, located at Paradise Pier during the holiday season. It debuted in 2009 but has not played since then. See MouseBits for edit samples: [https://mousebits.com/smf/index.php?topic=4845.msg36230#msg36230](https://mousebits.com/smf/index.php?topic=4845.msg36230#msg36230)  and the original track listing: [https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205](https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205)  (same thread, different post).
 
 ## Tracklist
 

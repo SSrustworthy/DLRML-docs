@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-It is unverified whether this loop actually played at Casa De Fritos. This listing was discussed on MouseBits, Re: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9853.0[https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9853.0 This music originated from a transferred Jack Wagner tape available to listen to on [https://waltsmusic.com/index.php/home/other-disney-media/item/393-disneyland-mexican-music-1974-casa-de-fritos](https://waltsmusic.com/index.php/home/other-disney-media/item/393-disneyland-mexican-music-1974-casa-de-fritos) ?highlight=WyJjYXNhIiwiZGUiLCJmcml0b3MiLCJjYXNhIGRlIiwiY2FzYSBkZSBmcml0b3MiLCJkZSBmcml0b3MiXQ==. It is labeled as “Disneyland Mexican Music 1974”.
+It is unverified whether this loop actually played at Casa De Fritos. This listing was discussed on MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9853.0https://mousebits.com/smf/index.php?topic=9853.0](https://mousebits.com/smf/index.php?topic=9853.0https://mousebits.com/smf/index.php?topic=9853.0)  This music originated from a transferred Jack Wagner tape available to listen to on [https://waltsmusic.com/index.php/home/other-disney-media/item/393-disneyland-mexican-music-1974-casa-de-fritos?highlight=WyJjYXNhIiwiZGUiLCJmcml0b3MiLCJjYXNhIGRlIiwiY2FzYSBkZSBmcml0b3MiLCJkZSBmcml0b3MiXQ==.](https://waltsmusic.com/index.php/home/other-disney-media/item/393-disneyland-mexican-music-1974-casa-de-fritos?highlight=WyJjYXNhIiwiZGUiLCJmcml0b3MiLCJjYXNhIGRlIiwiY2FzYSBkZSBmcml0b3MiLCJkZSBmcml0b3MiXQ==.)  It is labeled as “Disneyland Mexican Music 1974”.
 
 ## Tracklist
 

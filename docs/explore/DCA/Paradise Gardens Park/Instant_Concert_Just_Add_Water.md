@@ -2,7 +2,7 @@
 
 **Land(s)**: Paradise Gardens Park
 
-This is not necessarily a loop, but a collection of songs from the Instant Concert series with Goofy at Paradise Pier.  Compiled by RocketRodsXPR. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7896.msg70476#msg70476 (2013).
+This is not necessarily a loop, but a collection of songs from the Instant Concert series with Goofy at Paradise Pier.  Compiled by RocketRodsXPR. See MouseBits, [https://mousebits.com/smf/index.php?topic=7896.msg70476#msg70476](https://mousebits.com/smf/index.php?topic=7896.msg70476#msg70476)  (2013).
 
 ## Tracklist
 

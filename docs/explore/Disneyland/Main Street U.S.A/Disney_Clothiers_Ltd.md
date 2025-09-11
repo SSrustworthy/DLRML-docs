@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~01:01:21
 
-Based on a live recording by pixelated, the above playlist reflects what is used as background music inside Disney Clothiers at Disneyland. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/disney-clothiers-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/disney-clothiers-bgm.html)  and Mousebits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9607.msg90724#msg90724. Not verified with source tracks; there may be edits. Also see Magic Music, [https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369](https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369)  which suggests the loop’s installation as ca. 2003.
+Based on a live recording by pixelated, the above playlist reflects what is used as background music inside Disney Clothiers at Disneyland. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/disney-clothiers-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/disney-clothiers-bgm.html)  and Mousebits, [https://mousebits.com/smf/index.php?topic=9607.msg90724#msg90724.](https://mousebits.com/smf/index.php?topic=9607.msg90724#msg90724.)  Not verified with source tracks; there may be edits. Also see Magic Music, [https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369](https://community.magicmusic.net/threads/new-dl-emporium-music.963/#post-6369)  which suggests the loop’s installation as ca. 2003.
 
 ## Tracklist
 

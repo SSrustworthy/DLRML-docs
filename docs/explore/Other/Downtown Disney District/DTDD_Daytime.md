@@ -6,7 +6,7 @@
 
 **Dates**: May 1, 2017
 
-This loop plays in Downtown Disney from 2AM to 8PM and was introduced with the introduction of the new Esplanade loop. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9586.msg90552#msg90552.
+This loop plays in Downtown Disney from 2AM to 8PM and was introduced with the introduction of the new Esplanade loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=9586.msg90552#msg90552.](https://mousebits.com/smf/index.php?topic=9586.msg90552#msg90552.) 
 
 ## Tracklist
 
@@ -40,7 +40,7 @@ This loop plays in Downtown Disney from 2AM to 8PM and was introduced with the i
 
 8\. Heigh Ho – SHDL Mickey Avenue BGM
 
-- Track Notes: Confirmed by pixelated [https://youtu.be/V4I0mNyEKiY](https://youtu.be/V4I0mNyEKiY) ?t=2m40s
+- Track Notes: Confirmed by pixelated [https://youtu.be/V4I0mNyEKiY?t=2m40s](https://youtu.be/V4I0mNyEKiY?t=2m40s) 
 
 9\. Swing Sax (Shout and Feel It) – Benny Goodman
 
@@ -116,7 +116,7 @@ This loop plays in Downtown Disney from 2AM to 8PM and was introduced with the i
 
 27\. Bibbidi-Bobbidi-Boo – SHDL Mickey Avenue BGM
 
-- Track Notes: Confirmed by pixelated [https://youtu.be/X_3_J1HRtmY](https://youtu.be/X_3_J1HRtmY) ?t=1m26s
+- Track Notes: Confirmed by pixelated [https://youtu.be/X_3_J1HRtmY?t=1m26s](https://youtu.be/X_3_J1HRtmY?t=1m26s) 
 
 28\. One O’Clock Jump – Buddy Bregman Big Band
 

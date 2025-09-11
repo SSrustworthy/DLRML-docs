@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played in the Paradise Pier Hotel Lobby during the holiday season. The loop is identical to Santa’s Seaside Pavilion in DCA’s Sunshine Plaza. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg36221#msg36221 (2009) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg37205#msg37205 (2010).
+This loop played in the Paradise Pier Hotel Lobby during the holiday season. The loop is identical to Santa’s Seaside Pavilion in DCA’s Sunshine Plaza. See MouseBits, [https://mousebits.com/smf/index.php?topic=4845.msg36221#msg36221](https://mousebits.com/smf/index.php?topic=4845.msg36221#msg36221)  (2009) and [https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205](https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205)  (2010).
 
 ## Tracklist
 

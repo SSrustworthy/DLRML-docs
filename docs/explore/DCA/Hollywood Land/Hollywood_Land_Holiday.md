@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop plays in Hollywood Land during the holiday season. Loop introduced in November 2012. Preliminary track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6912.msg68816#msg68816 (2012).
+This loop plays in Hollywood Land during the holiday season. Loop introduced in November 2012. Preliminary track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg68816#msg68816](https://mousebits.com/smf/index.php?topic=6912.msg68816#msg68816)  (2012).
 
 ## Tracklist
 

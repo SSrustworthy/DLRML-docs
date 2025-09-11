@@ -14,8 +14,8 @@ This loop played inside the Mission Tortilla Factory (hosted by Mission Foods) f
 
 1\. Scherzino Mexicano (Arr. A. Díaz for Guitar) – John C. Williams – Spirit of the Guitar: Music of the Americas
 
-- Track Notes: Heard in the following YouTube videos: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=A4ozSzv04gg (0:17-0:45), [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=QGM65H3PAvo (0:00-0:12), [https://youtu.be/TwyfVtwJDe0](https://youtu.be/TwyfVtwJDe0) ?feature=shared&t=10 (0:00-0:22). The last video features El Adiós del Soldado following this track.
+- Track Notes: Heard in the following YouTube videos: [https://www.youtube.com/watch?v=A4ozSzv04gg](https://www.youtube.com/watch?v=A4ozSzv04gg)  (0:17-0:45), [https://www.youtube.com/watch?v=QGM65H3PAvo](https://www.youtube.com/watch?v=QGM65H3PAvo)  (0:00-0:12), [https://youtu.be/TwyfVtwJDe0?feature=shared&t=10](https://youtu.be/TwyfVtwJDe0?feature=shared&t=10)  (0:00-0:22). The last video features El Adiós del Soldado following this track.
 
 2\. El Adiós del Soldado (Instrumental Version) – Carlos Periguez – Authentic Mexico
 
-- Track Notes: Heard in the following YouTube videos: [https://youtu.be/TwyfVtwJDe0](https://youtu.be/TwyfVtwJDe0) ?feature=shared&t=10  (0:22), [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=k9kYs-U1jMM  0:00), [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=AIZNYitBxPk  (0:00-0:14), [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=1Mp2TxlMqmU  (0:31)
+- Track Notes: Heard in the following YouTube videos: [https://youtu.be/TwyfVtwJDe0?feature=shared&t=10](https://youtu.be/TwyfVtwJDe0?feature=shared&t=10)   (0:22), [https://www.youtube.com/watch?v=k9kYs-U1jMM](https://www.youtube.com/watch?v=k9kYs-U1jMM)   0:00), [https://www.youtube.com/watch?v=AIZNYitBxPk](https://www.youtube.com/watch?v=AIZNYitBxPk)   (0:00-0:14), [https://www.youtube.com/watch?v=1Mp2TxlMqmU](https://www.youtube.com/watch?v=1Mp2TxlMqmU)   (0:31)

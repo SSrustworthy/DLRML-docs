@@ -6,7 +6,7 @@
 
 **Dates**: May 25, 1983
 
-This loop played in the queue of Snow White’s Scary Adventures, starting in 1983. It is unknown whether the queue music is the same for Snow White’s Enchanted Wish. See Disney Parks Music Compendium: [https://disney-parks-music-compendium.blogspot.com/2022/11/snow-whites-scary-adventures-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/snow-whites-scary-adventures-queue-bgm.html)  (2014) and MouseBits [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7478.msg65162#msg65162[https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7478.msg65162#msg65162). All tracks have vocals removed.
+This loop played in the queue of Snow White’s Scary Adventures, starting in 1983. It is unknown whether the queue music is the same for Snow White’s Enchanted Wish. See Disney Parks Music Compendium: [https://disney-parks-music-compendium.blogspot.com/2022/11/snow-whites-scary-adventures-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/snow-whites-scary-adventures-queue-bgm.html)  (2014) and MouseBits [https://mousebits.com/smf/index.php?topic=7478.msg65162#msg65162https://mousebits.com/smf/index.php?topic=7478.msg65162#msg65162](https://mousebits.com/smf/index.php?topic=7478.msg65162#msg65162https://mousebits.com/smf/index.php?topic=7478.msg65162#msg65162) ). All tracks have vocals removed.
 
 ## Tracklist
 

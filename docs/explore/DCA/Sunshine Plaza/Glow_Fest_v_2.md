@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-Preliminary track list for one of the Glow Fest opening performances in Sunshine Plaza in 2010. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9294.msg87935#msg87935
+Preliminary track list for one of the Glow Fest opening performances in Sunshine Plaza in 2010. See MouseBits, [https://mousebits.com/smf/index.php?topic=9294.msg87935#msg87935](https://mousebits.com/smf/index.php?topic=9294.msg87935#msg87935) 
 
 ## Tracklist
 

@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played in the Hollywood Pictures Backlot during the holiday season. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=4845.msg47232#msg47232 (2009) for track listing and edit samples.
+This loop played in the Hollywood Pictures Backlot during the holiday season. See MouseBits, [https://mousebits.com/smf/index.php?topic=4845.msg47232#msg47232](https://mousebits.com/smf/index.php?topic=4845.msg47232#msg47232)  (2009) for track listing and edit samples.
 
 ## Tracklist
 

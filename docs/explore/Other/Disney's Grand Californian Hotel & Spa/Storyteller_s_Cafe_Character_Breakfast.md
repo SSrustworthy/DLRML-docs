@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~01:01:00
 
-Compiled by StarWarsGalaxysEdge (MouseBits; 2022). See [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10787.msg98737#msg98737. This plays throughout the entire day, during character breakfast/brunch and dinner at Storyteller’s Cafe as of 2022.
+Compiled by StarWarsGalaxysEdge (MouseBits; 2022). See [https://mousebits.com/smf/index.php?topic=10787.msg98737#msg98737.](https://mousebits.com/smf/index.php?topic=10787.msg98737#msg98737.)  This plays throughout the entire day, during character breakfast/brunch and dinner at Storyteller’s Cafe as of 2022.
 
 ## Tracklist
 

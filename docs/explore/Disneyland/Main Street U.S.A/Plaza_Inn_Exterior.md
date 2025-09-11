@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 1983 → January 1, 1992
 
-This loop played in the outdoor patio area outside the Plaza Inn dining rooms. This loop was shared by the Plaza Inn and Crystal Palace (1983-1992) and was created for Tokyo Disneyland’s Crystal Palace in Adventureland. This track listing came from the original "Treasures of Fantasy" box set (1996, DMW934), the booklet with the blue cover, page 9, and was verified with a 2016 live recording at TDL by wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7973.msg73536#msg73536 (2013).
+This loop played in the outdoor patio area outside the Plaza Inn dining rooms. This loop was shared by the Plaza Inn and Crystal Palace (1983-1992) and was created for Tokyo Disneyland’s Crystal Palace in Adventureland. This track listing came from the original "Treasures of Fantasy" box set (1996, DMW934), the booklet with the blue cover, page 9, and was verified with a 2016 live recording at TDL by wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php?topic=7973.msg73536#msg73536](https://mousebits.com/smf/index.php?topic=7973.msg73536#msg73536)  (2013).
 
 ## Tracklist
 

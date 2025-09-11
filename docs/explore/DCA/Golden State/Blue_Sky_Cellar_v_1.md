@@ -6,7 +6,7 @@
 
 **Loop Total Length**: ~00:31:51
 
-A preliminary tracklist for the first version of the Blue Sky Cellar BGM underlining the Mickey’s Fun Wheel exhibit, introduced on October 20, 2008. Playlist compiled by CThaddeus. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6732.msg62030#msg62030 and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7842.msg69946#msg69946.
+A preliminary tracklist for the first version of the Blue Sky Cellar BGM underlining the Mickey’s Fun Wheel exhibit, introduced on October 20, 2008. Playlist compiled by CThaddeus. See MouseBits, [https://mousebits.com/smf/index.php?topic=6732.msg62030#msg62030](https://mousebits.com/smf/index.php?topic=6732.msg62030#msg62030)  and [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.) 
 
 ## Tracklist
 

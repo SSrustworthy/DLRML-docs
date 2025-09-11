@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Pixar Fest
 
-This loop first played in the Esplanade during Pixar Fest in 2018 with a loop length of 00:53:50. Also plays at DCA's Paradise Gardens and its section of the parade route (with a playback time of 01:04:27.374, likely due to a different playback system). See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9747.msg91902#msg91902 (2018). This loop also appeared inside the Paradise Pier Hotel in the Summer of 2022, upon the announcement that the hotel would soon become the Pixar Place Hotel. Tracklist compiled by pixelated based on his 2022 reference recording (loop length 00:53:27.359).
+This loop first played in the Esplanade during Pixar Fest in 2018 with a loop length of 00:53:50. Also plays at DCA's Paradise Gardens and its section of the parade route (with a playback time of 01:04:27.374, likely due to a different playback system). See MouseBits, [https://mousebits.com/smf/index.php?topic=9747.msg91902#msg91902](https://mousebits.com/smf/index.php?topic=9747.msg91902#msg91902)  (2018). This loop also appeared inside the Paradise Pier Hotel in the Summer of 2022, upon the announcement that the hotel would soon become the Pixar Place Hotel. Tracklist compiled by pixelated based on his 2022 reference recording (loop length 00:53:27.359).
 
 ## Tracklist
 

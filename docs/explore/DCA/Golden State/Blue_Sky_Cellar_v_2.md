@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 1:07:56.076
 
-The second version of the Blue Sky Cellar BGM for the World of Color and Silly Symphony Swings exhibit, which opened on 16 July 2009. A preliminary tracklist compiled by pixelated and wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5443.msg41182#msg41182 (2010) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7842.msg69946#msg69946.
+The second version of the Blue Sky Cellar BGM for the World of Color and Silly Symphony Swings exhibit, which opened on 16 July 2009. A preliminary tracklist compiled by pixelated and wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php?topic=5443.msg41182#msg41182](https://mousebits.com/smf/index.php?topic=5443.msg41182#msg41182)  (2010) and [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946.) 
 
 ## Tracklist
 

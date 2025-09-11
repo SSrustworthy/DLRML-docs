@@ -6,7 +6,7 @@
 
 **Dates**: November 16, 2007
 
-This loop played inside the Animation Building alongside a series of clips from Snow White and the Seven Dwarves. Preliminary tracklist compiled by RocketRodsXPR based on YouTube videos. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7599.msg66930#msg66930 (2012).
+This loop played inside the Animation Building alongside a series of clips from Snow White and the Seven Dwarves. Preliminary tracklist compiled by RocketRodsXPR based on YouTube videos. See MouseBits, [https://mousebits.com/smf/index.php?topic=7599.msg66930#msg66930](https://mousebits.com/smf/index.php?topic=7599.msg66930#msg66930)  (2012).
 
 ## Tracklist
 

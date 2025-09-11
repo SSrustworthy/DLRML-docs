@@ -6,7 +6,7 @@
 
 **Dates**: February 8, 2001
 
-This loop played in the Hyperion Theater outdoor queue. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-334](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-334)  (2002) and MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7068.msg59935#msg59935 (2012). It was still audible as of 2012.
+This loop played in the Hyperion Theater outdoor queue. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-334](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-334)  (2002) and MouseBits, [https://mousebits.com/smf/index.php?topic=7068.msg59935#msg59935](https://mousebits.com/smf/index.php?topic=7068.msg59935#msg59935)  (2012). It was still audible as of 2012.
 
 ## Tracklist
 

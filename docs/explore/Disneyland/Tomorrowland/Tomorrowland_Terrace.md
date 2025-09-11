@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~01:44:00
 
-The Tomorrowland Terrace features the same music loop as the Disney Springs Marketplace. The loop plays between shows. There are crossfades or overlaps between tracks, and the loop doesn't contain a single silent gap longer than a fraction of a second. This is a totally original loop of Disney songs arranged in a jazz-techno-fusion style. The loop was composed by Michael Tavera ([https://michaeltavera.com/project/disney-springs-resort-2/](https://michaeltavera.com/project/disney-springs-resort-2/) ). See Magic Music, [https://community.magicmusic.net/threads/disney-springs-area-music.5095/post-35731](https://community.magicmusic.net/threads/disney-springs-area-music.5095/post-35731)  (2015) and MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10874.msg99146#msg99146 (2023).
+The Tomorrowland Terrace features the same music loop as the Disney Springs Marketplace. The loop plays between shows. There are crossfades or overlaps between tracks, and the loop doesn't contain a single silent gap longer than a fraction of a second. This is a totally original loop of Disney songs arranged in a jazz-techno-fusion style. The loop was composed by Michael Tavera ([https://michaeltavera.com/project/disney-springs-resort-2/](https://michaeltavera.com/project/disney-springs-resort-2/) ). See Magic Music, [https://community.magicmusic.net/threads/disney-springs-area-music.5095/post-35731](https://community.magicmusic.net/threads/disney-springs-area-music.5095/post-35731)  (2015) and MouseBits, [https://mousebits.com/smf/index.php?topic=10874.msg99146#msg99146](https://mousebits.com/smf/index.php?topic=10874.msg99146#msg99146)  (2023).
 
 ## Tracklist
 

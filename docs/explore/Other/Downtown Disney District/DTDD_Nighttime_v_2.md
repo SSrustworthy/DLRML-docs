@@ -6,7 +6,7 @@
 
 **Dates**: May 1, 2018
 
-Played in Downtown Disney from 8PM to 2AM; has reverted to the v.1 loop on occasion. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9811.msg92333#msg92333.
+Played in Downtown Disney from 8PM to 2AM; has reverted to the v.1 loop on occasion. See MouseBits, [https://mousebits.com/smf/index.php?topic=9811.msg92333#msg92333.](https://mousebits.com/smf/index.php?topic=9811.msg92333#msg92333.) 
 
 ## Tracklist
 

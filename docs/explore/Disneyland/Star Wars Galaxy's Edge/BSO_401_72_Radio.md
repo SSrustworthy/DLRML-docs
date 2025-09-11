@@ -32,7 +32,7 @@
 7\. Galma – Guy Mayzig – Unreleased
 
 - Loop Track Length: 00:01:51.835
-- Track Notes: Star Wars Journey to Batuu Soundtrack (Sims expansion pack). [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=pcAkbmooteY
+- Track Notes: Star Wars Journey to Batuu Soundtrack (Sims expansion pack). [https://www.youtube.com/watch?v=pcAkbmooteY](https://www.youtube.com/watch?v=pcAkbmooteY) 
 
 8\. Segment: The Rawani Cup Podracing Tournament
 
@@ -107,7 +107,7 @@
 
 - Loop Track Length: 00:02:09.184
 - Track Notes: Star Wars Journey to Batuu Soundtrack (Sims expansion pack)
-[https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=zb3Wz6zXrss
+[https://www.youtube.com/watch?v=zb3Wz6zXrss](https://www.youtube.com/watch?v=zb3Wz6zXrss) 
 
 26\. Aloogahoo – Vee Gooda, Ryco – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #1
 

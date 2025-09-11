@@ -34,4 +34,4 @@
 
 NA\. Bile ‘Em Cabbage Down – Walt Disney World's Country Bear Jamboree LP
 
-- Track Notes: This was part of the loop as evidenced by this [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=G4YYVoA3xkA.
+- Track Notes: This was part of the loop as evidenced by this [https://www.youtube.com/watch?v=G4YYVoA3xkA.](https://www.youtube.com/watch?v=G4YYVoA3xkA.) 

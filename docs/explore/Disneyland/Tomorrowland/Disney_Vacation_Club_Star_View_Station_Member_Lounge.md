@@ -18,20 +18,20 @@ This loop plays in the Star View Station Member Lounge on the Second floor of St
 
 3\. People on Sunday – Domenique Dumont – People On Sunday
 
-- Track Notes: [https://www.youtube.com/live/f4nCFH_blEk](https://www.youtube.com/live/f4nCFH_blEk) , [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=dCCy-mgBNLw
+- Track Notes: [https://www.youtube.com/live/f4nCFH_blEk](https://www.youtube.com/live/f4nCFH_blEk) , [https://www.youtube.com/watch?v=dCCy-mgBNLw](https://www.youtube.com/watch?v=dCCy-mgBNLw) 
 
 4\. The Floating World – Dan Gregory and Mama Aiuto – Holiday Music
 
-- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=dCCy-mgBNLw
+- Track Notes: [https://www.youtube.com/watch?v=dCCy-mgBNLw](https://www.youtube.com/watch?v=dCCy-mgBNLw) 
 
 NA\. Mechanical Advantage – Datassette – Existenzmaximum
 
-- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=dAScnEA3wGc
+- Track Notes: [https://www.youtube.com/watch?v=dAScnEA3wGc](https://www.youtube.com/watch?v=dAScnEA3wGc) 
 
 NA\. Memphis (feat. ØDYSSEE) – DLJ, Bastien Brison & Nathan Kay – Memphis (feat. ØDYSSEE)
 
-- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=dAScnEA3wGc
+- Track Notes: [https://www.youtube.com/watch?v=dAScnEA3wGc](https://www.youtube.com/watch?v=dAScnEA3wGc) 
 
 NA\. Neptune’s Mood – Tenderlonious – Still Flute
 
-- Track Notes: [https://www.youtube.com/watch](https://www.youtube.com/watch) ?v=dAScnEA3wGc
+- Track Notes: [https://www.youtube.com/watch?v=dAScnEA3wGc](https://www.youtube.com/watch?v=dAScnEA3wGc) 

@@ -6,7 +6,7 @@
 
 **Dates**: May 25, 2007
 
-This loop was introduced with the Pirate’s Lair retheming of Tom Sawyer’s island in 2007, and has played at Lafitte’s tavern intermittently over the years. The loop is meant to be the ambient sound of a pirate tavern, and the musical tracks are interspersed with dialogue of pirates talking. This preliminary playlist was compiled by pixelated. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/lafittes-tavern-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/lafittes-tavern-bgm.html)  . Also see MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7977.msg71626#msg71626 (2013).
+This loop was introduced with the Pirate’s Lair retheming of Tom Sawyer’s island in 2007, and has played at Lafitte’s tavern intermittently over the years. The loop is meant to be the ambient sound of a pirate tavern, and the musical tracks are interspersed with dialogue of pirates talking. This preliminary playlist was compiled by pixelated. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/lafittes-tavern-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/lafittes-tavern-bgm.html)  . Also see MouseBits, [https://mousebits.com/smf/index.php?topic=7977.msg71626#msg71626](https://mousebits.com/smf/index.php?topic=7977.msg71626#msg71626)  (2013).
 
 ## Tracklist
 

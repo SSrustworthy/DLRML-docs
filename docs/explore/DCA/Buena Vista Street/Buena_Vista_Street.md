@@ -6,7 +6,7 @@
 
 **Dates**: June 15, 2012
 
-This loop was installed with Buena Vista street’s opening on June 15, 2012. It plays along the main street area as well as most stores asides from Big Top Toys, which has its own loop. Preliminary track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=7347.msg68905#msg68905 (2012).
+This loop was installed with Buena Vista street’s opening on June 15, 2012. It plays along the main street area as well as most stores asides from Big Top Toys, which has its own loop. Preliminary track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7347.msg68905#msg68905](https://mousebits.com/smf/index.php?topic=7347.msg68905#msg68905)  (2012).
 
 ## Tracklist
 

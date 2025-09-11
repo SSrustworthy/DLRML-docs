@@ -6,7 +6,7 @@
 
 **Dates**: January 2, 2001
 
-Notes: Playlist compiled by C33 and posted 05/2010 on Magic Music of the Mouse discussion board. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6806.msg56731#msg56731
+Notes: Playlist compiled by C33 and posted 05/2010 on Magic Music of the Mouse discussion board. See MouseBits, [https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731](https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731) 
 
 ## Tracklist
 

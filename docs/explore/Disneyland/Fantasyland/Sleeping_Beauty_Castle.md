@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:01:00.923
 
-“When You Wish Upon a Star” from the Pinocchio OST plays as you walk through the Sleeping Beauty’s Castle gate. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6266.msg51130#msg51130 (2011) and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10895.msg99249#msg99249 (2023).
+“When You Wish Upon a Star” from the Pinocchio OST plays as you walk through the Sleeping Beauty’s Castle gate. See MouseBits, [https://mousebits.com/smf/index.php?topic=6266.msg51130#msg51130](https://mousebits.com/smf/index.php?topic=6266.msg51130#msg51130)  (2011) and [https://mousebits.com/smf/index.php?topic=10895.msg99249#msg99249](https://mousebits.com/smf/index.php?topic=10895.msg99249#msg99249)  (2023).
 
 ## Tracklist
 

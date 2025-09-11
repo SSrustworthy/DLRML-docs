@@ -6,7 +6,7 @@
 
 **Dates**: November 7, 2014 → January 1, 2015
 
-This loop played at the Big Hero 6 Meet and Greet in the Starcade ca. 2014 to 2015. There's some edits in the score tracks, and a one-measure addition right in the midst of Huggable Detective that isn't on the soundtrack. [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8836.msg84669#msg84669
+This loop played at the Big Hero 6 Meet and Greet in the Starcade ca. 2014 to 2015. There's some edits in the score tracks, and a one-measure addition right in the midst of Huggable Detective that isn't on the soundtrack. [https://mousebits.com/smf/index.php?topic=8836.msg84669#msg84669](https://mousebits.com/smf/index.php?topic=8836.msg84669#msg84669) 
 
 ## Tracklist
 

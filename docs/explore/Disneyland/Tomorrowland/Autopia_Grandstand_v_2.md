@@ -6,7 +6,7 @@
 
 **Dates**: March 24, 2017
 
-This loop was first heard on March 24, 2017 with the reopening of Autopia (presented by Honda). The characters ASIMO and Bird were added to the scenery on the drive. In most areas of the queue, announcements by Bird play over the music, but the music can be heard uninterrupted in the covered area with the short looping videos. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10841.msg98985#msg98985 (2022).
+This loop was first heard on March 24, 2017 with the reopening of Autopia (presented by Honda). The characters ASIMO and Bird were added to the scenery on the drive. In most areas of the queue, announcements by Bird play over the music, but the music can be heard uninterrupted in the covered area with the short looping videos. See MouseBits, [https://mousebits.com/smf/index.php?topic=10841.msg98985#msg98985](https://mousebits.com/smf/index.php?topic=10841.msg98985#msg98985)  (2022).
 
 ## Tracklist
 

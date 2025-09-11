@@ -6,7 +6,7 @@
 
 **Dates**: January 27, 2023
 
-This loop plays in the lobby (before the “Through the Ears” exhibit) of the MMRR attraction. It also served as the general land-wide BGM from January 27, 2023 until the land’s official opening on March 19, 2023. All of the tracks are rearrangements of Christopher Willis’ scores for the Mickey Mouse Shorts (new as of 2013). See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10886.msg99252#msg99252 (2023).
+This loop plays in the lobby (before the “Through the Ears” exhibit) of the MMRR attraction. It also served as the general land-wide BGM from January 27, 2023 until the land’s official opening on March 19, 2023. All of the tracks are rearrangements of Christopher Willis’ scores for the Mickey Mouse Shorts (new as of 2013). See MouseBits, [https://mousebits.com/smf/index.php?topic=10886.msg99252#msg99252](https://mousebits.com/smf/index.php?topic=10886.msg99252#msg99252)  (2023).
 
 ## Tracklist
 

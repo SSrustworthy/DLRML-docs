@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Disney100 Celebration
 
-The Disney100 esplanade music debuted at the Disneyland Resort on January 25, 2023 for the Disney100 celebration. It’s an amalgamation of entertainment and attraction tracks from the Disneyland and Walt Disney World Resorts. Thanks to MagicalSoundtracks and StarWarsGalaxysEdge for compiling this tracklist. Please see MagicalSoundtracks’ YT channel for an [https://youtu.be/V5vXu--wt-c](https://youtu.be/V5vXu--wt-c)  of the music. Also thanks to pixelated for posting his induction recording on MouseCord. I have not compiled any loop edits, but anyone who wants to post them, please go right ahead. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10884.msg99556#msg99556 (2023).
+The Disney100 esplanade music debuted at the Disneyland Resort on January 25, 2023 for the Disney100 celebration. It’s an amalgamation of entertainment and attraction tracks from the Disneyland and Walt Disney World Resorts. Thanks to MagicalSoundtracks and StarWarsGalaxysEdge for compiling this tracklist. Please see MagicalSoundtracks’ YT channel for an [https://youtu.be/V5vXu--wt-c](https://youtu.be/V5vXu--wt-c)  of the music. Also thanks to pixelated for posting his induction recording on MouseCord. I have not compiled any loop edits, but anyone who wants to post them, please go right ahead. See MouseBits, [https://mousebits.com/smf/index.php?topic=10884.msg99556#msg99556](https://mousebits.com/smf/index.php?topic=10884.msg99556#msg99556)  (2023).
 
 ## Tracklist
 

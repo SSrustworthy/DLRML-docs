@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~00:14:21
 
-This music was played onboard the S.S. Columbia interspersed with the show narration. See Magic Music, Re: [https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435](https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435)  Verified by MightyTriton and Kenster from live recordings. See more discussion on MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6977.msg58690#msg58690 and [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10877.msg99153#msg99153 (2022). v.1 is known as the “pre-98” loop and was removed after the December 1998 accident.
+This music was played onboard the S.S. Columbia interspersed with the show narration. See Magic Music, Re: [https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435](https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435)  Verified by MightyTriton and Kenster from live recordings. See more discussion on MouseBits: [https://mousebits.com/smf/index.php?topic=6977.msg58690#msg58690](https://mousebits.com/smf/index.php?topic=6977.msg58690#msg58690)  and [https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153](https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153)  (2022). v.1 is known as the “pre-98” loop and was removed after the December 1998 accident.
 
 ## Tracklist
 

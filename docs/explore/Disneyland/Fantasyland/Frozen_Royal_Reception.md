@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~00:10:20
 
-This loop played at the Frozen Meet-and-Greet known as the “Frozen Royal Reception” in Fantasyland. It opened in November 2013 and closed sometime in 2015. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=8373.msg80852#msg80852 (2014).
+This loop played at the Frozen Meet-and-Greet known as the “Frozen Royal Reception” in Fantasyland. It opened in November 2013 and closed sometime in 2015. See MouseBits, [https://mousebits.com/smf/index.php?topic=8373.msg80852#msg80852](https://mousebits.com/smf/index.php?topic=8373.msg80852#msg80852)  (2014).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: July 1, 2011
 
-This loop plays in the interior of Boardwalk Pizza & Pasta in Paradise  Gardens Park. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=6802.msg56675#msg56675. Playlist compiled by pixelated.
+This loop plays in the interior of Boardwalk Pizza & Pasta in Paradise  Gardens Park. See MouseBits, [https://mousebits.com/smf/index.php?topic=6802.msg56675#msg56675.](https://mousebits.com/smf/index.php?topic=6802.msg56675#msg56675.)  Playlist compiled by pixelated.
 
 ## Tracklist
 

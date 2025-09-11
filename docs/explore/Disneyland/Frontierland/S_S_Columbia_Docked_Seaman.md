@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:14:58
 
-This music was from a 1980's renovation for the Columbia Below Decks Maritime Museum. It was only heard in situ when the Columbia was being prepped at Fowler's Harbor and when it was backing into position at the dock.  Once the Rivers switch track reconnected and it was ready to load, the music changed to the attraction music. See Magic Music: [https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435](https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435)  (2004). Loop length listed is according to member ex-wdi, who previously worked on the S.S. Columbia. These tracks are based on a May 1997 recording by RocketRodsXPR. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10877.msg99153#msg99153 (2022). All tracks from side A of a 1973 vinyl record.
+This music was from a 1980's renovation for the Columbia Below Decks Maritime Museum. It was only heard in situ when the Columbia was being prepped at Fowler's Harbor and when it was backing into position at the dock.  Once the Rivers switch track reconnected and it was ready to load, the music changed to the attraction music. See Magic Music: [https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435](https://community.magicmusic.net/threads/columbia-tracks.1518/#post-20435)  (2004). Loop length listed is according to member ex-wdi, who previously worked on the S.S. Columbia. These tracks are based on a May 1997 recording by RocketRodsXPR. See MouseBits, [https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153](https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153)  (2022). All tracks from side A of a 1973 vinyl record.
 
 ## Tracklist
 

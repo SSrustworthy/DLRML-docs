@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~00:09:54
 
-On the wall panels there is an option for BGM which plays over the suite's ceiling sound system. This track just loops and is the only track available. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9422.msg88931#msg88931 (2016).
+On the wall panels there is an option for BGM which plays over the suite's ceiling sound system. This track just loops and is the only track available. See MouseBits, [https://mousebits.com/smf/index.php?topic=9422.msg88931#msg88931](https://mousebits.com/smf/index.php?topic=9422.msg88931#msg88931)  (2016).
 
 ## Tracklist
 

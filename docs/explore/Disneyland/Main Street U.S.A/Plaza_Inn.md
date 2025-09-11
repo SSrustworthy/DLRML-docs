@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 1992
 
-Interior loop for the Plaza Inn. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/12/plaza-inn-bgm-1992.html](https://disney-parks-music-compendium.blogspot.com/2022/12/plaza-inn-bgm-1992.html)  (2014) and MouseBits: [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=5938.msg46746#msg46746 (2010). This can be heard inside the restaurant and in the adjacent bathrooms.
+Interior loop for the Plaza Inn. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/12/plaza-inn-bgm-1992.html](https://disney-parks-music-compendium.blogspot.com/2022/12/plaza-inn-bgm-1992.html)  (2014) and MouseBits: [https://mousebits.com/smf/index.php?topic=5938.msg46746#msg46746](https://mousebits.com/smf/index.php?topic=5938.msg46746#msg46746)  (2010). This can be heard inside the restaurant and in the adjacent bathrooms.
 
 ## Tracklist
 

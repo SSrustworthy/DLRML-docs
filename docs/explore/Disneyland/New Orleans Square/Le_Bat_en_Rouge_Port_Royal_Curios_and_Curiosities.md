@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~00:02:35.996
 
-This loop plays in Port Royal, in the corner spot formerly housed by Le Bat en Rouge. It is composed of only two tracks. See MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=9027.msg86133#msg86133.
+This loop plays in Port Royal, in the corner spot formerly housed by Le Bat en Rouge. It is composed of only two tracks. See MouseBits, [https://mousebits.com/smf/index.php?topic=9027.msg86133#msg86133.](https://mousebits.com/smf/index.php?topic=9027.msg86133#msg86133.) 
 
 ## Tracklist
 

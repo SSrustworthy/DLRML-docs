@@ -6,7 +6,7 @@
 
 **Dates**: March 12, 2005
 
-The third, and current, installment of the Lanai loop was installed during the 2004-2005 refurbishment. This listing was compiled over on Magic Music back in 2009. See Magic Music: [https://community.magicmusic.net/threads/tiki-room-lanai-music-dl.4222/](https://community.magicmusic.net/threads/tiki-room-lanai-music-dl.4222/)  (2009). Also see MouseBits, [https://mousebits.com/smf/index.php](https://mousebits.com/smf/index.php) ?topic=10842.msg98987#msg98987 (2022).
+The third, and current, installment of the Lanai loop was installed during the 2004-2005 refurbishment. This listing was compiled over on Magic Music back in 2009. See Magic Music: [https://community.magicmusic.net/threads/tiki-room-lanai-music-dl.4222/](https://community.magicmusic.net/threads/tiki-room-lanai-music-dl.4222/)  (2009). Also see MouseBits, [https://mousebits.com/smf/index.php?topic=10842.msg98987#msg98987](https://mousebits.com/smf/index.php?topic=10842.msg98987#msg98987)  (2022).
 
 ## Tracklist
 
