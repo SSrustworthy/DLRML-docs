@@ -4,7 +4,11 @@
 
 **District/Neighborhood**: Condor Flats
 
+**Loop Total Length**: 00:50:06.000
+
 **Dates**: August 1, 2011 → January 8, 2015
+
+This loop replaced the original Condor Flats loop in early August, 2011, and remained until it closed to be rethemed to Grizzly Peak Airfield on January 8, 2015. Compared to the original loop, many of the more dramatic instrumentals were swapped out for music that was more in line with the period of Buena Vista Street. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=6621.msg54447#msg54447](https://mousebits.com/smf/index.php?topic=6621.msg54447#msg54447)  (2011).
 
 ## Tracklist
 

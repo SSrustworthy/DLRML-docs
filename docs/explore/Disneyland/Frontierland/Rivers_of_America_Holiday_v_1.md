@@ -2,7 +2,11 @@
 
 **Land(s)**: Frontierland
 
+**Loop Total Length**: 00:35:42.374
+
 **Holiday/Special Event**: Christmas
+
+This loop started playing in 2008 on the Rivers of America and was retired at the end of the 2014 holiday season. It likely also played in New Orleans on Royal Street during at least the 2007 holiday season, but whether it was this specific loop is unverified ([https://forums.mousebits.com/threads/roa-xmas-music.3350/post-22113](https://forums.mousebits.com/threads/roa-xmas-music.3350/post-22113) , [https://community.magicmusic.net/threads/dl-holiday-loops.3986/post-28791](https://community.magicmusic.net/threads/dl-holiday-loops.3986/post-28791) , [https://community.magicmusic.net/threads/disneyland-esplanade-christmas-music-loop-2008.3981/post-30520](https://community.magicmusic.net/threads/disneyland-esplanade-christmas-music-loop-2008.3981/post-30520) , [https://forums.mousebits.com/threads/dl-holiday-music.2428/post-15361](https://forums.mousebits.com/threads/dl-holiday-music.2428/post-15361) , [https://forums.mousebits.com/threads/the-dl-christmas-loop-thread.4845/post-35476](https://forums.mousebits.com/threads/the-dl-christmas-loop-thread.4845/post-35476) ). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits for edit point samples, [https://mousebits.com/smf/index.php?topic=8247.msg84350#msg84350](https://mousebits.com/smf/index.php?topic=8247.msg84350#msg84350)  (2014). Edit point samples are available in the post. Also see [https://forums.mousebits.com/threads/the-dl-christmas-loop-thread.4845/](https://forums.mousebits.com/threads/the-dl-christmas-loop-thread.4845/) ,
 
 ## Tracklist
 

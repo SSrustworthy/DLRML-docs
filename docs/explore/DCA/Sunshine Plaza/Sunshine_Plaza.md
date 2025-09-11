@@ -2,7 +2,11 @@
 
 **Land(s)**: Sunshine Plaza
 
+**Loop Total Length**: ~00:45:38.946
+
 **Dates**: February 8, 2001 → September 8, 2010
+
+A verified playlist for the DCA Sunshine Plaza loop. The loop played in DCA’s Sunshine Plaza entrance area since opening day. The loop played in stereophonic sound, with one channel playing from the inner ring of speakers around the central hub, and the other channel playing from the outer ring of speakers across the parade route. It is rumored to have played in the Magic Key holder exclusive Magic Key Terrace at DCA (see [https://mousebits.com/smf/index.php?topic=10744.msg98404#msg98404](https://mousebits.com/smf/index.php?topic=10744.msg98404#msg98404)  (2022)). Originally posted 03/2002 by Progressland on Magic Music, see [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-168](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-168)  (2002). Also see [https://disneymusicloops.tripod.com/dlr/dlr-sp-sp.html](https://disneymusicloops.tripod.com/dlr/dlr-sp-sp.html) , [https://mousebits.com/smf/index.php?topic=4204.msg29209#msg29209](https://mousebits.com/smf/index.php?topic=4204.msg29209#msg29209)  (2024). Thanks to pixelated for the use of his reference recording.
 
 ## Tracklist
 

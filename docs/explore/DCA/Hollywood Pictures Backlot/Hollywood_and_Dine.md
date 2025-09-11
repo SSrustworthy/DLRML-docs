@@ -2,6 +2,11 @@
 
 **Land(s)**: Hollywood Pictures Backlot
 
+**Loop Total Length**: ~59 minutes (Playback had glitch)
+
+This loop played in Hollywood and Dine at DCA, in the building marked as Stage 12. This is a preliminary tracklist. See MouseBits, 
+[https://mousebits.com/smf/index.php?topic=5376.msg42841#msg42841](https://mousebits.com/smf/index.php?topic=5376.msg42841#msg42841)  and [https://mousebits.com/smf/index.php?topic=9294.msg87937#msg87937](https://mousebits.com/smf/index.php?topic=9294.msg87937#msg87937)  and [https://mousebits.com/smf/index.php?topic=8750.msg83783#msg83783.](https://mousebits.com/smf/index.php?topic=8750.msg83783#msg83783.)  It was very Similar to DHS’s The Brown Derby restaurant loop with some notable speed differences.
+
 ## Tracklist
 
 1\. Moonlight Serenade – Glenn Miller Orchestra – In the Digital Mood [1983]

@@ -2,7 +2,12 @@
 
 **Land(s)**: Bear Country, Critter Country
 
+**Loop Total Length**: ~ 00:35:27
+
 **Holiday/Special Event**: Christmas
+
+This loop has historically played around the Country Bear Jamboree and Winnie-the-Pooh attractions in Critter Country, replacing queue music for both attractions.
+Based on a reference recording or reel transfer of unknown vintage, this loop was thought to run 35:27 and contain 14 tracks. Based on a reference recording by pixelated in 2008, the most recent version of the loop runs 29:52 and omits what are listed here as tracks 12-14. Was heard in the CBJ queue during Christmas season in a [https://youtu.be/T2blZRlJK6g?feature=shared&t=109.](https://youtu.be/T2blZRlJK6g?feature=shared&t=109.)  Discussed on MouseBits: [https://forums.mousebits.com/threads/critter-country-holiday-loop.11089/](https://forums.mousebits.com/threads/critter-country-holiday-loop.11089/) , [https://mousebits.com/smf/index.php?topic=8247.msg98295#msg98295](https://mousebits.com/smf/index.php?topic=8247.msg98295#msg98295) , [https://mousebits.com/smf/index.php?topic=3830.msg25997#msg25997](https://mousebits.com/smf/index.php?topic=3830.msg25997#msg25997)  and [https://mousebits.com/smf/index.php?topic=4845.msg35387#msg35387.](https://mousebits.com/smf/index.php?topic=4845.msg35387#msg35387.) 
 
 ## Tracklist
 

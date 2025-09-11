@@ -2,7 +2,11 @@
 
 **Land(s)**: Hollywood Land
 
+**Loop Total Length**: 00:46:30
+
 **Dates**: April 26, 2019
+
+Loop plays inside the Sunset Theater in the waiting area for Philharmagic. See MouseBits, [https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882](https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882)  (2010). Tracklist compiled by wedroy1923 and disneykw. Presumed to be the same as the WDW loop.
 
 ## Tracklist
 

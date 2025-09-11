@@ -2,6 +2,10 @@
 
 **Land(s)**: Hollywood Land, Hollywood Pictures Backlot
 
+**Loop Total Length**: 00:54:33.602
+
+This loop plays inside the Animation Academy auditorium inside the Animation Building in Hollywood Land. The loop plays loudly between shows but is turned down to a low level during lessons. Given the release dates of the albums all prior to Sept 2001, it is thought to have also played at its predecessor between shows (Drawn to Animation, which switched over in August 2005) but this is unconfirmed. Tracklist compiled by SSrustworthy using a patched live recording reconstructed from YouTube videos as late as 2025. This loop appears to be a holdout of “Zip-A-Dee-Doo-Dah” after the 2021 resort-wide removals of the song from BGM. See MouseBits, [https://forums.mousebits.com/threads/animation-academy.11179/](https://forums.mousebits.com/threads/animation-academy.11179/)  (2025).
+
 ## Tracklist
 
 1\. Hakuna Matata (Instrumental) – Various Artists – Disney Karaoke Volume 1 [2000]

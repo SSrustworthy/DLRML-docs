@@ -2,6 +2,10 @@
 
 **Area**: Downtown Disney District
 
+**Loop Total Length**: 01:30:46.809
+
+This loop played in the Downtown Disney District as part of Celebrate Soulfully, a Black history month celebration. Tracklist compiled by pixelated based on his 2022 reference recording. See MouseBits, [https://forums.mousebits.com/threads/downtown-disney-seasonal-celebrations.11168/post-100448](https://forums.mousebits.com/threads/downtown-disney-seasonal-celebrations.11168/post-100448)  (2025).
+
 ## Tracklist
 
 1\. Swing That Music! – Louis Armstrong

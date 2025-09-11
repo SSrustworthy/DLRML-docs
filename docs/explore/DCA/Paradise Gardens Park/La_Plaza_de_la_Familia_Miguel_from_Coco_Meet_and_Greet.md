@@ -2,9 +2,13 @@
 
 **Land(s)**: Paradise Gardens Park
 
+**Loop Total Length**: 00:24:17.615
+
 **Dates**: September 19, 2018 → November 4, 2018
 
 **Holiday/Special Event**: Festival of Holidays, Halloween
+
+The Plaza de la Familia in Paradise Gardens Park is a seasonal affair from Halloween through the Holiday season. Playlist compiled by RocketRodsXPR based on a recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016.](https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016.) 
 
 ## Tracklist
 

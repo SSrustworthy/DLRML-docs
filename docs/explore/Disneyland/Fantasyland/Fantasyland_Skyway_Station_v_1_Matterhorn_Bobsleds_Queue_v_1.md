@@ -2,6 +2,10 @@
 
 **Land(s)**: Fantasyland
 
+**Loop Total Length**: ~00:18:00
+
+This track listing is based on a recording ca. 1978 and is thought to have played until a revised version was introduced in 2012. This music played under the Jack Wagner safety announcements in the Matterhorn Bobsleds queue area. See MouseBits, [https://mousebits.com/smf/index.php?topic=8673.msg82217#msg82217](https://mousebits.com/smf/index.php?topic=8673.msg82217#msg82217)  (2014) and the passport to dreams blog: [http://passport2dreams.blogspot.com/2014/10/the-music-of-matterhorn.html](http://passport2dreams.blogspot.com/2014/10/the-music-of-matterhorn.html)  .
+
 ## Tracklist
 
 1\. Im Chuchichäschtli – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)

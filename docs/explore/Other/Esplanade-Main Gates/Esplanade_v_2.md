@@ -2,7 +2,11 @@
 
 **Area**: Esplanade-Main Gates
 
+**Loop Total Length**: 01:07:11.453
+
 **Dates**: April 1, 2004 → July 1, 2017
+
+This loop began its run in the Esplanade in 2004. See MouseBits, [https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959](https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959)  (2010).
 
 ## Tracklist
 

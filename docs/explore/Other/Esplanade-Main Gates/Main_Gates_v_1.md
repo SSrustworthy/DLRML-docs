@@ -2,7 +2,12 @@
 
 **Area**: Esplanade-Main Gates
 
+**Loop Total Length**: 01:00:28
+
 **Dates**: January 1, 1971 → January 1, 1992
+
+Based on samples from a reference recording provided by C33 (MouseBits; Re: Main Gates Loop, Pre 92). See [https://mousebits.com/smf/index.php?topic=6892.msg98894#msg98894](https://mousebits.com/smf/index.php?topic=6892.msg98894#msg98894) 
+On dates - They may not have even had the main gate loop ready in Oct '71, but, Wagner likely had the WDW band album recorded and sampled for the loop by fall '71 but didn't release the album until the start of '72. Also See Magic Music: [https://community.magicmusic.net/threads/disneyland-music-loops.17/](https://community.magicmusic.net/threads/disneyland-music-loops.17/)  (2002) and the Passport to Dreams blog: [http://passport2dreams.blogspot.com/2019/01/musically-setting-stage.html](http://passport2dreams.blogspot.com/2019/01/musically-setting-stage.html)  (2019).
 
 ## Tracklist
 

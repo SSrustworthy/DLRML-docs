@@ -2,7 +2,11 @@
 
 **Area**: Downtown Disney District
 
+**Loop Total Length**: 00:57:56.707
+
 **Dates**: June 16, 2022 → September 1, 2022
+
+This loop played in the general Downtown Disney vicinity in the summer of 2022 to complement the Colombian silettas on display in the area. Verfied playlist compiled by pixelated, 08/2022. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/12/colombian-silletas-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/12/colombian-silletas-bgm.html)  and MouseBits, [https://forums.mousebits.com/threads/downtown-disney-district-colombian-silletas.11168/](https://forums.mousebits.com/threads/downtown-disney-district-colombian-silletas.11168/)  (2025).
 
 ## Tracklist
 

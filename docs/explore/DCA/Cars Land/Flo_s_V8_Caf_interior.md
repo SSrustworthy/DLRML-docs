@@ -2,6 +2,10 @@
 
 **Land(s)**: Cars Land
 
+**Loop Total Length**: 01:23:36.046
+
+This loop plays inside Flo’s V8 Cafe and was introduced with the opening of Cars Land on June 13, 2012. Tracklist compiled by pixelated with source albums by Triple (MouseCord, 2025). See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg66092#msg66092](https://mousebits.com/smf/index.php?topic=7381.msg66092#msg66092)  (2012).
+
 ## Tracklist
 
 1\. Respect – Aretha Franklin – Forrest Gump Motion Picture Soundtrack [1994]

@@ -2,7 +2,11 @@
 
 **Land(s)**: Hollywood Land
 
+**Loop Total Length**: 00:57:46.019
+
 **Dates**: May 27, 2017
+
+A preliminary tracklist for the Guardians of the Galaxy – Mission: BREAKOUT!' exterior BGM that plays at the attraction's sign. Compiled by CThaddeus based on a recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9565.msg90433#msg90433](https://mousebits.com/smf/index.php?topic=9565.msg90433#msg90433)  (2017).
 
 ## Tracklist
 

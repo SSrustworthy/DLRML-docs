@@ -2,6 +2,10 @@
 
 **Land(s)**: Tomorrowland
 
+**Loop Total Length**: 01:22:10
+
+This is the overflow queue for Star Tours: The Adventures Continue. Discussed on MouseBits in [https://mousebits.com/smf/index.php?topic=9809.msg92388#msg92388.](https://mousebits.com/smf/index.php?topic=9809.msg92388#msg92388.)  Most of these have odd little edits throughout, but appear to be from the original soundtracks. They seem to match the Special Edition releases for the original trilogy.
+
 ## Tracklist
 
 1\. Detention Block Ambush – Star Wars (A New Hope)

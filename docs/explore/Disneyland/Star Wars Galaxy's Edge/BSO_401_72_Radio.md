@@ -2,6 +2,10 @@
 
 **Land(s)**: Star Wars: Galaxy's Edge
 
+**Loop Total Length**: ~02:39:50
+
+The BSO 401.72 radio show played in the bathrooms behind the blue & green milk stand, and in the garage and suspended walkway outside the marketplace. Coverage of droid battles, dejarik tournaments and outlawed podraces interspersed with radio tracks from DJ R3X.  See MouseBits, [https://forums.mousebits.com/threads/bso-401-72-radio-tracks.10849/](https://forums.mousebits.com/threads/bso-401-72-radio-tracks.10849/)  and [https://forums.mousebits.com/threads/demystifying-dj-r3xs-setlist.10848/](https://forums.mousebits.com/threads/demystifying-dj-r3xs-setlist.10848/)  (2022).
+
 ## Tracklist
 
 1\. After Hours at Oga's – Bluetopian Blues – Star Wars: Galaxy’s Edge Oga’s Cantina: R3X’s Playlist #2

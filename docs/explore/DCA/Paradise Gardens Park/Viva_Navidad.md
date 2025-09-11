@@ -2,7 +2,11 @@
 
 **Land(s)**: Paradise Gardens Park
 
+**Loop Total Length**: 00:27:54.376
+
 **Holiday/Special Event**: Festival of Holidays
+
+The ¡Viva Navidad! celebration in Paradise Gardens Park is a seasonal affair from Halloween through the Holiday season. Playlist compiled by RocketRodsXPR based on a recording by pixelated.  See MouseBits, [https://mousebits.com/smf/index.php?topic=9460.msg92248#msg92248.](https://mousebits.com/smf/index.php?topic=9460.msg92248#msg92248.) 
 
 ## Tracklist
 

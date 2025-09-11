@@ -4,6 +4,10 @@
 
 **District/Neighborhood**: Grizzly Peak Airfield
 
+**Loop Total Length**: 01:23:34.070
+
+A verified track list of the music loop that plays from within the Rambler Super Cross Country Wagon at Grizzly Peak Airfield near Refreshment Point. Tracklist compiled by pixelated and SSrustworthy. Seems to not play anymore (2022).
+
 ## Tracklist
 
 1\. The Lonely Bull – Herb Alpert & The Tijuana Brass

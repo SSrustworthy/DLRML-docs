@@ -2,6 +2,10 @@
 
 **Land(s)**: Main Street, U.S.A.
 
+**Loop Total Length**: Unknown
+
+Partial loop compiled by Duckzz and ChrisLyndon based on a 15 minute tape uploaded to WaltsMusic (MouseBits; Re: [https://mousebits.com/smf/index.php?topic=9851.msg92638#msg92638](https://mousebits.com/smf/index.php?topic=9851.msg92638#msg92638) ). The WaltsMusic loop can be found [https://waltsmusic.com/index.php/home/other-disney-media/item/396-disneyland-kennel-and-baby-station-background-music-1974?highlight=WyJiYWJ5Il0=.](https://waltsmusic.com/index.php/home/other-disney-media/item/396-disneyland-kennel-and-baby-station-background-music-1974?highlight=WyJiYWJ5Il0=.) 
+
 ## Tracklist
 
 1\. Plastic Jesus – Lalo Schifrin – Cool Hand Luke OST

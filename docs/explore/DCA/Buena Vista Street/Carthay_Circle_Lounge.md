@@ -2,7 +2,11 @@
 
 **Land(s)**: Buena Vista Street
 
+**Loop Total Length**: Unknown
+
 **Dates**: June 15, 2012
+
+A preliminary tracklist for the downstairs Carthay Circle Lounge based on a trip report from wedroy1923 in 2017. Contrary to a post by the Disney Parks Blog, it is not quite synced with the upstairs piano loop, but many of the songs are in the same order. This tracklist based on a WDI demo CD. See MouseBits, [https://mousebits.com/smf/index.php?topic=9537.msg90119#msg90119](https://mousebits.com/smf/index.php?topic=9537.msg90119#msg90119)  (2017).
 
 ## Tracklist
 

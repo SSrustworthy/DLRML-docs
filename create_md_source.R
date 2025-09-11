@@ -89,7 +89,6 @@ create_description <- function(loop_df) {
 
 create_tracklist <- function(loop_df) {
   track_lines <- loop_df %>%
-    arrange(`Track No.`) %>%
     rowwise() %>%
     mutate(
       `Track` = gsub("\n", "", `Track`),
@@ -125,8 +124,9 @@ create_tracklist <- function(loop_df) {
 
 
 create_md <- function(loop_name, loop_db, out_loc) {
-  loop_df <- loop_db |> 
+  loop_df <- loop_db |>
     filter(Loop == loop_name) |>
+    arrange(`Track No.`) |>
     mutate(across(everything(), url_to_md))
   
   loop_des <- create_description(loop_df)

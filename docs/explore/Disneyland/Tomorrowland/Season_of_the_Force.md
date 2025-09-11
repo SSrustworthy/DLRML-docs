@@ -2,9 +2,13 @@
 
 **Land(s)**: Tomorrowland
 
+**Loop Total Length**: 00:48:20
+
 **Dates**: November 16, 2015
 
 **Holiday/Special Event**: Season of the Force
+
+All of the tracks are from the standard Star Wars soundtrack, unless otherwise noted. Compiled by Pixelated and SuperHotLarry. It plays from speakers mounted on the old Peoplemover/Rocket Rods tracks as you walk in from the Hub and from the much bigger speakers at the base of the Observatron, and speakers along the side of the Galactic Grill. [https://mousebits.com/smf/index.php?topic=9235.msg87376#msg87376](https://mousebits.com/smf/index.php?topic=9235.msg87376#msg87376) 
 
 ## Tracklist
 

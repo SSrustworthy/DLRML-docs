@@ -2,7 +2,11 @@
 
 **Land(s)**: Bayou Country
 
+**Loop Total Length**: 01:21:49.509
+
 **Dates**: October 24, 2024
+
+This loop plays at the Hungry Bear Barbecue Jamboree, which opened on October 24, 2024. Tracklist compiled by SSrustworthy based on a tracklist by pixelated. See MouseBits, [https://forums.mousebits.com/threads/hungry-bear-barbecue-jamboree.11064/](https://forums.mousebits.com/threads/hungry-bear-barbecue-jamboree.11064/)  (2024).
 
 ## Tracklist
 

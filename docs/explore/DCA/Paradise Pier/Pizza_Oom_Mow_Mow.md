@@ -2,7 +2,11 @@
 
 **Land(s)**: Paradise Pier
 
+**Loop Total Length**: 01:11:48.765
+
 **Dates**: February 8, 2001 → September 6, 2010
+
+This loop played inside the Pizza Oom Mow Mow restaurant from 02/01 until 09/06/10. See MouseBits, [https://mousebits.com/smf/index.php?topic=6801.msg56674#msg56674.](https://mousebits.com/smf/index.php?topic=6801.msg56674#msg56674.)  Playlist compiled by pixelated.
 
 ## Tracklist
 
