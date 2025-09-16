@@ -1,10 +1,10 @@
-# [2009-2010] Enchanting the Classics
+# [2009-2010] Enchanting the Classics, [2013] Tiki Tiki Tiki Realms – Celebrating 50 Years of Enchantment [REF], [2014-2015] Mechanical Kingdoms – Steam-Driven Visions of a Victorian Future, [2015-2016] Drawing Disneyland – The Early Years, [2015] Snow Queens – Art of Ice, [2016-2018?] Disney's Steam Trains – A Man & His Passion for the Railroad, [2018-2019] The Art of Mary Poppins Returns (December 2018-2019)
 
-**Location**: Main Street U.S.A. (storefront)
+**Location**: Main Street U.S.A. (Opera House Lobby), Main Street U.S.A. (storefront)
 
-**Loop Total Length**: Unknown
+**Loop Total Length**: 56:21.005
 
-This loop played in the Disney Gallery on Main Street, U.S.A. as the BGM for the exhibit ”Enchanting the Classics”, which was featured from 10/2009-05/2010. The loop was also featured in the Opera House lobby during the 50th anniversary celebration, and reappeared ca. 2013 as part of the Disneyland Story. It also appears to be identical to that of the Magic Kingdom and Tokyo Disneyland Main Entrance loops. Tracklist compiled by wedroy1923 and is partially confirmed by notes and recordings. See MouseBits, [https://mousebits.com/smf/index.php?topic=8193.msg75211#msg75211](https://mousebits.com/smf/index.php?topic=8193.msg75211#msg75211)  (2013) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/)  (2013).
+This loop played in the Disney Gallery on Main Street, U.S.A. as the BGM for the exhibit ”Enchanting the Classics”, which was featured from 10/2009-05/2010. The loop was also featured in the Opera House lobby during the 50th anniversary celebration, and reappeared in 2013 as part of the Disneyland Story where it was used for the Tiki Tiki Tiki Realms (2013), Mechanical Kingdoms (2014-2015), and Snow Queens (2015) exhibits based on reference recordings by pixelated. While unverified, it is likely that it was in place for the Drawing Disneyland, Disney’s Steam Trains, and The Art of Mary Poppins exhibits. This loop also appears to be identical to that of the Magic Kingdom and Tokyo Disneyland Main Entrance loops. Tracklist compiled by wedroy1923 and is partially confirmed by notes and recordings. See MouseBits, [https://mousebits.com/smf/index.php?topic=8193.msg75211#msg75211](https://mousebits.com/smf/index.php?topic=8193.msg75211#msg75211)  (2013) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/)  (2013).
 
 ## Tracklist
 
@@ -48,7 +48,7 @@ This loop played in the Disney Gallery on Main Street, U.S.A. as the BGM for the
 
 - Track Notes: Edited to include 00:00 - 01:43
 
-11\. You Can Fly – The Disney Gallery Commemorative Exhibition - Imagineering the Dream
+11\. You Can Fly! You Can Fly! You Can Fly! – The Disney Gallery Commemorative Exhibition - Imagineering the Dream
 
 
 

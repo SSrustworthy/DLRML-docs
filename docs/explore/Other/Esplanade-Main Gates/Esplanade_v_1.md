@@ -36,7 +36,7 @@ This loop played in the Esplanade from 2001 to 2004. Most of these tracks likely
 
 7\. California Girls
 
-- Track Notes: This track comes from the [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245.) 
+- Track Notes: This track comes from the [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245)  .
 
 8\. The Tiki, Tiki, Tiki Room
 

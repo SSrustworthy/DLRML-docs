@@ -6,7 +6,7 @@
 
 **Loop Total Length**: ~01:13:13.07
 
-This loop plays in the Incredibles Park neighborhood of Pixar Pier, which encompasses the Incredicoaster queue and the nearby courtyard. See MouseBits, [https://mousebits.com/smf/index.php?topic=9820.msg92623#msg92623.](https://mousebits.com/smf/index.php?topic=9820.msg92623#msg92623.) 
+This loop plays in the Incredibles Park neighborhood of Pixar Pier, which encompasses the Incredicoaster queue and the nearby courtyard. See MouseBits, [https://mousebits.com/smf/index.php?topic=9820.msg92623#msg92623](https://mousebits.com/smf/index.php?topic=9820.msg92623#msg92623)  .
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 1992 → January 1, 2012
 
-This loop played at the entrance to the Stockade starting around 1992. I’ve written up extensive notes on this loop on MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10822.msg98895#msg98895.](https://mousebits.com/smf/index.php?topic=10822.msg98895#msg98895.) 
+This loop played at the entrance to the Stockade starting around 1992. I’ve written up extensive notes on this loop on MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10822.msg98895#msg98895](https://mousebits.com/smf/index.php?topic=10822.msg98895#msg98895)  .
 
 ## Tracklist
 

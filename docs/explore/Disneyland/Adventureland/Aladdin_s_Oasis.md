@@ -38,18 +38,22 @@ This loop was compiled during the “restaurant” phase of the Oasis. It consis
 
 - Track Notes: Incorrectly identified in original listing as “Surfin’ USA”
 
-8\. New York, New York – Unreleased
+8\. Surfin’ USA – Unreleased
 
 
 
-9\. I Dream of Jeannie – Unreleased
+9\. New York, New York – Unreleased
 
 
 
-10\. Sing, Sing, Sing – Unreleased
+10\. I Dream of Jeannie – Unreleased
 
 
 
-12\. Ob-La-Di, Ob-La-Da – Unreleased
+11\. Ob-La-Di, Ob-La-Da – Unreleased
+
+
+
+12\. Sing, Sing, Sing – Unreleased
 
 

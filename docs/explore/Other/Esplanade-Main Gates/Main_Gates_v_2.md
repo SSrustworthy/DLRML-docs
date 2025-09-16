@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 1992 → January 1, 2001
 
-This was the same loop that played at DLRP when the park opened in 1992. See Disney Music Loops, [https://disneymusicloops.tripod.com/dlr/dlr-misc-92to01ent.html](https://disneymusicloops.tripod.com/dlr/dlr-misc-92to01ent.html)  and Magic Music: [https://community.magicmusic.net/threads/parking-lot-walkway-dlrp.5293/#post-36139.](https://community.magicmusic.net/threads/parking-lot-walkway-dlrp.5293/#post-36139.) 
+This was the same loop that played at DLRP when the park opened in 1992. See Disney Music Loops, [https://disneymusicloops.tripod.com/dlr/dlr-misc-92to01ent.html](https://disneymusicloops.tripod.com/dlr/dlr-misc-92to01ent.html)  and Magic Music: [https://community.magicmusic.net/threads/parking-lot-walkway-dlrp.5293/#post-36139](https://community.magicmusic.net/threads/parking-lot-walkway-dlrp.5293/#post-36139)  .
 
 ## Tracklist
 

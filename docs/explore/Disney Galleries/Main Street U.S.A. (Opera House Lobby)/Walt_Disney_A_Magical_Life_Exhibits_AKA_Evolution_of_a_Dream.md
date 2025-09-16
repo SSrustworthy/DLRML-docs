@@ -1,10 +1,10 @@
-# [2025-] Walt Disney – A Magical Life Exhibits AKA Evolution of a Dream [INC]
+# [2025-] Walt Disney – A Magical Life Exhibits AKA Evolution of a Dream [REF]
 
 **Location**: Main Street U.S.A. (Opera House Lobby)
 
 **Loop Total Length**: 30:40.948
 
-This loop plays in the Disney Gallery in the Main Street, U.S.A. Opera House as part of the “Walt Disney  – A Magical Life” exhibits, which opened in July 2025. Tracklist compiled by pixelated based on his August 2025 recording. See MouseBits, [https://forums.mousebits.com/threads/walt-disney-a-magical-life-exhibits.11178/](https://forums.mousebits.com/threads/walt-disney-a-magical-life-exhibits.11178/)  (2025).
+This loop plays in the Disney Gallery in the Main Street, U.S.A. Opera House as part of the “Walt Disney  – A Magical Life” exhibits, which opened in July 2025. Tracklist compiled by pixelated based on his August 2025 recording. See MouseBits, [https://forums.mousebits.com/threads/walt-disney-a-magical-life-exhibits.11178/post-100517](https://forums.mousebits.com/threads/walt-disney-a-magical-life-exhibits.11178/post-100517)  (2025).
 
 ## Tracklist
 

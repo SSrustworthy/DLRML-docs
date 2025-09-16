@@ -7,7 +7,7 @@
 
 **Dates**: January 1, 1995 → January 1, 2012
 
-Compiled by wedroy1923. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263](https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263)  and Magic Music, Re: [https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641.](https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641.) 
+Compiled by wedroy1923. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263](https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263)  and Magic Music, Re: [https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641](https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641)  .
 
 ## Tracklist
 

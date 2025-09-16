@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:26:17.491
 
-A preliminary tracklist compiled by pixelated for Luigi’s Flying Tires exterior BGM. The loop is muted when the tires are in motion. Some tracks are from the TDS Porto Paradiso loop which started playing on 4/28/2011. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765.](https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765.) 
+A preliminary tracklist compiled by pixelated for Luigi’s Flying Tires exterior BGM. The loop is muted when the tires are in motion. Some tracks are from the TDS Porto Paradiso loop which started playing on 4/28/2011. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765](https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765)  .
 
 ## Tracklist
 

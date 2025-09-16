@@ -41,7 +41,7 @@ A verified track list of the music loop that plays from within the Rambler Super
 7\. Let's Dance At Disneyland – Studio Chorus – Unreleased
 
 - Loop Track Length:  00:01:02.275
-- Track Notes: This is a 1-minute 1959 radio spot; not the version from “Date Nite at Disneyland” (1958). Can be found on Rick Conant’s YouTube [https://discord.com/channels/@me/1087475219255537754/1362913722603016402.](https://discord.com/channels/@me/1087475219255537754/1362913722603016402.) 
+- Track Notes: This is a 1-minute 1959 radio spot; not the version from “Date Nite at Disneyland” (1958). Can be found on Rick Conant’s YouTube [https://discord.com/channels/@me/1087475219255537754/1362913722603016402](https://discord.com/channels/@me/1087475219255537754/1362913722603016402)  .
 
 8\. Humphrey Hop – Studio Chorus – Classic Disney Volume V: 60 Years of Musical Magic
 

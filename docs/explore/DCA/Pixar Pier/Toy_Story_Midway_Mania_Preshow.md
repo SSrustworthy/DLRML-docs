@@ -6,7 +6,7 @@
 
 **Loop Total Length**: Unknown
 
-These tracks play as part of the preshow entertainment for Midway Mania. See MouseBits, [https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800.](https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800.) 
+These tracks play as part of the preshow entertainment for Midway Mania. See MouseBits, [https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800](https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800)  .
 
 ## Tracklist
 

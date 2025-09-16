@@ -17,6 +17,10 @@ make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
     str_replace_all("^_|_$", "") |>                                # Remove leading or trailing underscores
     stringr::str_remove_all(",")                                   # Remove commas
   
+  if(nchar(safe_name) > 70) safe_name <- stringr::str_trunc(safe_name, 
+                                                             70,
+                                                             side = "left",
+                                                             ellipsis = "")
   if (to_lower) safe_name <- tolower(safe_name)
   if (!is.null(extension)) {
     if (!startsWith(extension, ".")) {
@@ -29,7 +33,7 @@ make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
 
 url_to_md <- function(x) {
   if (!is.character(x)) return(x)  # Leave non-character columns unchanged
-  str_replace_all(x, "html\\.", "html .") |>
+  str_replace_all(x, "(https://[^\\s]+)(\\.)$", "\\1 \\2") |>
   str_replace_all("(https?://[^\\s()<>\"',;]+)", "[\\1](\\1) ")
 }
 

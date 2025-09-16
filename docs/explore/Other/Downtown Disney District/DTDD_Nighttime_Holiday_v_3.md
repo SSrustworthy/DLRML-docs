@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This preliminary loop listing was compiled by WML95 for the 2020 holidays, and is thought to be playing as of the 2022 holiday season. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148.](https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148.) 
+This preliminary loop listing was compiled by WML95 for the 2020 holidays, and is thought to be playing as of the 2022 holiday season. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148](https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148)  .
 
 ## Tracklist
 

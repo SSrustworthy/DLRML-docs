@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas, Halloween
 
-This track listing was transcribed in Halloween/Christmas of 2003, although it is thought to have been the same loop from 2002 through and including 2006. See [https://disneymusicloops.tripod.com/dlr/dlr-nos-hmh03.html](https://disneymusicloops.tripod.com/dlr/dlr-nos-hmh03.html)  and MouseBits, [https://mousebits.com/smf/index.php?topic=6032.msg47605#msg47605](https://mousebits.com/smf/index.php?topic=6032.msg47605#msg47605)  (2010). It may have changed between years. The scarols are clearly present in 2002 in this home video:  [https://youtu.be/f-7qYyFr1Ls?t=25.](https://youtu.be/f-7qYyFr1Ls?t=25.) 
+This track listing was transcribed in Halloween/Christmas of 2003, although it is thought to have been the same loop from 2002 through and including 2006. See [https://disneymusicloops.tripod.com/dlr/dlr-nos-hmh03.html](https://disneymusicloops.tripod.com/dlr/dlr-nos-hmh03.html)  and MouseBits, [https://mousebits.com/smf/index.php?topic=6032.msg47605#msg47605](https://mousebits.com/smf/index.php?topic=6032.msg47605#msg47605)  (2010). It may have changed between years. The scarols are clearly present in 2002 in this home video:  [https://youtu.be/f-7qYyFr1Ls?t=25](https://youtu.be/f-7qYyFr1Ls?t=25)  .
 
 ## Tracklist
 

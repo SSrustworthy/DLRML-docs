@@ -6,7 +6,7 @@
 
 **Dates**: March 4, 1995
 
-This is the loop that plays in the exterior queue. A separate loop of generator noise also comes from a generator. See Magic Music: [https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71](https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71)  (2002); and [https://disneymusicloops.tripod.com/dlr/dlr-adv-indyqueue.html](https://disneymusicloops.tripod.com/dlr/dlr-adv-indyqueue.html)  . Also see MouseBits: [https://mousebits.com/smf/index.php?topic=9401.msg98948#msg98948.](https://mousebits.com/smf/index.php?topic=9401.msg98948#msg98948.)  The loop is set up like a radio program from 1939 with various news reports on Indiana Jones.
+This is the loop that plays in the exterior queue. A separate loop of generator noise also comes from a generator. See Magic Music: [https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71](https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71)  (2002); and [https://disneymusicloops.tripod.com/dlr/dlr-adv-indyqueue.html.](https://disneymusicloops.tripod.com/dlr/dlr-adv-indyqueue.html.)  Also see MouseBits: [https://mousebits.com/smf/index.php?topic=9401.msg98948#msg98948.](https://mousebits.com/smf/index.php?topic=9401.msg98948#msg98948.)  The loop is set up like a radio program from 1939 with various news reports on Indiana Jones.
 
 ## Tracklist
 

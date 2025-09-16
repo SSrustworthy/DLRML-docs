@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Festival of Holidays, Halloween
 
-The Plaza de la Familia in Paradise Gardens Park is a seasonal affair from Halloween through the Holiday season. Playlist compiled by RocketRodsXPR based on a recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016.](https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016.) 
+The Plaza de la Familia in Paradise Gardens Park is a seasonal affair from Halloween through the Holiday season. Playlist compiled by RocketRodsXPR based on a recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016](https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016)  .
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: May 1, 2017
 
-This loop plays in Downtown Disney from 2AM to 8PM and was introduced with the introduction of the new Esplanade loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=9586.msg90552#msg90552.](https://mousebits.com/smf/index.php?topic=9586.msg90552#msg90552.) 
+This loop plays in Downtown Disney from 2AM to 8PM and was introduced with the introduction of the new Esplanade loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=9586.msg90552#msg90552](https://mousebits.com/smf/index.php?topic=9586.msg90552#msg90552)  .
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Halloween
 
-Preliminary track list; presumed to have only played in 2012 in the Big Thunder Ranch area. “Most of the tracks have a long fadeout that runs up against the following track. I've noted where there are actual silent gaps between tracks.” See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431.](https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431.) 
+Preliminary track list; presumed to have only played in 2012 in the Big Thunder Ranch area. “Most of the tracks have a long fadeout that runs up against the following track. I've noted where there are actual silent gaps between tracks.” See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431](https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431)  .
 
 ## Tracklist
 

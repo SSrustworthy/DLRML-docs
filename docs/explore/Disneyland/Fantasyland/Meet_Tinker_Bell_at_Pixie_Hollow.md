@@ -6,7 +6,7 @@
 
 **Dates**: October 25, 2008
 
-This loop debuted in 2008 with the Pixie Hollow meet and greet area. It is an amalgamation of score cues from the first Tinker Bell movie (2008). Some cues are unreleased, but the rest can be found on the 2013 Tinker Bell Intrada soundtrack. See MouseBits: [https://mousebits.com/smf/index.php?topic=6852.msg57238#msg57238](https://mousebits.com/smf/index.php?topic=6852.msg57238#msg57238)  and [https://mousebits.com/smf/index.php?topic=4977.msg99184#msg99184.](https://mousebits.com/smf/index.php?topic=4977.msg99184#msg99184.) 
+This loop debuted in 2008 with the Pixie Hollow meet and greet area. It is an amalgamation of score cues from the first Tinker Bell movie (2008). Some cues are unreleased, but the rest can be found on the 2013 Tinker Bell Intrada soundtrack. See MouseBits: [https://mousebits.com/smf/index.php?topic=6852.msg57238#msg57238](https://mousebits.com/smf/index.php?topic=6852.msg57238#msg57238)  and [https://mousebits.com/smf/index.php?topic=4977.msg99184#msg99184](https://mousebits.com/smf/index.php?topic=4977.msg99184#msg99184)  .
 
 ## Tracklist
 

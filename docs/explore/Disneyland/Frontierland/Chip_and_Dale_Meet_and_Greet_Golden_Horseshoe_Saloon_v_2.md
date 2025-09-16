@@ -11,7 +11,7 @@ This loop plays at the Golden Horseshoe Saloon between live performances as of 2
 1\. Farewell (from “Davy Crockett at the Alamo”) – The Stoneman Family – Unreleased
 
 - Loop Track Length: 00:02:51.559
-- Track Notes: This track was included on a recording of a Jack Wagner cartridge from the [http://waltsmusic.com](http://waltsmusic.com)  collection for the Disneyland Mile Long Bar. The track starts at 7:18. See [https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4?highlight=WyJtaWxlIl0=%5B/URL%5D](https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4?highlight=WyJtaWxlIl0=%5B/URL%5D)  with MP3 [https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef?pvs=21.](https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef?pvs=21.) 
+- Track Notes: This track was included on a recording of a Jack Wagner cartridge from the [http://waltsmusic.com](http://waltsmusic.com)  collection for the Disneyland Mile Long Bar. The track starts at 7:18. See [https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4?highlight=WyJtaWxlIl0=%5B/URL%5D](https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4?highlight=WyJtaWxlIl0=%5B/URL%5D)  with MP3 [https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef?pvs=21](https://www.notion.so/4c9cd110801c408588ac8b9c5a09c9ef?pvs=21)  .
 
 2\. Bearless Love – The Stoneman Family – Country Bear Jamboree (Original Soundtrack)
 
