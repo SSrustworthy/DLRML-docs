@@ -8,7 +8,7 @@
 
 NA\. Bugle Call Rag – Tom Cunningham Orchestra – One O’clock Boogie/Two O’clock Jump! (2000)
 
-- Track Notes: All songs were ID’d from youtube videos. Unknown order.
+
 
 NA\. Two O’clock Jump – Tom Cunningham Orchestra – One O’clock Boogie/Two O’clock Jump! (2000)
 

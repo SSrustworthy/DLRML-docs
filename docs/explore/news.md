@@ -2,6 +2,22 @@
 
 This is the log for all database updates.
 
+## Site Update 10/28/25
+
+### Disney Gallery
+
+- Updated remaining unverified Disney Gallery loops (2013-2019) to reflect that they were using the MK / TDL main entrance loop.
+
+### DL
+
+- Updated Big Hero 6 loop with more detailed edits and loop length
+- Some updates to MSUSA holiday/christmas loop
+
+### DCA
+
+- Added complete Magic Key Terrace loop
+- Added song ID to the Lamplight Lounge 
+
 ## Site Update 09/09/25
 
 ### Disney Gallery

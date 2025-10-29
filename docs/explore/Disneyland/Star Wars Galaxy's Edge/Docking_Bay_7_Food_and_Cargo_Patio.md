@@ -4,8 +4,6 @@
 
 **Loop Total Length**: 00:53:57.767
 
-This loop plays inside Docking Bay 7 Food and Cargo in SWGE. The loop is composed of unreleased original compositions by Randy Kerber and Harlan Hodges. See MouseBits, [https://mousebits.com/smf/index.php?topic=10917.msg99355#msg99355](https://mousebits.com/smf/index.php?topic=10917.msg99355#msg99355)  (2023). Some samples were posted on Hodges’ [https://www.harlanhodges.com/hhnews/the-music-of-star-wars-galaxys-edge-harlan-hodges-and-randy-kerber](https://www.harlanhodges.com/hhnews/the-music-of-star-wars-galaxys-edge-harlan-hodges-and-randy-kerber)  and other tracks were released almost in full via a The Sims expansion pack. Track lengths calculated the first beat audible as the start and ending at the start of the next track.
-
 ## Tracklist
 
 1\. Unknown A – Randy Kerber, Harlan Hodges – Unreleased

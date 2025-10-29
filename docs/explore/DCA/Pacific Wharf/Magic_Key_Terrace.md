@@ -100,7 +100,7 @@ The Magic Key Terrace opened on the top floor of the Golden Vine Winery on Aug. 
 
 
 
-24\. Big Brother – The Stephane Wrembel Trio – Barbes-Brooklyn
+24\. Big Brother – The Stephane Wrembel Trio – Vicky Cristina Barcelona (Original Motion Picture Soundtrack)
 
 
 
@@ -128,7 +128,7 @@ The Magic Key Terrace opened on the top floor of the Golden Vine Winery on Aug. 
 
 
 
-31\. Quiet Nights Of Quiet Stars (Corcovado) – The Oscar Peterson Trio – Exclusively for My Friends
+31\. Quiet Nights Of Quiet Stars (Corcovado) – The Oscar Peterson Trio – We Get Requests
 
 
 
@@ -148,7 +148,7 @@ The Magic Key Terrace opened on the top floor of the Golden Vine Winery on Aug. 
 
 
 
-36\. Dance of the Nile (from T.K. Blue: Eyes of the Elders) – Jeff "Tain" Watts, Stefon Harris, and Talib Kibwe – Eyes of the Elders
+36\. Dance of the Nile (feat. Lonnie Plaxico & James Weidman) – Arkadia Jazz All-Stars – The New Young Lions of Jazz
 
 
 
@@ -164,7 +164,7 @@ The Magic Key Terrace opened on the top floor of the Golden Vine Winery on Aug. 
 
 
 
-40\. Paul's Pal (Rudy Van Gelder Remastered 2006 / Shared ISRC) – Sonny Rollins – Tenor Madness
+40\. Paul's Pal – Sonny Rollins – Tenor Madness
 
 
 
