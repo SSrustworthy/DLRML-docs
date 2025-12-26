@@ -22,7 +22,7 @@ The Magic Key Terrace opened on the top floor of the Golden Vine Winery on Aug. 
 
 4\. Song for My Father – João Donato – Live Jazz In Rio Vol 1
 
-- Track Notes: edited to remove applause?
+- Track Notes: edited to remove applause
 
 5\. Mis Dos Pequeñas – Orlando "Cachaíto" López – Cachaito
 

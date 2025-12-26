@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-See Playlist based on a reference recording by pixelated. The only tracks wedroy1923 was unable to compare side-by-side were the Lawrence Welk, Hollywood Bowl Symphony Orchestra, and Hollywood Pops Orchestra tracks.  It seems the tracks as they appear in the loop run faster than the album versions, so edit information should be treated as approximate. MiceAge provides a nice analysis of all of the tracks: [http://miceage.micechat.com/allutz/al120811a.htm](http://miceage.micechat.com/allutz/al120811a.htm)  See MouseBits, [https://mousebits.com/smf/index.php?topic=8247.msg75897#msg75897](https://mousebits.com/smf/index.php?topic=8247.msg75897#msg75897)  (2013). This loop has been known to play in the Storybook Canal Boats area and the Pinnochio’s Village Haus/Red Rose Taverne.
+See Playlist based on a reference recording by pixelated. The only tracks wedroy1923 was unable to compare side-by-side were the Lawrence Welk, Hollywood Bowl Symphony Orchestra, and Hollywood Pops Orchestra tracks.  It seems the tracks as they appear in the loop run faster than the album versions, so edit information should be treated as approximate. MiceAge provides a nice analysis of all of the tracks: [https://www.micechat.com/278726-holiday-special-disneylands-main-street-music-loop/](https://www.micechat.com/278726-holiday-special-disneylands-main-street-music-loop/)  See MouseBits, [https://mousebits.com/smf/index.php?topic=8247.msg75897#msg75897](https://mousebits.com/smf/index.php?topic=8247.msg75897#msg75897)  (2013). Updated notes on high quality track re-releases posted by SSrustworthy on [https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100545](https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100545) (2025). This loop has been known to play in the Storybook Canal Boats area and the Village Haus/Red Rose Taverne.
 
 ## Tracklist
 
@@ -33,13 +33,13 @@ See Playlist based on a reference recording by pixelated. The only tracks wedro
 - Loop Track Length: 01:30.13
 - Album Label: Capitol
 
-5\. Do You Hear What I Hear? – Ed Sullivan Presents Music of Christmas
+5\. Do You Hear What I Hear? – Ed Sullivan – Ed Sullivan Presents Music of Christmas
 
 - Loop Track Length: 01:52.26
 - Track Notes: Edited: 00:21 - End
 - Album Label: Columbia
 
-6\. I’m Dreaming of a White Christmas – Ed Sullivan Presents Music of Christmas
+6\. I’m Dreaming of a White Christmas – Ed Sullivan – Ed Sullivan Presents Music of Christmas
 
 - Loop Track Length: 02:21.45
 - Track Notes: Edited: Fade in
@@ -50,7 +50,7 @@ See Playlist based on a reference recording by pixelated. The only tracks wedro
 - Loop Track Length: 00:52.11
 - Album Label: Columbia
 
-8\. Rudolph the Red-Nosed Reindeer – Ed Sullivan Presents Music of Christmas
+8\. Rudolph the Red-Nosed Reindeer – Ed Sullivan – Ed Sullivan Presents Music of Christmas
 
 - Loop Track Length: 01:50.43
 - Album Label: Columbia
@@ -95,7 +95,7 @@ See Playlist based on a reference recording by pixelated. The only tracks wedro
 - Track Notes: Edited: Fade Out
 - Album Label: Columbia
 
-16\. Petit Papa Noel (Little Father Christmas) – Raymond Lefevre & His Orchestra – Merry Christmas
+16\. Petit Papa Noel (Little Father Christmas) – Paul Mauriat – The Christmas Album
 
 - Loop Track Length: 02:14.13
 - Track Notes: MiceAge reports there is some debate over whether Raymond Lefevre's version of "Little Father Christmas" was originally used in the loop. pixelated's recording indicates that the current version does use "Petit Papa Noel" found on Paul Mauriat album.
@@ -116,7 +116,7 @@ See Playlist based on a reference recording by pixelated. The only tracks wedro
 - Loop Track Length: 03:11.05
 - Album Label: Capitol
 
-20\. The First Noel – Ed Sullivan Presents Music of Christmas
+20\. The First Noel – Ed Sullivan – Ed Sullivan Presents Music of Christmas
 
 - Loop Track Length: 01:03.51
 - Album Label: Columbia

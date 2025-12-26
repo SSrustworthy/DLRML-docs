@@ -4,13 +4,13 @@
 
 **Loop Total Length**: 01:04:48.756
 
-This loop played in the Fantasyland Theatre for the Holiday Fun with Santa & Friends! attraction based in the Fantasyland Theatre. Tracklist compiled by pixelated based on his 2024 reference recording. See MouseBits, [https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100457](https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100457) (2025) .
+This loop played in the Fantasyland Theatre for the Holiday Fun with Santa & Friends! attraction based in the Fantasyland Theatre. Tracklist compiled by pixelated based on his 2024 and 2025 reference recordings. See MouseBits, [https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100457](https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100457) (2025) .
 
 ## Tracklist
 
 1\. Jingle Bells – Simon Anderson – Traditional Brass Band Christmas ANW 1452
 
-- Loop Track Length: ?
+
 
 2\. March Of The Elves 3773/2 OR March Of The Elves 3 3773/17 – Patrick Hawes – Magical Christmas ANW 3773
 
@@ -64,55 +64,58 @@ This loop played in the Fantasyland Theatre for the Holiday Fun with Santa & Fri
 
 - Loop Track Length: 00:01:09.121
 
-15\. Unknown tracks due to caroling
+15\. Donde Esta Santa Claus – Straight No Chaser – Christmas Cheers
 
-- Loop Track Length: 00:08:51.784
-- Track Notes: Recording interrupted due to caroling group
 
-16\. I Saw Three Ships – Canadian Brass – A Canadian Brass Christmas
 
-- Loop Track Length: ?
+16\. Sleigh Ride – The Chris McDonald Orchestra – Big Band Christmas
 
-17\. Grand Ballet Overture 3094/6 – David Tobin, Jeff Meegan, Jennifer Green, Rob Kelly – Tchaikovsky Collection ANW 3094
+
+
+17\. I Saw Three Ships – Canadian Brass – A Canadian Brass Christmas
+
+
+
+18\. Grand Ballet Overture 3094/6 – David Tobin, Jeff Meegan, Jennifer Green, Rob Kelly – Tchaikovsky Collection ANW 3094
 
 - Loop Track Length: 00:02:32.580
 
-18\. Let It Snow – Straight No
+19\. Let It Snow – Straight No
   Chaser – Christmas Cheers
 
 - Loop Track Length: 00:02:59.056
 
-19\. We Wish You a Merry Christmas – The Chicago Brass Quintet – Merry Christmas: Brass Music
+20\. We Wish You a Merry Christmas – The Chicago Brass Quintet – Merry Christmas: Brass Music
 
 - Loop Track Length: 00:01:32.645
 
-20\. Back In Time For Christmas 3964/7 – Jody Jenkins – Merry & Bright ANW 3964
+21\. Back In Time For Christmas 3964/7 – Jody Jenkins – Merry & Bright ANW 3964
 
 - Loop Track Length: 00:02:08.423
 
-21\. The Christmas Oratorio – The Real Group – Three Decades of Vocal Music
+22\. The Christmas Oratorio – The Real Group – Three Decades of Vocal Music
 
 - Loop Track Length: 00:04:00.362
 
-22\. (There's No Place Like) Home for the Holidays – The Glenn
+23\. (There's No Place Like) Home for the Holidays – The Glenn
   Miller Orchestra – In the Christmas Mood
 
 - Loop Track Length: 00:02:41.291
 
-23\. Ding Dong Merrily On High 1452/4 – Simon Anderson – Traditional Brass Band Christmas ANW 1452
+24\. Ding Dong Merrily On High 1452/4 – Simon Anderson – Traditional Brass Band Christmas ANW 1452
 
 - Loop Track Length: 00:00:38.735
 
-24\. Russian Dance 3094/2 – David Tobin,
+25\. Russian Dance 3094/2 – David Tobin,
   Jeff Meegan, Jennifer Green, Rob Kelly – Tchaikovsky Collection ANW 3094
 
 - Loop Track Length: 00:01:53.199
 
-25\. Deck the Halls – DCappella – Deck the Halls
+26\. Deck the Halls – DCappella – Deck the Halls
 
 - Loop Track Length: 00:01:35.084
 
-26\. Good King Wenceslas – The Glenn
-  Miller Orchestra – In the Christmas Mood II [end cut-off]
+27\. Good King Wenceslas – The Glenn
+  Miller Orchestra – In the Christmas Mood II
 
-- Loop Track Length: ?
+

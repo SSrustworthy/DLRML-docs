@@ -2,6 +2,26 @@
 
 This is the log for all database updates.
 
+## Site Update 12/26/25
+
+### DL
+
+- Updated the MSUSA holiday loop description
+- Noted that the Jingle Cruise Boathouse loop has returned (v.3)
+- Updated Holiday Fun with Santa and Friends! [Fantasyland Theater]
+
+### DCA
+
+- Noted “Beulah’s Boogie” as another song in the Francis’ Ladybug boogie loop
+- Updated notes on Paradise Pier Hotel v.1 based on reference recording
+
+### Other
+
+- Mousebits post archive addition: Notes on high quality track re-releases for the MSUSA holiday loop
+- World of Disney noted as still playing the former Backlot Premiere Shop holiday loop in the 2025 holiday season.
+- Added updated DTDD holiday nighttime v.4 loop
+- Added new Disneyland Hotel / Pixar Place 2025 loop
+
 ## Site Update 10/28/25
 
 ### Disney Gallery
