@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 2009
 
-This loop played in the Big Thunder Ranch area at the entrance to the BBQ, around the BBQ dining area, and inside the former Festival of Fools Arena which became the Big Thunder Ranch Jamboree. Preliminary track listing compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg59867#msg59867](https://mousebits.com/smf/index.php?topic=7066.msg59867#msg59867)  (2012). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time.
+This loop played in the Big Thunder Ranch area at the entrance to the BBQ, around the BBQ dining area, and inside the former Festival of Fools Arena which became the Big Thunder Ranch Jamboree. It was installed sometime before 2012. Preliminary track listing compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg59867#msg59867](https://mousebits.com/smf/index.php?topic=7066.msg59867#msg59867)  (2012). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time.
 
 ## Tracklist
 

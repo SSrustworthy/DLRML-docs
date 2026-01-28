@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-No reference recording exists, but these tracks were remembered by MouseBits members as playing in the preview center in the Main Street Opera House. See MouseBits, [https://mousebits.com/smf/index.php?topic=9016.msg86616#msg86616](https://mousebits.com/smf/index.php?topic=9016.msg86616#msg86616)  (2015).
+These tracks were remembered by MouseBits members as playing in the preview center in the Main Street Opera House. No reference recording exists. See MouseBits, [https://mousebits.com/smf/index.php?topic=9016.msg86616#msg86616](https://mousebits.com/smf/index.php?topic=9016.msg86616#msg86616)  (2015).
 
 ## Tracklist
 

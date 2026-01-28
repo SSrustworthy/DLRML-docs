@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played in the Downtown Disney District area. Preliminary tracklist compiled by pixelated based on his 2020 reference recording. It was updated with a few additional tracks for the 2025 holiday season. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148](https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148)  .
+This loop played in the Downtown Disney District area from 2020 to present. Preliminary tracklist compiled by pixelated based on his 2020 reference recording. It was updated with a few additional tracks for the 2025 holiday season. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148](https://mousebits.com/smf/index.php?topic=10875.msg99148#msg99148)  .
 
 ## Tracklist
 

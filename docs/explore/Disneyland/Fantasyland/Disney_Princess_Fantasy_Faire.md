@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 49:27.233
 
-This loop played in the Disney Princess Fantasy Faire, which was located at the Fantasyland Theater from October 6, 2006 to August 12, 2012.  See [https://mousebits.com/smf/index.php?topic=3494.msg39055#msg39055](https://mousebits.com/smf/index.php?topic=3494.msg39055#msg39055)  (2010) and [https://mousebits.com/smf/index.php?topic=7019.msg59446#msg59446](https://mousebits.com/smf/index.php?topic=7019.msg59446#msg59446)  (2012). Some of the tracks have long fadeouts so sometimes those fades are cut short. There are no crossfades. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time.
+This loop played in the Disney Princess Fantasy Faire, which was located at the Fantasyland Theater from October 6, 2006 to August 12, 2012. See [https://mousebits.com/smf/index.php?topic=3494.msg39055#msg39055](https://mousebits.com/smf/index.php?topic=3494.msg39055#msg39055)  (2010) and [https://mousebits.com/smf/index.php?topic=7019.msg59446#msg59446](https://mousebits.com/smf/index.php?topic=7019.msg59446#msg59446)  (2012). Tracklist compiled by pixelated. Some of the tracks have long fadeouts so sometimes those fades are cut short. There are no crossfades. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time.
 
 ## Tracklist
 

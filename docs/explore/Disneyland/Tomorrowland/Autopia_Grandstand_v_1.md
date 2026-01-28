@@ -6,7 +6,7 @@
 
 **Dates**: June 29, 2000 → March 1, 2017
 
-This loop played in the grandstand queue until March of 2017, when the new loop took over with the addition of Honda’s ASIMO/Bird. It played for the duration of Chevron’s sponsorship, during the sponsor-less period, and into the first year of Honda’s sponsorship. This listing is based on several recordings patched together from the 2010s. See [https://mousebits.com/smf/index.php?topic=8150.15](https://mousebits.com/smf/index.php?topic=8150.15)  (MouseBits; 2024) and see Magic Music: [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-198](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-198)  (2002) and [https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/post-12120](https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/post-12120) (2004) .
+This loop played in the Autopia grandstand (queue) until March of 2017, when the new loop took over with the addition of Honda’s ASIMO/Bird. It played for the duration of Chevron’s sponsorship starting in 2000, during the sponsor-less period, and into the first year of Honda’s sponsorship. This listing is based on several recordings patched together from the 2010s. See [https://mousebits.com/smf/index.php?topic=8150.15](https://mousebits.com/smf/index.php?topic=8150.15)  (MouseBits; 2024) and see Magic Music: [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-198](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-198)  (2002) and [https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/post-12120](https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/post-12120) (2004) .
 
 ## Tracklist
 

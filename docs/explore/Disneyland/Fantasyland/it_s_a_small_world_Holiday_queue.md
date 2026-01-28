@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This is a short music loop of themes from the attraction soundtrack. The loop is instrumental.
+The ‘it’s a small world’ Holiday queue plays a short music loop of themes that was released with the attraction soundtrack. The loop is instrumental.
 
 ## Tracklist
 

@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop played during Halloween in the Big Thunder Ranch area in 2008. Songs were known to play at random. See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg67150#msg67150](https://mousebits.com/smf/index.php?topic=7066.msg67150#msg67150)  .
+This loop played during Halloween in the Big Thunder Ranch area in 2008. Songs were known to play in randomized order. Tracklist compiled by turnstle. See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg67150#msg67150](https://mousebits.com/smf/index.php?topic=7066.msg67150#msg67150)  .
 
 ## Tracklist
 

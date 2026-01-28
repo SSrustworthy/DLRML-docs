@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Halloween
 
-All tracks are from the same album, and have been sped up by using a playrate of 1.0059. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits: [https://mousebits.com/smf/index.php?topic=8711.msg82713#msg82713](https://mousebits.com/smf/index.php?topic=8711.msg82713#msg82713)  (2014). The loop was first used in 2012 at the carnival debut.
+The loop played at the Big Thunder Ranch Halloween Carnival, and was first used in 2012 at the carnival debut. All tracks are from the same album, and have been sped up by using a playrate of 1.0059. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits: [https://mousebits.com/smf/index.php?topic=8711.msg82713#msg82713](https://mousebits.com/smf/index.php?topic=8711.msg82713#msg82713)  (2014).
 
 ## Tracklist
 

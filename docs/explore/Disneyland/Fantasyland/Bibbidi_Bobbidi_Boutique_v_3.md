@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown (> 45 min)
 
-Plays in the interior of Bibbidi Bobbidi Boutique. This loop probably changed to its third (?) iteration sometime between January 2023 and May 2024. See MouseBits, [https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304](https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304)  (2024).
+Plays in the interior of Bibbidi Bobbidi Boutique. This loop probably changed to its third (?) iteration sometime between January 2023 and May 2024. Partial tracklist compiled by SSrustworthy based on a 2024 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304](https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304)  (2024).
 
 ## Tracklist
 

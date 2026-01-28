@@ -4,7 +4,7 @@
 
 **Loop Total Length**: N/A
 
-This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This track was introduced between the closure of Splash Mountain and March 2024. The narration changed in November of 2024 for the opening of Tiana’s Bayou Adventure, but the musical selections remained the same. See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  (2024).
+This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This track was introduced between the closure of Splash Mountain in May 2023 and March 2024. The narration changed in November of 2024 for the opening of Tiana’s Bayou Adventure, but the musical selections remained the same. See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  (2024).
 
 ## Tracklist
 

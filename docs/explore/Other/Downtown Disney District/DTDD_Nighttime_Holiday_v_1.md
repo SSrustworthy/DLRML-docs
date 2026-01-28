@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played from 8PM to 2AM at Downtown Disney. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9899.msg93024#msg93024](https://mousebits.com/smf/index.php?topic=9899.msg93024#msg93024)  .
+This loop played from 8PM to 2AM at Downtown Disney as part of the holiday season in 2017 and 2019. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9899.msg93024#msg93024](https://mousebits.com/smf/index.php?topic=9899.msg93024#msg93024)  .
 
 ## Tracklist
 

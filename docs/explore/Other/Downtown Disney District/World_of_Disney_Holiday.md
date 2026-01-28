@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This is a preliminary track list compiled by pixelated for the Disneyland Resort Backlot Premiere Shop holiday loop. The Backlot Premiere Shop opened on Stage 17 in Hollywood Land in October 2020. This loop was utilized as the World of Disney holiday loop (possibly with alterations) for the 2022 holiday season. Noted as still playing in the 2025 holiday season.
+This is a preliminary track list compiled by pixelated for the Disneyland Resort Backlot Premiere Shop holiday loop. The Backlot Premiere Shop opened on Stage 17 in Hollywood Land in October 2020. This loop was then utilized as the World of Disney holiday loop (possibly with alterations) for the 2022 holiday season, and is still playing in the 2025 holiday season.
 
 ## Tracklist
 

@@ -1,6 +1,6 @@
 # Francis' Ladybug Boogie
 
-**Land(s)**: "a bug's land", NA
+**Land(s)**: "a bug's land"
 
 **Dates**: October 7, 2002 → September 4, 2018
 

@@ -6,7 +6,7 @@
 
 **Dates**: June 1, 1999 → May 1, 2007
 
-This music was played onboard the S.S. Columbia interspersed with the show narration. See MouseBits, [https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153](https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153)  (2022). v.2 premiered at or after the June 1999 reopening. This tracklist was created based on videos from 2003 and 2005. The biggest change from the pre-98 narration seems to be the inclusion of “Away Rio” from The Wind In The Rigging, an album which features prominently in the Columbia Harbour House area music at WDW’s Liberty Square.
+This music was played onboard the S.S. Columbia interspersed with the show narration. See MouseBits, [https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153](https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153)  (2022). v.2 premiered at or after the June 1999 reopening, and played until approx. May 2007. This tracklist was created based on videos from 2003 and 2005. The biggest change from the pre-98 narration seems to be the inclusion of “Away Rio” from The Wind In The Rigging, an album which features prominently in the Columbia Harbour House area music at WDW’s Liberty Square.
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: May 1, 2007 → January 4, 2010
 
-This music was played onboard the S.S. Columbia interspersed with the show narration. See MouseBits, [https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153](https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153)  (2022). v.3 premiered at or after the May 2007 reopening after the opening of Pirate’s Lair on TSI. This tracklist was created based on videos from 2008 and 2009. It was retired by January 4, 2010 for the Rivers of America redesign. Recordings of load/unload music have not been found. This version saw the inclusion of Toucan Pirates tracks.
+This music was played onboard the S.S. Columbia interspersed with the show narration. This version 3 premiered at or after the May 2007 reopening after the opening of Pirate’s Lair on TSI.  It was retired by January 4, 2010 for the Rivers of America redesign. See MouseBits, [https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153](https://mousebits.com/smf/index.php?topic=10877.msg99153#msg99153)  (2022). This tracklist was compiled by SSrustworthy based on videos from 2008 and 2009. No reference recordings of load/unload music have been found. This version was the first to see the inclusion of Toucan Pirates tracks.
 
 ## Tracklist
 

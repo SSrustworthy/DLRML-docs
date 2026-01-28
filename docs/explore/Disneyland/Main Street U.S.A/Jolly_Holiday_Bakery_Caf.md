@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:23:48.554
 
-A preliminary track list for the Disneyland Jolly Holiday Bakery Café loop. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=7116.msg61477#msg61477](https://mousebits.com/smf/index.php?topic=7116.msg61477#msg61477)  (2012). Additional information provided by VJ.
+A preliminary track list for the Disneyland Jolly Holiday Bakery Café, which opened in January 2012. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=7116.msg61477#msg61477](https://mousebits.com/smf/index.php?topic=7116.msg61477#msg61477)  (2012). Additional information provided by VJ.
 
 ## Tracklist
 

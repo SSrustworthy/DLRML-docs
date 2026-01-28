@@ -6,7 +6,7 @@
 
 **Dates**: May 22, 1998 → April 27, 2001
 
-The exit hallway of Rocket Rods played the song “World of Creativity,” which was based on the song “Detroit” from “The Happiest Millionaire”, which itself was composed by the Sherman Brothers.
+The exit hallway of the Rocket Rods attraction played the song “World of Creativity,” which was based on the song “Detroit” from “The Happiest Millionaire”, which itself was composed by the Sherman Brothers.
 
 ## Tracklist
 

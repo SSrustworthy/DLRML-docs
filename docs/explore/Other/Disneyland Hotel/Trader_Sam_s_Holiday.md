@@ -6,7 +6,7 @@
 
 **Dates**: November 1, 2011
 
-Compiled by kkocka and others on MouseBits, [https://mousebits.com/smf/index.php?topic=8201.msg77492#msg77492](https://mousebits.com/smf/index.php?topic=8201.msg77492#msg77492)  (2013). Loop track lengths should be mostly accurate, which indicates that some edits are present. Verified by C33 on Magic Music, [https://community.magicmusic.net/playlists/trader-sams-holiday.64/](https://community.magicmusic.net/playlists/trader-sams-holiday.64/)  (2017)
+This loop plays inside of Trader Sam’s during the holiday season. Tracklist compiled by kkocka and others on MouseBits, [https://mousebits.com/smf/index.php?topic=8201.msg77492#msg77492](https://mousebits.com/smf/index.php?topic=8201.msg77492#msg77492)  (2013). Loop track lengths should be mostly accurate, which indicates that some edits are present. Verified by C33 on Magic Music, [https://community.magicmusic.net/playlists/trader-sams-holiday.64/](https://community.magicmusic.net/playlists/trader-sams-holiday.64/)  (2017).
 
 ## Tracklist
 

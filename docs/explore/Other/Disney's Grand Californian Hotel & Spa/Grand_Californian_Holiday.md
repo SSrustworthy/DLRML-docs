@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop plays in the Grand Californian during the holiday season. See MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg36296#msg36296](https://mousebits.com/smf/index.php?topic=4845.msg36296#msg36296)  (2009) and [https://mousebits.com/smf/index.php?topic=4845.msg47829#msg47829](https://mousebits.com/smf/index.php?topic=4845.msg47829#msg47829)  (2010).
+This loop plays in the Grand Californian during the holiday season. Tracklist compiled by C33 in 2009. See MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg36296#msg36296](https://mousebits.com/smf/index.php?topic=4845.msg36296#msg36296)  (2009) and [https://mousebits.com/smf/index.php?topic=4845.msg47829#msg47829](https://mousebits.com/smf/index.php?topic=4845.msg47829#msg47829)  (2010).
 
 ## Tracklist
 

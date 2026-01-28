@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 58:33.454
 
-This loop played in the lobby of the Paradise Pier Hotel. Playlist based on a live recording by CThaddeus and compiled by C33. Playlist posted 06/2010 on C33's blog at Magic Music of the Mouse discussion board. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/paradise-pier-hotel-bgm.html.](https://disney-parks-music-compendium.blogspot.com/2022/11/paradise-pier-hotel-bgm.html.)  Most tracks with long fadeouts are cut off significantly earlier to start the next track.
+This loop played in the lobby of the Paradise Pier Hotel. It was introduced after 2003, when the album “Ocean Boulevard” was released. Tracklist based on a live recording by CThaddeus and compiled by C33. Originally posted 06/2010 on C33's blog at Magic Music of the Mouse discussion board. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/paradise-pier-hotel-bgm.html.](https://disney-parks-music-compendium.blogspot.com/2022/11/paradise-pier-hotel-bgm.html.)  Most tracks with long fadeouts are cut off significantly earlier to start the next track.
 
 ## Tracklist
 

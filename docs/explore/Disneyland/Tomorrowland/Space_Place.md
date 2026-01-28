@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 1977 → January 1, 1996
 
-This tracklist represents about 15 minutes of an identified loop from a Jack Wagner tape posted to [https://www.waltsmusic.com/index.php/jack-wagner-collection/disneyland-tomorrowland-background-music-1977?highlight=WyJ0b21vcnJvd2xhbmQiXQ==](https://www.waltsmusic.com/index.php/jack-wagner-collection/disneyland-tomorrowland-background-music-1977?highlight=WyJ0b21vcnJvd2xhbmQiXQ==) , with the title: Disneyland Tomorrowland Background Music 1977. The loop likely played in the Space Place restaurant. Discussed on MouseBits: [https://mousebits.com/smf/index.php?topic=9854.msg92652#msg92652](https://mousebits.com/smf/index.php?topic=9854.msg92652#msg92652)  (2012).
+This tracklist represents about 15 minutes of an identified loop from a Jack Wagner tape posted to [https://www.waltsmusic.com/index.php/jack-wagner-collection/disneyland-tomorrowland-background-music-1977](https://www.waltsmusic.com/index.php/jack-wagner-collection/disneyland-tomorrowland-background-music-1977) , with the title: “Disneyland Tomorrowland Background Music 1977”. The loop likely played in the Space Place restaurant. Partial tracklist compiled by Duckzz. Discussed on MouseBits: [https://mousebits.com/smf/index.php?topic=9854.msg92652#msg92652](https://mousebits.com/smf/index.php?topic=9854.msg92652#msg92652)  (2012).
 
 ## Tracklist
 

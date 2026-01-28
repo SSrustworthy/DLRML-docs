@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:03:04.519
 
-This loop plays in the interior queue of Pirates of the Carribbean. Loop length based on live recording by SSrustworthy.
+This loop plays in the interior queue of the Pirates of the Carribbean attraction. Loop length based on a live recording by SSrustworthy.
 
 ## Tracklist
 

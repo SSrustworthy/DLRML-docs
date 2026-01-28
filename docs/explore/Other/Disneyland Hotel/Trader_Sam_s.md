@@ -6,7 +6,7 @@
 
 **Dates**: May 25, 2011
 
-This loop plays in Trader Sam’s. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=6909.msg58009#msg58009.](https://mousebits.com/smf/index.php?topic=6909.msg58009#msg58009.)  Compiled by C33 (MouseBits; 2012 and MagicMusic; 2012).
+This loop plays inside of Trader Sam’s at the Disneyland Hotel. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=6909.msg58009#msg58009.](https://mousebits.com/smf/index.php?topic=6909.msg58009#msg58009.)  Compiled by C33 (MouseBits; 2012 and MagicMusic; 2012).
 
 ## Tracklist
 

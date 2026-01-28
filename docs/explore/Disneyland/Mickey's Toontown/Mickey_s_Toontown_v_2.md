@@ -6,7 +6,7 @@
 
 **Dates**: April 1, 2013 → March 9, 2022
 
-This loop played in Mickey’s Toontown from April 2013 until March 9, 2022. See Disney’s Park BGM Lists, [http://tdrparkbgm.web.fc2.com/DisneylandToontown.html](http://tdrparkbgm.web.fc2.com/DisneylandToontown.html)  and MouseBits, [https://mousebits.com/smf/index.php?topic=10919.msg99363#msg99363](https://mousebits.com/smf/index.php?topic=10919.msg99363#msg99363)  (2023).
+This loop played in Mickey’s Toontown from April 2013 until March 9, 2022. The new loop retained several pieces from the previous loop. Some new arrangements of  themes from older shorts were included, potentially in an effort to include more of the music featured in the Have a Laugh! segments from Disney Channel. See Disney’s Park BGM Lists, [http://tdrparkbgm.web.fc2.com/DisneylandToontown.html](http://tdrparkbgm.web.fc2.com/DisneylandToontown.html)  and MouseBits, [https://mousebits.com/smf/index.php?topic=10919.msg99363#msg99363](https://mousebits.com/smf/index.php?topic=10919.msg99363#msg99363)  (2023).
 
 ## Tracklist
 

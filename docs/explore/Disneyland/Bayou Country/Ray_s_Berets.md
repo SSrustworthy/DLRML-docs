@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:59:07.437
 
-Plays in the interior of Ray’s Berets, which opened on October 25, 2024. Tracklist compiled by SSrustworthy and pixelated based on a reconstruction by pixelated. See MouseBits, [https://forums.mousebits.com/threads/rays-berets.11066/](https://forums.mousebits.com/threads/rays-berets.11066/)  (2024).
+This loop plays in the interior of Ray’s Berets, which opened on October 25, 2024. Tracklist compiled by SSrustworthy and pixelated based on a reconstruction by pixelated. See MouseBits, [https://forums.mousebits.com/threads/rays-berets.11066/](https://forums.mousebits.com/threads/rays-berets.11066/)  (2024).
 
 ## Tracklist
 

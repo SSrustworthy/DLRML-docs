@@ -6,7 +6,7 @@
 
 **Dates**: January 2, 2001
 
-This loop plays in the interior of the Grand Californian Hotel. See Magic Music, [https://community.magicmusic.net/playlists/grand-californian-exterior.4/](https://community.magicmusic.net/playlists/grand-californian-exterior.4/)  (2011) and MouseBits, Re: [https://mousebits.com/smf/index.php?topic=8490.msg79704#msg79704](https://mousebits.com/smf/index.php?topic=8490.msg79704#msg79704)  (2014).
+This loop plays in the interior of the Grand Californian Hotel. It was introduced with the opening of the Grand Californian in 2001. See Magic Music, [https://community.magicmusic.net/playlists/grand-californian-exterior.4/](https://community.magicmusic.net/playlists/grand-californian-exterior.4/)  (2011) and MouseBits, Re: [https://mousebits.com/smf/index.php?topic=8490.msg79704#msg79704](https://mousebits.com/smf/index.php?topic=8490.msg79704#msg79704)  (2014).
 
 ## Tracklist
 

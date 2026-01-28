@@ -6,7 +6,7 @@
 
 **Dates**: January 9, 1987 → July 27, 2010
 
-These are two tracks that played in the original Star Tours ride queue. There was no overarching loop, per se. See these wiki articles: [https://disney.fandom.com/wiki/I_Wanna_Weld_Your_Hand](https://disney.fandom.com/wiki/I_Wanna_Weld_Your_Hand) , [https://starwars.fandom.com/wiki/The_Droid_Rooms](https://starwars.fandom.com/wiki/The_Droid_Rooms) 
+These are two tracks that played in the original Star Tours ride queue, among narration from the droid. There was no overarching loop, per se. See these wiki articles: [https://disney.fandom.com/wiki/I_Wanna_Weld_Your_Hand](https://disney.fandom.com/wiki/I_Wanna_Weld_Your_Hand) , [https://starwars.fandom.com/wiki/The_Droid_Rooms](https://starwars.fandom.com/wiki/The_Droid_Rooms) 
 
 ## Tracklist
 

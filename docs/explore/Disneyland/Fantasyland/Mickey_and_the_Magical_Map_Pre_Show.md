@@ -6,7 +6,7 @@
 
 **Dates**: May 25, 2013 → March 12, 2020
 
-This loop played as audiences were walking into the Fantasyland Theater for performances of Mickey and the Magical Map. See MouseBits, [https://mousebits.com/smf/index.php?topic=8888.msg85356#msg85356](https://mousebits.com/smf/index.php?topic=8888.msg85356#msg85356)  (2015).
+This loop played as audiences were walking into the Fantasyland Theater for performances of Mickey and the Magical Map, a stage show which ran from 2013 to 2020. See MouseBits, [https://mousebits.com/smf/index.php?topic=8888.msg85356#msg85356](https://mousebits.com/smf/index.php?topic=8888.msg85356#msg85356)  (2015).
 
 ## Tracklist
 

@@ -4,7 +4,7 @@
 
 **Loop Total Length**: N/A
 
-See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  for an extensive discussion of this topic. Tracks 2-5 are technically on another underlying loop, whereas tracks 1 and 6 are included on the narration track. Tracks 1 and 6 may have flipped in order for part of the time period that this loop was used, namely the mid-70s to 2010.
+See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  for an extensive discussion of this topic. Tracks 2-5 are technically on another underlying loop, whereas tracks 1 and 6 are included on the attraction narration track. Tracks 1 and 6 may have flipped in order for part of the time period that this loop was used, namely the mid-70s to 2010.
 
 ## Tracklist
 

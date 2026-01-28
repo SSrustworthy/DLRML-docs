@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This is a loop of musical video clips that plays in the Pioneer Mercantile retail shop in Frontierland. They provide the audio ambiance for the rest of the store. They are reported as being “unvarnished, unedited video clips.” See MouseBits (2011): [https://mousebits.com/smf/index.php?topic=9570.msg90444#msg90444](https://mousebits.com/smf/index.php?topic=9570.msg90444#msg90444)  and [https://mousebits.com/smf/index.php?topic=5949.msg51577#msg51577](https://mousebits.com/smf/index.php?topic=5949.msg51577#msg51577) 
+This is a loop of musical video clips that plays in the Pioneer Mercantile retail shop in Frontierland. The video screen provides the audio ambiance for the rest of the store. They are reported as being “unvarnished, unedited video clips.” Installation seems to be ca. 2011 to 2017. See MouseBits (2011): [https://mousebits.com/smf/index.php?topic=9570.msg90444#msg90444](https://mousebits.com/smf/index.php?topic=9570.msg90444#msg90444)  and [https://mousebits.com/smf/index.php?topic=5949.msg51577#msg51577](https://mousebits.com/smf/index.php?topic=5949.msg51577#msg51577) 
 
 ## Tracklist
 

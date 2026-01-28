@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:25:35.232
 
-Tiana’s Palace opened on September 7, 2023. This tracklist was compiled by pixelated and sorker based on pixelated’s 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/tianas-palace.11068/](https://forums.mousebits.com/threads/tianas-palace.11068/)  (2024). No edit points were indicated.
+This loop plays in the exterior seating area of Tiana’s Palace, which opened on September 7, 2023. It is also played in the Magnolia Park area across the walkway by the Haunted Mansion. This tracklist was compiled by pixelated and sorker based on his 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/tianas-palace.11068/](https://forums.mousebits.com/threads/tianas-palace.11068/)  (2024). No edit points were indicated.
 
 ## Tracklist
 

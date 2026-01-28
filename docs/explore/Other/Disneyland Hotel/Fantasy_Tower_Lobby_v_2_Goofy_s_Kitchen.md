@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 2011 → November 1, 2011
 
-This loop played in the Fantasy Tower of the Disneyland Hotel for a brief time in 2011. It also played for some time in Goofy’s Kitchen. See MouseBits, [https://mousebits.com/smf/index.php?topic=5700.msg54050#msg54050](https://mousebits.com/smf/index.php?topic=5700.msg54050#msg54050)  (2011).
+This loop played in the Fantasy Tower of the Disneyland Hotel for a brief time in 2011. It also played for some time in Goofy’s Kitchen. Tracklist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=5700.msg54050#msg54050](https://mousebits.com/smf/index.php?topic=5700.msg54050#msg54050)  (2011).
 
 ## Tracklist
 

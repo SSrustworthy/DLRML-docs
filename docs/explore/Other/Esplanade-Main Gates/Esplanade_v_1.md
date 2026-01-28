@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 2001 → April 1, 2004
 
-This loop played in the Esplanade from 2001 to 2004. Most of these tracks likely have the same sources as Esplanade v.2, but I have yet to find a detailed source list. Additional information is available on MouseBits, see [https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381](https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381)  (2002).
+This loop played in the Esplanade from 2001 to 2004. Most of these tracks likely have the same sources as Esplanade v.2. Additional information is available on MouseBits, see [https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381](https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381)  (2002).
 
 ## Tracklist
 

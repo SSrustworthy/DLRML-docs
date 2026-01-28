@@ -6,7 +6,7 @@
 
 **Dates**: November 16, 2018
 
-This loop plays in the extended queue/lightning lane queue for the Matterhorn. It started playing when the new queue opened in 2018. See MouseBits, [https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765](https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765)  .
+This loop plays in the extended queue/lightning lane queue for the Matterhorn. It began playing when the new queue opened in 2018 and is still in use. See MouseBits, [https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765](https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765)  .
 
 ## Tracklist
 

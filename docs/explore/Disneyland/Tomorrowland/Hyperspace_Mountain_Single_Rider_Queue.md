@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Season of the Force
 
-During the hyperspace mountain overlay, this loop can be heard in the hallway where the single rider line is located (as of May 2024). It is unclear whether it can be heard elsewhere in the queue.
+During the Hyperspace Mountain overlay for Space Mountain, this loop can be heard in the hallway where the single rider line is located (as of May 2024). It is unclear whether it can be heard elsewhere in the queue. Tracklist compiled by SSrustworthy based on a 2024 reference recording.
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: May 6, 2011
 
-This loop plays throughout the interior of The Star Trader. The loop was introduced when the store reopened after a Star Wars retheme on May 6th, 2011 shortly after the reopening of Star Tours: The Adventures Continue. The loop is identical to that of the WDW Star Tours — The Adventures Continue queue BGM. See MouseBits, [https://forums.mousebits.com/threads/unidentified-flying-playlist-star-trader-loop.6872/post-100147](https://forums.mousebits.com/threads/unidentified-flying-playlist-star-trader-loop.6872/post-100147)  (2024).
+This loop plays throughout the interior of The Star Trader. The loop was introduced when the store reopened with a Star Wars retheme on May 6th, 2011 shortly after the reopening of Star Tours: The Adventures Continue. The loop is identical to that of the WDW Star Tours — The Adventures Continue queue BGM. Tracklist compiled by Triple and SSrustworthy based on 2023 and 2024 reference recordings. See MouseBits, [https://forums.mousebits.com/threads/unidentified-flying-playlist-star-trader-loop.6872/post-100147](https://forums.mousebits.com/threads/unidentified-flying-playlist-star-trader-loop.6872/post-100147)  (2024).
 
 ## Tracklist
 

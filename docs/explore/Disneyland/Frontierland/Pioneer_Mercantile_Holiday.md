@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played in the Pioneer Mercantile shop at the back of the shop during the 2022 holiday season. See MouseBits, [https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210](https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210)  (2023).
+This audio loop accompanied the video screen loop in the back of the Pioneer Mercantile shop during the 2022 holiday season. It is unknown what other dates it appeared. Tracklist compiled by SSrustworthy based on a January 2023 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210](https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210)  (2023).
 
 ## Tracklist
 

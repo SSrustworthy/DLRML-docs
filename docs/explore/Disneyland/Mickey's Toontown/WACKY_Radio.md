@@ -6,7 +6,7 @@
 
 **Dates**: January 24, 1993
 
-The W.A.C.K.Y. Radio Loop plays out of the radios in both Mickey’s and Minnie’s houses. Various musical underliners can be heard throughout the radio broadcast, many of which play in the Mickey’s Toontown area loop. See [https://mousebits.com/smf/index.php?topic=4674.msg36903#msg36903](https://mousebits.com/smf/index.php?topic=4674.msg36903#msg36903)  .
+The W.A.C.K.Y. Radio Loop plays out of the radios in both Mickey’s and Minnie’s houses. Various musical underliners can be heard throughout the radio broadcast, many of which play in the Mickey’s Toontown area loop. Some changes were made to the radio to remove SFX and references to bygone attractions or locales with the renovation in 2023, based on a reference recording by SSrustworthy. See [https://mousebits.com/smf/index.php?topic=4674.msg36903#msg36903](https://mousebits.com/smf/index.php?topic=4674.msg36903#msg36903)  .
 
 ## Tracklist
 

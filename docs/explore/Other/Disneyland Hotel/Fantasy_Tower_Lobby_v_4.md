@@ -6,7 +6,7 @@
 
 **Dates**: December 1, 2011
 
-Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023](https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023)  (2012).
+This loop is thought to have played in the Fantasy Tower of the Disneyland Hotel since around December 2011, after the completion of the tower’s remodeling. It plays inside the Fantasy Tower and inside the adjoining Convention Center, and outside those areas as well, by the E-Ticket pool. It may sometimes be also audible on the event green. Tracklist compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023](https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023)  (2012).
 
 ## Tracklist
 
@@ -23,11 +23,11 @@ Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/sm
 
 - Loop Track Length: 02.30
 
-4\. it's a small world Entrance  – Walt Disney and the 1964 Word's Fair
+4\. “it’s a small world” Queue/Entrance Music – Bobby Hammack, Richard M. Sherman, Robert B. Sherman – Walt Disney and the 1964 Word's Fair
 
 - Loop Track Length: 03:03
 
-5\. Painting the Roses Red
+5\. Painting the Roses Red – Unreleased
 
 - Loop Track Length: 02:05
 - Track Notes: Extended cut of the same version that appeared on the Walt Disney World Forever system. Crossfades into next track.
@@ -36,9 +36,9 @@ Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/sm
 
 - Loop Track Length: 02:22
 
-7\. Dress Building – Mack David – The Music of Disney's Cinderella
+7\. Dress Building – Mack David – The Music of Disney's Cinderella [1995]
 
-- Track Notes: Second part of the album track
+- Track Notes: Second part of the album track “Entanglements / Dress Building”
 - Album Track Number: 9
 - Album Label: Walt Disney Records
 
@@ -70,11 +70,11 @@ Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/sm
 
 - Loop Track Length: 01:57
 
-14\. I'm Wishing / With a Smile and a Song – Kingstom Symphony Orchestra – Symphonic Magic
+14\. I'm Wishing / With a Smile and a Song – Kingston Symphony Orchestra conducted by Glen Fast – Symphonic Magic
 
 - Loop Track Length: 03:29
 
-15\. When You Wish Upon a Star (Instrumental)
+15\. When You Wish Upon a Star (Instrumental) – Unreleased
 
 - Loop Track Length: 02:06
 - Track Notes: Sounds like the version from the Pinocchio soundtrack, without the vocals.
@@ -83,12 +83,12 @@ Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/sm
 
 - Loop Track Length: 04:28
 
-17\. March of the Cards
+17\. March of the Cards – Unreleased
 
 - Loop Track Length: 02:17
 - Track Notes: Extended cut of the same version that appeared on the Walt Disney World Forever system.
 
-18\. The Caucus Race
+18\. The Caucus Race – Unreleased
 
 - Loop Track Length: 02:13
 - Track Notes: Extended cut of the same version that appeared on the Walt Disney World Forever system.
@@ -98,7 +98,7 @@ Compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/sm
 - Loop Track Length: 03:01
 - Track Notes: Crossfades into next track
 
-20\. Bibbidy Bobbidy Boo – City of Prague Philharmonic Orchestra – Symphonic Magic
+20\. Bibbidi Bobbidi Boo – City of Prague Philharmonic Orchestra – Symphonic Magic
 
 - Loop Track Length: 02:45
 

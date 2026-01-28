@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Disneyland Resort 70th Celebration
 
-This loop was introduced on 5/23/25, replacing the daytime esplanade loop, a week-old Music Box loop, until 11 PM when it switched over to the Music Box loop until 1 AM. Tracklist compiled by VJ and SSrustworthy based on a reference recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/](https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/)  (2025).
+This loop was introduced to the Esplanade on 5/23/25, replacing the daytime esplanade loop, a week-old Music Box loop, until 11 PM when it switched over to the Music Box loop until 1 AM. Tracklist compiled by VJ and SSrustworthy based on a reference recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/](https://forums.mousebits.com/threads/esplanade-bgm-disneyland-resort-70th-anniversary.11137/)  (2025).
 
 ## Tracklist
 

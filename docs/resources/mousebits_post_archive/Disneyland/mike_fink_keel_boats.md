@@ -6,7 +6,7 @@ An update on the Keel Boats music -
 
 Looking back at a Magic Music forum post, DL FLIGHT 295/DC 88 SPACELINER mentioned that there were specifically three tracks used on the keel boats. These were apparently reused from the Liberty Square Riverboats.
 
-*Source: [Frontierland Loop Question](https://community.magicmusic.net/threads/frontierland-loop-question.3677/#post-25773)*
+*Source: [Frontierland Loop Question](https://community.magicmusic.net/threads/frontierland-loop-question.3677/#post-25758)*
 
 The newly unearthed Disneyland Collection (check out the torrents) includes a track called the Keelboat Music Loop. This loop includes four tracks, but only three are unique. The loop (9:26) includes:
 

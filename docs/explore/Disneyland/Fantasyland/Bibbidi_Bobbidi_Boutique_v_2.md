@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-Plays in the interior of Bibbidi Bobbidi Boutique. This loop probably changed to its second iteration sometime after 2013 (when Frozen was released). See MouseBits, [https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304](https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304)  (2023).
+Plays in the interior of Bibbidi Bobbidi Boutique. This loop probably changed to its second iteration sometime after 2013 (when Frozen was released). Partial tracklist compiled by SSrustworthy based on a Jan 2023 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304](https://mousebits.com/smf/index.php?topic=8312.msg99304#msg99304)  (2023).
 
 ## Tracklist
 
@@ -60,7 +60,7 @@ Plays in the interior of Bibbidi Bobbidi Boutique. This loop probably changed to
 
 
 
-14\. I’m Wishing / One Song – SNow White and the Seven Dwarves OST
+14\. I’m Wishing / One Song – Snow White and the Seven Dwarves OST
 
 
 

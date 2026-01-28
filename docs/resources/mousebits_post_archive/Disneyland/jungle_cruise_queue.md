@@ -16,29 +16,29 @@ Link to the latter torrent:
 
 Loop length: 58:12.115
 
-*<Radio news>*
+*Radio news*
 
 1. As Time Goes By - Adelaide Hall - We'll Meet Again: The Love Songs of World War II
 
 2. Moonglow - Benny Goodman - ?
 
-*<note: Radio news plays after this track.>*
+*note: Radio news plays after this track.*
 
 3. Sentimental Journey - The Merry Macs - We'll Meet Again: The Love Songs of World War II
 
 4. Intermezzo - Glenn Miller Orchestra - We'll Meet Again: The Love Songs of World War II
 
-*<note: Radio interference / jungle sounds play in the middle of this track, and also play directly after this track.>*
+*note: Radio interference / jungle sounds play in the middle of this track, and also play directly after this track.*
 
 5. Deep Purple - Martha Tilton, Benny Goodman - ?
 
 6. Moon Over Burma - Dorothy Lamour - We'll Meet Again: The Love Songs of World War II
 
-*<note: Radio interference / jungle sounds play in the middle of this track, and also play directly after this track.>*
+*note: Radio interference / jungle sounds play in the middle of this track, and also play directly after this track.*
 
 7. Flamingo - Duke Ellington, Herb Jeffries - We'll Meet Again: The Love Songs of World War II
 
-*<note: Radio news is played directly after this track.>*
+*note: Radio news is played directly after this track.*
 
 8. On a Slow Boat to China - Harry Babbitt, Gloria Wood, Kay Kyser - ?
 
@@ -46,20 +46,20 @@ Loop length: 58:12.115
 
 10. I'll Be Seeing You - Julie Dawn, Carroll Gibbons, Savoy Hotel Orpheans - We'll Meet Again: The Love Songs of World War II
 
-*<note: Radio news plays directly after this track.>*
+*note: Radio news plays directly after this track.*
 
 11. When Buddha Smiles - Benny Goodman - ?
 
-*<note: Radio interference and jungle sounds (Arthur Lyman - “Taboo”)  are played during this track.>*
+*note: Radio interference and jungle sounds (Arthur Lyman - “Taboo”)  are played during this track.*
 
 12. Goodnight Wherever You Are - Helen Claire, Harry Leader - We'll Meet Again: The Love Songs of World War II
 
 13. Moonlight on the Ganges - Tommy Dorsey - We'll Meet Again: The Love Songs of World War II
 
-*<note: Radio interference and jungle sounds are played during this track, and radio news is heard directly following it.>*
+*note: Radio interference and jungle sounds are played during this track, and radio news is heard directly following it.*
 
 14. Someone's Rocking My Dream Boat - The Ink Spots - We'll Meet Again: The Love Songs of World War II
 
 15. Moonlight Serenade - Glenn Miller Orchestra - ?
 
-*<note: Radio news is heard directly following this track.>*
+*note: Radio news is heard directly following this track.*

@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas, Halloween
 
-Preliminary track list compiled on MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg47961#msg47961](https://mousebits.com/smf/index.php?topic=4845.msg47961#msg47961)  (2011). The initial post also has edit points for all tracks. Track 13 was identified in this post: [https://mousebits.com/smf/index.php?topic=6912.msg60609#msg60609](https://mousebits.com/smf/index.php?topic=6912.msg60609#msg60609)  (2012). All HMH tracks appear to be from the original Goodwin score.
+This tracklist played in the French Market seating area during the holiday season. Preliminary track list compiled by pixelated based on a 2011 reference recording. See MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg47961#msg47961](https://mousebits.com/smf/index.php?topic=4845.msg47961#msg47961)  (2011). The initial post also has edit points for all tracks. Track 13 was identified in this post: [https://mousebits.com/smf/index.php?topic=6912.msg60609#msg60609](https://mousebits.com/smf/index.php?topic=6912.msg60609#msg60609)  (2012). All HMH tracks appear to be from the original 2001 Goodwin score.
 
 ## Tracklist
 

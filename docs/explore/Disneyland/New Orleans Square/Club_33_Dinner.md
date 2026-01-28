@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 02:32:46.041
 
-This loop began playing at Club 33 upon reopening in 2014. It plays during the dinner hours in the Court of Angels up through Le Grand Salon, covering much of the ground of the original Club. This loop does not play in Le Salon Nouveau. Tracklist compiled by StarWarsGalaxysEdge based on his reference recording. See [https://forums.mousebits.com/threads/club-33-dinnertime-background-music.11075/](https://forums.mousebits.com/threads/club-33-dinnertime-background-music.11075/)  (2024).
+This loop was introduced at Club 33 upon reopening in 2014. It plays during the dinner hours in the Court of Angels up through Le Grand Salon, covering much of the ground of the original Club. This loop does not play in Le Salon Nouveau. Tracklist compiled by StarWarsGalaxysEdge based on his reference recording. See [https://forums.mousebits.com/threads/club-33-dinnertime-background-music.11075/](https://forums.mousebits.com/threads/club-33-dinnertime-background-music.11075/)  (2024).
 
 ## Tracklist
 

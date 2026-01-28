@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~00:53:46
 
-This loop plays inside the Star Wars Trading Post in Downtown Disney District, which took up residence after the exit of the Rainforest Cafe. Preliminary tracklist compiled by pixelated and starwarsgalaxysedge based on a 2023 reference recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/star-wars-trading-post.11161/](https://forums.mousebits.com/threads/star-wars-trading-post.11161/)  (2025).
+This loop plays inside the Star Wars Trading Post in Downtown Disney District, which replaced the Rainforest Cafe. Preliminary tracklist compiled by pixelated and starwarsgalaxysedge based on a 2023 reference recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/star-wars-trading-post.11161/](https://forums.mousebits.com/threads/star-wars-trading-post.11161/)  (2025).
 
 ## Tracklist
 

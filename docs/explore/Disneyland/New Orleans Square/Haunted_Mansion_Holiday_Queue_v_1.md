@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas, Halloween
 
-This was the loop in 2001, the first year of the HMH’s operation. The crowd in line was treated to prerecorded orchestral codas, to which they were encouraged to "scream along" in the mansion. It seems that the only other audio otherwise was the Phantom Manor music box. See this YouTube video: [https://www.youtube.com/watch?v=fRPUY52JsQc](https://www.youtube.com/watch?v=fRPUY52JsQc) 
+This loop played in the Haunted Mansion Holiday queue in 2001, the first year of the HMH’s operation. The crowd in line was treated to prerecorded orchestral codas, to which they were encouraged to "scream along" in the mansion. It seems that the only other audio otherwise was the Phantom Manor music box. See this YouTube video: [https://www.youtube.com/watch?v=fRPUY52JsQc](https://www.youtube.com/watch?v=fRPUY52JsQc)  and [https://www.youtube.com/watch?v=IYmr7_BiW7w](https://www.youtube.com/watch?v=IYmr7_BiW7w) 
 
 ## Tracklist
 

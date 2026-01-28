@@ -6,7 +6,7 @@
 
 **Dates**: April 11, 2003
 
-Custom, non-needledrop orchestrations of classic Winnie the Pooh songs. Listed on [https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html](https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html)  and later on Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html](https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html)  and then altered by myself. Loop length measured from an induction.
+This loop played in the queue for The Many Adventures of Winnie the Pooh attraction. It is comprised of custom, non-needledrop orchestrations of classic Winnie the Pooh songs. Tracklist originally listed on [https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html](https://disneymusicloops.tripod.com/dlr/dlr-cc-pooh.html)  and later on Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html](https://disney-parks-music-compendium.blogspot.com/2022/11/the-many-adventures-of-winnie-pooh.html)  with slight adjustments made here by SSrustworthy. Loop length measured from an induction.
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This is a verified track list for the general Frontierland holiday loop. See MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg47143#msg47143](https://mousebits.com/smf/index.php?topic=4845.msg47143#msg47143)  (2010).
+This is a verified track list for the general Frontierland holiday loop, first heard in 2009 and still in use as of 2025. Tracklist compiled by pixelated based on a 2009 recording. See MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg47143#msg47143](https://mousebits.com/smf/index.php?topic=4845.msg47143#msg47143)  (2010).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: October 21, 2021
 
-This loop has played since shop opening in October 2021 in the previous location of the camera shop. See MouseBits, [https://forums.mousebits.com/threads/plaza-point-holiday-shoppe-interior-loop.11069/](https://forums.mousebits.com/threads/plaza-point-holiday-shoppe-interior-loop.11069/) , 2024. See Reconstruction by [https://www.youtube.com/watch?v=M0aGtEuqZUw](https://www.youtube.com/watch?v=M0aGtEuqZUw)  .
+This loop has played in the Plaza Point Holiday Shoppe since opening in October 2021 in the previous location of the camera shop. See MouseBits, [https://forums.mousebits.com/threads/plaza-point-holiday-shoppe-interior-loop.11069/](https://forums.mousebits.com/threads/plaza-point-holiday-shoppe-interior-loop.11069/) , 2024. See Reconstruction by [https://www.youtube.com/watch?v=M0aGtEuqZUw](https://www.youtube.com/watch?v=M0aGtEuqZUw)  .
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: January 2, 2001
 
-Notes: Playlist compiled by C33 and posted 05/2010 on Magic Music of the Mouse discussion board. See MouseBits, [https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731](https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731) 
+This loop plays inside the Napa Rose restaurant and from one speaker near the outdoor fireplace. The tracklist was compiled by C33 and posted 05/2010 on Magic Music discussion board. See MouseBits, [https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731](https://mousebits.com/smf/index.php?topic=6806.msg56731#msg56731) 
 
 ## Tracklist
 

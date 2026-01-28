@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:57:18.914
 
-This loop started playing circa 2017 in the restaurant proper, most audibly near the kitchen and house facade.  Prior to and after its installation, the holiday loop played in the winter months. See MouseBits, [https://forums.mousebits.com/threads/the-blue-bayou-restaurant.11043/](https://forums.mousebits.com/threads/the-blue-bayou-restaurant.11043/)  (2024). Compiled by SSrustworthy.
+This loop started playing circa 2017 in The Blue Bayou restaurant proper, most audibly near the kitchen and house facade. Prior to and after its installation, the holiday loop replaced the regular loop in the winter months. See MouseBits, [https://forums.mousebits.com/threads/the-blue-bayou-restaurant.11043/](https://forums.mousebits.com/threads/the-blue-bayou-restaurant.11043/)  (2024). Compiled by SSrustworthy.
 
 ## Tracklist
 

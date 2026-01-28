@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:16:08.471
 
-Verified on MouseBits by Pixelated as playing both upstairs and downstairs using a 2010 reference recording: [https://mousebits.com/smf/index.php?topic=5691.msg44821#msg44821](https://mousebits.com/smf/index.php?topic=5691.msg44821#msg44821)  Starts with a 10 second silent gap. Also see MouseBits, [https://mousebits.com/smf/index.php?topic=10814.msg98862#msg98862](https://mousebits.com/smf/index.php?topic=10814.msg98862#msg98862)  (2022).
+Verified on MouseBits by Pixelated as playing both upstairs and downstairs in the Hungry Bear Restaurant using a 2010 reference recording: [https://mousebits.com/smf/index.php?topic=5691.msg44821#msg44821](https://mousebits.com/smf/index.php?topic=5691.msg44821#msg44821)  Starts with a 10 second silent gap. Thought to also have played in the Country Bear Jamboree queue, see MouseBits, [https://mousebits.com/smf/index.php?topic=10814.msg98862#msg98862](https://mousebits.com/smf/index.php?topic=10814.msg98862#msg98862)  (2022).
 
 ## Tracklist
 

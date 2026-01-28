@@ -6,7 +6,7 @@
 
 **Dates**: June 23, 1999 → September 3, 2021
 
-This is not a loop that plays successively from one speaker, but rather a collection of different musical tracks that played from different segments of the treehouse as you walked through the attraction. See an interview with Tony Baxter on the attraction music: [https://community.magicmusic.net/threads/tarzans-treehouse.160/#post-1162](https://community.magicmusic.net/threads/tarzans-treehouse.160/#post-1162) 
+This tracklist is for the attraction music at Tarzan’s Treehouse, 1999-2021. This is not a loop that plays successively from one speaker, but rather a collection of different musical tracks that played from different segments of the treehouse as you walked through the attraction. See an interview with Tony Baxter on the attraction music: [https://community.magicmusic.net/threads/tarzans-treehouse.160/#post-1162](https://community.magicmusic.net/threads/tarzans-treehouse.160/#post-1162) 
 
 ## Tracklist
 

@@ -1,4 +1,4 @@
-# MM Runaway Railway Disco Tribute [INC]
+# Mickey and Minnie's Runaway Railway Disco Tribute [INC]
 
 **Land(s)**: Mickey's Toontown
 

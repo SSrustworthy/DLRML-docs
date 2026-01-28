@@ -10,7 +10,7 @@ This loop played in the Paradise Pier Hotel Lobby during the holiday season. The
 
 ## Tracklist
 
-1\.  Jingle Bell Rock  – Jack Jezzro & Sam Levine – Christmas In The Fifties
+1\. Jingle Bell Rock  – Jack Jezzro & Sam Levine – Christmas In The Fifties
 
 - Loop Track Length:  3:25.285
 - Album Track Number: 1
@@ -38,21 +38,21 @@ This loop played in the Paradise Pier Hotel Lobby during the holiday season. The
 - Album Disc Number: 1
 - Album Label: Green Hill
 
-5\.  Santa, Bring My Baby Back (To Me)  – Jack Jezzro & Sam Levine – Christmas In The Fifties
+5\. Santa, Bring My Baby Back (To Me)  – Jack Jezzro & Sam Levine – Christmas In The Fifties
 
 - Loop Track Length:  3:31.996
 - Album Track Number: 5
 - Album Disc Number: 1
 - Album Label: Green Hill
 
-6\.  Here Comes Santa Claus (Right Down Santa Claus Lane)  – Jack Jezzro & Sam Levine – Christmas In The Fifties
+6\. Here Comes Santa Claus (Right Down Santa Claus Lane)  – Jack Jezzro & Sam Levine – Christmas In The Fifties
 
 - Loop Track Length:  2:49.211
 - Album Track Number: 6
 - Album Disc Number: 1
 - Album Label: Green Hill
 
-7\.  The Chipmunk Song (Christmas Don't Be Late)  – Jack Jezzro & Sam Levine – Christmas In The Fifties
+7\. The Chipmunk Song (Christmas Don't Be Late)  – Jack Jezzro & Sam Levine – Christmas In The Fifties
 
 - Loop Track Length:  2:44.858
 - Album Track Number: 7
@@ -94,7 +94,7 @@ This loop played in the Paradise Pier Hotel Lobby during the holiday season. The
 - Album Disc Number: 1
 - Album Label: Green Hill
 
-13\.  The Christmas Song (Chestnuts Roasting on an Open Fire) – "The Surf Christmas Band" – Surf Christmas
+13\. The Christmas Song (Chestnuts Roasting on an Open Fire) – Gary Ferguson – Surf Christmas
 
 - Loop Track Length:  3:52.870
 

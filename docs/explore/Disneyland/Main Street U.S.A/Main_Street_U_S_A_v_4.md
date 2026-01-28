@@ -6,7 +6,7 @@
 
 **Dates**: January 9, 2012
 
-This is the third version of the Main Street, U.S.A. loop that was introduced in 2012.  The tracks were custom compositions by Dean Mora performed by the Dean Mora Orchestra. See MouseBits, [https://mousebits.com/smf/index.php?topic=6968.msg58915#msg58915](https://mousebits.com/smf/index.php?topic=6968.msg58915#msg58915)  (2012). All composition dates (fictional or real) are listed with the track titles for context.
+This loop has played on Main Street, U.S.A. from 2012 onward.  The tracks were custom compositions by Dean Mora performed by the Dean Mora Orchestra. See MouseBits, [https://mousebits.com/smf/index.php?topic=6968.msg58915#msg58915](https://mousebits.com/smf/index.php?topic=6968.msg58915#msg58915)  (2012). All composition dates (fictional or real) are listed with the track titles for context.
 
 ## Tracklist
 

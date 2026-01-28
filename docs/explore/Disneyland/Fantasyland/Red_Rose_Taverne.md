@@ -6,7 +6,7 @@
 
 **Dates**: February 24, 2017
 
-The Red Rose Taverne took over the Village Haus on February  24, 2017. See MouseBits, [https://mousebits.com/smf/index.php?topic=9503.msg90016#msg90016](https://mousebits.com/smf/index.php?topic=9503.msg90016#msg90016)  (2017). It is identical to the Magic Kingdom’s tavern loop, with slight speed differences, based on a 2024 recording from SSrustworthy. These tracks seem to be from a different recording session than the partial loop officially released by Tokyo Disneyland. See Mousebits, [https://mousebits.com/smf/index.php?topic=7806.msg87638#msg87638](https://mousebits.com/smf/index.php?topic=7806.msg87638#msg87638)  (2016) and [https://forums.mousebits.com/threads/red-rose-taverne.11143/](https://forums.mousebits.com/threads/red-rose-taverne.11143/)  (2025).
+This loop plays in the Red Rose Taverne, which replaced the Village Haus on February 24, 2017. See MouseBits, [https://mousebits.com/smf/index.php?topic=9503.msg90016#msg90016](https://mousebits.com/smf/index.php?topic=9503.msg90016#msg90016)  (2017). It is identical to the Magic Kingdom’s tavern loop, with slight speed differences, based on a 2024 recording from SSrustworthy. Based on a direct comparison, these tracks seem to be from a different recording session than the partial loop officially released commercially by Tokyo Disneyland. See Mousebits, [https://mousebits.com/smf/index.php?topic=7806.msg87638#msg87638](https://mousebits.com/smf/index.php?topic=7806.msg87638#msg87638)  (2016) and [https://forums.mousebits.com/threads/red-rose-taverne.11143/](https://forums.mousebits.com/threads/red-rose-taverne.11143/)  (2025).
 
 ## Tracklist
 

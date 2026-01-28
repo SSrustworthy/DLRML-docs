@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop plays in the Star View Station Member Lounge on the Second floor of Star Wars Launch Bay, which opened in April 2023. A few tracks have been identified via YouTube videos. See MouseBits, [https://forums.mousebits.com/threads/disney-vacation-club-star-view-station-member-lounge.11159/](https://forums.mousebits.com/threads/disney-vacation-club-star-view-station-member-lounge.11159/)  (2025).
+This loop plays in the Star View Station Member Lounge on the Second floor of the Star Wars Launch Bay, which opened in April 2023. A few tracks have been identified via YouTube videos. See MouseBits, [https://forums.mousebits.com/threads/disney-vacation-club-star-view-station-member-lounge.11159/](https://forums.mousebits.com/threads/disney-vacation-club-star-view-station-member-lounge.11159/)  (2025).
 
 ## Tracklist
 

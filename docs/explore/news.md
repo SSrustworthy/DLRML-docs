@@ -2,6 +2,21 @@
 
 This is the log for all database updates.
 
+## Site Update 1/27/25
+
+### DL
+
+- Manually updated loop descriptions across the 209 Disneyland park loops currently featured in the database.
+
+### DCA
+
+- Updated Flik’s Fun Fair tracklist
+- Updated notes and sources for Condor Flats - Taste Pilots’ Grill
+
+### Other
+
+- Manually updated loop descriptions across the 64 ‘Other Disneyland Resort’ loops currently featured in the database.
+
 ## Site Update 12/26/25
 
 ### DL

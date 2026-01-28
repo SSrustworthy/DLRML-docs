@@ -6,7 +6,7 @@
 
 **Dates**: July 18, 2014
 
-This loop began playing at Club 33 upon reopening in 2014. It plays during the lunch hours in the Court of Angels up through Le Grand Salon, covering much of the ground of the original Club. Le Salon Nouveau is said to have a different loop. Based on tracks listed by monorail91, this loop is presumed to be identical to the general Port Orleans loop at Walt Disney World, which was recorded by sorker and used for times reference here. See [https://forums.mousebits.com/threads/club-33-2-0-music.8643/#post-81820](https://forums.mousebits.com/threads/club-33-2-0-music.8643/#post-81820)  (2014) and [https://forums.mousebits.com/threads/club-33-lunchtime-background-music.11036/](https://forums.mousebits.com/threads/club-33-lunchtime-background-music.11036/)  (2024).
+This loop began playing at Club 33 upon reopening in 2014. It plays during the lunch hours in the Court of Angels up through Le Grand Salon, covering much of the ground of the original Club. Le Salon Nouveau is said to have a different loop. Based on tracks listed by monorail91, this loop is presumed to be identical to the general Port Orleans loop at Walt Disney World, which was recorded by sorker and used for time references here. See [https://forums.mousebits.com/threads/club-33-2-0-music.8643/#post-81820](https://forums.mousebits.com/threads/club-33-2-0-music.8643/#post-81820)  (2014) and [https://forums.mousebits.com/threads/club-33-lunchtime-background-music.11036/](https://forums.mousebits.com/threads/club-33-lunchtime-background-music.11036/)  (2024).
 
 ## Tracklist
 

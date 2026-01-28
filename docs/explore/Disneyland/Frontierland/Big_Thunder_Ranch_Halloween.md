@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Halloween
 
-Preliminary track list; presumed to have only played in 2012 in the Big Thunder Ranch area. “Most of the tracks have a long fadeout that runs up against the following track. I've noted where there are actual silent gaps between tracks.” See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431](https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431)  .
+This is a preliminary track list for a loop that at least played in 2012 in the Big Thunder Ranch area during the Halloween season. Thought to have only played one year, see MouseBits, [https://forums.mousebits.com/threads/big-thunder-ranch-jamboree-halloween-carnival-bgm.8711/post-82748.“Most](https://forums.mousebits.com/threads/big-thunder-ranch-jamboree-halloween-carnival-bgm.8711/post-82748.“Most)  of the tracks have a long fadeout that runs up against the following track. I've noted where there are actual silent gaps between tracks.” Tracklist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431](https://mousebits.com/smf/index.php?topic=7066.msg67431#msg67431)  .
 
 ## Tracklist
 

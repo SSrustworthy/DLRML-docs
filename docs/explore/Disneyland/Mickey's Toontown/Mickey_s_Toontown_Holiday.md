@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This listing was painstakingly compiled by Pixelated (MouseBits; [https://mousebits.com/smf/index.php?topic=4845.msg47976#msg47976](https://mousebits.com/smf/index.php?topic=4845.msg47976#msg47976) ). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time.
+This loop was played in the Mickey’s Toontown area during the holiday season. This listing was compiled by pixelated in 2011 (MouseBits; [https://mousebits.com/smf/index.php?topic=4845.msg47976#msg47976](https://mousebits.com/smf/index.php?topic=4845.msg47976#msg47976) ). Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time.
 
 ## Tracklist
 

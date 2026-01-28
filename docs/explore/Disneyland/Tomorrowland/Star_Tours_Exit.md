@@ -6,7 +6,7 @@
 
 **Dates**: January 9, 1987 → December 3, 2012
 
-This music played in the exit hall of the attraction. It is essentially the Star Wars Theme from the Treasures of Fantasy CD, looped twice with a transition bridge. See Magic Music, [https://community.magicmusic.net/threads/star-tours-exit-music.856/#post-32920](https://community.magicmusic.net/threads/star-tours-exit-music.856/#post-32920)  (2003).
+This music played in the exit hall of the original Star Tours attraction. It is essentially the Star Wars Theme from the Treasures of Fantasy CD, looped twice with a transition bridge. See Magic Music, [https://community.magicmusic.net/threads/star-tours-exit-music.856/#post-32920](https://community.magicmusic.net/threads/star-tours-exit-music.856/#post-32920)  (2003).
 
 ## Tracklist
 

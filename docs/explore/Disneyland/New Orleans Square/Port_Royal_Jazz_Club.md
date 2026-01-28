@@ -6,7 +6,7 @@
 
 **Dates**: May 2, 2025
 
-This loop played inside the Port Royal Jazz Club, which serves as a seating area for the Royal Street Veranda. It replaced the Port Royal Curios and Curiosities Shop, but as of July 8, 2025, has reverted to the original shop. The loop is incomplete. It shares many tracks in common with the Club 33 loops. An initial tracklist was compiled by pixelated, SSrustworthy and RocketRodsXPR (MouseCord, 2025) based on live reference recordings by pixelated and Daps Magic. See MouseBits, [https://forums.mousebits.com/threads/port-royal-jazz-club.11162/](https://forums.mousebits.com/threads/port-royal-jazz-club.11162/)  (2025).
+This loop played inside the Port Royal Jazz Club, which serves as a seating area for the Royal Street Veranda. It replaced the Port Royal Curios and Curiosities Shop on May 2, 2025, but as of July 8, 2025, has reverted to the original shop. The loop is incomplete. It shares many tracks in common with the Club 33 loops. An initial tracklist was compiled by pixelated, SSrustworthy and RocketRodsXPR (MouseCord, 2025) based on live reference recordings by pixelated and Daps Magic. See MouseBits, [https://forums.mousebits.com/threads/port-royal-jazz-club.11162/](https://forums.mousebits.com/threads/port-royal-jazz-club.11162/)  (2025).
 
 ## Tracklist
 

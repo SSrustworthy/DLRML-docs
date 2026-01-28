@@ -6,7 +6,7 @@
 
 **Dates**: June 14, 1958 → January 1, 1982
 
-The main title was the queue music for the original, pre-1984 attraction. See Magic Music: [https://community.magicmusic.net/threads/fantasyland-attractions.628/#post-21741](https://community.magicmusic.net/threads/fantasyland-attractions.628/#post-21741)  .
+The Alice in Wonderland ‘Main Title’ was the sole queue music for the original, pre-1984 Alice in Wonderland attraction. See Magic Music: [https://community.magicmusic.net/threads/fantasyland-attractions.628/#post-21741](https://community.magicmusic.net/threads/fantasyland-attractions.628/#post-21741)  .
 
 ## Tracklist
 

@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:16:30.078
 
-The Frontier Landing, that is, the dock of the Mark Twain and SS Columbia, has speakers that can play a short loop of recorded tracks from the Wurlitzer model L orchestrion previously stationed on the dock. A cast member can turn this music on upon request (although they may be confused when you first ask). See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  .
+The Frontier Landing, that is, the dock of the Mark Twain and SS Columbia, has speakers that can play a short loop of recorded tracks from the Wurlitzer model LX orchestrion previously stationed on the dock. These tracks would have been from APP (automatic player_ rolls. A cast member can turn this music on upon request (although they may be confused when you first ask). Tracklist compiled by SSrustworthy based on a 2025 recording. See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  .
 
 ## Tracklist
 

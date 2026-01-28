@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:55:50
 
-This loop plays in the Emporium, specifically in the plush toy department (which has no official title). All source tracks have a playback rate of 1.088530. There are no edits to any of the source tracks besides the faster playback rate. Tracklist compiled by pixelated and IHeartGaming based on a 2020 reference recording by pixelated. Still playing as of 2024. See MouseBits, [https://forums.mousebits.com/threads/emporium-plush-toy-department.11163/](https://forums.mousebits.com/threads/emporium-plush-toy-department.11163/)  (2025).
+This loop plays in the Emporium, specifically in the plush toy department (which has no official title). It is unclear when the loop was first introduced. All source tracks have a playback rate of 1.088530x speed. There are no edits to any of the source tracks besides the faster playback rate. Tracklist compiled by pixelated and IHeartGaming based on a 2020 reference recording by pixelated. Still playing as of 2024. See MouseBits, [https://forums.mousebits.com/threads/emporium-plush-toy-department.11163/](https://forums.mousebits.com/threads/emporium-plush-toy-department.11163/)  (2025).
 
 ## Tracklist
 

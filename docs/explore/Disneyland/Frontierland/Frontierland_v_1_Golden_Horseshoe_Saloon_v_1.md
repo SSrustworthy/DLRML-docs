@@ -7,7 +7,7 @@
 
 **Dates**: January 1, 1995 → January 1, 2012
 
-Compiled by wedroy1923. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263](https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263)  and Magic Music, Re: [https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641](https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641)  .
+This loop played across Frontierland ca. 1995 until 2011. Tracklist compiled by X-S Tech and wedroy1923. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263](https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263)  and Magic Music, Re: [https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641.](https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641.)  It was also reported to play inside the Golden Horseshoe for a time, see MouseBits, [https://forums.mousebits.com/threads/new-frontierland-area-music-loop.7016/post-59253](https://forums.mousebits.com/threads/new-frontierland-area-music-loop.7016/post-59253)  .
 
 ## Tracklist
 

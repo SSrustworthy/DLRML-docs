@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-A preliminary track list for the Disneyland 2013 Jingle Cruise Boathouse BGM. Every loop track has been compared against full-length album tracks and pixelated has noted where a loop track is not an exact match to an album track. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=8302.msg77972#msg77972](https://mousebits.com/smf/index.php?topic=8302.msg77972#msg77972)  (2013). The loop seems to have returned in 2025 (v.3).
+A preliminary track list for the Disneyland 2013 Jingle Cruise Boathouse BGM. Every loop track has been compared against full-length album tracks. pixelated has noted where a loop track is not an exact match to an album track. Individual track lengths are measured from the start of that track to the start of the following track, so any gap between tracks is included in that time. See MouseBits, [https://mousebits.com/smf/index.php?topic=8302.msg77972#msg77972](https://mousebits.com/smf/index.php?topic=8302.msg77972#msg77972)  (2013). The loop returned for the 2025 holiday season (v.3), with an announcement removed (that was repeated twice in the loop).
 
 ## Tracklist
 

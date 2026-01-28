@@ -1,10 +1,10 @@
-# Disneyland Hotel Holiday v.3, Disneyland Hotel Porte-Cochère Holiday, Pixar Place Hotel Pool Holiday
+# Disneyland Hotel Holiday v.3, Disneyland Hotel Porte-Cochère Holiday, Pixar Place Hotel Holiday
 
 **Area**: Disneyland Hotel, Pixar Place Hotel
 
 **Loop Total Length**: 02:31:19
 
-This loop plays at the Pixar Place Hotel and the Disneyland Hotel (exterior common areas around the pool area except next to the Trader Sam’s area) and porte-cochère, introduced in the 2025 holiday season. Preliminary tracklist compiled by Park Sensory and SSrustworthy based on a [https://www.youtube.com/watch?v=Odg6l4MGjc4](https://www.youtube.com/watch?v=Odg6l4MGjc4)  by Park Sensory.
+This loop plays at the Pixar Place Hotel (except the Great Maple Modern American Eatery) and plays throughout the Disneyland Hotel, but not outside Trader Sam's. The loop also plays inside the individual tower lobbies, including the Discovery Tower and porte-cochère, Loop was introduced in the 2025 holiday season. Preliminary tracklist compiled by Park Sensory and SSrustworthy based on a [https://www.youtube.com/watch?v=Odg6l4MGjc4](https://www.youtube.com/watch?v=Odg6l4MGjc4)  by Park Sensory.
 
 ## Tracklist
 

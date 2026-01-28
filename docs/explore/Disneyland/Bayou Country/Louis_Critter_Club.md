@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:51:36.00
 
-Louis’ Critter Club opened on November 13, 2024. The cajun-style loop plays from speakers high overhead. Tracklist compiled by pixelated and SSrustworthy based on a recording by pixelated, see Mousebits: [https://forums.mousebits.com/threads/louis-critter-club.11083/](https://forums.mousebits.com/threads/louis-critter-club.11083/)  (2025).
+This loop plays in the interior of the Louis’ Critter Club gift shop, which opened on November 13, 2024. Tracklist compiled by pixelated and SSrustworthy based on a recording by pixelated, see Mousebits: [https://forums.mousebits.com/threads/louis-critter-club.11083/](https://forums.mousebits.com/threads/louis-critter-club.11083/)  (2025).
 
 ## Tracklist
 

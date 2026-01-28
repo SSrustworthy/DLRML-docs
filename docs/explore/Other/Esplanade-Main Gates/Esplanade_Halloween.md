@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Halloween
 
-This loop has played in the Esplanade during Halloween at least since 2021 (verified as of 2024). It appears to be reused from the Mickey’s Halloween Party park BGM used prior to the Halloween party rebranding to the Oogie Boogie Bash. See MouseBits, [https://mousebits.com/smf/index.php?topic=8223.msg76518#msg76518](https://mousebits.com/smf/index.php?topic=8223.msg76518#msg76518)  (2013) and [https://mousebits.com/smf/index.php?topic=10816.msg98980#msg98980](https://mousebits.com/smf/index.php?topic=10816.msg98980#msg98980)  (2022).
+This loop has played in the Esplanade during Halloween at least since 2021 (verified as of 2024). It appears to be reused from the Mickey’s Halloween Party park BGM used prior to the Halloween party rebranding to the Oogie Boogie Bash. Tracklist compiled by monorail91 with edits noted by SSrustworthy. See MouseBits, [https://mousebits.com/smf/index.php?topic=8223.msg76518#msg76518](https://mousebits.com/smf/index.php?topic=8223.msg76518#msg76518)  (2013) and [https://mousebits.com/smf/index.php?topic=10816.msg98980#msg98980](https://mousebits.com/smf/index.php?topic=10816.msg98980#msg98980)  (2022).
 
 ## Tracklist
 

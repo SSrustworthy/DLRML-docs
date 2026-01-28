@@ -6,7 +6,7 @@
 
 **Dates**: May 25, 1983
 
-This loop plays in the covered queue and loading area for Pinocchio’s Daring Journey in Fantasyland. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/pinocchios-daring-journey-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/pinocchios-daring-journey-queue-bgm.html)  and Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71](https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71)  (2002). The most complete tracklist was posted by SSrustworthy on MouseBits, see [https://forums.mousebits.com/threads/pinocchios-daring-journey-queue.11044/](https://forums.mousebits.com/threads/pinocchios-daring-journey-queue.11044/) (2024) .
+This loop plays in the covered queue and loading area for Pinocchio’s Daring Journey in Fantasyland. See Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/pinocchios-daring-journey-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/pinocchios-daring-journey-queue-bgm.html)  and Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71](https://community.magicmusic.net/threads/disneyland-music-loops.17/#post-71)  (2002). The most complete tracklist was posted by SSrustworthy on MouseBits, see [https://forums.mousebits.com/threads/pinocchios-daring-journey-queue.11044/https://forums.mousebits.com/threads/pinocchios-daring-journey-queue.11044/](https://forums.mousebits.com/threads/pinocchios-daring-journey-queue.11044/https://forums.mousebits.com/threads/pinocchios-daring-journey-queue.11044/) (2024) .
 
 ## Tracklist
 
