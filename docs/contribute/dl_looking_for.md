@@ -18,10 +18,6 @@ I only have partial information about this loop (see database).
 
 The Jingle Cruise apparently changed its queue track after the first year of opening. It is unknown how much it changed for those years. The Jingle Cruise has not returned since 2016.
 
-## Mad Hatter (Fantasyland Shop interior)
-
-I only have partial information about this loop (see database).
-
 ## Mile Long Bar
 
 I only have partial information about this loop (see database).
@@ -77,10 +73,6 @@ I only have partial information about this loop (see database).
 ## Plaza Inn 1971-1983
 
 The Plaza Inn and Crystal Palace (WDW) apparently shared a loop from 1971 to 1983. See MouseBits, [Re: The correct MK "Main Street USA 1976-1991 - Morning" track list?](https://mousebits.com/smf/index.php?topic=7973.msg73529#msg73529).
-
-## The Star Trader (ca. 2011)
-
-This shop plays a loop of John Williams’ Star Wars compositions.
 
 ## Club 33
 

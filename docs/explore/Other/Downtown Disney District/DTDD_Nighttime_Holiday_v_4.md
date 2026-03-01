@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:43:30.397
 
-This loop plays in the evening in the Downtown Disney District. This is the same loop as in previous years with the addition of three tracks, with the Jonas Brothers track repeated twice (noted). Tracklist compiled by pixelated based on his 2025 reference recording.
+This loop plays in the evening in the Downtown Disney District. This is the same loop as in previous years with the addition of three tracks, with the Jonas Brothers track repeated twice (noted). Tracklist compiled by pixelated based on his 2025 reference recording. See MouseBits, [https://forums.mousebits.com/threads/dtd-nighttime-holiday-v-3-preliminary-tracklist.10875/post-100611](https://forums.mousebits.com/threads/dtd-nighttime-holiday-v-3-preliminary-tracklist.10875/post-100611)  (2026).
 
 ## Tracklist
 

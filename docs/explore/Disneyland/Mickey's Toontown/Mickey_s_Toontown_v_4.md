@@ -6,7 +6,7 @@
 
 **Dates**: March 18, 2023
 
-This loop plays around Mickey’s Toontown, and was installed with the grand reopening of the land on March 18th, 2023. The loop is a dynamic loop, with instrumentation changing between CenTOONial Park, the Fountain, Goofy’s How-to-Play Yard, and Popcorn Park. See MouseBits, [https://mousebits.com/smf/index.php?topic=10886.msg99327#msg99327](https://mousebits.com/smf/index.php?topic=10886.msg99327#msg99327)  (2023) and SSrustworthy’s extended notes, [https://dlrmusicloops.com/resources/mousebits_post_archive/Disneyland/new_mickey%E2%80%99s_toontown_loop_%282023%29/](https://dlrmusicloops.com/resources/mousebits_post_archive/Disneyland/new_mickey%E2%80%99s_toontown_loop_%282023%29/)  .
+This loop plays around Mickey’s Toontown, and was installed with the grand reopening of the land on March 18th, 2023. The loop is a dynamic loop, with instrumentation changing between each of these regions: CenTOONial Park/the Fountain, Toontown City Hall, Goofy’s How-to-Play Yard, Mickey’s/Minnie’s Houses, Chip 'n' Dale's GADGETcoaster, and Popcorn Park. See MouseBits, [https://mousebits.com/smf/index.php?topic=10886.msg99327#msg99327](https://mousebits.com/smf/index.php?topic=10886.msg99327#msg99327)  (2023) and SSrustworthy’s extended notes, [https://dlrmusicloops.com/resources/mousebits_post_archive/Disneyland/new_mickey%E2%80%99s_toontown_loop_%282023%29/](https://dlrmusicloops.com/resources/mousebits_post_archive/Disneyland/new_mickey%E2%80%99s_toontown_loop_%282023%29/)  .
 
 ## Tracklist
 

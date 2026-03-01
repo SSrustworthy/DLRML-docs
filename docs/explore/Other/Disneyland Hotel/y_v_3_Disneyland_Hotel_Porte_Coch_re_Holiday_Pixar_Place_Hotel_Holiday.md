@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 02:31:19
 
-This loop plays at the Pixar Place Hotel (except the Great Maple Modern American Eatery) and plays throughout the Disneyland Hotel, but not outside Trader Sam's. The loop also plays inside the individual tower lobbies, including the Discovery Tower and porte-cochère, Loop was introduced in the 2025 holiday season. Preliminary tracklist compiled by Park Sensory and SSrustworthy based on a [https://www.youtube.com/watch?v=Odg6l4MGjc4](https://www.youtube.com/watch?v=Odg6l4MGjc4)  by Park Sensory.
+This loop plays at the Pixar Place Hotel (except the Great Maple Modern American Eatery) and plays throughout the Disneyland Hotel, but not outside Trader Sam's, the Sleeping Beauty Pavilion/speakers above Goofy’s, and within Goofy’s Kitchen. The loop also plays inside the individual tower lobbies, including the Discovery Tower and porte-cochère, Loop was introduced in the 2025 holiday season. Preliminary tracklist compiled by Park Sensory and SSrustworthy based on a live reference recording by Park Sensory, [https://www.youtube.com/watch?v=Odg6l4MGjc4.](https://www.youtube.com/watch?v=Odg6l4MGjc4.)  See MouseBits, [https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100613](https://forums.mousebits.com/threads/disneyland-resort-christmas-loops-3-0.8247/post-100613)  .
 
 ## Tracklist
 

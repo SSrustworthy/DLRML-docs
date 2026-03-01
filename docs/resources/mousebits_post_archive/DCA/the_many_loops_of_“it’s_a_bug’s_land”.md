@@ -147,7 +147,7 @@ Re: DCA - Francis' Ladybug Boogie Tracks
 
 *Copied here for convenience:*
 
-[DCA — Francis’ Ladybug Boogie](dca_—_francis’_ladybug_boogie.md)
+[DCA — Francis’ Ladybug Boogie](dca__francis’_ladybug_boogie.md)
 
 ## **Loop 8: Heimlich's Chew Chew Train (loop length 00:05:54.286)**
 

@@ -2,7 +2,22 @@
 
 This is the log for all database updates.
 
-## Site Update 1/27/25
+## Site Update 3/1/26
+
+### DL
+
+- Identified Tiana’s Palace interior and exterior as having the same loop
+- Verified the Mad Hatter (Fantasyland) loop
+- Added additional track to Mark Twain v.3 tracklist, identified by RocketRodsXPR (Cumberland Gap)
+- Updated Storybook Land Canal Boats track notes, and noted addition of ‘Frozen’ track
+- Added original Rivers of America / NOS day/night loops (Eddie Sotto)
+
+### DCA
+
+- Added Percy Jackson Season 2 Photo Op
+- Added Oswald’s KBVS Radio
+
+## Site Update 1/27/26
 
 ### DL
 

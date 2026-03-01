@@ -6,7 +6,7 @@
 
 **Dates**: July 29, 2017
 
-This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This track was introduced on July 29, 2017 and is still in use as of 2022. See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  for an extensive discussion of this topic.
+This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This collection of tracks was introduced on July 29, 2017 and is still used in 2026, albeit with a change in narration (see v.5). See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  for an extensive discussion of this topic.
 
 ## Tracklist
 
@@ -34,10 +34,10 @@ This is a collection of tracks that play in sync with the narration on the Mark 
 
 
 
+7\. Unclouded Day – Studio Musicians – Smoky Mountain Hymns
+
+- Track Notes: Note: Shazam thinks this tune is by artist Craig Duncan, but the arrangement lines up with the Smoky Mountain Hymns version, and was correctly identified by other services
+
 8\. Lord, Lord, Lord, You Sure Been Good to Me – Dejan’s Olympia Brass Band – Here Come da Great Olympia Band
 
 - Track Notes: Plays after narration track finishes at unload.
-
-8\. Unclouded Day – Studio Musicians – Smoky Mountain Hymns
-
-- Track Notes: Note: Shazam thinks this tune is by artist Craig Duncan, but the arrangement lines up with the Smoky Mountain Hymns version, and was correctly identified by other services

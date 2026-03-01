@@ -1,6 +1,6 @@
 # Soarin' Around the World Queue, Soarin' Over California Queue
 
-**Land(s)**: Golden State
+**Land(s)**: Golden State, Grizzly Peak
 
 **District/Neighborhood**: Condor Flats
 

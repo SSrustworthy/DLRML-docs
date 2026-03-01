@@ -32,7 +32,7 @@ This is a collection of tracks that play in sync with the narration on the Mark 
 
 
 
-8\. Unclouded Day – Studio Musicians – Smoky Mountain Hymns
+7\. Unclouded Day – Studio Musicians – Smoky Mountain Hymns
 
 - Track Notes: Note: Shazam thinks this tune is by artist Craig Duncan, but the arrangement lines up with the Smoky Mountain Hymns version, and was correctly identified by other services
 

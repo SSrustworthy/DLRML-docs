@@ -4,7 +4,7 @@ There are several loops for which I have minimal to no information about.  If yo
 
 ## Lamplight Lounge (restaurant interior)
 
-In search of any tracks played here.
+This loop is incomplete.
 
 ## Sorcerer’s Workshop: Beast’s Library
 

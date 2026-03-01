@@ -22,18 +22,22 @@ This is a collection of tracks that play in sync with the narration on the Mark 
 
 - Track Notes: There is a version of this in the unofficial 34th anniversary Splash Mountain collection (”Area Music - How Do You Do”), but the Disneyland Collection torrent has a version (“How Do Ya Do - Music”) that has the bass line present in the Mark Twain version.
 
-4\. Red River Valley (Instrumental) – Paco Ship – Red River Valley
+4\. Cumberland Gap/A Little Wonder – Hilarie Burhans – Put On the Skillet
+
+- Track Notes: Difficult to hear; plays underneath narration of Mark Twain remembering his youth. Identified by RocketRodsXPR.
+
+5\. Red River Valley (Instrumental) – Paco Ship – Red River Valley
 
 
 
-5\. Pirate’s Cove Medley – Toucan Pirates – Sea Changes of the Toucan Pirates
+6\. Pirate’s Cove Medley – Toucan Pirates – Sea Changes of the Toucan Pirates
 
 
 
-6\. Unclouded Day – Studio Musicians – Smoky Mountain Hymns
+7\. Unclouded Day – Studio Musicians – Smoky Mountain Hymns
 
 - Track Notes: Note: Shazam thinks this tune is by artist Craig Duncan, but the arrangement lines up with the Smoky Mountain Hymns version, and was correctly identified by other services
 
-7\. Lord, Lord, Lord, You Sure Been Good to Me – Dejan’s Olympia Brass Band – Here Come da Great Olympia Band
+8\. Lord, Lord, Lord, You Sure Been Good to Me – Dejan’s Olympia Brass Band – Here Come da Great Olympia Band
 
 - Track Notes: Plays after narration track finishes at unload.
