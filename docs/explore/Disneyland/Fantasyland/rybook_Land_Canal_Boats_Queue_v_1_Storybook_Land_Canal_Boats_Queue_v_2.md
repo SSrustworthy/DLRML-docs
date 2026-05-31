@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 29:00.897 (v2 with Frozen is 32:01.704)
 
-This loop plays from 4 speakers in the landscaping next to the queue. Date of introduction is ca. 1983, and still plays as of 2026. It was updated to include a track from “Frozen” sometime after the attraction was updated in 2014. See MouseBits, [https://mousebits.com/smf/index.php?topic=6237.msg50901#msg50901](https://mousebits.com/smf/index.php?topic=6237.msg50901#msg50901)  (2011) and Disney Parks Music Compendium [https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html)  (2014). A partial tracklist first appeared on [https://disneymusicloops.tripod.com/dlr/dlr-fl-sblcb.html.](https://disneymusicloops.tripod.com/dlr/dlr-fl-sblcb.html.)  Tracklist compiled by wedroy1923 based on a ca. 2011 reference recording by pixelated and updated by SSrustworthy (2026).
+This loop plays from 4 speakers in the landscaping next to the queue. Date of introduction is ca. 1983, and still plays as of 2026. It was updated to include a track from “Frozen” sometime after the attraction was updated in 2014.  Tracklist compiled by wedroy1923 based on a ca. 2011 reference recording by pixelated and updated by SSrustworthy (2026). See MouseBits, [https://mousebits.com/smf/index.php?topic=6237.msg50901#msg50901](https://mousebits.com/smf/index.php?topic=6237.msg50901#msg50901)  (2011) and Disney Parks Music Compendium [https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/storybook-land-canal-boats-queue-bgm.html)  (2014). A partial tracklist first appeared on [https://web.archive.org/web/20190821083652/http://disneymusicloops.tripod.com/dlr/dlr-fl-sblcb.html](https://web.archive.org/web/20190821083652/http://disneymusicloops.tripod.com/dlr/dlr-fl-sblcb.html)  .
 
 ## Tracklist
 
@@ -21,6 +21,7 @@ This loop plays from 4 speakers in the landscaping next to the queue. Date of in
 3\. Babes in Toyland Medley – Tutti Camarata – 33 Great Walt Disney Motion Picture Melodies
 
 - Loop Track Length: 00:04:59.093
+- Track Notes: Also formally released as part of the Babes in Toyland soundtrack as “Babes in Toyland Overture (Instrumental)” which is available digitally
 
 4\. Main Title [Instrumental] – George Bruns, Tchaikovsky – Sleeping Beauty OST
 

@@ -4,7 +4,7 @@
 
 **Loop Total Length**: >41:30
 
-Interstitial loop played inside the Hyperion Theatre in DCA for Rogers: The Musical. The loop restarts at the conclusion of any given show and includes two custom Buena Vista Street advertising jingles. Show announcements are played separately. Loop reference compiled based on YouTube livestreams and may be missing songs after Moonlight Serenade. See MouseBits, [https://forums.mousebits.com/threads/rogers-the-musical-pre-show-loop-exit-music.10965/post-100091](https://forums.mousebits.com/threads/rogers-the-musical-pre-show-loop-exit-music.10965/post-100091)  (2024). Compiled by monorail91 and SSrustworthy.
+This interstitial loop played inside the Hyperion Theatre in DCA for Rogers: The Musical. The loop restarts at the conclusion of any given show and includes two custom Buena Vista Street advertising jingles. Show announcements are played separately. Loop reference compiled based on YouTube livestreams and is missing songs played after Moonlight Serenade. See MouseBits, [https://forums.mousebits.com/threads/rogers-the-musical-pre-show-loop-exit-music.10965/post-100091](https://forums.mousebits.com/threads/rogers-the-musical-pre-show-loop-exit-music.10965/post-100091)  (2024). Compiled by monorail91 and SSrustworthy.
 
 ## Tracklist
 

@@ -10,7 +10,7 @@ This exact loop is unverified, but is here as a placeholder for the 1971-1976 Ma
 
 ## Tracklist
 
-1\. Strolling Through the Park — Mary – The Gaslight Orchestra – Gay Nineties Waltzes
+1\. Strolling Through the Park – The Gaslight Orchestra – Gay Nineties Waltzes
 
 - Album Label: Somerset
 

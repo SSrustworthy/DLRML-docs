@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 00:59:18.836
 
-This extended queue loop was installed sometime after the placemaking of Grizzly River Run from an Xtreme sports theme to a genteel national parks theme. Possible installation in 2011-2013. The loop is just music with no radio broadcast unlike v.1. Preliminary tracklist compiled by pixelated, RocketRodsXPR and wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php?topic=8394.msg78649#msg78649](https://mousebits.com/smf/index.php?topic=8394.msg78649#msg78649)  (2014).
+This loop plays in the extended queue of the Grizzly River Run. It was likely installed ca. 2011-2013 after the placemaking of Grizzly River Run from an Xtreme sports theme to a genteel national parks theme. This loop features continuously playing music, and does not feature a radio broadcast unlike the first iteration of this loop. Preliminary tracklist compiled by pixelated, RocketRodsXPR and wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php?topic=8394.msg78649#msg78649](https://mousebits.com/smf/index.php?topic=8394.msg78649#msg78649)  (2014).
 
 ## Tracklist
 

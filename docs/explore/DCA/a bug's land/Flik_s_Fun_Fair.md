@@ -6,7 +6,7 @@
 
 **Dates**: October 7, 2002 → September 4, 2018
 
-This is a different loop than the "it's a bug's land" loop that is made up of reorchestrated themes from the score. It plays solely by the entrance to Flik's Fun Fair. The music is arguably more light-hearted and melodic than the "it's a bug's land" loop, and the loop does not contain insect noises. This loop was also discussed by C33 in the Re: bugland at dca topic. Tracklist compiled by SSrustworthy and @TheADayIntheParkwithBarneyArch on Youtube. See MouseBits, [https://mousebits.com/smf/index.php?topic=10829.msg98913#msg98913](https://mousebits.com/smf/index.php?topic=10829.msg98913#msg98913)  (2022).
+This loop played solely near the entrance to Flik’s Fun Fair. It is distinct from the "it's a bug's land" loop that which is made up of reorchestrated themes from the score. The music featured in this loop is arguably more light-hearted and melodic than the "it's a bug's land" loop, and does not feature insect SFX. This loop was also discussed by C33 in MouseBits, [https://forums.mousebits.com/threads/bugland-at-dca.6201/post-49265.](https://forums.mousebits.com/threads/bugland-at-dca.6201/post-49265.)  Tracklist compiled by SSrustworthy and @TheADayIntheParkwithBarneyArch on Youtube. See MouseBits, [https://mousebits.com/smf/index.php?topic=10829.msg98913#msg98913](https://mousebits.com/smf/index.php?topic=10829.msg98913#msg98913)  (2022).
 
 ## Tracklist
 

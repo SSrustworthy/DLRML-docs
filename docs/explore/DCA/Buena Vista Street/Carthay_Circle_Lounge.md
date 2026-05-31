@@ -6,7 +6,7 @@
 
 **Dates**: June 15, 2012
 
-A preliminary tracklist for the downstairs Carthay Circle Lounge based on a trip report from wedroy1923 in 2017. Contrary to a post by the Disney Parks Blog, it is not quite synced with the upstairs piano loop, but many of the songs are in the same order. This tracklist based on a WDI demo CD. See MouseBits, [https://mousebits.com/smf/index.php?topic=9537.msg90119#msg90119](https://mousebits.com/smf/index.php?topic=9537.msg90119#msg90119)  (2017).
+A preliminary tracklist for the downstairs Carthay Circle Lounge based on a trip report from wedroy1923 in 2017. The Disney Parks Blog has said regarding the Carthay Circle loops, “Guests on the first level will often hear these pieces represented by an ensemble trio, while those dining in the restaurant upstairs, will enjoy the same music but in a variety of light jazz piano tones.” Recordings have noted that the lounge is not quite synced with the upstairs piano loop, but many of the songs are in the same order. This tracklist is based on a WDI demo CD in a private collection. See MouseBits, [https://mousebits.com/smf/index.php?topic=9537.msg90119#msg90119](https://mousebits.com/smf/index.php?topic=9537.msg90119#msg90119)  (2017). Also see the Disney Parks Blog, [https://web.archive.org/web/20121104212841/http://disneyparks.disney.go.com/blog/2012/11/new-album-captures-the-perfect-tone-for-carthay-circle-restaurant-and-lounge-at-disney-california-adventure-park](https://web.archive.org/web/20121104212841/http://disneyparks.disney.go.com/blog/2012/11/new-album-captures-the-perfect-tone-for-carthay-circle-restaurant-and-lounge-at-disney-california-adventure-park)  .
 
 ## Tracklist
 

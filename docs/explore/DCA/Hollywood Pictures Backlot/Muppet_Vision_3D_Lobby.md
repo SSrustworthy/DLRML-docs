@@ -6,7 +6,7 @@
 
 **Dates**: February 8, 2001 → November 7, 2014
 
-This loop played in the queue area for Muppet Vision 3D. This playlist is based on a 2012 live recording by pixelated and compiled by wedroy1923. All tracks are custom orchestrations. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168)  (2002) and Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/muppetvision-3d-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/muppetvision-3d-bgm.html)  .
+This loop played in the queue area for Muppet Vision 3D from 2001 until 2014. This playlist is based on a 2012 live recording by pixelated and compiled by wedroy1923. All tracks are custom orchestrations. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-2#post-168)  (2002) and Disney Parks Music Compendium, [https://disney-parks-music-compendium.blogspot.com/2022/11/muppetvision-3d-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/muppetvision-3d-bgm.html)  .
 
 ## Tracklist
 

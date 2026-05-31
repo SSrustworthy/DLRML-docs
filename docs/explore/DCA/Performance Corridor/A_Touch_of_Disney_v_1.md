@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: A Touch of Disney
 
-This was the original BGM for the “A Touch of Disney” event, which was not much longer than an hour. VJ said that this was the loop at opening, which looped twice and was identical both times before additional songs were added (see v.2). Playlist compiled on the Mousecord discord server.
+This was the original BGM for the “A Touch of Disney” event, which was not much longer than an hour. This was a limited-time ticketed event held in March and April 2021 that allowed walking access to much of the Disney California Adventure park while the parks remained closed due to the pandemic. VJ said that this was the loop at opening, which looped twice and was identical both times before additional songs were added (see v.2). Tracklist compiled by VJ on the Mousecord discord server based on YouTube videos.
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Festival of Holidays
 
-The ¡Viva Navidad! celebration in Paradise Gardens Park is a seasonal affair from Halloween through the Holiday season. Playlist compiled by RocketRodsXPR based on a recording by pixelated.  See MouseBits, [https://mousebits.com/smf/index.php?topic=9460.msg92248#msg92248](https://mousebits.com/smf/index.php?topic=9460.msg92248#msg92248)  .
+This loop plays in Paradise Gardens Park as part of the ¡Viva Navidad! celebration, a seasonal affair from Halloween through the Holiday season. Playlist compiled by RocketRodsXPR based on a recording by pixelated.  See MouseBits, [https://mousebits.com/smf/index.php?topic=9460.msg92248#msg92248](https://mousebits.com/smf/index.php?topic=9460.msg92248#msg92248)  .
 
 ## Tracklist
 

@@ -9,7 +9,7 @@
 
 **Holiday/Special Event**: A Touch of Disney
 
-This was the second version of the “A Touch of Disney” event loop, which had several songs added to the original loop on the same day of the event debut.  This version was compiled by elecTRONrabbit on the Mousecord discord server.
+This was the second version of the “A Touch of Disney” event loop, which had several songs added to the original loop on the same day of the event debut. This was a limited-time ticketed event held in March and April 2021 that allowed walking access to much of the Disney California Adventure park while the parks remained closed due to the pandemic. This version was compiled by elecTRONrabbit on the Mousecord discord server.
 
 ## Tracklist
 

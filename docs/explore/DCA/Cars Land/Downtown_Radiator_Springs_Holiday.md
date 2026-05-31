@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-A preliminary tracklist compiled by pixelated. This loop plays in downtown Radiator Springs during the holiday season. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg68836#msg68836](https://mousebits.com/smf/index.php?topic=6912.msg68836#msg68836)  (2012).
+This loop plays in Downtown Radiator Springs during the Holiday season. This is a preliminary tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg68836#msg68836](https://mousebits.com/smf/index.php?topic=6912.msg68836#msg68836)  (2012).
 
 ## Tracklist
 

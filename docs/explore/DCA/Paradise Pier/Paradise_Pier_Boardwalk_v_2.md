@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:23:52
 
-A preliminary tracklist for the Paradise Pier Boardwalk v.2 loop compiled by pixelated. It was introduced around July of 2010. See MouseBits, [https://mousebits.com/smf/index.php?topic=5625.msg43998#msg43998](https://mousebits.com/smf/index.php?topic=5625.msg43998#msg43998)  .
+This loop played across the Paradise Pier Boardwalk area from ca. July 2010 until January 2018, when Paradise Pier closed for retheming. A preliminary tracklist was compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=5625.msg43998#msg43998](https://mousebits.com/smf/index.php?topic=5625.msg43998#msg43998)  (2023).
 
 ## Tracklist
 

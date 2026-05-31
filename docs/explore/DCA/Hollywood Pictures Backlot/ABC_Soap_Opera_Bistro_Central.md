@@ -6,7 +6,7 @@
 
 **Dates**: February 8, 2001 → November 3, 2002
 
-This loop played throughout all areas of the ABC Soap Opera Bistro while in operation. The loop included themes from the ABC Soap Operas Port Charles, All My Children, One Life to Live, and General Hospital. See [https://mousebits.com/smf/index.php?topic=7104.msg98932#msg98932](https://mousebits.com/smf/index.php?topic=7104.msg98932#msg98932)  (MouseBits; 2012). Compiled by Greg Lhotka in 1999 according to a demo CD. No live reference recording is available; this tracklist was compiled based on a presumed source track in limited circulation.
+This loop played throughout all areas of the ABC Soap Opera Bistro while in operation from February 8, 2001 until November 3, 2002. The loop included themes from the ABC Soap Operas Port Charles, All My Children, One Life to Live, and General Hospital. See [https://mousebits.com/smf/index.php?topic=7104.msg98932#msg98932](https://mousebits.com/smf/index.php?topic=7104.msg98932#msg98932)  (MouseBits; 2012). The actual BGM loop was compiled by Greg Lhotka in 1999 according to a demo imagineering CD. No live reference recording is available; this tracklist was compiled based on a presumed source track in limited circulation, checked against YouTube footage.
 
 ## Tracklist
 
@@ -111,5 +111,7 @@ This loop played throughout all areas of the ABC Soap Opera Bistro while in oper
 23\. Robin and Stone's Theme – Marty Davich – The Music of General Hospital
 
 - Loop Track Length: 2:16.299
+
+24\. Funky Tension [All My Children] – Unreleased
 
 - Loop Track Length: 2:08.671

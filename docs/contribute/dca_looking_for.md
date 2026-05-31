@@ -2,6 +2,10 @@
 
 There are several loops for which I have minimal to no information about.  If you can assist in identifying these tracks, please [contact me](../contact.md) or start a post on [MouseBits](https://forums.mousebits.com/)!
 
+## Napa Rose v.2
+
+This loop is incomplete.
+
 ## Lamplight Lounge (restaurant interior)
 
 This loop is incomplete.

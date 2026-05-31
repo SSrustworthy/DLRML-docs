@@ -8,7 +8,7 @@
 
 **Dates**: February 8, 2001
 
-This loop is audible inside the Soarin’ hangar prior to the entering the preshow area. Tracklist compiled by Progressland, thx99, and Dr. Know based on a reference recording of unknown authorship and date. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147)  (2002) and [https://community.magicmusic.net/playlists/soarin-over-california-queue.13/](https://community.magicmusic.net/playlists/soarin-over-california-queue.13/)  (2011).
+This loop is audible inside the Soarin’ hangar prior to the entering the preshow area. It has played from 2001 and is still present as of 2026. Tracklist compiled by Progressland, thx99, and Dr. Know based on a reference recording of unknown authorship and date. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147)  (2002) and [https://community.magicmusic.net/playlists/soarin-over-california-queue.13/](https://community.magicmusic.net/playlists/soarin-over-california-queue.13/)  (2011).
 
 ## Tracklist
 

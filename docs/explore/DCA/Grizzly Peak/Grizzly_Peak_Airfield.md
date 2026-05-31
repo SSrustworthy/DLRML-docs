@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 1:15:17.732
 
-A verified tracklist for the Grizzly Peak Airfield compiled by RocketRodsXPR and SuperHotLarry based on a recording by pixelated. This loop was introduced in summer 2015 with the reopening of Condor Flats as Grizzly Peak Airfield. This loop incorporated many tracks from the previous 2011 Grizzly Peak Recreation Area loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=8915.msg85255#msg85255](https://mousebits.com/smf/index.php?topic=8915.msg85255#msg85255)  (2015) and [https://mousebits.com/smf/index.php?topic=9294.msg88007#msg88007](https://mousebits.com/smf/index.php?topic=9294.msg88007#msg88007)  (2016).
+This loop plays in the Grizzly Peak Airfield area and was introduced in summer 2015 with the reopening of Condor Flats as Grizzly Peak Airfield. This loop incorporated many tracks from the previous 2011 Grizzly Peak Recreation Area loop. Verified tracklist compiled by RocketRodsXPR and SuperHotLarry based on a reference recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=8915.msg85255#msg85255](https://mousebits.com/smf/index.php?topic=8915.msg85255#msg85255)  (2015) and [https://mousebits.com/smf/index.php?topic=9294.msg88007#msg88007](https://mousebits.com/smf/index.php?topic=9294.msg88007#msg88007)  (2016).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: February 8, 2001 → January 1, 2011
 
-This loop plays with movie clips in the Animation Building lobby. These songs are not played in their entirety; they are short, edited clips, maybe a minute or so long. See Disney Music Loops, [https://disneymusicloops.tripod.com/dlr/dlr-hpb-animation.html](https://disneymusicloops.tripod.com/dlr/dlr-hpb-animation.html)  and Magic Music, [https://community.magicmusic.net/threads/dca-animation-building.2416/.](https://community.magicmusic.net/threads/dca-animation-building.2416/.)  Also see MouseBits, [https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834](https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834)  .
+This loop played alongside Disney animated film clips and drawings in the Animation Building lobby. The first iteration debuted with park opening and updated in 2011. These songs are not played in their entirety; they are short, edited clips, maybe a minute or so long. See Magic Music, [https://community.magicmusic.net/threads/dca-animation-building.2416/.](https://community.magicmusic.net/threads/dca-animation-building.2416/.)  Also see MouseBits, [https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834](https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834)  .
 
 ## Tracklist
 

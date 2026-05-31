@@ -4,7 +4,7 @@
 
 **Loop Total Length**: N/A
 
-A tracklist based on the Disneyland News press release: [https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/](https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/)  The songs only play when the cars are in motion.
+This is a collection of songs that play as onride music for the Luigi’s Rollickin’ Roadsters attraction. It was introduced with the opening of Cars Land on June 13, 2012. One song plays per ride duration. A tracklist was compiled based on the Disneyland News press release: [https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/](https://web.archive.org/web/20180625041327/http://disneylandnews.com/2016/02/25/luigis-rollickin-roadsters-at-cars-land/) 
 
 ## Tracklist
 

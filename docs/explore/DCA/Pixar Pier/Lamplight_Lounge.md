@@ -4,7 +4,7 @@
 
 **Loop Total Length**: > 1 hr
 
-This loop plays in Lamplight Lounge at Pixar Pier. This is an incomplete tracklist based on a 1 hour reference recording by SSrustworthy and some tracks identified from Reddit posts. Some tracks apparently originate from the Disney Springs Marketplace loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=10828.msg98909#msg98909](https://mousebits.com/smf/index.php?topic=10828.msg98909#msg98909)  (2022).
+This loop plays in the indoor dining area of the Lamplight Lounge at Pixar Pier. This is an incomplete tracklist based on a 1 hour reference recording by SSrustworthy and some tracks identified from Reddit posts. Some tracks apparently originate from the Disney Springs Marketplace loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=10828.msg98909#msg98909](https://mousebits.com/smf/index.php?topic=10828.msg98909#msg98909)  (2022).
 
 ## Tracklist
 

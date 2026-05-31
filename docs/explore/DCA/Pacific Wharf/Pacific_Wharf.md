@@ -8,7 +8,7 @@
 
 **Dates**: February 8, 2001
 
-This loop plays throughout the Pacific Wharf area at DCA. Playlist originally posted by Progressland on [https://community.magicmusic.net/threads/disneyland-music-loops.17/](https://community.magicmusic.net/threads/disneyland-music-loops.17/)  discussion board (2002). Also see MouseBits, [https://mousebits.com/smf/index.php?topic=6243.msg99278#msg99278](https://mousebits.com/smf/index.php?topic=6243.msg99278#msg99278)  (2022) and [https://mousebits.com/smf/index.php?topic=5454.msg41258#msg41258](https://mousebits.com/smf/index.php?topic=5454.msg41258#msg41258)  (2010). Tracks assumed to start when the spectrogram any frequency is visible on the source track and end at the start of the next track.
+This loop played throughout the Pacific Wharf from 2001 until its retheming in 2023. Playlist originally posted by Progressland on [https://community.magicmusic.net/threads/disneyland-music-loops.17/](https://community.magicmusic.net/threads/disneyland-music-loops.17/)  discussion board (2002) and later verified by pixelated and SSrustworthy. Also see MouseBits, [https://mousebits.com/smf/index.php?topic=6243.msg99278#msg99278](https://mousebits.com/smf/index.php?topic=6243.msg99278#msg99278)  (2022) and [https://mousebits.com/smf/index.php?topic=5454.msg41258#msg41258](https://mousebits.com/smf/index.php?topic=5454.msg41258#msg41258)  (2010). When calculating track lengths, tracks were assumed to start when the spectrogram any frequency is visible on the source track and end at the start of the next track.
 
 ## Tracklist
 

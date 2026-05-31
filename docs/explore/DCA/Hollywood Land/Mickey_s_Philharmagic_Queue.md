@@ -6,7 +6,7 @@
 
 **Dates**: April 26, 2019
 
-Loop plays inside the Sunset Theater in the waiting area for Philharmagic. See MouseBits, [https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882](https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882)  (2010). Tracklist compiled by wedroy1923 and disneykw. Presumed to be the same as the WDW loop.
+This loop plays inside the Sunset Theater in the queueing area for Philharmagic. Tracklist compiled by wedroy1923 and disneykw. Presumed to be the same as the WDW loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882](https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882)  (2010).
 
 ## Tracklist
 

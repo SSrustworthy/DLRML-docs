@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop played in DCA’s Off the Page. It is unknown whether it still plays. Listed by X-S Tech on Magic Music, Re: [https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830](https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830)  (2004). X-S Tech noted that a few of the tracks in the loop were edited, but they are not specified. A modern (2024) recording indicates that the tracks are largely limited to their vocal portions, such that intro or outro instrumental portions on their OST releases are trimmed but there are otherwise no intra-track edits.
+This loop played in DCA’s Off the Page, dates unknown but at least in 2004. It has since been updated with a few replacement tracks (v.2). Tracklist compiled by X-S Tech on Magic Music, Re: [https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830](https://community.magicmusic.net/threads/new-playlist-dcas-off-the-page.1460/#post-9830)  (2004). X-S Tech noted that a few of the tracks in the loop were edited, but they are not specified. A modern (2024) recording indicates that the tracks are largely limited to their vocal portions, such that intro or outro instrumental portions on their OST releases are trimmed but there are otherwise no intra-track edits.
 
 ## Tracklist
 

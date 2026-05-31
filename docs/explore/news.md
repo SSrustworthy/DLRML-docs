@@ -2,6 +2,25 @@
 
 This is the log for all database updates.
 
+## Site Update 5/31/26
+
+### DL
+
+- Updated Matterhorn extended queue to include recently identified track Alphorn Berner Oberland - J. Spälti - Traditionelle Schweizer Musik - Traditional Swiss Music (ID'd by JosephJJJ8)
+- Added an entry for the Bluey’s Best Day Ever! Interstitial loop
+
+### DCA
+
+- Updated all loop descriptions to ensure adequate detail
+- Updated tracklist for San Fransokyo loop (tracks removed/added)
+- Added source albums for Sunshine Plaza (thanks to Deep Purple Toupee!)
+- Added a new tracklist for a new loop playing in the courtyard in front of Boardwalk Pizza & Pasta in May 2026 as part of the AAPI Heritage Month Celebrations
+
+### Other
+
+- Updated all DisneyMusicLoops links to use the [archive.org](http://archive.org) version (the site went down as of a few months ago, sadly)
+- Added an incomplete entry for the refurbished Napa Rose’s new loop.
+
 ## Site Update 3/1/26
 
 ### DL

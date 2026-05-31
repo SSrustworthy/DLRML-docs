@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~01:40:00
 
-This tracklist comprises the musical tracks/interludes that are featured as part of the longer radio programme played from the radio set on a shelf above a cast member doorway in Oswald’s on Buena Vista Street. The tracks are played as part of various narrative segments that were recorded specifically for this radio show. Complete notes and a transcript of the show were posted on MouseBits by SSrustworthy based on reference recordings by SSrustworthy and wedroy1923, [https://forums.mousebits.com/threads/kbvs-radio-at-oswalds-in-dca.11203/#post-100596](https://forums.mousebits.com/threads/kbvs-radio-at-oswalds-in-dca.11203/#post-100596)  (2026).
+This radio show-style loop plays from the radio set on a shelf above a cast member doorway in Oswald’s on Buena Vista Street. It was installed with Buena Vista street’s opening on June 15, 2012. This tracklist comprises the musical tracks/interludes that are featured as part of the longer radio programme. The tracks are played as part of various narrative segments that were recorded specifically for this radio show. Complete notes and a transcript of the show were posted on MouseBits by SSrustworthy based on reference recordings by SSrustworthy and wedroy1923. See MouseBits, [https://forums.mousebits.com/threads/kbvs-radio-at-oswalds-in-dca.11203/#post-100596](https://forums.mousebits.com/threads/kbvs-radio-at-oswalds-in-dca.11203/#post-100596)  (2026).
 
 ## Tracklist
 

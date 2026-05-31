@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 00:51:30.833
 
-This loop plays at the Redwood Creek Challenge Trail. It is a shortened version with a few replacements made to the original loop, and appeared sometime before April 2011. Tracklist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082](https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082)  (2011).
+This loop plays at the Redwood Creek Challenge Trail. It is a shortened version with a few replacements made to the original loop, and appeared sometime before April 2011; it continues to play as of April 2026.  Tracklist compiled by pixelated based on his reference recording and verified by SSrustworthy. See MouseBits, [https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082](https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082)  (2011).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: June 1, 2004 → May 1, 2012
 
-The second area loop to play in the Hollywood Pictures Backlot. Played from June/July 2004 until mid-May 2012 when HPB was renamed to Hollywood Land. The full loop had “pages” from an unseen Hollywood Pictures Operator interspersed every few tracks and consisted of two sub-repetitions of the musical loop, with 15 unique HPO pages before the full loop repeated. A short period of time in 2012 had the music loop audible sans interruptions from pages. See Magic Music, [https://community.magicmusic.net/threads/new-loop-at-dcas-hollywood-pictures-backlot.1574/#post-10552](https://community.magicmusic.net/threads/new-loop-at-dcas-hollywood-pictures-backlot.1574/#post-10552)  and MouseBits [https://mousebits.com/smf/index.php?topic=5991.msg55736#msg55736](https://mousebits.com/smf/index.php?topic=5991.msg55736#msg55736)  (2011). Tracklist compiled by wedroy1923 and SSrustworthy based on recordings from pixelated. Most tracks overlap slightly, with fades as noted.
+The second area loop to play in the Hollywood Pictures Backlot.  It played from June/July 2004 until mid-May 2012 when HPB was renamed to Hollywood Land. The full loop had “pages” from an unseen Hollywood Pictures Operator interspersed every few tracks and consisted of two sub-repetitions of the musical loop, with 15 unique HPO pages before the full loop repeated. A short period of time in 2012 had the music loop audible sans interruptions from pages. Tracklist compiled by wedroy1923 and SSrustworthy based on recordings from pixelated. Most tracks overlap slightly, with fades as noted. See Magic Music, [https://community.magicmusic.net/threads/new-loop-at-dcas-hollywood-pictures-backlot.1574/#post-10552](https://community.magicmusic.net/threads/new-loop-at-dcas-hollywood-pictures-backlot.1574/#post-10552)  and MouseBits [https://mousebits.com/smf/index.php?topic=5991.msg55736#msg55736](https://mousebits.com/smf/index.php?topic=5991.msg55736#msg55736)  (2011).
 
 ## Tracklist
 
@@ -89,7 +89,7 @@ The second area loop to play in the Hollywood Pictures Backlot. Played from June
 
 - Loop Track Length: 00:02:22.661
 
-19\.  Monsters Inc. – Randy Newman – Monsters Inc. OST
+19\. Monsters Inc. – Randy Newman – Monsters Inc. OST
 
 - Loop Track Length: 00:02:03.657
 

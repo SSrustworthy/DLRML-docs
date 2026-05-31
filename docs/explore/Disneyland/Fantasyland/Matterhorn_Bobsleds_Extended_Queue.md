@@ -6,7 +6,7 @@
 
 **Dates**: November 16, 2018
 
-This loop plays in the extended queue/lightning lane queue for the Matterhorn. It began playing when the new queue opened in 2018 and is still in use. See MouseBits, [https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765](https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765)  .
+This loop plays in the extended queue/lightning lane queue for the Matterhorn. It began playing when the new queue opened in 2018 and is still in use. Tracklist compiled by junglecskipper and starwarsgalaxysedge. See MouseBits, [https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765](https://mousebits.com/smf/index.php?topic=10785.msg98765#msg98765)  .
 
 ## Tracklist
 
@@ -81,7 +81,7 @@ This loop plays in the extended queue/lightning lane queue for the Matterhorn. I
 - Album Disc Number: 1
 - Album Label: Countdown Media GmbH
 
-11\. Unknown (Solo Alphorn)
+11\. Alphorn Berner Oberland – J. Spälti – Traditionelle Schweizer Musik - Traditional Swiss Music
 
 - Loop Track Length: 00:51.716
 

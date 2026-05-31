@@ -8,7 +8,7 @@
 
 **Dates**: February 8, 2001
 
-This loop plays inside of Rushin’ River Outfitters and originated with the park opening. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147.](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147.)  It can be best heard in the morning and is playing as of 2024, see MouseBits, [https://mousebits.com/smf/index.php?topic=9818.msg92380#msg92380](https://mousebits.com/smf/index.php?topic=9818.msg92380#msg92380)  (2018) and [https://forums.mousebits.com/threads/rushin-river-outfitters-bgm.11032/#post-100021](https://forums.mousebits.com/threads/rushin-river-outfitters-bgm.11032/#post-100021)  (2024).
+This loop plays inside of Rushin’ River Outfitters. It originated with the park opening in 2001, and is still audible as of 2026. It can be best heard in the morning when the store is quiet. Tracklist originally compiled by Progressland on Magic Music, and verified by SSrustworthy using her source recording. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147.](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147.)  Also see MouseBits, [https://mousebits.com/smf/index.php?topic=9818.msg92380#msg92380](https://mousebits.com/smf/index.php?topic=9818.msg92380#msg92380)  (2018) and [https://forums.mousebits.com/threads/rushin-river-outfitters-bgm.11032/#post-100021](https://forums.mousebits.com/threads/rushin-river-outfitters-bgm.11032/#post-100021)  (2024).
 
 ## Tracklist
 

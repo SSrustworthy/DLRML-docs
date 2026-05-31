@@ -8,7 +8,7 @@
 
 **Dates**: September 23, 2011 → February 1, 2012
 
-A preliminary tracklist for the 5th version of the Blue Sky Cellar BGM which was also used as the temporary DCA entrance walkway. The Blue Sky Cellar BGM was installed on September 23, 2011. Compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=6732.msg56209#msg56209](https://mousebits.com/smf/index.php?topic=6732.msg56209#msg56209)  (2011) and [https://mousebits.com/smf/index.php?topic=6677.msg55199#msg55199](https://mousebits.com/smf/index.php?topic=6677.msg55199#msg55199)  (2011).
+This loop was the fifth version of the Blue Sky Cellar BGM which was also used as the temporary DCA entrance walkway. The Blue Sky Cellar BGM debuted on September 23, 2011. Verified tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=6732.msg56209#msg56209](https://mousebits.com/smf/index.php?topic=6732.msg56209#msg56209)  (2011) and [https://mousebits.com/smf/index.php?topic=6677.msg55199#msg55199](https://mousebits.com/smf/index.php?topic=6677.msg55199#msg55199)  (2011).
 
 ## Tracklist
 

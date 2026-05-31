@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop played inside of the MIrabel Meet and Greet gazebo near Boardwalk Pizza and Pasta in 2022. Verified by SSrustworthy and RocketRodsXPR on mousecord server.
+This loop played inside of the MIrabel Meet and Greet gazebo near Boardwalk Pizza and Pasta in 2022. Partial tracklist verified by SSrustworthy and RocketRodsXPR using YouTube footage (discord communications).
 
 ## Tracklist
 

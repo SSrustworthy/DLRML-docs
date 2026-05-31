@@ -12,9 +12,9 @@ Additionally, I've archived my MouseBits posts (at least, the more informative o
 
 ## Disney Music Loops
 
-Kirsten Wahlquist’s original site for all compiled park loops. The site has not been updated since circa 2005.
+Kirsten Wahlquist’s original site for all compiled park loops. The site has not been updated since 2005.
 
-[Disney Music Loops](https://disneymusicloops.tripod.com/main.html)
+[Disney Music Loops](http://web.archive.org/web/20180103025723/http://disneymusicloops.tripod.com/main.html)
 
 ## Magic Music Forums
 

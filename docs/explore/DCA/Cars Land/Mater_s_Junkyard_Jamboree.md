@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-A preliminary tracklist for Mater’s Junkyard Jamboree. See MouseBits, [https://mousebits.com/smf/index.php?topic=7407.msg64195#msg64195](https://mousebits.com/smf/index.php?topic=7407.msg64195#msg64195)  (2012).
+This is a collection of songs that play as onride music for the Mater’s Junkyard Jamboree attraction.  It was introduced with the opening of Cars Land on June 13, 2012. One song plays per ride duration. These tracks seem to be randomized with no particular order of appearance. See MouseBits, [https://mousebits.com/smf/index.php?topic=7407.msg64195#msg64195](https://mousebits.com/smf/index.php?topic=7407.msg64195#msg64195)  (2012).
 
 ## Tracklist
 

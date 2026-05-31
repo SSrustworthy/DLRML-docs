@@ -4,8 +4,8 @@
 
 **Loop Total Length**: 1:04:30.068
 
-This loop played in the indoor and outdoor queue area of Superstar Limo. Listing compiled by Glen Barker, SoCalRyan, and SSrustworthy ([https://librarymusicthemes.com/index.php?topic=1399.new#new](https://librarymusicthemes.com/index.php?topic=1399.new#new) ; 2018)
-Available on the [https://pbarrie.libsyn.com/podcast/wttm-cvs-ss48-cheesy-awesome-the-superstar-limo-background-music-loop](https://pbarrie.libsyn.com/podcast/wttm-cvs-ss48-cheesy-awesome-the-superstar-limo-background-music-loop)  (downloadable). See Magic Music, Re:[https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/#post-12120](https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/#post-12120)  (2004). Also see MouseBits, [https://mousebits.com/smf/index.php?topic=9999.msg98848#msg98848](https://mousebits.com/smf/index.php?topic=9999.msg98848#msg98848)  (2022).
+This loop played in the indoor and outdoor queue area of Superstar Limo. Listing compiled by Glen Barker, SoCalRyan, and SSrustworthy. See [https://librarymusicthemes.com/index.php?topic=1399.new#new](https://librarymusicthemes.com/index.php?topic=1399.new#new)  (2018).
+It was also posted on the [https://pbarrie.libsyn.com/podcast/wttm-cvs-ss48-cheesy-awesome-the-superstar-limo-background-music-loop.](https://pbarrie.libsyn.com/podcast/wttm-cvs-ss48-cheesy-awesome-the-superstar-limo-background-music-loop.)  See Magic Music, Re:[https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/#post-12120](https://community.magicmusic.net/threads/buddy-baker-monorail-theme-fan.1774/#post-12120)  (2004). Also see MouseBits, [https://mousebits.com/smf/index.php?topic=9999.msg98848#msg98848](https://mousebits.com/smf/index.php?topic=9999.msg98848#msg98848)  (2022).
 
 ## Tracklist
 

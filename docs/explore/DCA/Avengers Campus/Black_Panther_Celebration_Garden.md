@@ -6,7 +6,7 @@
 
 **Dates**: November 11, 2022
 
-Tracklist compiled by pixelated based on his induction recording on Mousecord. The timecode values may be off because many of the source tracks start with fades and their use in the loop may overlap with the preceding track. That makes it harder to hear, and to see in the recording's spectrogram, when the track starts to play. The only edits are to ensure there are minimal silences between tracks. The loop's level drops but doesn't completely fade and is temporarily replaced by the United Nations/End Titles track for the arrival of Shuri at the garden.
+This loop played in the Black Panther Celebration Garden, which was a Black Panther themed area added to Avengers Campus in Disney California Adventure to promote Black Panther: Wakanda Forever. It ran from November 15, 2022 until January 8, 2023. Tracklist compiled by pixelated based on his reference recording. He noted that the timecode values may be off because many of the source tracks start with fades and their use in the loop may overlap with the preceding track. That makes it harder to hear, and to see in the recording's spectrogram, when the track starts to play. The only edits are to ensure there are minimal silences between tracks. The loop's level drops but doesn't completely fade and is temporarily replaced by the United Nations/End Titles track for the arrival of Shuri at the garden.
 
 ## Tracklist
 

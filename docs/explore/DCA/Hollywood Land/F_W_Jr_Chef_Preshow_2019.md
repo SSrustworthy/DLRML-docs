@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Food and Wine Festival
 
-A preliminary tracklist for the See MouseBits, Jr. Chef preshow at the Food & Wine festival compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=10186.msg94538#msg94538](https://mousebits.com/smf/index.php?topic=10186.msg94538#msg94538)  (2019). There is only one silent gap in this loop and a fair number of tracks overlap.
+This loop played as the preshow for the Jr. Chef  interactive experience at the Disney California Adventure Food & Wine festival held from March 1 through April 23, 2019. This is a preliminary tracklist compiled by pixelated based on his reference recording. There is only one silent gap in this loop and a fair number of tracks overlap. See MouseBits, [https://mousebits.com/smf/index.php?topic=10186.msg94538#msg94538](https://mousebits.com/smf/index.php?topic=10186.msg94538#msg94538)  (2019).
 
 ## Tracklist
 

@@ -6,8 +6,7 @@
 
 **Dates**: October 7, 2002 → September 4, 2018
 
-Loop compiled by Pixelated and RocketRodsXPR (MouseBits).
-Individual Tuck and Roll Fanfare is the "Snare Drum and Chord" from end of "Dogs and Ponies". All other tracks including fanfare cut before "snare drum and chord”. The music only plays when the attraction is in motion. See MouseBits, [https://mousebits.com/smf/index.php?topic=8574.msg80879#msg80879](https://mousebits.com/smf/index.php?topic=8574.msg80879#msg80879)  (2014).
+This is a collection of tracks that play as onride music for the Tuck and Roll Drive ‘Em Buggies attraction. It was introduced with the opening of A Bug’s Land on October 7, 2002. One song plays per ride duration. Tracklist compiled by pixelated and RocketRodsXPR. The individual Tuck and Roll Fanfare which plays at the start of every ride is the "Snare Drum and Chord" from end of "Dogs and Ponies". All other tracks including fanfare cut before "snare drum and chord”. The music only plays when the attraction is in motion. See MouseBits, [https://mousebits.com/smf/index.php?topic=8574.msg80879#msg80879](https://mousebits.com/smf/index.php?topic=8574.msg80879#msg80879)  (2014).
 
 ## Tracklist
 

@@ -4,33 +4,33 @@
 
 **Loop Total Length**: 01:40:16.473
 
-A preliminary tracklist for Ramone's House of Body Art interior BGM compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592](https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592)  (2012).
+This loop plays in the interior of Ramone's House of Body Art.  It was introduced with the opening of Cars Land on June 13, 2012. This is a preliminary tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592](https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592)  (2012).
 
 ## Tracklist
 
-1\. Spill the Wine – Eric Burdon and War  –  4:49.474
+1\. Spill the Wine – Eric Burdon and War 
 
+- Loop Track Length:  4:49.474
 
+2\. La Copa Rota – José Feliciano 
 
-2\. La Copa Rota – José Feliciano  –  2:37.104
+- Loop Track Length:  2:37.104
 
+3\. Guajira – Santana 
 
+- Loop Track Length:  5:35.784
 
-3\. Guajira – Santana  –  5:35.784
+4\. Tequila – The Champs 
 
+- Loop Track Length:  2:10.403
 
+5\. Mambo No. 5 – Pérez Prado 
 
-4\. Tequila – The Champs  –  2:10.403
+- Loop Track Length:  2:46.399
 
+6\. Love Special Delivery – Thee Midniters 
 
-
-5\. Mambo No. 5 – Pérez Prado  –  2:46.399
-
-
-
-6\. Love Special Delivery – Thee Midniters  –  2:11.859
-
-
+- Loop Track Length:  2:11.859
 
 7\. Viva Tirado – El Chicano
 
@@ -52,78 +52,79 @@ A preliminary tracklist for Ramone's House of Body Art interior BGM compiled by 
 
 
 
-12\. 96 Tears – ? and the Mysterians (Question Mark & the Mysterians)  –  2:55.190
+12\. 96 Tears – ? and the Mysterians (Question Mark & the Mysterians) 
 
+- Loop Track Length:  2:55.190
 
+13\. Oye Como Va – Santana 
 
-13\. Oye Como Va – Santana  –  4:13.839
+- Loop Track Length:  4:13.839
 
+14\. Wooly Bully – Sam the Sham and The Pharaohs 
 
-
-14\. Wooly Bully – Sam the Sham and The Pharaohs  –  2:17.612
-
+- Loop Track Length:  2:17.612
 - Track Notes: Does not seem to match album versions - live version?
 
-15\. Low Rider – War  –  3:14.056
+15\. Low Rider – War 
 
+- Loop Track Length:  3:14.056
 
+16\. Chica Alborotada – Los Juniors 
 
-16\. Chica Alborotada – Los Juniors  –  2:03.814
+- Loop Track Length:  2:03.814
 
+17\. Suavecito – Malo 
 
+- Loop Track Length:  6:28.537
 
-17\. Suavecito – Malo  –  6:28.537
+18\. Mas Que Nada – Sergio Mendes and Brasil '66 
 
+- Loop Track Length:  2:34.956
 
+19\. The Cisco Kid – War 
 
-18\. Mas Que Nada – Sergio Mendes and Brasil '66  –  2:34.956
+- Loop Track Length:  3:41.321
 
+20\. La Venganza de los Pelados – Los Lobos 
 
+- Loop Track Length:  2:45.057
 
-19\. The Cisco Kid – War  –  3:41.321
+21\. Come On, Let's Go – Ritchie Valens 
 
+- Loop Track Length:  1:59.899
 
+22\. El Cayuco – El Chicano 
 
-20\. La Venganza de los Pelados – Los Lobos  –  2:45.057
+- Loop Track Length:  3:03.440
 
+23\. La La La La La – The Blendells 
 
+- Loop Track Length:  2:52.325
 
-21\. Come On, Let's Go – Ritchie Valens  –  1:59.899
+24\. Cinco de Mayo [Extended Version] – War 
 
+- Loop Track Length:  4:03.105
 
+25\. La Cucaracha – The Champs 
 
-22\. El Cayuco – El Chicano  –  3:03.440
+- Loop Track Length:  1:50.330
 
+26\. Chicas Patas Boogie – Lalo Guerrero Y Sus Cinco Lobos 
 
+- Loop Track Length:  2:45.555
 
-23\. La La La La La – The Blendells  –  2:52.325
+27\. Dance with Me – The Blendells 
 
+- Loop Track Length:  2:33.343
 
+28\. Guantanamera – Los Lobos 
 
-24\. Cinco de Mayo [Extended Version] – War  –  4:03.105
+- Loop Track Length:  4:46.104
 
+29\. Cafe – Malo 
 
+- Loop Track Length:  7:14.715
 
-25\. La Cucaracha – The Champs  –  1:50.330
+30\. Whittier Blvd. – Thee Midniters 
 
-
-
-26\. Chicas Patas Boogie – Lalo Guerrero Y Sus Cinco Lobos  –  2:45.555
-
-
-
-27\. Dance with Me – The Blendells  –  2:33.343
-
-
-
-28\. Guantanamera – Los Lobos  –  4:46.104
-
-
-
-29\. Cafe – Malo  –  7:14.715
-
-
-
-30\. Whittier Blvd. – Thee Midniters  –  2:27.252
-
-
+- Loop Track Length:  2:27.252

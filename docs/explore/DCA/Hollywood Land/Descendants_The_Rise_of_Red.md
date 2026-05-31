@@ -4,6 +4,8 @@
 
 **Loop Total Length**: 00:10:42.062
 
+This loop played in the apartment facade area of Hollywood Land for the Descendants: The Rise of Red promotional photo op, which was introduced in Summer 2024. Preliminary tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/dca-descendants-the-rise-of-red-promo-area.11170/](https://forums.mousebits.com/threads/dca-descendants-the-rise-of-red-promo-area.11170/)  .
+
 ## Tracklist
 
 1\. Red – Descendants Karaoke – Disney Karaoke Series: Descendants: The Rise of Red

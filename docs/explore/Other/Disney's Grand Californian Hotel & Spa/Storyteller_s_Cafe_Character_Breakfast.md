@@ -24,7 +24,7 @@ This loop plays in the Storyteller’s Cafe restaurant during the Character Brea
 
 
 
-5\.  Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
+5\. Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
 
 
 
@@ -76,7 +76,7 @@ This loop plays in the Storyteller’s Cafe restaurant during the Character Brea
 
 
 
-18\.  Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
+18\. Mickey Mouse Club March/The Ballad of Davy Crockett – Various Artists – O Mickey, Where Art Thou?
 
 
 

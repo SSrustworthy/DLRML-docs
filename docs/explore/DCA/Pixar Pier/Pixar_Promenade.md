@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 00:48:06.246
 
-This loop plays alongside the Pixar Promenade neighborhood of Pixar Pier, which starts between the end of the arch and Jessie's Critter Carousel and continues the length of the boardwalk to the Inside Out Headquarters. All tracks have been verified with their source tracks. See MouseBits, [https://mousebits.com/smf/index.php?topic=9820.msg92792#msg92792](https://mousebits.com/smf/index.php?topic=9820.msg92792#msg92792)  (2018).
+This loop plays alongside the Pixar Promenade neighborhood of Pixar Pier, which starts between the end of the arch and Jessie's Critter Carousel and continues the length of the boardwalk to the Inside Out Headquarters. The loop was introduced in June 2018 with the opening of Pixar Pier. Tracklist compiled by pixelated based on his reference recording. All tracks have been verified with their source tracks. See MouseBits, [https://mousebits.com/smf/index.php?topic=9820.msg92792#msg92792](https://mousebits.com/smf/index.php?topic=9820.msg92792#msg92792)  (2018).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 01:23:34.070
 
-A verified track list of the music loop that plays from within the Rambler Super Cross Country Wagon at Grizzly Peak Airfield near Refreshment Point. Tracklist compiled by pixelated and SSrustworthy. Seems to not play anymore (2022).
+This loop plays from speakers inside the Rambler Super Cross Country Wagon at Grizzly Peak Airfield near Refreshment Point. This is a verified tracklist compiled by pixelated and SSrustworthy based on pixelated’s reference recording. Seems to not play anymore as of 2022. See MouseBits, [https://forums.mousebits.com/threads/grizzly-peak-airfield-rambler-station-wagon-interior-loop.9079/](https://forums.mousebits.com/threads/grizzly-peak-airfield-rambler-station-wagon-interior-loop.9079/)  (2015).
 
 ## Tracklist
 

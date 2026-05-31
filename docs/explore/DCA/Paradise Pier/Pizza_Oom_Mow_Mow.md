@@ -6,7 +6,7 @@
 
 **Dates**: February 8, 2001 → September 6, 2010
 
-This loop played inside the Pizza Oom Mow Mow restaurant from 02/01 until 09/06/10. See MouseBits, [https://mousebits.com/smf/index.php?topic=6801.msg56674#msg56674.](https://mousebits.com/smf/index.php?topic=6801.msg56674#msg56674.)  Playlist compiled by pixelated.
+This loop played inside the Pizza Oom Mow Mow restaurant from February 2001 until its closing on September 6, 2010. Tracklist first posted by Progressland and verified by pixelated using his reference recording. See Magic Music, [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-146](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-146)  (2002) and MouseBits, [https://mousebits.com/smf/index.php?topic=6801.msg56674#msg56674](https://mousebits.com/smf/index.php?topic=6801.msg56674#msg56674)  (2011).
 
 ## Tracklist
 

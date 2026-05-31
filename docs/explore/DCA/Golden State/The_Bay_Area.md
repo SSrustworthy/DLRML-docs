@@ -8,7 +8,7 @@
 
 **Dates**: February 8, 2001 → April 1, 2010
 
-This loop played on the San Francisco Street in the Bay Area district of the Golden State. It played from DCA’s opening through ca. 04/2010. See MouseBits, [https://mousebits.com/smf/index.php?topic=3174.msg26513#msg26513](https://mousebits.com/smf/index.php?topic=3174.msg26513#msg26513)  (2009).
+This loop played on the San Francisco Street in the Bay Area district of the Golden State. It played from DCA’s opening through ca. 04/2010. Tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=3174.msg26513#msg26513](https://mousebits.com/smf/index.php?topic=3174.msg26513#msg26513)  (2009).
 
 ## Tracklist
 

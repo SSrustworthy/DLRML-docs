@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:27:01.910
 
-This is a preliminary tracklist for the Pixar Pier Entrance loop, compiled by pixelated. The loop plays on the ramp/bridge going up to the Lamplight Lounge, around the outside of the lounge & Adorable Snowman Frosted Treats, and up to the end of the billboards. See MouseBits, [https://mousebits.com/smf/index.php?topic=9820.msg92826#msg92826](https://mousebits.com/smf/index.php?topic=9820.msg92826#msg92826)  (2018).
+This is a preliminary tracklist for the Pixar Pier Entrance loop. The loop plays on the ramp/bridge going up to the Lamplight Lounge, around the outside of the lounge & Adorable Snowman Frosted Treats, and up to the end of the billboards. The loop was introduced in June 2018 with the opening of Pixar Pier. Tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9820.msg92826#msg92826](https://mousebits.com/smf/index.php?topic=9820.msg92826#msg92826)  (2018).
 
 ## Tracklist
 

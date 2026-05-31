@@ -2,7 +2,9 @@
 
 **Land(s)**: Hollywood Land
 
-This loop played at the Captain Marvel meet and greet at DCA in 2019. Preliminary tracklist compiled by SorcererParker, CThaddeus, and monorail91. See MouseBits, [https://mousebits.com/smf/index.php?topic=10060.msg93989#msg93989](https://mousebits.com/smf/index.php?topic=10060.msg93989#msg93989)  (2019).
+**Loop Total Length**: Unknown
+
+This loop played at the Captain Marvel Meet and Greet in Hollywood Land in 2019. Preliminary tracklist compiled by SorcererParker, CThaddeus, and monorail91. See MouseBits, [https://mousebits.com/smf/index.php?topic=10060.msg93989#msg93989](https://mousebits.com/smf/index.php?topic=10060.msg93989#msg93989)  (2019).
 
 ## Tracklist
 

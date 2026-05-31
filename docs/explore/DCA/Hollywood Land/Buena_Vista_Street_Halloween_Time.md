@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Halloween
 
-Starting in the evening, this loop played south of the monorail beam and all around Carthay Circle in 2017, with Oogie Boogie speaking & laughing with some occasional sound effects overlaying the music. This preliminary track list is based on a live recording of the full (southern BVS) Carthay Circle loop. In 2018, the loop played along Hollywood Boulevard as well.  in Hollywood Land, but not on Sunset Blvd. or the Hollywood Backlot. See MouseBits, [https://mousebits.com/smf/index.php?topic=9659.msg91199#msg91199](https://mousebits.com/smf/index.php?topic=9659.msg91199#msg91199)  (2017) and [https://mousebits.com/smf/index.php?topic=9892.msg92978#msg92978](https://mousebits.com/smf/index.php?topic=9892.msg92978#msg92978)  (2018).
+This loop played south of the monorail beam and all around Carthay Circle during the Halloween season in 2017. The loop started playing in the evening, and featured Oogie Boogie voiceovers & laughing with some occasional sound effects overlaying the music. This preliminary track list was compiled by pixelated is based on a live recording of the full (southern BVS) Carthay Circle loop. In 2018, the loop played along Hollywood Boulevard in Hollywood Land, but not on Sunset Boulevard or the Hollywood Backlot. See MouseBits, [https://mousebits.com/smf/index.php?topic=9659.msg91199#msg91199](https://mousebits.com/smf/index.php?topic=9659.msg91199#msg91199)  (2017) and [https://mousebits.com/smf/index.php?topic=9892.msg92978#msg92978](https://mousebits.com/smf/index.php?topic=9892.msg92978#msg92978)  (2018).
 
 ## Tracklist
 

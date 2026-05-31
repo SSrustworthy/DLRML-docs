@@ -1,12 +1,10 @@
-# San Fransokyo Square
+# San Fransokyo Square v.1, San Fransokyo Square v.2
 
 **Land(s)**: San Fransokyo Square
 
 **Loop Total Length**: 01:32:39.785
 
-**Dates**: August 31, 2023
-
-This loop plays in the general outdoor area of San Fransokyo Square. Tracklist compiled by pixelated based on his 2023 reference recording. The land opened August 31, 2023. See MouseBits, [https://forums.mousebits.com/threads/san-fransokyo-square.11160/](https://forums.mousebits.com/threads/san-fransokyo-square.11160/)  (2025).
+This loop plays in the general outdoor area of San Fransokyo Square. Tracklist compiled by pixelated based on his 2023 reference recording. The land opened August 31, 2023. At least one track was removed and one track added prior to February 2026 as reported by pixelated and soleurs based on a reference recording. See MouseBits, [https://forums.mousebits.com/threads/san-fransokyo-square.11160/](https://forums.mousebits.com/threads/san-fransokyo-square.11160/)  (2025).
 
 ## Tracklist
 
@@ -88,10 +86,6 @@ This loop plays in the general outdoor area of San Fransokyo Square. Tracklist c
 19\. Spinning World – Perfume
 
 - Loop Track Length: 00:03:53.081
-
-20\. 夜に駆ける – Yoasobi
-
-- Loop Track Length: 00:04:18.400
 
 21\. Hien – Kenshi Yonezu
 

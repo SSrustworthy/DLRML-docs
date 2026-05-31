@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Lunar New Year
 
-A preliminary track list compiled by pixelated for the DCA Happy Lunar New Year Celebration area music loop. There are no totally silent gaps between tracks except between the first and last tracks. See MouseBits, [https://mousebits.com/smf/index.php?topic=8426.msg78931#msg78931.](https://mousebits.com/smf/index.php?topic=8426.msg78931#msg78931.)  The same loop played in 2014 and 2015, although in 2015 the track “Picking Flowers” ran slower and was in sync with the album version, and the loop was in stereo.
+This loop plays around the Pixar Pier area and the Parade Route for the Happy Lunar New Year Celebration. It was first introduced in either 2013 or 2014 and is still in use as of 2026. Track list compiled by pixelated based on his reference recording and verified by SSrustworthy. There are no totally silent gaps between tracks except between the first and last tracks.  The same loop played in 2014 and 2015, although in 2015 the track “Picking Flowers” ran slower and was in sync with the album version, and the loop was in stereo. See MouseBits, [https://mousebits.com/smf/index.php?topic=8426.msg78931#msg78931](https://mousebits.com/smf/index.php?topic=8426.msg78931#msg78931)  (2014).
 
 ## Tracklist
 

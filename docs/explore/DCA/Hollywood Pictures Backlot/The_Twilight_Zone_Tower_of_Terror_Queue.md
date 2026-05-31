@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 1:00:45.074
 
-This loop played in The Twilight Zone Tower of Terror queue. See Magic Music, [https://community.magicmusic.net/threads/guest-relations-listings.4511/post-32186](https://community.magicmusic.net/threads/guest-relations-listings.4511/post-32186)  and [https://forums.mousebits.com/threads/the-twilight-zone-tower-of-terror-lobby-bgm.5466/post-54988.](https://forums.mousebits.com/threads/the-twilight-zone-tower-of-terror-lobby-bgm.5466/post-54988.)  The latter post notes that this is the same loop as DHS.
+This loop played in The Twilight Zone Tower of Terror queue, from attraction opening in 2004 until closure in 2017. This loop is identical to the Walt Disney World attraction queue loop. See Magic Music, [https://community.magicmusic.net/threads/guest-relations-listings.4511/post-32186](https://community.magicmusic.net/threads/guest-relations-listings.4511/post-32186)  and [https://forums.mousebits.com/threads/the-twilight-zone-tower-of-terror-lobby-bgm.5466/post-54988](https://forums.mousebits.com/threads/the-twilight-zone-tower-of-terror-lobby-bgm.5466/post-54988)  .
 
 ## Tracklist
 

@@ -8,23 +8,23 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played during DCA’s first Christmas in 2001. MouseBits member Jarvis says: “At the time, they just stuck four Christmas songs into the regular loop (edited in very badly, too, as I recall--you could hear the regular loop fading out and the Christmas song fading in). I think the four songs did up making the real Christmas loop, which started in 2002.” Tracks added based on labeled tracks in limited circulation. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376](https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376)  (2011). No reference recording is available.
+This loop played in Sunshine Plaza during DCA’s first Holiday season in 2001, but was replaced by 2002. MouseBits member Jarvis says: “At the time, they just stuck four Christmas songs into the regular loop (edited in very badly, too, as I recall--you could hear the regular loop fading out and the Christmas song fading in). I think the four songs did up making the real Christmas loop, which started in 2002.” Tracks added based on labeled tracks in limited circulation; no reference recording is available. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376](https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376)  (2011).
 
 ## Tracklist
 
-1\. California Dreamin’ – The Mamas and The Papas
+1\. California Dreamin’ – The Mamas and The Papas – The Best Of The Mamas & The Papas (20th Century Masters) [1999]
 
 
 
-2\. California, Here I Come – Al Jolson
+2\. California, Here I Come – Al Jolson – The Best Of The Decca Years [1992]
 
 
 
-3\. California Sun – The Rivieras
+3\. California Sun – The Rivieras – Forrest Gump (The Soundtrack) [1994]
 
 
 
-4\. We Wish You a Merry Christmas – The Wave Benders
+4\. Avalon – Natalie Cole – Unforgettable: With Love [1991]
 
 
 
@@ -32,7 +32,7 @@ This loop played during DCA’s first Christmas in 2001. MouseBits member Jarvis
 
 
 
-6\. The Little Old Lady (From Pasadena) – Jan & Dean
+6\. The Little Old Lady (From Pasadena) – Jan & Dean – The Best Of Jan And Dean [1990]
 
 
 
@@ -44,7 +44,7 @@ This loop played during DCA’s first Christmas in 2001. MouseBits member Jarvis
 
 
 
-9\. San Francisco (Be Sure to Wear Flowers in Your Hair) – Scott McKenzie
+9\. San Francisco (Be Sure to Wear Flowers in Your Hair) – Scott McKenzie – Forrest Gump (The Soundtrack) [1994]
 
 
 
@@ -56,15 +56,15 @@ This loop played during DCA’s first Christmas in 2001. MouseBits member Jarvis
 
 
 
-12\. Route 66 – Natalie Cole
+12\. Route 66 – Natalie Cole – Unforgettable: With Love [1991]
 
 
 
-13\. Do You Know the Way to San Jose – Dionne Warwick
+13\. Do You Know the Way to San Jose – Dionne Warwick – AM Gold 1968 [1994]
 
 
 
-14\. California Girls – The Beach Boys
+14\. California Girls – The Beach Boys – Endless Summer
 
 
 
@@ -72,19 +72,19 @@ This loop played during DCA’s first Christmas in 2001. MouseBits member Jarvis
 
 
 
-16\. I Love L.A. – Randy Newman
+16\. I Love L.A. – Randy Newman – Guilty: 30 Years Of Randy Newman [1998]
 
 
 
-17\. Hollywood Nights – Bob Seger & The Silver Bullet Band
+17\. Hollywood Nights – Bob Seger & The Silver Bullet Band – Greatest Hits [1994]
 
 
 
-18\. Surfin' USA – The Beach Boys
+18\. Surfin' USA – The Beach Boys – Endless Summer
 
 
 
-19\. San Francisco Bay Blues – Peter, Paul and Mary
+19\. San Francisco Bay Blues – Peter, Paul and Mary – A Song Will Rise
 
 
 
@@ -92,6 +92,6 @@ This loop played during DCA’s first Christmas in 2001. MouseBits member Jarvis
 
 
 
-21\. 26 Miles (Santa Catalina) – The Four Preps
+21\. 26 Miles (Santa Catalina) – The Four Preps – The Capitol Collector's Series [1989]
 
 

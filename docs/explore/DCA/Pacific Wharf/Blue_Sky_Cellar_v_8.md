@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 2013
 
-The 8th version of the Blue Sky Cellar BGM for the Fantasy Faire exhibit. Playlist based on a reference recording by pixelated and compiled by RocketRodsXPR and wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php?topic=6732.msg70127#msg70127](https://mousebits.com/smf/index.php?topic=6732.msg70127#msg70127)  and [https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947](https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947)  (2013).
+This loop was the eighth version of the Blue Sky Cellar BGM for the Fantasy Faire exhibit. Playlist based on a reference recording by pixelated and compiled by RocketRodsXPR and wedroy1923. See MouseBits, [https://mousebits.com/smf/index.php?topic=6732.msg70127#msg70127](https://mousebits.com/smf/index.php?topic=6732.msg70127#msg70127)  and [https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947](https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947)  (2013).
 
 ## Tracklist
 

@@ -6,11 +6,11 @@
 
 **Loop Total Length**: 01:12:58.505
 
-A preliminary tracklist for the 3rd version of the Blue Sky Cellar BGM, which corresponded with the Paradise Park and Ariel’s Undersea Adventure exhibits. The loop was installed in June 2010. Compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796](https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796)  and [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946)  .
+This loop was the third version of the Blue Sky Cellar BGM, which corresponded with the Paradise Park and Ariel’s Undersea Adventure exhibits. The loop debuted in June 2010. A preliminary tracklist was compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796](https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796)  and [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946)  .
 
 ## Tracklist
 
-1\.  The Chrysanthemum – New England Conservatory Ragtime Ensemble 
+1\. The Chrysanthemum – New England Conservatory Ragtime Ensemble 
 
 - Loop Track Length:  3:42.345
 - Track Notes: from Paradise Park BGM
@@ -111,7 +111,7 @@ from Blue Sky Cellar v.2 BGM
 - Loop Track Length:  3:08.446
 - Track Notes: from Blue Sky Cellar v.2 BGM
 
-21\.  Transformation #1 (Final) and Transformation #2 (Final) medley – The Music Behind the Magic, disc 2 (Beauty and the Beast), tracks 19 & 20 
+21\. Transformation #1 (Final) and Transformation #2 (Final) medley – The Music Behind the Magic, disc 2 (Beauty and the Beast), tracks 19 & 20 
 
 - Loop Track Length:  5:43.057
 - Track Notes: from Blue Sky Cellar v.2 BGM

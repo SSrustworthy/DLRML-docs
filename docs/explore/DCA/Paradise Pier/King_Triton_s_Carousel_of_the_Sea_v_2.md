@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:01:38.062
 
-This loop was introduced at King Triton’s Carousel of the Sea sometime before January 2012 (likely in 2010). See MouseBits, [https://mousebits.com/smf/index.php?topic=7047.msg59599#msg59599](https://mousebits.com/smf/index.php?topic=7047.msg59599#msg59599)  (2012). Playlist compiled by pixelated and others.
+This loop played at King Triton’s Carousel of the Sea. It was introduced sometime before January 2012 (likely in 2010 to align with the Paradise Pier retheming). Playlist compiled by pixelated and others based on a reference recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=7047.msg59599#msg59599](https://mousebits.com/smf/index.php?topic=7047.msg59599#msg59599)  (2012).
 
 ## Tracklist
 

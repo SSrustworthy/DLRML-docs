@@ -8,7 +8,7 @@
 
 **Dates**: February 8, 2001 → May 31, 2011
 
-This loop played inside the Mission Tortilla Factory (hosted by Mission Foods) from the speakers above the second entrance doorway with the automatic doors, adjacent to the video display. Not much is known about this loop aside from the snippets available in YouTube videos identified by RocketRodsXPR and verified by SSrustworthy. Given that it only played between preshow showings, it may have been a very short loop — across 6 videos, only two tracks were heard. See MouseBits, [https://forums.mousebits.com/threads/mission-tortilla-factory.11158/](https://forums.mousebits.com/threads/mission-tortilla-factory.11158/)  (2025.)
+This loop played inside the Mission Tortilla Factory from the speakers above the second entrance doorway with the automatic doors, adjacent to the video display. Likely heard from 2001 until closure on May 31, 2011. Not much is known about this loop aside from the snippets available in YouTube videos identified by RocketRodsXPR and verified by SSrustworthy. Given that it only played between preshow showings, it may have been a very short loop — across 6 videos, only two tracks were heard. See MouseBits, [https://forums.mousebits.com/threads/mission-tortilla-factory.11158/](https://forums.mousebits.com/threads/mission-tortilla-factory.11158/)  (2025.)
 
 ## Tracklist
 

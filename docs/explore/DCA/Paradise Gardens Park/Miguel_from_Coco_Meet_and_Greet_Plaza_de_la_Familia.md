@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Festival of Holidays, Halloween
 
-The Plaza de la Familia in Paradise Gardens Park is a seasonal affair during the Halloween season celebrating Dia de Los Muertos. The playlist debuted in 2018; in previous years the area played the ¡Viva Navidad! loop. Playlist compiled by RocketRodsXPR based on a recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016](https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016)  .
+This loop played in Paradise Gardens Park starting in 2018 for the seasonal ‘Plaza de la Familia` layover. This event is held during the Halloween season to celebrate Dia de Los Muertos. Prior to 2018,  this area played the ¡Viva Navidad! loop. Playlist compiled by RocketRodsXPR based on a recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016](https://mousebits.com/smf/index.php?topic=9898.msg93016#msg93016)  .
 
 ## Tracklist
 

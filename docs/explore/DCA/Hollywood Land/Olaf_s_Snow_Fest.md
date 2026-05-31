@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Olaf's Snow Fest
 
-This loop played in the Olaf’s Snow Fest area as part of DCA’s Frozen Fun. Preliminary track list compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=8866.msg84733#msg84733](https://mousebits.com/smf/index.php?topic=8866.msg84733#msg84733)  (2015).
+This loop played in the Olaf’s Snow Fest area at Hollywood Land’s Stage 17 as part of the Frozen Fun event. It ran from January 7, 2015, to April 30, 2015. This is a preliminary track list compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=8866.msg84733#msg84733](https://mousebits.com/smf/index.php?topic=8866.msg84733#msg84733)  (2015).
 
 ## Tracklist
 

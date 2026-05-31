@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~33:35
 
-This loop plays with video accompaniment in the lobby of the Animation Building. This iteration was introduced in late May 2025, possibly as part of the Disneyland 70th updates. It is not solely music-based; and features moments and music from classic Disney and Pixar Films, with new updates including "Coco," "Soul," "Encanto," "The Princess and the Frog" and more. Tracklist compiled by pixelated based on an August 2025 recording. See [https://www.youtube.com/watch?v=MeFVUEx4Fio](https://www.youtube.com/watch?v=MeFVUEx4Fio)  and MouseBits, [https://forums.mousebits.com/threads/disney-animation-lobby-loops.8876/post-100516](https://forums.mousebits.com/threads/disney-animation-lobby-loops.8876/post-100516)  (2025).
+This is the third and current version of the loop that plays in the Animation Building Lobby, which debuted in late May 2025, possibly as part of the Disneyland 70th updates. These songs are not played in their entirety; they are short, edited clips, maybe a minute or so long. Tracklist compiled by pixelated based on an August 2025 recording. See [https://www.youtube.com/watch?v=MeFVUEx4Fioand](https://www.youtube.com/watch?v=MeFVUEx4Fioand)  MouseBits, [https://forums.mousebits.com/threads/disney-animation-lobby-loops.8876/post-100516](https://forums.mousebits.com/threads/disney-animation-lobby-loops.8876/post-100516)  (2025).
 
 ## Tracklist
 

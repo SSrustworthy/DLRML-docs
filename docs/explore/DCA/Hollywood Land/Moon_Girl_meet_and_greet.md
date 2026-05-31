@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:19:57.180
 
-This loop played at the Moon Girl meet and greet area in Hollywood Land. Preliminary tracklist compiled by pixelated based on his 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/dca-moon-girl-meet-and-greet.11169/](https://forums.mousebits.com/threads/dca-moon-girl-meet-and-greet.11169/)  (2025).
+This loop played at the Moon Girl meet and greet area at the apartment facade in Hollywood Land. The meet and greet was introduced on February 15, 2023 as part of the Celebrate Soulfully event. Preliminary tracklist compiled by pixelated based on his 2023 reference recording. See MouseBits, [https://forums.mousebits.com/threads/dca-moon-girl-meet-and-greet.11169/](https://forums.mousebits.com/threads/dca-moon-girl-meet-and-greet.11169/)  (2025).
 
 ## Tracklist
 

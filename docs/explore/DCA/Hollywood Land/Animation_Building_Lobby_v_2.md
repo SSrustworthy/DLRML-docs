@@ -6,11 +6,11 @@
 
 **Dates**: January 1, 2011
 
-This is the second version of the loop that plays in the Animation Building Lobby. It was introduced in 2011. See MouseBits, [https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834](https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834)  (2015). The Frozen tracks were added during Frozen Fun in 2015. The 2015 loop is still in place as of December 2022.
+This is the second version of the loop that plays in the Animation Building Lobby, and was used from 2011 until 2025. These songs are not played in their entirety; they are short, edited clips, maybe a minute or so long. The Frozen tracks were added during Frozen Fun in 2015 and retained thereafter as part of the regular loop. Tracklist compiled by RocketRodsXPR based on a reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834](https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834)  (2015).
 
 ## Tracklist
 
-1\. Part of your World  – The Little Mermaid
+1\. Part of Your World – The Little Mermaid
 
 
 
@@ -74,7 +74,7 @@ This is the second version of the loop that plays in the Animation Building Lobb
 
 
 
-17\. Hi-Diddle-Dee-Dee - An Actor's Life for Me  – Pinocchio
+17\. Hi-Diddle-Dee-Dee - An Actor's Life for Me – Pinocchio
 
 
 

@@ -2,11 +2,12 @@
 
 **Land(s)**: Paradise Gardens Park
 
-**Loop Total Length**: 01:01:40.911
+**Loop Total Length**: 01:01:40.911 (2017);
+00:42:59.799 (2016)
 
 **Holiday/Special Event**: Festival of Holidays
 
-A preliminary tracklist for the 2017 Festival of Holidays loop, compiled by pixelated. Tracks 16-22 were addedfor the 2017 version of the loop. The original 2016 version of this BGM ran 00:42:59.799. See MouseBits, [https://mousebits.com/smf/index.php?topic=9438.msg91505#msg91505](https://mousebits.com/smf/index.php?topic=9438.msg91505#msg91505)  (2017). Tracks 4, 5 and 6 were heard in a 2022 recording, indicating that the same loop may still be in use.
+This loop played in Paradise Gardens Park during Festival of Holidays in 2016/2017. Tracks 16-22 were added for the 2017 version of the loop. Tracks 4, 5 and 6 were heard in a 2022 recording, indicating that the same loop may still be in use. This preliminary tracklist was compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9438.msg91505#msg91505](https://mousebits.com/smf/index.php?topic=9438.msg91505#msg91505)  (2017).
 
 ## Tracklist
 

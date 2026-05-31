@@ -6,7 +6,7 @@
 
 **Dates**: April 1, 2010 → June 1, 2018
 
-This loop was the first of the DCA 2.0 loops to be installed, in April 2010. The loop replaced the Bay Area loop and could be heard from Paradise Park to the Silly Symphony Swings. Playlist compiled by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=5272.msg39982#msg39982](https://mousebits.com/smf/index.php?topic=5272.msg39982#msg39982)  (2010).
+This loop replaced the Bay Area loop and could be heard from Paradise Park to the Silly Symphony Swings. It was the first of the DCA 2.0 loops to be installed, and debuted in April 2010. Tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=5272.msg39982#msg39982](https://mousebits.com/smf/index.php?topic=5272.msg39982#msg39982)  (2010).
 
 ## Tracklist
 

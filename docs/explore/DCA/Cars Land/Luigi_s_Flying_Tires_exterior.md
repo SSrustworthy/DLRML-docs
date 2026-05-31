@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:26:17.491
 
-A preliminary tracklist compiled by pixelated for Luigi’s Flying Tires exterior BGM. The loop is muted when the tires are in motion. Some tracks are from the TDS Porto Paradiso loop which started playing on 4/28/2011. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765](https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765)  .
+This loop played in the exterior area of the Luigi’s Flying Tires attraction from opening of Cars Land on June 13, 2012 until attraction closing  on February 17, 2015. The loop is muted when the tires are in motion. Some tracks are from the 2011 Tokyo DisneySea Porto Paradiso loop. Tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765](https://mousebits.com/smf/index.php?topic=7381.msg75765#msg75765)  .
 
 ## Tracklist
 

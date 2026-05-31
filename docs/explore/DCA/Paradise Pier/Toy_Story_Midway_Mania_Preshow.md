@@ -4,9 +4,9 @@
 
 **District/Neighborhood**: Toy Story Boardwalk
 
-**Loop Total Length**: Unknown
+**Loop Total Length**: N/A
 
-These tracks play as part of the preshow entertainment for Midway Mania. See MouseBits, [https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800](https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800)  .
+These tracks can be heard in the queue of Midway Mania as a part of the ‘preshow’. They are sung by Mr. Potato Head interspersed with carnival barker-style monologue. See MouseBits, [https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800](https://mousebits.com/smf/index.php?topic=8136.msg74800#msg74800)  .
 
 ## Tracklist
 

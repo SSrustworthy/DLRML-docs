@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 1:09:12.240
 
-This loop was initially the 7th version of the Blue Sky Cellar BGM, introduced for the exhibit “The Radiator Springs Historical Society’s Museum of the History of Radiator Springs.” pixelated confirmed that it was the same loop as the RSR queue with Eddie Cantor’s automobile song inserted. Tracklist was compiled by pixelated and Triple with verified source albums. See MouseBits, [https://mousebits.com/smf/index.php?topic=6732.msg66481#msg66481](https://mousebits.com/smf/index.php?topic=6732.msg66481#msg66481)  (2012) and [https://mousebits.com/smf/index.php?topic=7381.msg66677#msg66677.](https://mousebits.com/smf/index.php?topic=7381.msg66677#msg66677.)  Also [https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947](https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947)  .
+This loop was initially the 7th version of the Blue Sky Cellar BGM, introduced for the exhibit “The Radiator Springs Historical Society’s Museum of the History of Radiator Springs.” pixelated confirmed with a reference recording that it was the same loop as the RSR queue, with Eddie Cantor’s automobile song inserted. Tracklist was compiled by pixelated and verified source albums provided by Triple. See MouseBits, [https://mousebits.com/smf/index.php?topic=6732.msg66481#msg66481](https://mousebits.com/smf/index.php?topic=6732.msg66481#msg66481)  (2012) and [https://mousebits.com/smf/index.php?topic=7381.msg66677#msg66677.](https://mousebits.com/smf/index.php?topic=7381.msg66677#msg66677.)  Also [https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947](https://mousebits.com/smf/index.php?topic=7842.msg69947#msg69947)  .
 
 ## Tracklist
 
