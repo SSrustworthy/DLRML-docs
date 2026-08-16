@@ -38,7 +38,7 @@ This was the same loop that played at DLRP when the park opened in 1992. Trackli
 
 
 
-8\. You Can Fly!
+8\. You Can Fly! You Can Fly! You Can Fly!
 
 
 

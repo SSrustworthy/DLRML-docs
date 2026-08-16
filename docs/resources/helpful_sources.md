@@ -18,7 +18,7 @@ Kirsten Wahlquist’s original site for all compiled park loops. The site has no
 
 ## Magic Music Forums
 
-Formerly titled Magic Music of the Mouse, this discussion forum is an especially great archive for park music discussions that occurred between 2002 and 2010. Even Randy Thorton, the former producer of many official park albums, made a consistent appearance to engage with members.
+Formerly titled Magic Music of the Mouse, this discussion forum is an especially great archive for park music discussions that occurred between 2002 and 2010. Randy Thornton, the former producer of many official park albums, made a consistent appearance to engage with members.
 
 [Magic Music](https://community.magicmusic.net/)
 
@@ -38,7 +38,7 @@ Michael Sweeney has compiled several MouseBits BGM listings to form a blog-forma
 
 ## Disney’s Park BGM Lists
 
-Although centered around the Tokyo Disneyland Resort, Star Orion maintains a smattering of BGM listings for the U.S. parks that are helpful to reference.
+Although centered around the Tokyo Disney Resort, Star Orion maintains a smattering of BGM listings for the U.S. parks that are helpful to reference.
 
 [DisneylandのBGM一覧！|Disney's PARK BGM Lists](http://tdrparkbgm.web.fc2.com/Disneyland.html)
 

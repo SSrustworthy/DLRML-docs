@@ -6,7 +6,7 @@
 
 **Dates**: April 1, 2017
 
-This loop played in the esplanade from May 2017 to present day. Compiled by C33 and others. Several songs including "Zip a dee doo dah", "Welcome to Tomorrowland", and "Steamboat Willie” were removed in 2020-2021, but none were added. See MouseBits, [https://mousebits.com/smf/index.php?topic=9555.msg90302#msg90302](https://mousebits.com/smf/index.php?topic=9555.msg90302#msg90302)  (2017).
+This loop plays in the esplanade currently as the ‘regular’ loop. It was introduced in May 2017. It was re-introduced in January 2026 after the 70th loop in 2025. Compiled by C33 and others. Several songs including "Zip a dee doo dah", "Welcome to Tomorrowland", and "Steamboat Willie” were removed in 2020-2021, but none were added. See MouseBits, [https://mousebits.com/smf/index.php?topic=9555.msg90302#msg90302](https://mousebits.com/smf/index.php?topic=9555.msg90302#msg90302)  (2017).
 
 ## Tracklist
 

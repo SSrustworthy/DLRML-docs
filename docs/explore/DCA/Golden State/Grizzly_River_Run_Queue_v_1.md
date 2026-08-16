@@ -4,7 +4,7 @@
 
 **District/Neighborhood**: Grizzly Peak Recreation Area
 
-**Loop Total Length**: ~00:50:44?
+**Loop Total Length**: 00:56:41.023
 
 **Dates**: February 8, 2001 → January 30, 2012
 
@@ -12,7 +12,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 ## Tracklist
 
-1\. Southern Streamline – John Fogerty – Blue Moon Country
+1\. Southern Streamline – John Fogerty – Blue Moon Swamp
 
 
 
@@ -20,7 +20,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 
 
-2.5\. "This is K-GRR, GRR Radio! Alright, we're back, you're tuned in to KGRR playing the golden sounds of California's gold country..." - Call in – K-GRR, GRR Radio!
+2.5\. "This is KGRR, GRR Radio! Alright, we're back, you're tuned in to KGRR playing the golden sounds of California's gold country..." - Call in – KGRR, GRR Radio!
 
 
 
@@ -28,11 +28,11 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 
 
-4\. Deal With It – Kelley Hunt, Delbert McClinton – New Shade of Blue
+4\. Deal With It – Sonya Isaacs, Michael McDonald
 
+- Track Notes: This track is only available on a 1999 promo album by Sonya Isaacs, released under Disney’s Country Label ‘Lyric Street Records’ [https://www.discogs.com/release/16542420-Sonya-Isaacs-Sonya-Isaacs](https://www.discogs.com/release/16542420-Sonya-Isaacs-Sonya-Isaacs) 
 
-
-4.5\. “We're back, and Grizzly Peak, we did not get a single call during those songs. Hello, Dwight! Grizzly Peak's population is like three..." - Interview with Bumper, GRR Rafting Guide – K-GRR, GRR Radio!
+4.5\. “We're back, and Grizzly Peak, we did not get a single call during those songs. Hello, Dwight! Grizzly Peak's population is like three..." - Interview with Bumper, GRR Rafting Guide – KGRR, GRR Radio!
 
 
 
@@ -44,7 +44,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 
 
-6.5\. "Okay, we're back, and since nobody seems to be calling in at K-GRR, it's time for some community announcements..." - Community Events Calendar – K-GRR, GRR Radio!
+6.5\. "Okay, we're back, and since nobody seems to be calling in at KGRR, it's time for some community announcements..." - Community Events Calendar – KGRR, GRR Radio!
 
 
 
@@ -56,7 +56,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 
 
-8.5\. "Hello, are you searching for a tasty alternative to animal protein during lunch or dinner..." - Megan's Vegan Cafe advertisement "...we have a caller!... Ranger Clark Taguchi" - Interview with Grizzly Peak's loneliest guy – K-GRR, GRR Radio!
+8.5\. "Hello, are you searching for a tasty alternative to animal protein during lunch or dinner..." - Megan's Vegan Cafe advertisement "...we have a caller!... Ranger Clark Taguchi" - Interview with Grizzly Peak's loneliest guy – KGRR, GRR Radio!
 
 
 
@@ -68,7 +68,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 
 
-10.5\. More with Ranger Clark Taguchi – K-GRR, GRR Radio!
+10.5\. More with Ranger Clark Taguchi – KGRR, GRR Radio!
 
 
 
@@ -80,7 +80,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 
 
-12.5\. "Hi, Marge and Ed here from Rushin' River Outfitters..." - Rushin' River Outfitters advertisement – K-GRR, GRR Radio!
+12.5\. "Hi, Marge and Ed here from Rushin' River Outfitters..." - Rushin' River Outfitters advertisement – KGRR, GRR Radio!
 
 
 
@@ -88,7 +88,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 
 
-13.5\. "Welcome back..." - Rhoda and Dwight argue about how to pronounce "Sierra" – K-GRR, GRR Radio!
+13.5\. "Welcome back..." - Rhoda and Dwight argue about how to pronounce "Sierra" – KGRR, GRR Radio!
 
 
 

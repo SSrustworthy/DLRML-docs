@@ -98,14 +98,14 @@ For the 1998 loop, I identified four tracks throughout the video, playing at sev
 
 I’ve included the time markers at which these each play in Star Orion’s recording. Thanks to RocketRodsXPR, DisneyChris, and Mike Cozart for previously identifying two of these tracks [8, 10]:
 
-1. Home, Sweet Home (?)
-   1. At 0:03 of the TDL loop; this is the first track of both the TDL Tom Sawyer's Island and WDW Tom Sawyer's Island loop; latter is circulating as 12:21 in length. Seems likely to be a simplified bluegrass rendition of “Home, Sweet Home,” but this is unclear.
+1. Lynchburg Town 
+   - At 0:03 of the TDL loop; this is the first track of both the TDL Tom Sawyer's Island and WDW Tom Sawyer's Island loop; latter is circulating as 12:21 in length.
 2. Western Saloon
-   1. At 20:02 of the TDL loop
-3. Goober Peas
-   1. At 36:25 of the TDL loop
+   - At 20:02 of the TDL loop
+3. Bile Dem Cabbage Down Boys
+   - At 36:25 of the TDL loop
 4. Cripple Creek
-   1. At 48:12 of the TDL loop
+   - At 48:12 of the TDL loop
 
 In the 1998 video, the songs are on a continuous underlying loop and appear in the following order:
 
@@ -116,9 +116,9 @@ Western Saloon
 
 *<Cast off>*
 
-Home, Sweet Home
-Western Saloon
-Goober Peas
+Lynchburg Town  
+Western Saloon  
+Bile Dem Cabbage Down
 Cripple Creek
 Western Saloon
 
@@ -138,11 +138,11 @@ Come Back, Sweet Papa - Firehouse Five Plus Two
 
 Cripple Creek (beginning of track, 7:13)
 
-Home, Sweet Home (beginning of track, 8:26, 9:01)
+Lynchburg Town (beginning of track, 8:26, 9:01)
 
 Western Saloon (beginning of track, 9:40, 10:50)
 
-Goober Peas (11:35, 13:15)
+Bile Dem Cabbage Down Boys (11:35, 13:15)
 
 Milenburg Joys - Firehouse Five Plus Two (~14:00)
 

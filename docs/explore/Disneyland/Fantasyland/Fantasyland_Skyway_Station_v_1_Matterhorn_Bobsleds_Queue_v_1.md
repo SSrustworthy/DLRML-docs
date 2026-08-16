@@ -2,17 +2,17 @@
 
 **Land(s)**: Fantasyland
 
-**Loop Total Length**: ~00:18:00
+**Loop Total Length**: 20:30
 
-This track listing is based on a recording in circulation ca. 1978 and is thought to have played until a revised version was introduced in 2012. This music played under the Jack Wagner safety announcements in the Matterhorn Bobsleds queue area. See MouseBits, [https://mousebits.com/smf/index.php?topic=8673.msg82217#msg82217](https://mousebits.com/smf/index.php?topic=8673.msg82217#msg82217)  (2014) and the passport to dreams blog: [http://passport2dreams.blogspot.com/2014/10/the-music-of-matterhorn.html.](http://passport2dreams.blogspot.com/2014/10/the-music-of-matterhorn.html.) 
+This track listing is based on a recording in circulation ca. 1978 and is thought to have played until a revised version was introduced in 2012. This music played under the Jack Wagner safety announcements in the Matterhorn Bobsleds queue area. Confirmed using a tracklist from the Jack Wagner estate dated November, 1970. See MouseBits, [https://mousebits.com/smf/index.php?topic=8673.msg82217#msg82217](https://mousebits.com/smf/index.php?topic=8673.msg82217#msg82217)  (2014) and the passport to dreams blog: [http://passport2dreams.blogspot.com/2014/10/the-music-of-matterhorn.html](http://passport2dreams.blogspot.com/2014/10/the-music-of-matterhorn.html) 
 
 ## Tracklist
 
-1\. Im Chuchichäschtli – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+1\. Im Chuchichäschtli (Schottisch) – Willy Bestgen, Sepp Casutt – Swiss Folkmusic and Yodeling (STAR C.R. ST. 171)
 
 - Album Label: STAR
 
-2\. Alpaufzug Luzärner Chilby – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+2\. Alpaufzug Luzärner Chilby (Jodel-Schottisch) – Fred Burri, Willy Bestgen And His Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR C.R. ST. 171)
 
 - Track Notes: Edited to include ~00:29 - ~01:20 and ~01:32 - End
 - Album Label: STAR
@@ -25,15 +25,15 @@ This track listing is based on a recording in circulation ca. 1978 and is though
 
 - Album Label: Capitol
 
-5\. Obervazer-Schottisch – Bündner Ländlerquintett – A Visit to Switzerland (Capitol ST-10264)
+5\. Obervazer (Schottisch) – Bündner Ländlerquintett – A Visit to Switzerland (Capitol ST-10264)
 
 - Album Label: Capitol
 
-6\. Am Trachtefescht – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+6\. Am Trachtefescht (Schottisch) – Willy Bestgen, Sepp Casutt – Swiss Folkmusic and Yodeling (STAR C.R. ST. 171)
 
 - Album Label: STAR
 
-7\. Schi Scha Schätzeli – Fred Burri and the Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR CR 171)
+7\. Schi Scha Schätzeli (Jodel-Schleber) – Fred Burri, Willy Bestgen And His Matterhorn Musicians – Swiss Folkmusic and Yodeling (STAR C.R. ST. 171)
 
 - Track Notes: Edited to include 00:00 - 00:03 and ~00:38 - ~01:13 and ~01:51 - End
 - Album Label: STAR

@@ -6,7 +6,7 @@
 
 **Dates**: April 1, 2004 → July 1, 2017
 
-This loopplayed in the Esplanade from 2004 until 2017. Tracklist compiled by C33. See MouseBits, [https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959](https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959)  (2010).
+This loop played in the Esplanade from 2004 until 2017. Tracklist compiled by C33. See MouseBits, [https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959](https://mousebits.com/smf/index.php?topic=5591.msg42959#msg42959)  (2010).
 
 ## Tracklist
 

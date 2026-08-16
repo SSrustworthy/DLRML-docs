@@ -8,15 +8,15 @@ Verified on MouseBits by Pixelated as playing both upstairs and downstairs in th
 
 ## Tracklist
 
-1\. Bang! Goes Old Betsy – Walt Disney World's Country Bear Jamboree LP
+1\. Bang! Goes Old Betsy – Country Bear Jamboree (Original Soundtrack) (Disneyland ST-3994)
 
 
 
-2\. Red River Valley – Walt Disney World's Country Bear Jamboree LP
+2\. Red River Valley – Country Bear Jamboree (Original Soundtrack) (Disneyland ST-3994)
 
 
 
-3\. Polly Wolly Doodle – Walt Disney World's Country Bear Jamboree LP
+3\. Polly Wolly Doodle – Country Bear Jamboree (Original Soundtrack) (Disneyland ST-3994)
 
 
 
@@ -24,14 +24,14 @@ Verified on MouseBits by Pixelated as playing both upstairs and downstairs in th
 
 - Track Notes: Featured in the DLRP Big Thunder Mountain RR queue
 
-5\. Bile 'Em Cabbage Down – Walt Disney World's Country Bear Jamboree LP
+5\. Bile 'Em Cabbage Down – Country Bear Jamboree (Original Soundtrack) (Disneyland ST-3994)
 
 
 
-6\. Bearless Love – Walt Disney World's Country Bear Jamboree LP
+6\. Bearless Love – Country Bear Jamboree (Original Soundtrack) (Disneyland ST-3994)
 
 
 
-7\. Wabash Cannonball – Walt Disney World's Country Bear Jamboree LP
+7\. Wabash Cannonball – Country Bear Jamboree (Original Soundtrack) (Disneyland ST-3994)
 
 

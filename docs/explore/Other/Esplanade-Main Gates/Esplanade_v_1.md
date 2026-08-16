@@ -6,118 +6,118 @@
 
 **Dates**: January 1, 2001 → April 1, 2004
 
-This loop played in the Esplanade from 2001 to 2004. Most of these tracks likely have the same sources as Esplanade v.2. Additional information is available on MouseBits, see [https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381](https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381)  (2002).
+This loop played in the Esplanade from 2001 to 2004. Several of these tracks were first used in the 1992 Main Gates loop at Disneyland and the Magic Kingdom entrance. Additional information is available on Magic Music, see [https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381](https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381)  (2002).
 
 ## Tracklist
 
-1\. All in the Golden Afternoon – Disneyland Forever OR Tokyo Disneyland Official Album
+1\. When You Wish Upon a Star – 15th Anniversary Music 4: Grand Finale [1998]
 
+- Track Notes: Available as part of the track “Imagineering the Dream”
 
+2\. You've Got a Friend in Me – Erich Kunzel, Cincinnati Pops Orchestra – Magical Musicals [1999]
 
-2\. When You Wish Upon a Star
 
 
+3\. Hi-Diddle-Dee-Dee – Tokyo Disney Resort 40th Anniversary Box 'Music-Go-Round’ [2023]
 
-3\. You've Got a Friend in Me
+- Track Notes: Available as part of the track “Tokyo Disneyland Main Entrance Area Music”
 
+4\. Under the Sea – Unreleased
 
 
-4\. Hi-Diddle-Dee-Dee
 
+5\. Washington Ending + Raiders March – John Williams, London Symphony Orchestra – Raiders Of The Lost Ark (Original Motion Picture Soundtrack)
 
+- Track Notes: Edited. This is the name of the track on the most recent digital releases.
 
-5\. Under the Sea
+6\. California Girls (King Triton’s Carousel of the Sea BGM) – Unreleased
 
+- Track Notes: See [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245) 
 
+7\. The Tiki, Tiki, Tiki Room – 15th Anniversary Music 4: Grand Finale [1998]
 
-6\. Indiana Jones Theme – John Williams – Raiders of the Lost Ark OST
+- Track Notes: Available as part of the track “Imagineering the Dream”
 
+8\. Hooray for Hollywood – John Williams, The Boston Pops Orchestra – Salute to Hollywood [1989]
 
 
-7\. California Girls
 
-- Track Notes: This track comes from the [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245)  .
+9\. Yo Ho (A Pirate's Life For Me) – 15th Anniversary Music 4: Grand Finale [1998]
 
-8\. The Tiki, Tiki, Tiki Room
+- Track Notes: Available as part of the track “Imagineering the Dream”
 
+10\. I Left My Heart in San Francisco – Ray Anthony and His Big Band – Boogie Blues And Ballads [1997] OR Swing Back to the 40's II [1997]
 
 
-9\. Hooray for Hollywood
 
+11\. Heigh-Ho – Unreleased
 
 
-10\. Yo Ho (A Pirate's Life For Me)
 
+12\. Smile, Darn Ya, Smile! (Mickey’s Toontown BGM) – Unreleased
 
 
-11\. I Left My Heart in San Francisco
 
+13\. it's a small world (Disneyland Paris Variation II) – John Debney, Richard M. Sherman, Robert B. Sherman – Walt Disney and the 1964 World's Fair [2009]
 
 
-12\. Dig-a-Dig-Dig/Heigh-Ho
 
+14\. March of the Cards – Unreleased
 
 
-13\. Smile, Darn Ya, Smile!
 
+15\. Mickey Mouse Club March – Tokyo Disney Resort 40th Anniversary Box 'Music-Go-Round’ [2023]
 
+- Track Notes: Available as part of the track “Tokyo Disneyland Main Entrance Area Music”
 
-14\. it's a small world
+16\. Zip-a-Dee-Doo-Dah – Unreleased
 
 
 
-15\. March of the Cards
+17\. Fantasmic! Exit Music – Bruce Healey – Disney’s 75 Years of Music and Memories [1998]
 
+- Album Disc Number: 3
 
+18\. Soarin' Over California Load Music – Unreleased (in circulation)
 
-16\. Mickey Mouse Club
 
 
+19\. Be Our Guest – Walt Disney World Forever (partial)
 
-17\. Zip-a-Dee-Doo-Dah
+- Track Notes: Partially released on Walt Disney World Forever, with an early fadeout
 
+20\. The Ballad of Davy Crockett – Unreleased
 
 
-18\. Fantasmic! Exit Music – Bruce Healey – Fantasmic!
 
+21\. You Can Fly! You Can Fly! You Can Fly! – Unreleased
 
 
-19\. Soarin' Load Music
 
+22\. Archival Bonus Track: Binary Sunset (Alternate) – John Williams, London Symphony Orchestra – Star Wars: Episode IV - A New Hope (Original Motion Picture Soundtrack)
 
+- Track Notes: Edited. This is the name of the track on the most recent digital releases.
 
-20\. Be Our Guest – Walt Disney World Forever
+23\. Muppets Theme (Muppet*Vision 3D BGM) – Unreleased
 
 
 
-21\. Davy Crockett
+24\. Minnie's Yoo Hoo – Main Street Saxophone Quartet – The Music Of Disneyland, Walt Disney World And Epcot Center [1988]
 
 
 
-22\. You Can Fly! You Can Fly! You Can Fly!
+25\. Honey, I Shrunk the Audience Load Music – Unreleased
 
 
 
-23\. Star Wars Theme
+26\. Splash Mountain, ‘How Do You Do’ – Disneyland Forever
 
 
 
-24\. Muppets Theme
+27\. Just One Dream (Golden Dreams Exit Music) – Unreleased
 
 
 
-25\. Minnie's Yoo Hoo
+28\. All in the Golden Afternoon – 15th Anniversary Music 4: Grand Finale [1998]
 
-
-
-26\. Honey, I Shrunk the Audience Theme
-
-
-
-27\. How Do You Do – Disneyland Forever
-
-
-
-28\. Just One Dream (Golden Dreams Exit Music)
-
-
+- Track Notes: Available as part of the track “Imagineering the Dream”

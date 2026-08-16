@@ -1,4 +1,4 @@
-# Storybook Land Canal Boats Queue v.1, Storybook Land Canal Boats Queue v.2
+# Storybook Land Canal Boats Queue
 
 **Land(s)**: Fantasyland
 
@@ -51,3 +51,8 @@ This loop plays from 4 speakers in the landscaping next to the queue. Date of in
 
 - Loop Track Length: 00:05:51.397
 - Track Notes: Edited~05.15 - End, followed by ~02.39 - ~05.14
+
+10\. Epilogue – Christophe Beck – Frozen (Original Score)
+
+- Loop Track Length: 00:03:00.807
+- Track Notes: Added to the loop sometime after the 2014 attraction update

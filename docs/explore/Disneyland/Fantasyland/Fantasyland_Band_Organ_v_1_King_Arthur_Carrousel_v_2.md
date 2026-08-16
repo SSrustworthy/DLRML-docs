@@ -1,4 +1,4 @@
-# Fantasyland Band Organ v.1, King Arthur's Carrousel v.1
+# Fantasyland Band Organ v.1, King Arthur Carrousel v.2
 
 **Land(s)**: Fantasyland
 

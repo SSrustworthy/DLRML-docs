@@ -2,6 +2,33 @@
 
 This is the log for all database updates.
 
+## Site Update 8/16/26
+
+### DL
+
+- Added additional notes and loop length for Bluey’s Best Day Ever! interstitial loop
+- Fixed Storybook Land Canal Boats to have a single listing, with a note for the added Frozen track
+- Updated information for the Main Street, U.S.A. 1976 AM + PM tracklists
+- Updated Mark Twain onboard 70s-era tracklist; added artist information
+- Updated original Jungle Cruise queue loop
+- Added 1974 Bear Country tracklist
+- Completed Mile Long Bar tracklist
+- Reorganized King Arthur Carrousel loops; Added v.1 (dated 1970s)
+- Updated notes for Stockade Entrance v.1
+- Updated notes for Plaza Inn Exterior v.1
+- removed Casa de Fritos (tracklist was instead associated with MSUSA based on new findings; but whether this played in the park is not confirmed, so it has been removed for now)
+- Small updates to Matterhorn queue v.1 notes and artists
+
+### DCA
+
+- Added Descendants: Wicked Wonderland photo backdrop loop
+- Updated San Fransokyo loop to identify loop updates in v.2
+- Updated sources for Grizzly River Rapids v.1
+
+### Other
+
+- Added source information for the 2001 Esplanade loop (Esplanade v.1) 
+
 ## Site Update 5/31/26
 
 ### DL
