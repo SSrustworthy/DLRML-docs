@@ -64,7 +64,7 @@ Galma (Guy Mayzig; "The Sims 4 Star Wars: Journey To Batuu”) - [https://www.yo
 
 Ti Lo Laka (Beckerman Green & Douek; "The Sims 4 Star Wars: Journey To Batuu”) - [https://www.youtube.com/watch?v=zb3Wz6zXrss](https://www.youtube.com/watch?v=zb3Wz6zXrss)
 
-Gaya Kaminu (Michael Kramer) - ****[https://www.michaelkramermusic.com/](https://www.michaelkramermusic.com/)
+Gaya Kaminu (Michael Kramer) - [https://www.michaelkramermusic.com/](https://www.michaelkramermusic.com/)
 
 Additional tracks mentioned on Wookiepedia: Desert Skiff Sunset, Get Down, Lightyear, Bight Size, Pipa Tuba Braba
 

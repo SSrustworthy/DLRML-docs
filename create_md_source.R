@@ -58,6 +58,8 @@ url_to_md_one <- function(text) {
   )
   text <- gsub("(https?://[^\\s]+?)(https?://)", "\\1 \\2", text, perl = TRUE)
   text <- gsub("<<ARCHPROTO>>", "http://", text, fixed = TRUE)
+  # Deduplicate identical adjacent URLs (copy-paste artifacts in CSV)
+  text <- gsub("(https?://\\S+)\\s+\\1", "\\1", text, perl = TRUE)
   bare_pat <- "https?://[^\\s<>\"'\\[\\]()]+"
   hits <- gregexpr(bare_pat, text, perl = TRUE)[[1]]
   if (hits[1] != -1) {
@@ -78,6 +80,8 @@ url_to_md_one <- function(text) {
   for (key in names(placeholders)) {
     text <- sub(key, placeholders[[key]], text, fixed = TRUE)
   }
+  # Insert space before (year) that abuts a closing link paren
+  text <- gsub("\\)\\(([0-9]{4})\\)", ") (\\1)", text)
   text
 }
 
