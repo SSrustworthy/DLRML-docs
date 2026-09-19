@@ -1,5 +1,3 @@
-#356C71
-
 /*------------------------------------------------------*/
 /* Content layout styles */
 
@@ -58,20 +56,16 @@
 
 .banner-content-col {
   height: 100%;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.banner-content-row {
-  height: 100%;
 }
 
 .banner-content {
   height: 75%;
   display: flex;
   justify-content: center;
-  /* align-items: center; */
   flex-direction: column;
 }
 
@@ -84,76 +78,7 @@
 
 }
 
-.banner-buttons {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  flex-direction: row;
-}
-
-.banner-buttons .md-button {
-  margin-top: .5rem;
-  margin-right: .5rem;
-  color: #EF5552;
-  border-color: #ffffff !important;
-  background-color: #ffffff;
-  border-radius: 5px;
-  transition: .2s ease-in-out;
-  /* width: 100%; */
-  
-}
-
-/* .banner-buttons .md-button--primary {
-  background-color: #ffffff;
-  color: hsla(280deg, 37%, 48%, 1);
-  border-color: #ffffff;
-  color: #EF5552 !important;
-} */
-
-.banner-buttons .md-button:focus,
-.banner-buttons .md-button:hover {
-  background-color: #EF5552 !important;
-  color: #ffffff !important;
-  border-color: #EF5552 !important;
-  border-radius: 10px;
-}
-
-.banner-buttons .btn-margin {
-  max-width: 20px;
-}
-
-.banner-button {
-  width: 100%;
-  max-width: 190px;
-}
-
-.banner-button .md-button {
-  width: 100%;
-  max-width: 175px;
-  text-align: center;
-  padding: 0.25rem 0 !important;
-}
-
-.banner-img-container {
-  height: 75%;
-  display: flex;
-  /* justify-content: center; */
-  align-items: center;
-}
-
-.banner-img {
-  height: 100%;
-  max-height: 300px;
-  width: auto;
-}
-
 @media (max-width: 959px) {
-
-  .banner-content-col .margin {
-    display: none;
-    width: 0;
-  }
-
   .banner-content {
     width: 85%;
     display: flex;
@@ -161,29 +86,7 @@
     align-items: center;
     flex-direction: column;
   }
-  .banner-buttons {
-    flex-direction: column;
-    max-width: 100%;
-  }
-  .banner-button {
-    width: 50%;
-    max-width: unset;
-  }
-  .banner-button .md-button {
-    width: 100%;
-    max-width: unset;
-    text-align: center;
-  }
-  .banner-img-container {
-    display: none;
-  }
 }
-
-@media (max-width: 650px) {
-  .banner-button {
-    width: 75%;
-  }
-/* Responsive styles */
 
 /*------------------------------------------------------*/
 /* Navigation and sidebar styles */
@@ -210,7 +113,7 @@
   /* Hides the mobile navigation menu in the header */
 }
 /* By default, Material switches to the mobile navigation at 1220px.
-/* This keeps the regular nav tabs and logo on the header for screens smaller than 1220px */
+   This keeps the regular nav tabs and logo on the header for screens smaller than 1220px */
 
 @media (max-width: 959px) {
   .md-sidebar--primary {
@@ -233,5 +136,5 @@
   }
   /* Shows the mobile navigation menu in the header */
 }
-/* This reverts to the mobile navigation at 959px */ 
+/* This reverts to the mobile navigation at 959px */
 /*------------------------------------------------------*/
