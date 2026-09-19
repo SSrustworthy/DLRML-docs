@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Halloween
 
-This loop played during the Halloween season in Sunshine Plaza in 2008 and 2009 (verified, may have been used during other years as well). Verified tracklist compiled by pixelated based on his reference recordings. See MouseBits, [https://mousebits.com/smf/index.php?topic=4803.msg35717#msg35717](https://mousebits.com/smf/index.php?topic=4803.msg35717#msg35717)  (2009).
+This loop played during the Halloween season in Sunshine Plaza in 2008 and 2009 (verified, may have been used during other years as well). Verified tracklist compiled by pixelated based on his reference recordings. See MouseBits, [https://mousebits.com/smf/index.php?topic=4803.msg35717#msg35717](https://mousebits.com/smf/index.php?topic=4803.msg35717#msg35717) (2009).
 
 ## Tracklist
 

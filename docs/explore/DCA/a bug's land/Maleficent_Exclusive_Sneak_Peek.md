@@ -6,7 +6,7 @@
 
 **Dates**: April 18, 2014
 
-This loop played in the exterior area adjacent to the “it’s tough to be a bug” theater during the Maleficent Exclusive Sneak Peek event, which opened on April 18, 2014. Verified tracklist compiled by pixelated based on his reference recording. He noted that the loop probably synchronized with the screenings. See MouseBits, [https://mousebits.com/smf/index.php?topic=8590.msg80986#msg80986](https://mousebits.com/smf/index.php?topic=8590.msg80986#msg80986)  (2014).
+This loop played in the exterior area adjacent to the “it’s tough to be a bug” theater during the Maleficent Exclusive Sneak Peek event, which opened on April 18, 2014. Verified tracklist compiled by pixelated based on his reference recording. He noted that the loop probably synchronized with the screenings. See MouseBits, [https://mousebits.com/smf/index.php?topic=8590.msg80986#msg80986](https://mousebits.com/smf/index.php?topic=8590.msg80986#msg80986) (2014).
 
 ## Tracklist
 

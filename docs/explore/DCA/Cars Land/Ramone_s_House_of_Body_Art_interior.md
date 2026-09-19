@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:40:16.473
 
-This loop plays in the interior of Ramone's House of Body Art.  It was introduced with the opening of Cars Land on June 13, 2012. This is a preliminary tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592](https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592)  (2012).
+This loop plays in the interior of Ramone's House of Body Art.  It was introduced with the opening of Cars Land on June 13, 2012. This is a preliminary tracklist compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592](https://mousebits.com/smf/index.php?topic=7381.msg65592#msg65592) (2012).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 2011
 
-This is the second version of the loop that plays in the Animation Building Lobby, and was used from 2011 until 2025. These songs are not played in their entirety; they are short, edited clips, maybe a minute or so long. The Frozen tracks were added during Frozen Fun in 2015 and retained thereafter as part of the regular loop. Tracklist compiled by RocketRodsXPR based on a reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834](https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834)  (2015).
+This is the second version of the loop that plays in the Animation Building Lobby, and was used from 2011 until 2025. These songs are not played in their entirety; they are short, edited clips, maybe a minute or so long. The Frozen tracks were added during Frozen Fun in 2015 and retained thereafter as part of the regular loop. Tracklist compiled by RocketRodsXPR based on a reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834](https://mousebits.com/smf/index.php?topic=8876.msg84834#msg84834) (2015).
 
 ## Tracklist
 

@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop is thought to have played in the Disneyland Kennel Club and/or Baby Station. This partial loop compiled by Duckzz and ChrisLyndon based on a 15 minute tape uploaded to WaltsMusic (MouseBits; Re: [https://mousebits.com/smf/index.php?topic=9851.msg92638#msg92638](https://mousebits.com/smf/index.php?topic=9851.msg92638#msg92638) ) which was labeled with those locations. The WaltsMusic cartridge transfer is not available on Ken Stigen’s website as of 2026.
+This loop is thought to have played in the Disneyland Kennel Club and/or Baby Station. This partial loop compiled by Duckzz and ChrisLyndon based on a 15 minute tape uploaded to WaltsMusic (MouseBits; Re: [https://mousebits.com/smf/index.php?topic=9851.msg92638#msg92638](https://mousebits.com/smf/index.php?topic=9851.msg92638#msg92638)) which was labeled with those locations. The WaltsMusic cartridge transfer is not available on Ken Stigen’s website as of 2026.
 
 ## Tracklist
 

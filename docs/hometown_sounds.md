@@ -10,4 +10,4 @@ Enjoy our ad-free reconstructions and playlists on our YouTube channel:
 
 [Hometown Sounds of Main Street, U.S.A.](https://www.youtube.com/@HometownSoundsMSUSA/featured)
 
-<img title="" src="img/assets/HSTitle.png" alt="" width="452" data-align="center">
+<img title="" src="../img/assets/HSTitle.png" alt="Hometown Sounds title" width="452">

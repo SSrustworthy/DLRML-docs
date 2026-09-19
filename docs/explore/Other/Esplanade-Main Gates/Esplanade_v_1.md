@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 2001 → April 1, 2004
 
-This loop played in the Esplanade from 2001 to 2004. Several of these tracks were first used in the 1992 Main Gates loop at Disneyland and the Magic Kingdom entrance. Additional information is available on Magic Music, see [https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381](https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381)  (2002).
+This loop played in the Esplanade from 2001 to 2004. Several of these tracks were first used in the 1992 Main Gates loop at Disneyland and the Magic Kingdom entrance. Additional information is available on Magic Music, see [https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381](https://community.magicmusic.net/threads/disneyland-esplanade-playlist-questions.56/#post-381) (2002).
 
 ## Tracklist
 
@@ -32,7 +32,7 @@ This loop played in the Esplanade from 2001 to 2004. Several of these tracks wer
 
 6\. California Girls (King Triton’s Carousel of the Sea BGM) – Unreleased
 
-- Track Notes: See [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245) 
+- Track Notes: See [https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245](https://mousebits.com/smf/index.php?topic=3986.msg29245#msg29245)
 
 7\. The Tiki, Tiki, Tiki Room – 15th Anniversary Music 4: Grand Finale [1998]
 

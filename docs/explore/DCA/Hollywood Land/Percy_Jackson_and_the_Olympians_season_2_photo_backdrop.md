@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 15:13.563
 
-This loop plays Percy Jackson and the Olympians Season 2 photo spot at the apartment facade in Hollywood Land. The loop was introduced alongside the photo spot in January 2026. Verified tracklist compiled by SSrustworthy based based on her reference recording. See this description of the photo op by dapsmagic, [https://dapsmagic.com/2026/01/new-percy-jackson-and-the-olympians-photo-op-appears-at-disney-california-adventure/](https://dapsmagic.com/2026/01/new-percy-jackson-and-the-olympians-photo-op-appears-at-disney-california-adventure/)  .
+This loop plays Percy Jackson and the Olympians Season 2 photo spot at the apartment facade in Hollywood Land. The loop was introduced alongside the photo spot in January 2026. Verified tracklist compiled by SSrustworthy based based on her reference recording. See this description of the photo op by dapsmagic, [https://dapsmagic.com/2026/01/new-percy-jackson-and-the-olympians-photo-op-appears-at-disney-california-adventure/](https://dapsmagic.com/2026/01/new-percy-jackson-and-the-olympians-photo-op-appears-at-disney-california-adventure/).
 
 ## Tracklist
 

@@ -8,7 +8,7 @@
 
 **Dates**: February 8, 2001 → January 30, 2012
 
-This loop played in the Grizzly River Run queue from park opening until ~January 30, 2012, when the attraction closed for refurbishment and placemaking with the land retheming. It is a radio station-style loop featuring announcements and callers between songs. It was most audibly heard in the queue line over the bridge, near the displays with the kayaks on the roof where there was a desk with a radio playing the loop. It also played overhead the attraction exit staircase. A MouseBits torrent is available of live recording samples of the announcements. Tracklist compiled by MouseBits user CAScreaminDude. See MouseBits, [https://mousebits.com/smf/index.php?topic=4002.msg27574#msg27574](https://mousebits.com/smf/index.php?topic=4002.msg27574#msg27574)  (2009), [https://mousebits.com/smf/index.php?topic=3463.msg30244#msg30244](https://mousebits.com/smf/index.php?topic=3463.msg30244#msg30244)  .
+This loop played in the Grizzly River Run queue from park opening until ~January 30, 2012, when the attraction closed for refurbishment and placemaking with the land retheming. It is a radio station-style loop featuring announcements and callers between songs. It was most audibly heard in the queue line over the bridge, near the displays with the kayaks on the roof where there was a desk with a radio playing the loop. It also played overhead the attraction exit staircase. A MouseBits torrent is available of live recording samples of the announcements. Tracklist compiled by MouseBits user CAScreaminDude. See MouseBits, [https://mousebits.com/smf/index.php?topic=4002.msg27574#msg27574](https://mousebits.com/smf/index.php?topic=4002.msg27574#msg27574) (2009), [https://mousebits.com/smf/index.php?topic=3463.msg30244#msg30244](https://mousebits.com/smf/index.php?topic=3463.msg30244#msg30244).
 
 ## Tracklist
 
@@ -30,7 +30,7 @@ This loop played in the Grizzly River Run queue from park opening until ~January
 
 4\. Deal With It – Sonya Isaacs, Michael McDonald
 
-- Track Notes: This track is only available on a 1999 promo album by Sonya Isaacs, released under Disney’s Country Label ‘Lyric Street Records’ [https://www.discogs.com/release/16542420-Sonya-Isaacs-Sonya-Isaacs](https://www.discogs.com/release/16542420-Sonya-Isaacs-Sonya-Isaacs) 
+- Track Notes: This track is only available on a 1999 promo album by Sonya Isaacs, released under Disney’s Country Label ‘Lyric Street Records’ [https://www.discogs.com/release/16542420-Sonya-Isaacs-Sonya-Isaacs](https://www.discogs.com/release/16542420-Sonya-Isaacs-Sonya-Isaacs)
 
 4.5\. “We're back, and Grizzly Peak, we did not get a single call during those songs. Hello, Dwight! Grizzly Peak's population is like three..." - Interview with Bumper, GRR Rafting Guide – KGRR, GRR Radio!
 

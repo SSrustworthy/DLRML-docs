@@ -34,18 +34,6 @@
         padding-top: 0 !important;
     }
 
-    <!--#about-us {
-        opacity: 0;
-        height: 0;
-        margin: 0;
-    }-->
-
-    <!--#people {
-        opacity: 0;
-        height: 0;
-        margin: 0;
-    }-->
-
     .banner-row-container {
         max-width: unset !important;
         margin: 0 !important;
@@ -55,7 +43,8 @@
         /* background: linear-gradient(to bottom, var(--md-primary-fg-color), {{ config.home_gradient_hsla }} 99%, {{ config.home_gradient_hsla }} 99%); */
         /* This is used for the background gradient */
 
-        background-image: url(img/banners/IMG_7404.jpg);
+        background-color: #ffffff;
+        background-image: url(img/banners/20210519-_DSC4865.jpg);
         background-position: center center;
         /* The default background if javascript is disabled */
 
@@ -64,23 +53,14 @@
         
         background-clip: border-box;
         background-origin: padding-box;
-        /* -moz-background-size: cover;
-        background-size: cover; */
-        background-size: 100% auto !important;
-            -moz-background-size: 100% auto !important;
+        background-size: cover !important;
+        -moz-background-size: cover !important;
         /* This stuff is used for the background image */
     }
 
     @media (max-width: 1025px) {
         .banner-row-container { background-attachment: scroll; }
     }
-
-    @media (max-width: 800px) {
-    .banner-row-container {
-        background-size: cover !important;
-        -moz-background-size: cover !important;
-        }
-    }    
 
     .banner-row {
         height:100% !important;
@@ -97,33 +77,16 @@
 
 </style>
 
-<!-- Main site entry button descriptions (removed) -->
 <div class="banner-row-container">
-    <div class="row banner-row">
-
-        <div class="col-24-24 banner-content-col">
-
-            <div class="row banner-content-row">
-
-                <div class="col-6-24 margin"></div>
-
-                <div class="col-8-24 banner-content">
-                    <div class="banner-title md-typeset">
-                        <span class="home-tagline">{{ config.home_tagline }}</span><br/>
-                        {{ config.home_description }}
-                    </div>
-
+    <div class="banner-row">
+        <div class="banner-content-col">
+            <div class="banner-content">
+                <div class="banner-title md-typeset">
+                    <span class="home-tagline">{{ config.home_tagline }}</span><br/>
+                    {{ config.home_description }}
                 </div>
-
-                <div class="col-6-24 banner-img-container">
-                    <!-- <img class="banner-img" src="{{ config.home_cover_image }}" draggable="false"> -->
-                </div>
-
-                <div class="col-4-24 margin"></div>
-
             </div>
         </div>
-
     </div>
 </div>
 
@@ -140,7 +103,6 @@
     // Select an image path
     var image = images[index];
     
-    // Set the background image
     var banner = document.querySelector('.banner-row-container');
     banner.style.backgroundImage = 'url(' + image.path + ')';
     banner.style.backgroundPosition = image.position;

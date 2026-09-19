@@ -1,8 +1,12 @@
 
 # Script to execute MD file creation
 
+if (!requireNamespace("here", quietly = TRUE)) {
+  stop("Install the 'here' package to run this script.", call. = FALSE)
+}
+
 # Source functions ----
-stem <- "C:/Users/aubre/Box/Hobbies/dlrml"
+stem <- here::here()
 source(file.path(stem, "create_md_source.R"))
 
 # Iterate across databases ----

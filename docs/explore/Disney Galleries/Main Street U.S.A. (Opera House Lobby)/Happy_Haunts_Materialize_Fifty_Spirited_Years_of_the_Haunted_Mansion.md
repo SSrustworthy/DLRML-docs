@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:05:14.112
 
-This loop played in the Disney Gallery in the Main Street, U.S.A. Opera House as part of the “Happy Haunts Materialize” exhibit, which ran from July 2019-January 2023. There were a lot of SFX added on top of the music tracks. Tracklist compiled by SSrustworthy  based on her live recording. See MouseBits, [https://forums.mousebits.com/threads/muppets-haunted-mansion.10704/post-98363](https://forums.mousebits.com/threads/muppets-haunted-mansion.10704/post-98363)  (2022) and [https://forums.mousebits.com/threads/disney-gallery-happy-haunts-materialize.10898/#post-99256](https://forums.mousebits.com/threads/disney-gallery-happy-haunts-materialize.10898/#post-99256)  (2023).
+This loop played in the Disney Gallery in the Main Street, U.S.A. Opera House as part of the “Happy Haunts Materialize” exhibit, which ran from July 2019-January 2023. There were a lot of SFX added on top of the music tracks. Tracklist compiled by SSrustworthy  based on her live recording. See MouseBits, [https://forums.mousebits.com/threads/muppets-haunted-mansion.10704/post-98363](https://forums.mousebits.com/threads/muppets-haunted-mansion.10704/post-98363) (2022) and [https://forums.mousebits.com/threads/disney-gallery-happy-haunts-materialize.10898/#post-99256](https://forums.mousebits.com/threads/disney-gallery-happy-haunts-materialize.10898/#post-99256) (2023).
 
 ## Tracklist
 

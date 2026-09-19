@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop played from the Big Thunder Ranch Barbecue stage speakers between performances at least during 2014. Likely incomplete, and controlled by Entertainment rather than WDI. See MouseBits [https://mousebits.com/smf/index.php?topic=7066.msg83905#msg83905](https://mousebits.com/smf/index.php?topic=7066.msg83905#msg83905) 
+This loop played from the Big Thunder Ranch Barbecue stage speakers between performances at least during 2014. Likely incomplete, and controlled by Entertainment rather than WDI. See MouseBits [https://mousebits.com/smf/index.php?topic=7066.msg83905#msg83905](https://mousebits.com/smf/index.php?topic=7066.msg83905#msg83905)
 
 ## Tracklist
 

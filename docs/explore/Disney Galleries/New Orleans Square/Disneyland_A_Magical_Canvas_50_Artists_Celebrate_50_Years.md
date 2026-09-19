@@ -2,7 +2,7 @@
 
 **Location**: New Orleans Square
 
-This loop played in the Disney Gallery in New Orleans Square. This loop was the BGM for the “Disneyland, A Magical Canvas: 50 Artists Celebrate 50 Years” from 05/2005 until 08/2007. Partial tracklist compiled by wedroy1923 based on multiple live video recordings. See MouseBits, [https://forums.mousebits.com/threads/the-disney-gallery.6886/](https://forums.mousebits.com/threads/the-disney-gallery.6886/)  (2011) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/)  (2013).
+This loop played in the Disney Gallery in New Orleans Square. This loop was the BGM for the “Disneyland, A Magical Canvas: 50 Artists Celebrate 50 Years” from 05/2005 until 08/2007. Partial tracklist compiled by wedroy1923 based on multiple live video recordings. See MouseBits, [https://forums.mousebits.com/threads/the-disney-gallery.6886/](https://forums.mousebits.com/threads/the-disney-gallery.6886/) (2011) and [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/) (2013).
 
 ## Tracklist
 

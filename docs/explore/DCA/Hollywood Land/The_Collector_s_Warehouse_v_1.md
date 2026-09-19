@@ -1,4 +1,4 @@
-# Mission: BREAKOUT! (exterior)
+# The Collector's Warehouse v.1
 
 **Land(s)**: Hollywood Land
 
@@ -6,7 +6,7 @@
 
 **Dates**: May 27, 2017
 
-This loop played near the exterior attraction sign for the ‘Guardians of the Galaxy – Mission: BREAKOUT!' attraction. This is a preliminary tracklist compiled by CThaddeus based on a reference recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9565.msg90433#msg90433](https://mousebits.com/smf/index.php?topic=9565.msg90433#msg90433)  (2017).
+This loop plays in The Collector’s Warehouse, the gift shop located at the exit of Mission: BREAKOUT! For a period of time, it also played near the exterior attraction sign for the ‘Guardians of the Galaxy – Mission: BREAKOUT!' attraction prior to its replacement by the Avengers Campus BGM. This is a preliminary tracklist compiled by CThaddeus based on a reference recording by pixelated. See MouseBits, [https://mousebits.com/smf/index.php?topic=9565.msg90433#msg90433](https://mousebits.com/smf/index.php?topic=9565.msg90433#msg90433) (2017). Tracklist appears to have been updated again sometime before 2022 based on YT videos.
 
 ## Tracklist
 
@@ -70,7 +70,7 @@ This loop played near the exterior attraction sign for the ‘Guardians of the G
 
 
 
-16\.   Still the One – Orleans
+16\.   Still The One – Orleans
 
 
 

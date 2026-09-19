@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 01:12:58.505
 
-This loop was the third version of the Blue Sky Cellar BGM, which corresponded with the Paradise Park and Ariel’s Undersea Adventure exhibits. The loop debuted in June 2010. A preliminary tracklist was compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796](https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796)  and [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946)  .
+This loop was the third version of the Blue Sky Cellar BGM, which corresponded with the Paradise Park and Ariel’s Undersea Adventure exhibits. The loop debuted in June 2010. A preliminary tracklist was compiled by pixelated based on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796](https://mousebits.com/smf/index.php?topic=5443.msg43796#msg43796) and [https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946](https://mousebits.com/smf/index.php?topic=7842.msg69946#msg69946).
 
 ## Tracklist
 

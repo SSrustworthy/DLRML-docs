@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Food and Wine Festival
 
-This is a preliminary tracklist for the 2020-2023 Food and Wine Festival loop. Tracklist compiled by Pixelated and junglecskipper based on a reference recording by pixelated. 15 tracks were added to the end of the 2019 F&W Loop similar to what was done to the Festival of Holidays loop in 2017. See Mousebits, [https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/](https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/)  .
+This is a preliminary tracklist for the 2020-2023 Food and Wine Festival loop. Tracklist compiled by Pixelated and junglecskipper based on a reference recording by pixelated. 15 tracks were added to the end of the 2019 F&W Loop similar to what was done to the Festival of Holidays loop in 2017. See Mousebits, [https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/](https://forums.mousebits.com/threads/dca-food-and-wine-festival-2020-bgm.10291/).
 
 ## Tracklist
 

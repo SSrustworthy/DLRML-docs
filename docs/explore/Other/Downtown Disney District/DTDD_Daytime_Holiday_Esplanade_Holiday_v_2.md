@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop plays in the Downtown Disney District area from 5AM to 8PM during the holiday season. It also played in the Esplanade for Christmas 2018 (possibly other years, but unverified). See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9944.msg93350#msg93350](https://mousebits.com/smf/index.php?topic=9944.msg93350#msg93350)  .
+This loop plays in the Downtown Disney District area from 5AM to 8PM during the holiday season. It also played in the Esplanade for Christmas 2018 (possibly other years, but unverified). See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9944.msg93350#msg93350](https://mousebits.com/smf/index.php?topic=9944.msg93350#msg93350).
 
 ## Tracklist
 

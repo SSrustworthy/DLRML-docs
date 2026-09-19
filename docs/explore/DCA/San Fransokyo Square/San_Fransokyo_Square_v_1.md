@@ -6,7 +6,7 @@
 
 **Dates**: August 31, 2023
 
-This loop plays in the general outdoor area of San Fransokyo Square. Tracklist compiled by pixelated based on his 2023 reference recording. The land opened August 31, 2023. See MouseBits, [https://forums.mousebits.com/threads/san-fransokyo-square.11160/](https://forums.mousebits.com/threads/san-fransokyo-square.11160/)  (2025).
+This loop plays in the general outdoor area of San Fransokyo Square. Tracklist compiled by pixelated based on his 2023 reference recording. The land opened August 31, 2023. See MouseBits, [https://forums.mousebits.com/threads/san-fransokyo-square.11160/](https://forums.mousebits.com/threads/san-fransokyo-square.11160/) (2025).
 
 ## Tracklist
 

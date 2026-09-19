@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 00:04:29.946
 
-This loop played in the Disney Gallery in the Main Street, U.S.A. Opera House as part of the “Disney 100 Years of Wonder” exhibit, which ran from January 2023-April 2024. It consists of a single track. Tracklist compiled by SSrustworthy based on StarWarsGalaxysEdge’s live recording. See MouseBits, [https://forums.mousebits.com/threads/disneyland-gallery.10887/post-99204](https://forums.mousebits.com/threads/disneyland-gallery.10887/post-99204)  (2023).
+This loop played in the Disney Gallery in the Main Street, U.S.A. Opera House as part of the “Disney 100 Years of Wonder” exhibit, which ran from January 2023-April 2024. It consists of a single track. Tracklist compiled by SSrustworthy based on StarWarsGalaxysEdge’s live recording. See MouseBits, [https://forums.mousebits.com/threads/disneyland-gallery.10887/post-99204](https://forums.mousebits.com/threads/disneyland-gallery.10887/post-99204) (2023).
 
 ## Tracklist
 

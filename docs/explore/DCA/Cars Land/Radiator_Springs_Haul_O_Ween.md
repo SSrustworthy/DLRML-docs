@@ -9,7 +9,7 @@
 **Holiday/Special Event**: Halloween
 
 This loop plays in the ‘downtown Radiator Springs’ area for the ‘Radiator Springs Haul-O-Ween’ Halloween Cars Land overlay.
-Track list compiled by pixelated bsaed on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9645.msg91116#msg91116](https://mousebits.com/smf/index.php?topic=9645.msg91116#msg91116)  (2017).
+Track list compiled by pixelated bsaed on his reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9645.msg91116#msg91116](https://mousebits.com/smf/index.php?topic=9645.msg91116#msg91116) (2017).
 
 ## Tracklist
 

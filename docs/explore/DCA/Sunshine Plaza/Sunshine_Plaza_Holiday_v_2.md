@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played in Sunshine Plaza during the 2008 Christmas season (and possibly 2002-2010 in general). Tracklist compiled by pixelated based on his 2008 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=3843.msg26195#msg26195.](https://mousebits.com/smf/index.php?topic=3843.msg26195#msg26195.)  As of Thanksgiving weekend 2011, the alternate entrance walkway being used during Buena Vista Street construction was playing the same music as normal and not any Christmas music; see MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg58031#msg58031](https://mousebits.com/smf/index.php?topic=6912.msg58031#msg58031)  .
+This loop played in Sunshine Plaza during the 2008 Christmas season (and possibly 2002-2010 in general). Tracklist compiled by pixelated based on his 2008 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=3843.msg26195#msg26195](https://mousebits.com/smf/index.php?topic=3843.msg26195#msg26195). As of Thanksgiving weekend 2011, the alternate entrance walkway being used during Buena Vista Street construction was playing the same music as normal and not any Christmas music; see MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg58031#msg58031](https://mousebits.com/smf/index.php?topic=6912.msg58031#msg58031).
 
 ## Tracklist
 

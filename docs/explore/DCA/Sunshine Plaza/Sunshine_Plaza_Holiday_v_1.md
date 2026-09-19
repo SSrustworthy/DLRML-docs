@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played in Sunshine Plaza during DCA’s first Holiday season in 2001, but was replaced by 2002. MouseBits member Jarvis says: “At the time, they just stuck four Christmas songs into the regular loop (edited in very badly, too, as I recall--you could hear the regular loop fading out and the Christmas song fading in). I think the four songs did up making the real Christmas loop, which started in 2002.” Tracks added based on labeled tracks in limited circulation; no reference recording is available. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376](https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376)  (2011).
+This loop played in Sunshine Plaza during DCA’s first Holiday season in 2001, but was replaced by 2002. MouseBits member Jarvis says: “At the time, they just stuck four Christmas songs into the regular loop (edited in very badly, too, as I recall--you could hear the regular loop fading out and the Christmas song fading in). I think the four songs did up making the real Christmas loop, which started in 2002.” Tracks added based on labeled tracks in limited circulation; no reference recording is available. See MouseBits, [https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376](https://mousebits.com/smf/index.php?topic=6912.msg58376#msg58376) (2011).
 
 ## Tracklist
 

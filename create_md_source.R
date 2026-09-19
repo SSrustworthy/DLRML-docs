@@ -18,9 +18,9 @@ make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
     stringr::str_remove_all(",")                                   # Remove commas
   
   if(nchar(safe_name) > 70) safe_name <- stringr::str_trunc(safe_name, 
-                                                             70,
-                                                             side = "left",
-                                                             ellipsis = "")
+                                                            70,
+                                                            side = "right",
+                                                            ellipsis = "")
   if (to_lower) safe_name <- tolower(safe_name)
   if (!is.null(extension)) {
     if (!startsWith(extension, ".")) {
@@ -32,9 +32,53 @@ make_safe_filename <- function(name, extension = NULL, to_lower = FALSE) {
 }
 
 url_to_md <- function(x) {
-  if (!is.character(x)) return(x)  # Leave non-character columns unchanged
-  str_replace_all(x, "(https://[^\\s]+)(\\.)$", "\\1 \\2") |>
-  str_replace_all("(https?://[^\\s()<>\"',;]+)", "[\\1](\\1) ")
+  if (!is.character(x)) return(x)
+  vapply(x, url_to_md_one, character(1), USE.NAMES = FALSE)
+}
+
+url_to_md_one <- function(text) {
+  if (is.na(text) || !nzchar(text)) return(text)
+  # Protect existing markdown links with placeholders
+  md_link_pat <- "\\[[^]]+\\]\\([^)]+\\)"
+  placeholders <- character()
+  idx <- 0L
+  while (grepl(md_link_pat, text, perl = TRUE)) {
+    idx <- idx + 1L
+    m <- regexpr(md_link_pat, text, perl = TRUE)
+    key <- sprintf("<<MDLINK_%d>>", idx)
+    placeholders[key] <- regmatches(text, m)
+    regmatches(text, m) <- key
+  }
+  # Split duplicated URLs pasted together in CSV (e.g. ...post-123https://...)
+  # but preserve archive.org URLs with embedded http:// in their path
+  text <- gsub(
+    "(https?://(?:web\\.)?archive\\.org/web/\\d+/)(https?://)",
+    "\\1<<ARCHPROTO>>",
+    text, perl = TRUE
+  )
+  text <- gsub("(https?://[^\\s]+?)(https?://)", "\\1 \\2", text, perl = TRUE)
+  text <- gsub("<<ARCHPROTO>>", "http://", text, fixed = TRUE)
+  bare_pat <- "https?://[^\\s<>\"'\\[\\]()]+"
+  hits <- gregexpr(bare_pat, text, perl = TRUE)[[1]]
+  if (hits[1] != -1) {
+    lengths <- attr(hits, "match.length")
+    for (i in rev(seq_along(hits))) {
+      start <- hits[i]
+      raw <- substr(text, start, start + lengths[i] - 1L)
+      url <- sub("[.,;:!?]+$", "", raw)
+      trailing <- substring(raw, nchar(url) + 1L)
+      repl <- paste0("[", url, "](", url, ")", trailing)
+      text <- paste0(
+        substr(text, 1L, start - 1L),
+        repl,
+        substr(text, start + lengths[i], nchar(text))
+      )
+    }
+  }
+  for (key in names(placeholders)) {
+    text <- sub(key, placeholders[[key]], text, fixed = TRUE)
+  }
+  text
 }
 
 sanitize_folder_name <- function(x) {
@@ -131,7 +175,7 @@ create_md <- function(loop_name, loop_db, out_loc) {
   loop_df <- loop_db |>
     filter(Loop == loop_name) |>
     arrange(`Track No.`) |>
-    mutate(across(everything(), url_to_md))
+    mutate(across(any_of(c("Loop Notes", "Track Notes", "Album", "Loop Total Length")), url_to_md))
   
   loop_des <- create_description(loop_df)
   loop_description <- loop_des[[1]]

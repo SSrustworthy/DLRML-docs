@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop plays in Goofy’s Kitchen. Tracklist compiled by monorail91 based on notes from a January 2018 visit and posted on Magic Music, Re: [https://community.magicmusic.net/threads/goofys-kitchen.5389/](https://community.magicmusic.net/threads/goofys-kitchen.5389/)  (2018).
+This loop plays in Goofy’s Kitchen. Tracklist compiled by monorail91 based on notes from a January 2018 visit and posted on Magic Music, Re: [https://community.magicmusic.net/threads/goofys-kitchen.5389/](https://community.magicmusic.net/threads/goofys-kitchen.5389/) (2018).
 
 ## Tracklist
 

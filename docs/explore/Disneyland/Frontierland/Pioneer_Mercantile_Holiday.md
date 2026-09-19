@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This audio loop accompanied the video screen loop in the back of the Pioneer Mercantile shop during the 2022 holiday season. It is unknown what other dates it appeared. Tracklist compiled by SSrustworthy based on a January 2023 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210](https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210)  (2023).
+This audio loop accompanied the video screen loop in the back of the Pioneer Mercantile shop during the 2022 holiday season. It is unknown what other dates it appeared. Tracklist compiled by SSrustworthy based on a January 2023 reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210](https://mousebits.com/smf/index.php?topic=9570.msg99210#msg99210) (2023).
 
 ## Tracklist
 
@@ -29,7 +29,7 @@ This audio loop accompanied the video screen loop in the back of the Pioneer Mer
 5\. Clip from Mickey Mouse Clubhouse - Donald Duck directing "We Wish You A Merry Christmas"
 
 - Loop Track Length: 00:01:46.504
-- Track Notes: [https://youtu.be/1bV3qO1VCe4](https://youtu.be/1bV3qO1VCe4) 
+- Track Notes: [https://youtu.be/1bV3qO1VCe4](https://youtu.be/1bV3qO1VCe4)
 
 6\. Ring in the Season – Kristen Bell, Idina Menzel, Josh Gad – Olaf's Frozen Adventure OST
 

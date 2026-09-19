@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This jazzy loop plays outside of the Discovery Tower of the Disneyland Hotel after 7 PM. The Discovery Tower opened on September 28, 2023. A few tracks were identified by pixelated and Park Sensory based on their reference recordings. See MouseBits, [https://forums.mousebits.com/threads/discovery-tower-nighttime-exterior.11173/](https://forums.mousebits.com/threads/discovery-tower-nighttime-exterior.11173/)  (2025).
+This jazzy loop plays outside of the Discovery Tower of the Disneyland Hotel after 7 PM. The Discovery Tower opened on September 28, 2023. A few tracks were identified by pixelated and Park Sensory based on their reference recordings. See MouseBits, [https://forums.mousebits.com/threads/discovery-tower-nighttime-exterior.11173/](https://forums.mousebits.com/threads/discovery-tower-nighttime-exterior.11173/) (2025).
 
 ## Tracklist
 

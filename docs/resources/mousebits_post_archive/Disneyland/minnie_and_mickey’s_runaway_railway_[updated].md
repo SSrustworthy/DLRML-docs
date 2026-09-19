@@ -12,13 +12,13 @@ I have updated the last unknown in the Runaway Railway queue track to the correc
 
 See an upload of the queue music, here:
 
- [https://youtu.be/s0z0AV3ABGQ?feature=shared](https://youtu.be/s0z0AV3ABGQ?feature=shared)
+[https://youtu.be/s0z0AV3ABGQ?feature=shared](https://youtu.be/s0z0AV3ABGQ?feature=shared)
 
 Also, here's an updated lobby tracklist:
 
-# **Mickey and Minnie's Runaway Railway Lobby BGM**
+## Mickey and Minnie's Runaway Railway Lobby BGM
 
-Loop length 00:16:45
+**Loop length:** 00:16:45
 
 1. The Ruffled Ruffian (From "A Pete Scorned") - Christopher Willis - Unreleased (loop length 00:02:35.326)
 
@@ -38,47 +38,47 @@ Loop length 00:16:45
 
 This loop plays throughout the "Through the Ears" and outdoor extended MMRR queue. The loop is dynamic and the instrumentation changes between exhibits (Early Ears: early jazz, Golden Ears: modern jazz, and Modern Ears: orchestral). It does not play in the area immediately surrounding the Disco Mickey Mouse exhibit. It consists of rearrangements of themes associated with Mickey and Minnie Mouse.
 
-Track names verified by Christopher Willis via Twitter/SoundCloud except for the last unknown (which will hopefully be named in the near future). All SoundCloud source tracks in compressed quality are available here alongside WDW queue tracks:
+Track names verified by Christopher Willis via X (Twitter) and SoundCloud. All SoundCloud source tracks in compressed quality are available here alongside WDW queue tracks:
 
-**MMRR Queue Christopher Willis Soundcloud**
+**MMRR Queue Christopher Willis SoundCloud**
 
 [https://mega.nz/folder/d14QGbgJ#CWMP0y89vQwxwMTX-6AgQQ](https://mega.nz/folder/d14QGbgJ#CWMP0y89vQwxwMTX-6AgQQ)
 
 ---
 
 **Christopher Willis X posts, DL Queue**
-    
-![Untitled](../../../img/assets/willis_tweet (1).png)
 
-![Untitled](../../../img/assets/willis_tweet (2).png)
+![Untitled](<../../../img/assets/willis_tweet (1).png>)
 
-![Untitled](../../../img/assets/willis_tweet (3).png)
+![Untitled](<../../../img/assets/willis_tweet (2).png>)
 
-![Untitled](../../../img/assets/willis_tweet (4).png)
+![Untitled](<../../../img/assets/willis_tweet (3).png>)
 
-![Untitled](../../../img/assets/willis_tweet (5).png)
+![Untitled](<../../../img/assets/willis_tweet (4).png>)
 
-![Untitled](../../../img/assets/willis_tweet (6).png)
+![Untitled](<../../../img/assets/willis_tweet (5).png>)
 
-![Untitled](../../../img/assets/willis_tweet (7).png)
+![Untitled](<../../../img/assets/willis_tweet (6).png>)
 
-![Untitled](../../../img/assets/willis_tweet (8).png)
+![Untitled](<../../../img/assets/willis_tweet (7).png>)
 
-![Untitled](../../../img/assets/willis_tweet (9).png)
+![Untitled](<../../../img/assets/willis_tweet (8).png>)
 
-![Untitled](../../../img/assets/willis_tweet (10).png)
+![Untitled](<../../../img/assets/willis_tweet (9).png>)
 
-![Untitled](../../../img/assets/willis_tweet (11).png)
+![Untitled](<../../../img/assets/willis_tweet (10).png>)
 
-![Untitled](../../../img/assets/willis_tweet (12).png)
+![Untitled](<../../../img/assets/willis_tweet (11).png>)
 
-![Untitled](../../../img/assets/willis_tweet (13).png)
+![Untitled](<../../../img/assets/willis_tweet (12).png>)
+
+![Untitled](<../../../img/assets/willis_tweet (13).png>)
 
 ---
 
 ### Disneyland - Mickey and Minnie's Runaway Railway Queue
 
-Loop length 00:34:06
+**Loop length:** 00:34:06
 
 1. Flower Blooming In My Heart (from "A Flower for Minnie") / O Sole Minnie (from "Amore Motore") (loop length 00:02:51.723)
 
@@ -98,7 +98,7 @@ Loop length 00:34:06
 
 9. Hats Enough (loop length 00:02:26.792)
 
-10. Steamboat Silly (loop length 00:02:23.527)
+10. Steamboat Silly (loop length 00:02:23.527)
 
 11. Happy Birthday, Mickey Mouse / Mickey Mouse's Birthday Party (loop length 00:02:16.460)
 

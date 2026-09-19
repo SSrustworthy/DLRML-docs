@@ -23,11 +23,7 @@ theme:
     - search.highlight
     - content.code.annotation
     - content.code.copy
-  
-  palette:
-    scheme: default
-    primary: custom
-    accent: grey   
+    - toc.integrate
  
 plugins:
   - search
@@ -53,6 +49,5 @@ extra:
   generator: false
 
 # Custom Homepage Elements
-home_cover_image: img/HSIcon.png # This path starts at your root mkdocs directory.
 home_tagline: The Disneyland Resort BGM Loops Database
 home_description: Background & Area Music Loops (BGM) of the Disneyland Resort

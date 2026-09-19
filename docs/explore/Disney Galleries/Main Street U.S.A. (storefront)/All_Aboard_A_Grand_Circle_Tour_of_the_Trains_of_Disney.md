@@ -4,7 +4,7 @@
 
 **Loop Total Length**: ~00:27:55
 
-This loop played in the Disney Gallery on Main Street, U.S.A. as part of the “Trains of Disney” exhibit which ran from November 2011 - June 26, 2012. Tracklist compiled by wedroy1923 with assistance from pixelated and RocketRodsXPR and based on live recordings by wedroy1923 and pixelated. See MouseBits, [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938)  (2013) and [https://forums.mousebits.com/threads/the-disney-gallery.6886/post-58698](https://forums.mousebits.com/threads/the-disney-gallery.6886/post-58698)  (2011).
+This loop played in the Disney Gallery on Main Street, U.S.A. as part of the “Trains of Disney” exhibit which ran from November 2011 - June 26, 2012. Tracklist compiled by wedroy1923 with assistance from pixelated and RocketRodsXPR and based on live recordings by wedroy1923 and pixelated. See MouseBits, [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938) (2013) and [https://forums.mousebits.com/threads/the-disney-gallery.6886/post-58698](https://forums.mousebits.com/threads/the-disney-gallery.6886/post-58698) (2011).
 
 ## Tracklist
 

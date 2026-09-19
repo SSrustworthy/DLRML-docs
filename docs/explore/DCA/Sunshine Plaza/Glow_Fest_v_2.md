@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop played for the second of the Glow Fest opening performances in Sunshine Plaza in 2010. Preliminary track list compiled by pixelated based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/glow-fest.5512/#post-78690](https://forums.mousebits.com/threads/glow-fest.5512/#post-78690) 
+This loop played for the second of the Glow Fest opening performances in Sunshine Plaza in 2010. Preliminary track list compiled by pixelated based on his reference recording. See MouseBits, [https://forums.mousebits.com/threads/glow-fest.5512/#post-78690](https://forums.mousebits.com/threads/glow-fest.5512/#post-78690)
 
 ## Tracklist
 

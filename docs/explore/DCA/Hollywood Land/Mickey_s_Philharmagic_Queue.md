@@ -6,7 +6,7 @@
 
 **Dates**: April 26, 2019
 
-This loop plays inside the Sunset Theater in the queueing area for Philharmagic. Tracklist compiled by wedroy1923 and disneykw. Presumed to be the same as the WDW loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882](https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882)  (2010).
+This loop plays inside the Sunset Theater in the queueing area for Philharmagic. Tracklist compiled by wedroy1923 and disneykw. Presumed to be the same as the WDW loop. See MouseBits, [https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882](https://mousebits.com/smf/index.php?topic=5020.msg66882#msg66882) (2010).
 
 ## Tracklist
 
@@ -70,7 +70,7 @@ This loop plays inside the Sunset Theater in the queueing area for Philharmagic.
 
 
 
-15\. Mickey's PhilharMagic Medley – [https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html](https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html) 
+15\. Mickey's PhilharMagic Medley – [https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html](https://www.yesasia.com/us/tokyo-disney-land-mickeys-philharmagic-japan-version/1023826247-0-0-0-en/info.html)
 
 
 

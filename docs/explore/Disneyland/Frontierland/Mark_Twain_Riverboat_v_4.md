@@ -6,7 +6,7 @@
 
 **Dates**: July 29, 2017
 
-This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This collection of tracks was introduced on July 29, 2017 and is still used in 2026, albeit with a change in narration (see v.5). See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/)  for an extensive discussion of this topic.
+This is a collection of tracks that play in sync with the narration on the Mark Twain Riverboat. This collection of tracks was introduced on July 29, 2017 and is still used in 2026, albeit with a change in narration (see v.5). See MouseBits, [https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/](https://forums.mousebits.com/threads/the-music-of-the-mark-twain-riverboat.10846/) for an extensive discussion of this topic.
 
 ## Tracklist
 

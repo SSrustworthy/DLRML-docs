@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Halloween, Mickey's Halloween Party
 
-This loop could be heard during Mickey’s Halloween Party in 2015 (exact time in use is unknown) in the Pirate Palooza themed area, along the route from Frontierland to the Haunted Mansion. The volume was turned down in front of the Haunted Mansion when the Cadaver Dans start their set on the river. See MouseBits, [https://mousebits.com/smf/index.php?topic=9034.msg86249#msg86249](https://mousebits.com/smf/index.php?topic=9034.msg86249#msg86249)  (2015). This is an incomplete listing. Tracks without a number do not have a known position in relation to the other identified tracks.
+This loop could be heard during Mickey’s Halloween Party in 2015 (exact time in use is unknown) in the Pirate Palooza themed area, along the route from Frontierland to the Haunted Mansion. The volume was turned down in front of the Haunted Mansion when the Cadaver Dans start their set on the river. See MouseBits, [https://mousebits.com/smf/index.php?topic=9034.msg86249#msg86249](https://mousebits.com/smf/index.php?topic=9034.msg86249#msg86249) (2015). This is an incomplete listing. Tracks without a number do not have a known position in relation to the other identified tracks.
 
 ## Tracklist
 

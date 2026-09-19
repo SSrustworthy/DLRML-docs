@@ -7,7 +7,7 @@
 
 **Dates**: January 1, 1995 → January 1, 2012
 
-This loop played across Frontierland ca. 1995 until 2011. Tracklist compiled by X-S Tech and wedroy1923. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263](https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263)  and Magic Music, Re: [https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641.](https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641.)  It was also reported to play inside the Golden Horseshoe for a time, see MouseBits, [https://forums.mousebits.com/threads/new-frontierland-area-music-loop.7016/post-59253](https://forums.mousebits.com/threads/new-frontierland-area-music-loop.7016/post-59253)  .
+This loop played across Frontierland ca. 1995 until 2011. Tracklist compiled by X-S Tech and wedroy1923. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263](https://mousebits.com/smf/index.php?topic=2690.msg59263#msg59263) and Magic Music, Re: [https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641](https://community.magicmusic.net/threads/dl-1995-frontierland-playlist-here-it-is.422/#post-2641). It was also reported to play inside the Golden Horseshoe for a time, see MouseBits, [https://forums.mousebits.com/threads/new-frontierland-area-music-loop.7016/post-59253](https://forums.mousebits.com/threads/new-frontierland-area-music-loop.7016/post-59253).
 
 ## Tracklist
 
@@ -49,7 +49,7 @@ This loop played across Frontierland ca. 1995 until 2011. Tracklist compiled by 
 
 10\. Big Country Theme – Une Journee a Disneyland Paris
 
-- Track Notes: This appears to be a sped-up version of a commercially released track. See discussion [https://mousebits.com/smf/index.php?topic=7179.msg61621#msg61621](https://mousebits.com/smf/index.php?topic=7179.msg61621#msg61621) 
+- Track Notes: This appears to be a sped-up version of a commercially released track. See discussion [https://mousebits.com/smf/index.php?topic=7179.msg61621#msg61621](https://mousebits.com/smf/index.php?topic=7179.msg61621#msg61621)
 
 11\. Cool Water – Sons of the Pioneers
 

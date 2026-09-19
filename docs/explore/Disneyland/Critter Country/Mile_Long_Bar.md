@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown
 
-This loop is presumed to have played in the Mile Long Bar. This tracklist is based on a  tape from the Jack Wagner Estate, dated 02/01/1974 and [https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4](https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4) , and a longer tracklist made by Jack Wagner dated April 1971. Also see the [https://disney-parks-music-compendium.blogspot.com/2022/11/mile-long-bar-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/mile-long-bar-bgm.html)  .
+This loop is presumed to have played in the Mile Long Bar. This tracklist is based on a  tape from the Jack Wagner Estate, dated 02/01/1974 and [https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4](https://waltsmusic.com/index.php/jack-wagner-collection/disneyland-mile-long-bar-music-4), and a longer tracklist made by Jack Wagner dated April 1971. Also see the [https://disney-parks-music-compendium.blogspot.com/2022/11/mile-long-bar-bgm.html](https://disney-parks-music-compendium.blogspot.com/2022/11/mile-long-bar-bgm.html).
 
 ## Tracklist
 

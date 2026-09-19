@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 02:53:06.104
 
-This loop plays along the entirety of Route 66, in the ‘downtown Radiator Springs’ area. The loop was introduced with the opening of Cars Land on June 13, 2012. Tracklist compiled by pixelated based on his reference recording. Source albums identified by Triple (MouseCord, 2025). See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg64129#msg64129](https://mousebits.com/smf/index.php?topic=7381.msg64129#msg64129)  (2012).
+This loop plays along the entirety of Route 66, in the ‘downtown Radiator Springs’ area. The loop was introduced with the opening of Cars Land on June 13, 2012. Tracklist compiled by pixelated based on his reference recording. Source albums identified by Triple (MouseCord, 2025). See MouseBits, [https://mousebits.com/smf/index.php?topic=7381.msg64129#msg64129](https://mousebits.com/smf/index.php?topic=7381.msg64129#msg64129) (2012).
 
 ## Tracklist
 

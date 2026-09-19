@@ -6,10 +6,10 @@
 
 **Dates**: January 17, 2020
 
-This loop plays at all three entrance points to Star Wars: Galaxy’s Edge at Frontierland, Critter Country, and Fantasyland. Loop timing based on a reference recording by SSrustworthy. The track slightly overlays with itself within a loop. See Randy Kerber’s [https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme](https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme)  and MouseBits, [https://forums.mousebits.com/threads/star-wars-galaxys-edge-entrance-theme.11065/](https://forums.mousebits.com/threads/star-wars-galaxys-edge-entrance-theme.11065/)  (2024).
+This loop plays at all three entrance points to Star Wars: Galaxy’s Edge at Frontierland, Critter Country, and Fantasyland. Loop timing based on a reference recording by SSrustworthy. The track slightly overlays with itself within a loop. See Randy Kerber’s [https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme](https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme) and MouseBits, [https://forums.mousebits.com/threads/star-wars-galaxys-edge-entrance-theme.11065/](https://forums.mousebits.com/threads/star-wars-galaxys-edge-entrance-theme.11065/) (2024).
 
 ## Tracklist
 
-1\. Star Wars Galaxy’s Edge Entrance Theme – Randy Kerber – Unreleased (on [https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme](https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme) )
+1\. Star Wars Galaxy’s Edge Entrance Theme – Randy Kerber – Unreleased (on [https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme](https://soundcloud.com/adam-michalak-1/star-wars-galaxys-edge-entrance-theme))
 
 - Loop Track Length: 00:04:54.306

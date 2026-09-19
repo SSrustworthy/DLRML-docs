@@ -6,7 +6,7 @@
 
 **Loop Total Length**: 01:23:34.070
 
-This loop plays from speakers inside the Rambler Super Cross Country Wagon at Grizzly Peak Airfield near Refreshment Point. This is a verified tracklist compiled by pixelated and SSrustworthy based on pixelated’s reference recording. Seems to not play anymore as of 2022. See MouseBits, [https://forums.mousebits.com/threads/grizzly-peak-airfield-rambler-station-wagon-interior-loop.9079/](https://forums.mousebits.com/threads/grizzly-peak-airfield-rambler-station-wagon-interior-loop.9079/)  (2015).
+This loop plays from speakers inside the Rambler Super Cross Country Wagon at Grizzly Peak Airfield near Refreshment Point. This is a verified tracklist compiled by pixelated and SSrustworthy based on pixelated’s reference recording. Seems to not play anymore as of 2022. See MouseBits, [https://forums.mousebits.com/threads/grizzly-peak-airfield-rambler-station-wagon-interior-loop.9079/](https://forums.mousebits.com/threads/grizzly-peak-airfield-rambler-station-wagon-interior-loop.9079/) (2015).
 
 ## Tracklist
 
@@ -41,7 +41,7 @@ This loop plays from speakers inside the Rambler Super Cross Country Wagon at Gr
 7\. Let's Dance At Disneyland – Studio Chorus – Unreleased
 
 - Loop Track Length:  00:01:02.275
-- Track Notes: This is a 1-minute 1959 radio spot; not the version from “Date Nite at Disneyland” (1958). Can be found on Rick Conant’s YouTube [https://discord.com/channels/@me/1087475219255537754/1362913722603016402](https://discord.com/channels/@me/1087475219255537754/1362913722603016402)  .
+- Track Notes: This is a 1-minute 1959 radio spot; not the version from “Date Nite at Disneyland” (1958). Can be found on Rick Conant’s YouTube [https://discord.com/channels/@me/1087475219255537754/1362913722603016402](https://discord.com/channels/@me/1087475219255537754/1362913722603016402).
 
 8\. Humphrey Hop – Studio Chorus – Classic Disney Volume V: 60 Years of Musical Magic
 

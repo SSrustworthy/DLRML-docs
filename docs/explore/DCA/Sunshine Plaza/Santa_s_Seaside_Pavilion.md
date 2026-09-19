@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played at Santa’s Seaside Pavillion in Paradise Pier, during the 2009 holiday season. When the Santa meet-and-greet at DCA was moved from Sunshine Plaza to its new location in Paradise Pier in 2009, this loop was appropriated for use there, however it was not used after that time in the park. It was also the Paradise Pier Hotel holiday loop. Tracklist compiled by pixelated based on his reference recording. See MouseBits for edit samples: [https://mousebits.com/smf/index.php?topic=4845.msg36230#msg36230](https://mousebits.com/smf/index.php?topic=4845.msg36230#msg36230)  (2010) and the original track listing: [https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205](https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205)  (same thread, different post).
+This loop played at Santa’s Seaside Pavillion in Paradise Pier, during the 2009 holiday season. When the Santa meet-and-greet at DCA was moved from Sunshine Plaza to its new location in Paradise Pier in 2009, this loop was appropriated for use there, however it was not used after that time in the park. It was also the Paradise Pier Hotel holiday loop. Tracklist compiled by pixelated based on his reference recording. See MouseBits for edit samples: [https://mousebits.com/smf/index.php?topic=4845.msg36230#msg36230](https://mousebits.com/smf/index.php?topic=4845.msg36230#msg36230) (2010) and the original track listing: [https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205](https://mousebits.com/smf/index.php?topic=4845.msg37205#msg37205) (same thread, different post).
 
 ## Tracklist
 

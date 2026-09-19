@@ -4,7 +4,7 @@
 
 **Loop Total Length**: Unknown (>30:00)
 
-This is a partial tracklist of the loop that played in the Bear Country land, including the Golden Bear Lodge. Tracklist compiled by RocketRodsXPR based on a live recording ca. 1980s or unknown origins which captured about 30 minutes of the loop. This loop has many tracks in common with an early tracklist for the WDW Campgrounds from the Wagner estate. See discussion on MouseBits: [https://mousebits.com/smf/index.php?topic=10827.msg98908#msg98908](https://mousebits.com/smf/index.php?topic=10827.msg98908#msg98908)  and [https://mousebits.com/smf/index.php?topic=9192.msg87135#msg87135](https://mousebits.com/smf/index.php?topic=9192.msg87135#msg87135) 
+This is a partial tracklist of the loop that played in the Bear Country land, including the Golden Bear Lodge. Tracklist compiled by RocketRodsXPR based on a live recording ca. 1980s or unknown origins which captured about 30 minutes of the loop. This loop has many tracks in common with an early tracklist for the WDW Campgrounds from the Wagner estate. See discussion on MouseBits: [https://mousebits.com/smf/index.php?topic=10827.msg98908#msg98908](https://mousebits.com/smf/index.php?topic=10827.msg98908#msg98908) and [https://mousebits.com/smf/index.php?topic=9192.msg87135#msg87135](https://mousebits.com/smf/index.php?topic=9192.msg87135#msg87135)
 
 ## Tracklist
 

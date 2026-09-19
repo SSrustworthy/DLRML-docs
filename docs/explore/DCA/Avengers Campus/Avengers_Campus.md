@@ -11,7 +11,7 @@ This loop is a synchronized theme that plays in several areas throughout Avenger
 -PYM Test Kitchen Loop
 -Doctor Strange Ancient Sanctum Loop
 -Guardians of the Galaxy Outdoor Queue
-The entrance version was released by WDI through Theme Park Productions. See MouseBits, [https://mousebits.com/smf/index.php?topic=10661.msg98091#msg98091](https://mousebits.com/smf/index.php?topic=10661.msg98091#msg98091)  (2022).
+The entrance version was released by WDI through Theme Park Productions. See MouseBits, [https://mousebits.com/smf/index.php?topic=10661.msg98091#msg98091](https://mousebits.com/smf/index.php?topic=10661.msg98091#msg98091) (2022).
 
 ## Tracklist
 

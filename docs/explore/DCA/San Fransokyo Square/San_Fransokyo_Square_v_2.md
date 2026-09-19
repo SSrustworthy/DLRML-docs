@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:32:39.785
 
-This loop plays in the general outdoor area of San Fransokyo Square. Tracklist compiled by SSrustworthy and pixelated based on pixelated’s 2026 reference recording. In this version of the loop, two tracks by Yoasobi were removed, and one (”Carrying Happiness”) was added at some point between February 2026 and the land’s opening on August 31, 2023. See MouseBits, [https://forums.mousebits.com/threads/san-fransokyo-square.11160/](https://forums.mousebits.com/threads/san-fransokyo-square.11160/)  (2025).
+This loop plays in the general outdoor area of San Fransokyo Square. Tracklist compiled by SSrustworthy and pixelated based on pixelated’s 2026 reference recording. In this version of the loop, two tracks by Yoasobi were removed, and one (”Carrying Happiness”) was added at some point between February 2026 and the land’s opening on August 31, 2023. See MouseBits, [https://forums.mousebits.com/threads/san-fransokyo-square.11160/](https://forums.mousebits.com/threads/san-fransokyo-square.11160/) (2025).
 
 ## Tracklist
 

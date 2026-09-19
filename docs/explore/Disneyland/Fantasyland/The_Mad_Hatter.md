@@ -6,7 +6,7 @@
 
 **Dates**: May 26, 1983
 
-This loop plays in the Mad Hatter shop in Fantasyland. It is easiest heard in the area near the cash registers. All of these tracks originate from the re-recordings of the soundtrack for new Fantasyland in 1983/84 and are currently used as part of Alice's Curious Labyrinth in Disneyland Paris. Tracklist compiled based on live reference recordings by wedroy1923 and SSrustworthy. None of the tracks are identical to the versions released on DL/WDW Forever, but some are very similar or were released as partial versions. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9121.msg86697#msg86697](https://mousebits.com/smf/index.php?topic=9121.msg86697#msg86697)  (2015).
+This loop plays in the Mad Hatter shop in Fantasyland. It is easiest heard in the area near the cash registers. All of these tracks originate from the re-recordings of the soundtrack for new Fantasyland in 1983/84 and are currently used as part of Alice's Curious Labyrinth in Disneyland Paris. Tracklist compiled based on live reference recordings by wedroy1923 and SSrustworthy. None of the tracks are identical to the versions released on DL/WDW Forever, but some are very similar or were released as partial versions. See MouseBits, Re: [https://mousebits.com/smf/index.php?topic=9121.msg86697#msg86697](https://mousebits.com/smf/index.php?topic=9121.msg86697#msg86697) (2015).
 
 ## Tracklist
 

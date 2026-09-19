@@ -4,11 +4,11 @@
 
 **District/Neighborhood**: Grizzly Peak Recreation Area
 
-**Loop Total Length**: Unknown ([https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.html](https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.html)  states ~01:00:43, not sure where that came from)
+**Loop Total Length**: Unknown ([https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.html](https://disney-parks-music-compendium.blogspot.com/2022/11/redwood-creek-challenge-trail-bgm-2001.html) states ~01:00:43, not sure where that came from)
 
 **Dates**: February 8, 2001 → April 1, 2011
 
-This loop played at the Redwood Creek Challenge Trail. The loop originated with the park but was replaced with a shorter version sometime prior to April 2011; see MouseBits, [https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082.](https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082.)  Tracklist originally posted by Magic Music user Progressland. See Magic Music, [https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108](https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108)  (2002) and [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147)  (2002).
+This loop played at the Redwood Creek Challenge Trail. The loop originated with the park but was replaced with a shorter version sometime prior to April 2011; see MouseBits, [https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082](https://mousebits.com/smf/index.php?topic=6290.msg50082#msg50082). Tracklist originally posted by Magic Music user Progressland. See Magic Music, [https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108](https://community.magicmusic.net/threads/dca-grizzly-peak-music-tracks.497/post-3108) (2002) and [https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147](https://community.magicmusic.net/threads/disneyland-music-loops.17/post-147) (2002).
 
 ## Tracklist
 

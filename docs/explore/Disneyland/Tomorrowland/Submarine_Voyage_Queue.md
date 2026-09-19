@@ -6,7 +6,7 @@
 
 **Dates**: January 1, 1976 → September 7, 1998
 
-This loop played in the queue of the Submarine Voyage attraction. It featured music interspersed with announcements from the Captain (voiced by Peter Renaday). Artist information based on a tracklist for the WDW 20k queue from the Jack Wagner estate. Discussed on [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3)  forums and MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10840.msg98962#msg98962](https://mousebits.com/smf/index.php?topic=10840.msg98962#msg98962)  .
+This loop played in the queue of the Submarine Voyage attraction. It featured music interspersed with announcements from the Captain (voiced by Peter Renaday). Artist information based on a tracklist for the WDW 20k queue from the Jack Wagner estate. Discussed on [https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3](https://community.magicmusic.net/threads/disneyland-music-loops.17/page-3) forums and MouseBits, Re: [https://mousebits.com/smf/index.php?topic=10840.msg98962#msg98962](https://mousebits.com/smf/index.php?topic=10840.msg98962#msg98962).
 
 ## Tracklist
 

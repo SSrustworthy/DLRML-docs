@@ -2,6 +2,15 @@
 
 This is the log for all database updates.
 
+## Site Update 9/19/26
+
+- Main updates include various site UI and link fixes.
+
+### DCA
+
+- Fixed naming for what was previously called “Mission BREAKOUT! (exterior)” to “The Collector’s Warehouse v.1”. The loop did play in the exterior but this is now primarily described in the description
+- Added Mission: BREAKOUT! exterior queue loop
+
 ## Site Update 8/16/26
 
 ### DL

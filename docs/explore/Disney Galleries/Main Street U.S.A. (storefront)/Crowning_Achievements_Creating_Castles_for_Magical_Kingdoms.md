@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:02:46.188
 
-This loop played in the Disney Gallery on Main Street, U.S.A. as part of the “Crowning Achievements – Creating Castles for Magical Kingdoms” exhibit which ran from June 30, 2012 through December 2012. Tracklist compiled by RocketRodsXPR, pixelated, and wedroy1923 based on a live recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938)  (2013) and [https://disney-parks-music-compendium.blogspot.com/2022/11/the-disney-gallery-crowning.html](https://disney-parks-music-compendium.blogspot.com/2022/11/the-disney-gallery-crowning.html)  (2022).
+This loop played in the Disney Gallery on Main Street, U.S.A. as part of the “Crowning Achievements – Creating Castles for Magical Kingdoms” exhibit which ran from June 30, 2012 through December 2012. Tracklist compiled by RocketRodsXPR, pixelated, and wedroy1923 based on a live recording by pixelated. See MouseBits, [https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938](https://forums.mousebits.com/threads/the-disney-gallery-music-2-0.7840/post-69938) (2013) and [https://disney-parks-music-compendium.blogspot.com/2022/11/the-disney-gallery-crowning.html](https://disney-parks-music-compendium.blogspot.com/2022/11/the-disney-gallery-crowning.html) (2022).
 
 ## Tracklist
 

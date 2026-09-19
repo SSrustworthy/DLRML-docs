@@ -8,7 +8,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop plays at Redwood Creek Challenge Trail for Santa Claus’s Holiday Visit at the Ahwahnee Camp Circle in the Redwood Creek Challenge Trail. First documented during the 2016 holiday season. Tracklist compiled by pixelated, junglecskipper, and IHeartGaming.  Supplemented with information by SSrustworthy. See MouseBits, [https://mousebits.com/smf/index.php?topic=9438.msg92234#msg92234](https://mousebits.com/smf/index.php?topic=9438.msg92234#msg92234)  (2017).
+This loop plays at Redwood Creek Challenge Trail for Santa Claus’s Holiday Visit at the Ahwahnee Camp Circle in the Redwood Creek Challenge Trail. First documented during the 2016 holiday season. Tracklist compiled by pixelated, junglecskipper, and IHeartGaming.  Supplemented with information by SSrustworthy. See MouseBits, [https://mousebits.com/smf/index.php?topic=9438.msg92234#msg92234](https://mousebits.com/smf/index.php?topic=9438.msg92234#msg92234) (2017).
 
 ## Tracklist
 

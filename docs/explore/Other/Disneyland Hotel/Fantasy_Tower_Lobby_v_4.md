@@ -6,7 +6,7 @@
 
 **Dates**: December 1, 2011
 
-This loop is thought to have played in the Fantasy Tower of the Disneyland Hotel since around December 2011, after the completion of the tower’s remodeling. It plays inside the Fantasy Tower and inside the adjoining Convention Center, and outside those areas as well, by the E-Ticket pool. It may sometimes be also audible on the event green. Tracklist compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023](https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023)  (2012).
+This loop is thought to have played in the Fantasy Tower of the Disneyland Hotel since around December 2011, after the completion of the tower’s remodeling. It plays inside the Fantasy Tower and inside the adjoining Convention Center, and outside those areas as well, by the E-Ticket pool. It may sometimes be also audible on the event green. Tracklist compiled by wedroy1923 and pixelated on MouseBits, see [https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023](https://mousebits.com/smf/index.php?topic=5700.msg59023#msg59023) (2012).
 
 ## Tracklist
 

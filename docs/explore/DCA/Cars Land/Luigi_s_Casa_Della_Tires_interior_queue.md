@@ -4,7 +4,7 @@
 
 **Loop Total Length**: 01:07:52
 
-This loop plays inside the Luigi’s Casa Della Tires building, which was initially the interior queue for Luigi’s Flying Tires before the attraction was replaced by Luigi’s Rollickin’ Roadsters. It was introduced with the opening of Cars Land on June 13, 2012. This is a preliminary track list compiled by pixelated based on his live reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=7377.msg66308#msg66308](https://mousebits.com/smf/index.php?topic=7377.msg66308#msg66308)  (2012). The loop appears to be extremely similar to the 2016 DHS PizzeRizzo loop at WDW, [https://mousebits.com/smf/index.php?topic=9441.msg89060#msg89060](https://mousebits.com/smf/index.php?topic=9441.msg89060#msg89060)  .
+This loop plays inside the Luigi’s Casa Della Tires building, which was initially the interior queue for Luigi’s Flying Tires before the attraction was replaced by Luigi’s Rollickin’ Roadsters. It was introduced with the opening of Cars Land on June 13, 2012. This is a preliminary track list compiled by pixelated based on his live reference recording. See MouseBits, [https://mousebits.com/smf/index.php?topic=7377.msg66308#msg66308](https://mousebits.com/smf/index.php?topic=7377.msg66308#msg66308) (2012). The loop appears to be extremely similar to the 2016 DHS PizzeRizzo loop at WDW, [https://mousebits.com/smf/index.php?topic=9441.msg89060#msg89060](https://mousebits.com/smf/index.php?topic=9441.msg89060#msg89060).
 
 ## Tracklist
 

@@ -6,7 +6,7 @@
 
 **Holiday/Special Event**: Christmas
 
-This loop played inside the Disneyland Hotel during the holiday season. It is known to have played in 2010 and 2013 at least. Tracklist compiled by C33 and pixelated, and is a preliminary listing, see MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg42128#msg42128](https://mousebits.com/smf/index.php?topic=4845.msg42128#msg42128)  (2010) and [https://mousebits.com/smf/index.php?topic=8247.msg77610#msg77610](https://mousebits.com/smf/index.php?topic=8247.msg77610#msg77610)  (2013). Begins with 1.61 sec. silent gap.
+This loop played inside the Disneyland Hotel during the holiday season. It is known to have played in 2010 and 2013 at least. Tracklist compiled by C33 and pixelated, and is a preliminary listing, see MouseBits: [https://mousebits.com/smf/index.php?topic=4845.msg42128#msg42128](https://mousebits.com/smf/index.php?topic=4845.msg42128#msg42128) (2010) and [https://mousebits.com/smf/index.php?topic=8247.msg77610#msg77610](https://mousebits.com/smf/index.php?topic=8247.msg77610#msg77610) (2013). Begins with 1.61 sec. silent gap.
 
 ## Tracklist
 
@@ -64,7 +64,7 @@ This loop played inside the Disneyland Hotel during the holiday season. It is kn
 13\. Carol of the Bells – Leonard Bernstein, New York Philharmonic – The Joy of Christmas
 
 - Loop Track Length:  0:51.656
-- Track Notes: Edit points [http://www.mediafire.com/download/yq1e6wahy862ov2/Disneyland_Hotel_Fantasy_Tower_holiday_loop_-_Carol_of_the_Bells_edits.flac.](http://www.mediafire.com/download/yq1e6wahy862ov2/Disneyland_Hotel_Fantasy_Tower_holiday_loop_-_Carol_of_the_Bells_edits.flac.)  The album track has been edited to remove the audio between 00:00:28.909 and 00:00:39.399. In the loop track, that edit sounds like it starts with french horns but in the album track, the brass sounds more like trumpets. The loop track stops at 00:01:02.456 of the album track.
+- Track Notes: Edit points [http://www.mediafire.com/download/yq1e6wahy862ov2/Disneyland_Hotel_Fantasy_Tower_holiday_loop_-_Carol_of_the_Bells_edits.flac](http://www.mediafire.com/download/yq1e6wahy862ov2/Disneyland_Hotel_Fantasy_Tower_holiday_loop_-_Carol_of_the_Bells_edits.flac). The album track has been edited to remove the audio between 00:00:28.909 and 00:00:39.399. In the loop track, that edit sounds like it starts with french horns but in the album track, the brass sounds more like trumpets. The loop track stops at 00:01:02.456 of the album track.
 
 14\. We Wish You A Merry Christmas – Philadelphia Brass Ensemble – A Festival of Carols in Brass 
 
